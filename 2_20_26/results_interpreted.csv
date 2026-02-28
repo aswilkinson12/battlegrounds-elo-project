@@ -1,0 +1,48 @@
+Round,Table,Player,Opponent,PrevTotal,NewTotal,Gain,Outcome,IsBye
+1,1,Anthony Wilkinson,Mike Adams,0,3,3,Win,False
+1,2,Stella Burfeind,Hex Dowd,0,3,3,Win,False
+1,3,Gina Millott,Stan Kornacki,0,3,3,Win,False
+1,4,Evan Johnstone,Jonathon Streker,0,3,3,Win,False
+1,5,David Van Hise,Amy Altman,0,3,3,Win,False
+1,6,Nathan Cormier,Jarrod Haase,0,3,3,Win,False
+1,7,Becca Blackwood,Evan Hamlin,0,3,3,Win,False
+1,8,Ash DerManouelian,Dani Masom,0,3,3,Win,False
+1,9,Jason Weiss,Sean Marks,0,3,3,Win,False
+1,,[REDACTED] [REDACTED],***Bye***,0,6,6,Bye,True
+2,1,Evan Johnstone,Nathan Cormier,3,3,0,Loss,False
+2,2,Anthony Wilkinson,[REDACTED] [REDACTED],3,6,3,Win,False
+2,3,Jason Weiss,David Van Hise,3,3,0,Loss,False
+2,4,Ash DerManouelian,Stella Burfeind,3,6,3,Win,False
+2,5,Gina Millott,Becca Blackwood,3,6,3,Win,False
+2,6,Jarrod Haase,Amy Altman,0,0,0,Loss,False
+2,7,Mike Adams,Jonathon Streker,0,3,3,Win,False
+2,8,Evan Hamlin,Stan Kornacki,0,0,0,Loss,False
+2,9,Hex Dowd,Sean Marks,0,0,0,Loss,False
+2,,Dani Masom,***Bye***,0,6,6,Bye,True
+3,1,David Van Hise,Anthony Wilkinson,3,6,3,Win,False
+3,2,Ash DerManouelian,Nathan Cormier,6,6,0,Loss,False
+3,3,Gina Millott,[REDACTED] [REDACTED],6,6,0,Loss,False
+3,4,Becca Blackwood,Stella Burfeind,3,6,3,Win,False
+3,5,Dani Masom,Jason Weiss,6,3,-3,Check(-3),False
+3,6,Sean Marks,Amy Altman,0,3,3,Win,False
+3,7,Mike Adams,Evan Johnstone,3,6,3,Win,False
+3,8,Stan Kornacki,Jarrod Haase,0,4,4,Check(4),False
+3,,Hex Dowd,***Bye***,0,6,6,Bye,True
+4,1,Anthony Wilkinson,Nathan Cormier,6,9,3,Win,False
+4,2,Becca Blackwood,Mike Adams,6,9,3,Win,False
+4,3,Amy Altman,Jason Weiss,0,9,9,Check(9),False
+4,4,[REDACTED] [REDACTED],Ash DerManouelian,6,6,0,Loss,False
+4,5,Gina Millott,David Van Hise,6,6,0,Loss,False
+4,6,Stan Kornacki,Hex Dowd,4,7,3,Win,False
+4,7,Evan Johnstone,Sean Marks,3,3,0,Loss,False
+4,8,Dani Masom,Stella Burfeind,3,6,3,Win,False
+4,,Jarrod Haase,***Bye***,0,7,7,Bye,True
+5,1,Nathan Cormier,David Van Hise,3,12,9,Check(9),False
+5,2,Anthony Wilkinson,Ash DerManouelian,9,12,3,Win,False
+5,3,Amy Altman,Becca Blackwood,9,10,1,Tie,False
+5,4,Stan Kornacki,[REDACTED] [REDACTED],7,7,0,Loss,False
+5,5,Gina Millott,Jason Weiss,6,6,0,Loss,False
+5,6,Mike Adams,Dani Masom,6,6,0,Loss,False
+5,7,Sean Marks,Jarrod Haase,3,9,6,Check(6),False
+5,8,Evan Johnstone,Hex Dowd,3,3,0,Loss,False
+5,,Stella Burfeind,***Bye***,3,9,6,Bye,True
