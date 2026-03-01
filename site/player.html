@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Player</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: #f6f7fb; color: #111; }
+    header { background: white; border-bottom: 1px solid #e6e8f0; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 18px 16px; }
+    h1 { margin: 0; font-size: 22px; }
+    nav { margin-top: 8px; display: flex; gap: 12px; flex-wrap: wrap; }
+    nav a { text-decoration: none; color: #2457ff; font-weight: 600; }
+    nav a:hover { text-decoration: underline; }
+
+    .card { background: white; border: 1px solid #e6e8f0; border-radius: 12px; box-shadow: 0 1px 2px rgba(0,0,0,.04); margin-top: 16px; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; padding: 14px 16px; align-items: center; justify-content: space-between; }
+    .meta { color: #556; font-size: 13px; }
+    .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #2b3cff; font-size: 12px; font-weight: 700; }
+    .error { color: #b00020; padding: 14px 16px; }
+
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px 12px; border-top: 1px solid #eef0f7; font-size: 14px; }
+    th { text-align: left; position: sticky; top: 0; background: white; z-index: 1; }
+    tr:hover td { background: #fafbff; }
+    .num { font-variant-numeric: tabular-nums; }
+    .win { color: #0b7a2a; font-weight: 700; }
+    .loss { color: #b00020; font-weight: 700; }
+    .tie { color: #7a5b00; font-weight: 700; }
+
+    input {
+      width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
+      border: 1px solid #d7dbea; background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1 id="title">Player</h1>
+      <nav>
+        <a href="../index.html">Leaderboard</a>
+        <a href="../players.html">Player Search</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="row">
+        <div>
+          <div class="meta">Profile</div>
+          <div style="font-size:18px;font-weight:800;" id="playerName">Loading…</div>
+        </div>
+        <div class="meta">
+          <span class="pill" id="eloPill">Elo: —</span>
+          <span class="pill" id="recordPill">W-L-T: —</span>
+          <span class="pill" id="gamesPill">Games: —</span>
+        </div>
+      </div>
+
+      <div class="row" style="border-top:1px solid #eef0f7;">
+        <input id="filter" type="search" placeholder="Filter matches (opponent / week)…" autocomplete="off" />
+        <div class="meta" id="matchCount">—</div>
+      </div>
+
+      <div id="error" class="error" style="display:none;"></div>
+
+      <div style="overflow:auto;">
+        <table aria-label="Match history">
+          <thead>
+            <tr>
+              <th>Week</th>
+              <th class="num">Round</th>
+              <th>Opponent</th>
+              <th>Result</th>
+              <th class="num">Score</th>
+              <th class="num">Elo Before</th>
+              <th class="num">Elo After</th>
+              <th class="num">Δ</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+<script>
+  // Expect: ../data/players/<slug>.json
+  function getSlug() {
+    const url = new URL(window.location.href);
+    return url.searchParams.get("p") || "";
+  }
+
+  function safeNum(x, fallback = 0) {
+    const n = Number(x);
+    return Number.isFinite(n) ? n : fallback;
+  }
+
+  function showError(msg) {
+    const el = document.getElementById("error");
+    el.style.display = "block";
+    el.textContent = msg;
+  }
+
+  const slug = getSlug();
+  const tbody = document.getElementById("tbody");
+  const filter = document.getElementById("filter");
+  const matchCount = document.getElementById("matchCount");
+
+  let playerData = null;
+  let allMatches = [];
+
+  function render(matches) {
+    tbody.innerHTML = "";
+    matches.forEach(m => {
+      const tr = document.createElement("tr");
+
+      const tdWeek = document.createElement("td");
+      tdWeek.textContent = m.week;
+      tr.appendChild(tdWeek);
+
+      const tdRound = document.createElement("td");
+      tdRound.className = "num";
+      tdRound.textContent = m.round;
+      tr.appendChild(tdRound);
+
+      const tdOpp = document.createElement("td");
+      tdOpp.textContent = m.opponent;
+      tr.appendChild(tdOpp);
+
+      const tdRes = document.createElement("td");
+      const r = String(m.result || "");
+      tdRes.textContent = r;
+      if (r === "W") tdRes.className = "win";
+      if (r === "L") tdRes.className = "loss";
+      if (r === "T") tdRes.className = "tie";
+      tr.appendChild(tdRes);
+
+      const tdScore = document.createElement("td");
+      tdScore.className = "num";
+      tdScore.textContent = (m.score === null || m.score === undefined) ? "" : String(m.score);
+      tr.appendChild(tdScore);
+
+      const tdPre = document.createElement("td");
+      tdPre.className = "num";
+      tdPre.textContent = safeNum(m.elo_before).toFixed(2);
+      tr.appendChild(tdPre);
+
+      const tdPost = document.createElement("td");
+      tdPost.className = "num";
+      tdPost.textContent = safeNum(m.elo_after).toFixed(2);
+      tr.appendChild(tdPost);
+
+      const tdDelta = document.createElement("td");
+      tdDelta.className = "num";
+      const d = safeNum(m.elo_after) - safeNum(m.elo_before);
+      tdDelta.textContent = (d >= 0 ? "+" : "") + d.toFixed(2);
+      tr.appendChild(tdDelta);
+
+      tbody.appendChild(tr);
+    });
+
+    matchCount.textContent = `${matches.length} match${matches.length === 1 ? "" : "es"}`;
+  }
+
+  function applyFilter() {
+    const q = filter.value.trim().toLowerCase();
+    if (!q) return render(allMatches);
+    const f = allMatches.filter(m =>
+      String(m.opponent).toLowerCase().includes(q) ||
+      String(m.week).toLowerCase().includes(q)
+    );
+    render(f);
+  }
+
+  filter.addEventListener("input", applyFilter);
+
+  async function load() {
+    if (!slug) {
+      showError("Missing player slug. Use a URL like: player.html?p=amy-altman");
+      return;
+    }
+
+    const url = `../data/players/${slug}.json`;
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      playerData = await res.json();
+
+      document.getElementById("title").textContent = playerData.player;
+      document.getElementById("playerName").textContent = playerData.player;
+      document.getElementById("eloPill").textContent = `Elo: ${safeNum(playerData.elo).toFixed(2)}`;
+      document.getElementById("recordPill").textContent =
+        `W-L-T: ${playerData.wins}-${playerData.losses}-${playerData.ties}`;
+      document.getElementById("gamesPill").textContent = `Games: ${playerData.games}`;
+
+      allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];
+      // newest first
+      allMatches.sort((a,b) => (String(b.week).localeCompare(String(a.week)) || (safeNum(b.round)-safeNum(a.round))));
+      render(allMatches);
+    } catch (e) {
+      showError(`Could not load ${url}. (${e.message})`);
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>

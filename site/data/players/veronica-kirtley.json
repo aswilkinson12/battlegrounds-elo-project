@@ -1,0 +1,56 @@
+{
+  "player": "Veronica Kirtley",
+  "slug": "veronica-kirtley",
+  "elo": 1471.45,
+  "games": 5,
+  "wins": 1,
+  "losses": 3,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1500.0,
+      "elo_after": 1500.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.7363
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.7363,
+      "elo_after": 1469.4388
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.4388,
+      "elo_after": 1486.8426
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1486.8426,
+      "elo_after": 1471.4482
+    }
+  ]
+}

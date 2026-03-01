@@ -1,0 +1,101 @@
+{
+  "player": "Amy Altman",
+  "slug": "amy-altman",
+  "elo": 1543.34,
+  "games": 10,
+  "wins": 6,
+  "losses": 3,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1500.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1500.0308
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0308,
+      "elo_after": 1515.9646
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1515.9646,
+      "elo_after": 1501.3408
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.3408,
+      "elo_after": 1515.2383
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.2383,
+      "elo_after": 1530.537
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Jason Weiss",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1530.537,
+      "elo_after": 1545.1343
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1545.1343,
+      "elo_after": 1543.3353
+    }
+  ]
+}

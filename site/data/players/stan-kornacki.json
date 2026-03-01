@@ -1,0 +1,101 @@
+{
+  "player": "Stan Kornacki",
+  "slug": "stan-kornacki",
+  "elo": 1552.93,
+  "games": 10,
+  "wins": 7,
+  "losses": 2,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1532.0,
+      "elo_after": 1546.5305
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Autumn Garofalo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1546.5305,
+      "elo_after": 1560.4004
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.4004,
+      "elo_after": 1573.6466
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.6466,
+      "elo_after": 1554.3049
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.3049,
+      "elo_after": 1567.8242
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1567.8242,
+      "elo_after": 1562.2512
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1562.2512,
+      "elo_after": 1572.212
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1572.212,
+      "elo_after": 1552.9336
+    }
+  ]
+}

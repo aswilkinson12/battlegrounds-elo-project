@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Elo Leaderboard</title>
+  <style>
+    :root { color-scheme: light; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: #f6f7fb; color: #111; }
+    header { background: white; border-bottom: 1px solid #e6e8f0; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 18px 16px; }
+    h1 { margin: 0; font-size: 22px; }
+    nav { margin-top: 8px; display: flex; gap: 12px; flex-wrap: wrap; }
+    nav a { text-decoration: none; color: #2457ff; font-weight: 600; }
+    nav a:hover { text-decoration: underline; }
+
+    .card { background: white; border: 1px solid #e6e8f0; border-radius: 12px; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+    .controls { display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 14px 16px; }
+    .controls input {
+      width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
+      border: 1px solid #d7dbea; background: #fff;
+    }
+    .meta { color: #556; font-size: 13px; }
+
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px 12px; border-top: 1px solid #eef0f7; font-size: 14px; }
+    th { text-align: left; user-select: none; cursor: pointer; position: sticky; top: 0; background: white; z-index: 1; }
+    th .hint { font-size: 12px; color: #778; font-weight: 500; margin-left: 6px; }
+    tr:hover td { background: #fafbff; }
+    .rank { width: 64px; color: #556; }
+    .elo { width: 90px; font-variant-numeric: tabular-nums; }
+    .num { font-variant-numeric: tabular-nums; }
+    .name a { color: #111; font-weight: 700; text-decoration: none; }
+    .name a:hover { text-decoration: underline; }
+
+    footer { color: #667; font-size: 12px; padding: 18px 16px; }
+    .error { color: #b00020; padding: 14px 16px; }
+    .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #2b3cff; font-size: 12px; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Leaderboard</h1>
+      <nav>
+        <a href="./index.html" aria-current="page">Leaderboard</a>
+        <a href="./players.html">Player Search</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="controls">
+        <input id="search" type="search" placeholder="Search player…" autocomplete="off" />
+        <div class="meta">
+          <span class="pill" id="countPill">Loading…</span>
+          <span id="updatedText"></span>
+        </div>
+      </div>
+
+      <div id="error" class="error" style="display:none;"></div>
+
+      <div style="overflow:auto;">
+        <table id="table" aria-label="Elo leaderboard">
+          <thead>
+            <tr>
+              <th data-col="rank" class="rank"># <span class="hint">sort</span></th>
+              <th data-col="player">Player <span class="hint">sort</span></th>
+              <th data-col="elo" class="elo">Elo <span class="hint">sort</span></th>
+              <th data-col="games">Games <span class="hint">sort</span></th>
+              <th data-col="wins">W <span class="hint">sort</span></th>
+              <th data-col="losses">L <span class="hint">sort</span></th>
+              <th data-col="ties">T <span class="hint">sort</span></th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    Data source: <code>data/leaderboard.json</code>. Player pages expected at <code>players/&lt;slug&gt;.html</code>.
+  </footer>
+
+<script>
+  // -------------------------
+  // CONFIG
+  // -------------------------
+  const DATA_URL = "./data/leaderboard.json";
+
+  // -------------------------
+  // Utilities
+  // -------------------------
+  function slugify(name) {
+    // Produces stable filenames: "Amy Altman" -> "amy-altman"
+    // Handles punctuation reasonably.
+    return name
+      .toLowerCase()
+      .trim()
+      .replace(/['"]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  function safeNum(x, fallback = 0) {
+    const n = Number(x);
+    return Number.isFinite(n) ? n : fallback;
+  }
+
+  // -------------------------
+  // State
+  // -------------------------
+  let allRows = [];
+  let filteredRows = [];
+  let sortCol = "elo";
+  let sortDir = "desc"; // "asc" | "desc"
+
+  // -------------------------
+  // DOM
+  // -------------------------
+  const tbody = document.getElementById("tbody");
+  const search = document.getElementById("search");
+  const errorEl = document.getElementById("error");
+  const countPill = document.getElementById("countPill");
+  const updatedText = document.getElementById("updatedText");
+
+  function showError(msg) {
+    errorEl.style.display = "block";
+    errorEl.textContent = msg;
+  }
+
+  function hideError() {
+    errorEl.style.display = "none";
+    errorEl.textContent = "";
+  }
+
+  // -------------------------
+  // Render
+  // -------------------------
+  function renderTable(rows) {
+    tbody.innerHTML = "";
+    rows.forEach((r, idx) => {
+      const tr = document.createElement("tr");
+
+      const rank = document.createElement("td");
+      rank.className = "rank num";
+      rank.textContent = String(idx + 1);
+      tr.appendChild(rank);
+
+      const name = document.createElement("td");
+      name.className = "name";
+      const a = document.createElement("a");
+      a.href = `./players/player.html?p=${encodeURIComponent(slugify(r.player))}`;
+      a.textContent = r.player;
+      name.appendChild(a);
+      tr.appendChild(name);
+
+      const elo = document.createElement("td");
+      elo.className = "elo num";
+      elo.textContent = safeNum(r.elo).toFixed(2);
+      tr.appendChild(elo);
+
+      const games = document.createElement("td");
+      games.className = "num";
+      games.textContent = String(safeNum(r.games));
+      tr.appendChild(games);
+
+      const wins = document.createElement("td");
+      wins.className = "num";
+      wins.textContent = String(safeNum(r.wins));
+      tr.appendChild(wins);
+
+      const losses = document.createElement("td");
+      losses.className = "num";
+      losses.textContent = String(safeNum(r.losses));
+      tr.appendChild(losses);
+
+      const ties = document.createElement("td");
+      ties.className = "num";
+      ties.textContent = String(safeNum(r.ties));
+      tr.appendChild(ties);
+
+      tbody.appendChild(tr);
+    });
+
+    countPill.textContent = `${rows.length} player${rows.length === 1 ? "" : "s"}`;
+  }
+
+  // -------------------------
+  // Sorting & Filtering
+  // -------------------------
+  function sortRows(rows) {
+    const dir = sortDir === "asc" ? 1 : -1;
+
+    const get = (r) => {
+      switch (sortCol) {
+        case "rank": return 0; // rank is derived; sorting by rank doesn't make much sense once filtered
+        case "player": return String(r.player).toLowerCase();
+        case "elo": return safeNum(r.elo);
+        case "games": return safeNum(r.games);
+        case "wins": return safeNum(r.wins);
+        case "losses": return safeNum(r.losses);
+        case "ties": return safeNum(r.ties);
+        default: return safeNum(r.elo);
+      }
+    };
+
+    return [...rows].sort((a, b) => {
+      const va = get(a);
+      const vb = get(b);
+
+      if (typeof va === "string" && typeof vb === "string") {
+        return va.localeCompare(vb) * dir;
+      }
+      if (va < vb) return -1 * dir;
+      if (va > vb) return  1 * dir;
+
+      // Tie-breaker: higher Elo first, then name
+      const ea = safeNum(a.elo), eb = safeNum(b.elo);
+      if (ea !== eb) return (ea < eb ? 1 : -1);
+      return String(a.player).localeCompare(String(b.player));
+    });
+  }
+
+  function applyFilter() {
+    const q = search.value.trim().toLowerCase();
+    if (!q) {
+      filteredRows = [...allRows];
+    } else {
+      filteredRows = allRows.filter(r => String(r.player).toLowerCase().includes(q));
+    }
+    const sorted = sortRows(filteredRows);
+    renderTable(sorted);
+  }
+
+  // Column header click sorting
+  document.querySelectorAll("th[data-col]").forEach(th => {
+    th.addEventListener("click", () => {
+      const col = th.getAttribute("data-col");
+      if (col === sortCol) {
+        sortDir = (sortDir === "asc") ? "desc" : "asc";
+      } else {
+        sortCol = col;
+        sortDir = (col === "player") ? "asc" : "desc";
+      }
+      applyFilter();
+    });
+  });
+
+  search.addEventListener("input", applyFilter);
+
+  // -------------------------
+  // Load data
+  // -------------------------
+  async function loadLeaderboard() {
+    hideError();
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status} while fetching ${DATA_URL}`);
+      const data = await res.json();
+
+      // Expect array of objects
+      // Minimal expected shape: {player, elo, games, wins, losses, ties}
+      allRows = (Array.isArray(data) ? data : []).map(x => ({
+        player: x.player ?? x.Player ?? "",
+        elo: x.elo ?? x.Elo ?? 1500,
+        games: x.games ?? x.Games ?? 0,
+        wins: x.wins ?? x.Wins ?? 0,
+        losses: x.losses ?? x.Losses ?? 0,
+        ties: x.ties ?? x.Ties ?? 0,
+      })).filter(r => r.player);
+
+      // Default sort: Elo desc
+      filteredRows = [...allRows];
+
+      // Optional: show "updated" if you include it in JSON later
+      // e.g., { "updated": "...", "rows": [...] }
+      updatedText.textContent = "";
+
+      applyFilter();
+    } catch (e) {
+      showError(
+        `Could not load leaderboard data. Make sure ${DATA_URL} exists and is valid JSON.\n` +
+        `Details: ${e.message}`
+      );
+      countPill.textContent = "0 players";
+    }
+  }
+
+  loadLeaderboard();
+</script>
+</body>
+</html>

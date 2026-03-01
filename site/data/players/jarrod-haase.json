@@ -1,0 +1,83 @@
+{
+  "player": "Jarrod Haase",
+  "slug": "jarrod-haase",
+  "elo": 1433.51,
+  "games": 8,
+  "wins": 1,
+  "losses": 6,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1500.7701
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.7701,
+      "elo_after": 1485.3712
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Karl Rookey",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1485.3712,
+      "elo_after": 1470.0445
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.0445,
+      "elo_after": 1455.4206
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1455.4206,
+      "elo_after": 1441.523
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1441.523,
+      "elo_after": 1447.0961
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1447.0961,
+      "elo_after": 1433.5137
+    }
+  ]
+}

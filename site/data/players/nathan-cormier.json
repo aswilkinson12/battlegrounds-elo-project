@@ -1,0 +1,56 @@
+{
+  "player": "Nathan Cormier",
+  "slug": "nathan-cormier",
+  "elo": 1547.66,
+  "games": 5,
+  "wins": 4,
+  "losses": 1,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1514.6239
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1514.6239,
+      "elo_after": 1529.9835
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Ash DerManouelian",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1529.9835,
+      "elo_after": 1544.6061
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.6061,
+      "elo_after": 1563.2722
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1563.2722,
+      "elo_after": 1547.663
+    }
+  ]
+}

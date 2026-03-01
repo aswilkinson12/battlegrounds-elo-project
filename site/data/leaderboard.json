@@ -1,0 +1,210 @@
+[
+  {
+    "player": "Anthony Wilkinson",
+    "elo": 1596.57,
+    "games": 10,
+    "wins": 8,
+    "losses": 1,
+    "ties": 1
+  },
+  {
+    "player": "David Van Hise",
+    "elo": 1587.37,
+    "games": 10,
+    "wins": 8,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "player": "Stan Kornacki",
+    "elo": 1552.93,
+    "games": 10,
+    "wins": 7,
+    "losses": 2,
+    "ties": 1
+  },
+  {
+    "player": "Nathan Cormier",
+    "elo": 1547.66,
+    "games": 5,
+    "wins": 4,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "player": "Amy Altman",
+    "elo": 1543.34,
+    "games": 10,
+    "wins": 6,
+    "losses": 3,
+    "ties": 1
+  },
+  {
+    "player": "Milo Brown",
+    "elo": 1531.29,
+    "games": 5,
+    "wins": 3,
+    "losses": 1,
+    "ties": 1
+  },
+  {
+    "player": "Pan Rasking",
+    "elo": 1530.66,
+    "games": 5,
+    "wins": 3,
+    "losses": 1,
+    "ties": 1
+  },
+  {
+    "player": "Nathan Choi",
+    "elo": 1529.93,
+    "games": 5,
+    "wins": 3,
+    "losses": 1,
+    "ties": 1
+  },
+  {
+    "player": "John Larochelle",
+    "elo": 1527.88,
+    "games": 5,
+    "wins": 3,
+    "losses": 1,
+    "ties": 1
+  },
+  {
+    "player": "Isharah Considine",
+    "elo": 1516.55,
+    "games": 5,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "player": "Amber Cronin",
+    "elo": 1516.03,
+    "games": 5,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "player": "Mike Adams",
+    "elo": 1509.03,
+    "games": 10,
+    "wins": 5,
+    "losses": 4,
+    "ties": 1
+  },
+  {
+    "player": "Becca Blackwood",
+    "elo": 1507.7,
+    "games": 9,
+    "wins": 4,
+    "losses": 4,
+    "ties": 1
+  },
+  {
+    "player": "Bailey Sarkis",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Bradley Skubic",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Elias Medrano",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Logan Hesch",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Ran Guo",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Dani Masom",
+    "elo": 1490.92,
+    "games": 9,
+    "wins": 4,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "player": "Reya Truher",
+    "elo": 1482.72,
+    "games": 5,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "player": "Veronica Kirtley",
+    "elo": 1471.45,
+    "games": 5,
+    "wins": 1,
+    "losses": 3,
+    "ties": 1
+  },
+  {
+    "player": "Jack Henry",
+    "elo": 1454.81,
+    "games": 5,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "player": "Stella Burfeind",
+    "elo": 1448.48,
+    "games": 9,
+    "wins": 3,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "player": "Evan Johnstone",
+    "elo": 1438.87,
+    "games": 10,
+    "wins": 3,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "player": "Jarrod Haase",
+    "elo": 1433.51,
+    "games": 8,
+    "wins": 1,
+    "losses": 6,
+    "ties": 1
+  },
+  {
+    "player": "Hex Dowd",
+    "elo": 1432.28,
+    "games": 9,
+    "wins": 2,
+    "losses": 7,
+    "ties": 0
+  }
+]

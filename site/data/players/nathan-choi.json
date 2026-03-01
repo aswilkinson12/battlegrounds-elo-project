@@ -1,0 +1,56 @@
+{
+  "player": "Nathan Choi",
+  "slug": "nathan-choi",
+  "elo": 1529.93,
+  "games": 5,
+  "wins": 3,
+  "losses": 1,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Gabe Dietz",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1532.0,
+      "elo_after": 1530.5305
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1530.5305,
+      "elo_after": 1514.5305
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1514.5305,
+      "elo_after": 1529.9261
+    }
+  ]
+}

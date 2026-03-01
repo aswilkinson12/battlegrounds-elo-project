@@ -1,0 +1,56 @@
+{
+  "player": "Jack Henry",
+  "slug": "jack-henry",
+  "elo": 1454.81,
+  "games": 5,
+  "wins": 1,
+  "losses": 4,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Thomas Ostroff",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.7363,
+      "elo_after": 1484.7024
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.7024,
+      "elo_after": 1469.4064
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Willow Blackthorne",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.4064,
+      "elo_after": 1454.8117
+    }
+  ]
+}

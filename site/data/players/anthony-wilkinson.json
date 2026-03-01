@@ -1,0 +1,101 @@
+{
+  "player": "Anthony Wilkinson",
+  "slug": "anthony-wilkinson",
+  "elo": 1596.57,
+  "games": 10,
+  "wins": 8,
+  "losses": 1,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Thomas Kotcher",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1532.0,
+      "elo_after": 1530.5305
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1530.5305,
+      "elo_after": 1546.5305
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1546.5305,
+      "elo_after": 1560.4004
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.4004,
+      "elo_after": 1575.0896
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1575.0896,
+      "elo_after": 1587.6844
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1587.6844,
+      "elo_after": 1603.0447
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1603.0447,
+      "elo_after": 1584.3786
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "Ash DerManouelian",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1584.3786,
+      "elo_after": 1596.5674
+    }
+  ]
+}

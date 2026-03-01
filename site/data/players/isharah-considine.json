@@ -1,0 +1,56 @@
+{
+  "player": "Isharah Considine",
+  "slug": "isharah-considine",
+  "elo": 1516.55,
+  "games": 5,
+  "wins": 3,
+  "losses": 2,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.7363,
+      "elo_after": 1516.7024
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.7024,
+      "elo_after": 1500.6377
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.6377,
+      "elo_after": 1516.5451
+    }
+  ]
+}

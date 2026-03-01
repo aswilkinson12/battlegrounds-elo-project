@@ -1,0 +1,92 @@
+{
+  "player": "Stella Burfeind",
+  "slug": "stella-burfeind",
+  "elo": 1448.48,
+  "games": 9,
+  "wins": 3,
+  "losses": 6,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Autumn Garofalo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.2637,
+      "elo_after": 1515.2976
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1515.2976,
+      "elo_after": 1498.5936
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1498.5936,
+      "elo_after": 1482.6598
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.6598,
+      "elo_after": 1497.253
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Ash DerManouelian",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1497.253,
+      "elo_after": 1481.3795
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.3795,
+      "elo_after": 1464.8887
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1464.8887,
+      "elo_after": 1448.4793
+    }
+  ]
+}

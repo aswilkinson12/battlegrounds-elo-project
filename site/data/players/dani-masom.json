@@ -1,0 +1,92 @@
+{
+  "player": "Dani Masom",
+  "slug": "dani-masom",
+  "elo": 1490.92,
+  "games": 9,
+  "wins": 4,
+  "losses": 5,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0,
+      "elo_after": 1468.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.0,
+      "elo_after": 1485.4695
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1485.4695,
+      "elo_after": 1501.4003
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.4003,
+      "elo_after": 1486.0046
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Ash DerManouelian",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1486.0046,
+      "elo_after": 1470.6488
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Jason Weiss",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.6488,
+      "elo_after": 1455.9973
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1455.9973,
+      "elo_after": 1472.4067
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.4067,
+      "elo_after": 1490.9248
+    }
+  ]
+}

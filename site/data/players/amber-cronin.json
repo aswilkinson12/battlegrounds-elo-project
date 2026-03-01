@@ -1,0 +1,56 @@
+{
+  "player": "Amber Cronin",
+  "slug": "amber-cronin",
+  "elo": 1516.03,
+  "games": 5,
+  "wins": 3,
+  "losses": 2,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1500.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0339
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0339,
+      "elo_after": 1500.0308
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0308,
+      "elo_after": 1516.0294
+    }
+  ]
+}

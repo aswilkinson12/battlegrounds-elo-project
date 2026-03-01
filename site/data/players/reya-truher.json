@@ -1,0 +1,56 @@
+{
+  "player": "Reya Truher",
+  "slug": "reya-truher",
+  "elo": 1482.72,
+  "games": 5,
+  "wins": 2,
+  "losses": 3,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Daniel Cotto",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.2637,
+      "elo_after": 1515.3315
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1515.3315,
+      "elo_after": 1498.6259
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1498.6259,
+      "elo_after": 1482.7186
+    }
+  ]
+}

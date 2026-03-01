@@ -1,0 +1,56 @@
+{
+  "player": "Milo Brown",
+  "slug": "milo-brown",
+  "elo": 1531.29,
+  "games": 5,
+  "wins": 3,
+  "losses": 1,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Veronica Kirtley",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1500.0,
+      "elo_after": 1500.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1483.2637
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1483.2637,
+      "elo_after": 1500.0338
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0338,
+      "elo_after": 1516.0323
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Gabe Dietz",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0323,
+      "elo_after": 1531.2945
+    }
+  ]
+}

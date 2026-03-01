@@ -1,0 +1,101 @@
+{
+  "player": "Evan Johnstone",
+  "slug": "evan-johnstone",
+  "elo": 1438.87,
+  "games": 10,
+  "wins": 3,
+  "losses": 7,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Devon O'Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.7363,
+      "elo_after": 1483.9662
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Amber Cronin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1483.9662,
+      "elo_after": 1467.9693
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1467.9693,
+      "elo_after": 1483.9723
+    },
+    {
+      "week": "2_20_26",
+      "round": 1,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1483.9723,
+      "elo_after": 1500.7099
+    },
+    {
+      "week": "2_20_26",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.7099,
+      "elo_after": 1485.3503
+    },
+    {
+      "week": "2_20_26",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1485.3503,
+      "elo_after": 1471.5035
+    },
+    {
+      "week": "2_20_26",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1471.5035,
+      "elo_after": 1456.8129
+    },
+    {
+      "week": "2_20_26",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1456.8129,
+      "elo_after": 1438.8661
+    }
+  ]
+}

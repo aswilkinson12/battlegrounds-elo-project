@@ -1,0 +1,56 @@
+{
+  "player": "Pan Rasking",
+  "slug": "pan-rasking",
+  "elo": 1530.66,
+  "games": 5,
+  "wins": 3,
+  "losses": 1,
+  "ties": 1,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Devon O'Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.2637,
+      "elo_after": 1515.2976
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Gabe Dietz",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.2976,
+      "elo_after": 1530.5936
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1530.5936,
+      "elo_after": 1530.6553
+    }
+  ]
+}
