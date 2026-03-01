@@ -36,6 +36,28 @@
     footer { color: #667; font-size: 12px; padding: 18px 16px; }
     .error { color: #b00020; padding: 14px 16px; }
     .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #2b3cff; font-size: 12px; font-weight: 700; }
+    .notice { margin-bottom: 16px; }
+    .notice .row { display: flex; gap: 14px; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; padding: 14px 16px; }
+    .notice h2 { margin: 0; font-size: 16px; }
+    .notice p { margin: 6px 0 0; color: #445; line-height: 1.45; }
+    .notice .actions { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .btn {
+      display: inline-block;
+      padding: 9px 12px;
+      border-radius: 10px;
+      border: 1px solid #d7dbea;
+      background: #fff;
+      color: #111;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 13px;
+    }
+    .btn.primary {
+      border-color: transparent;
+      background: #2457ff;
+      color: white;
+    }
+    .btn:hover { filter: brightness(0.98); }
   </style>
 </head>
 <body>
@@ -50,6 +72,28 @@
   </header>
 
   <main class="wrap">
+    <section class="card notice">
+      <div class="row">
+        <div style="flex: 1 1 520px;">
+          <h2>Announcements</h2>
+          <p>
+            This is an ongoing elo project for Battlegrounds Framingham in Massachusetts by Anthony Wilkinson.
+          </p>
+          <p>
+            If you would like to be included in the tracking project, please fill out the form below!
+          </p>
+        </div>
+
+        <div class="actions">
+          <a class="btn primary" href="https://forms.gle/dY3PakaRi8CzYoV2A" target="_blank" rel="noopener">
+            Fill out the form
+          </a>
+          <a class="btn" href="./players.html">
+            Search players
+          </a>
+        </div>
+      </div>
+    </section>
     <section class="card">
       <div class="controls">
         <input id="search" type="search" placeholder="Search player…" autocomplete="off" />
