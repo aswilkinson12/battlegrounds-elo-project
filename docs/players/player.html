@@ -59,6 +59,8 @@
         </div>
       </div>
 
+      <div id="playerMedia" style="padding: 0 16px 16px 16px;"></div>
+
       <div class="row" style="border-top:1px solid #eef0f7;">
         <input id="filter" type="search" placeholder="Filter matches (opponent / week)…" autocomplete="off" />
         <div class="meta" id="matchCount">—</div>
@@ -200,6 +202,27 @@
       // newest first
       allMatches.sort((a,b) => (String(b.week).localeCompare(String(a.week)) || (safeNum(b.round)-safeNum(a.round))));
       render(allMatches);
+      const media = document.getElementById("playerMedia");
+
+      // Example: show a GIF for a specific player slug
+      if (slug === "nathan-choi") {
+        media.innerHTML = `
+          <img
+            src="../assets/gifs/nathan.gif"
+            alt="Nathan GIF"
+            style="max-width: 100%; border-radius: 12px; border: 1px solid #e6e8f0;"
+          />
+        `;
+      }
+      if (slug === "jarrod-haase") {
+        media.innerHTML = `
+          <img
+            src="../assets/gifs/jarrod.gif"
+            alt="Jarrod GIF"
+            style="max-width: 100%; border-radius: 12px; border: 1px solid #e6e8f0;"
+          />
+        `;
+      }
     } catch (e) {
       showError(`Could not load ${url}. (${e.message})`);
     }
