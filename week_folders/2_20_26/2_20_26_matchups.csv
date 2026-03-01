@@ -1,0 +1,43 @@
+Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status,MatchKey
+2_20_26,1,Amy Altman,David Van Hise,0.0,Loss,Win,OK,1|Amy Altman|David Van Hise
+2_20_26,1,Anthony Wilkinson,Mike Adams,1.0,Win,Loss,OK,1|Anthony Wilkinson|Mike Adams
+2_20_26,1,Ash DerManouelian,Dani Masom,1.0,Win,Loss,OK,1|Ash DerManouelian|Dani Masom
+2_20_26,1,Becca Blackwood,Evan Hamlin,1.0,Win,Loss,OK,1|Becca Blackwood|Evan Hamlin
+2_20_26,1,Evan Johnstone,Jonathon Streker,1.0,Win,Loss,OK,1|Evan Johnstone|Jonathon Streker
+2_20_26,1,Gina Millott,Stan Kornacki,1.0,Win,Loss,OK,1|Gina Millott|Stan Kornacki
+2_20_26,1,Hex Dowd,Stella Burfeind,0.0,Loss,Win,OK,1|Hex Dowd|Stella Burfeind
+2_20_26,1,Jarrod Haase,Nathan Cormier,0.0,Loss,Win,OK,1|Jarrod Haase|Nathan Cormier
+2_20_26,1,Jason Weiss,Sean Marks,1.0,Win,Loss,OK,1|Jason Weiss|Sean Marks
+2_20_26,2,Amy Altman,Jarrod Haase,1.0,Win,Loss,OK,2|Amy Altman|Jarrod Haase
+2_20_26,2,Anthony Wilkinson,[REDACTED] [REDACTED],1.0,Win,Loss,OK,2|Anthony Wilkinson|[REDACTED] [REDACTED]
+2_20_26,2,Ash DerManouelian,Stella Burfeind,1.0,Win,Loss,OK,2|Ash DerManouelian|Stella Burfeind
+2_20_26,2,Becca Blackwood,Gina Millott,0.0,Loss,Win,OK,2|Becca Blackwood|Gina Millott
+2_20_26,2,David Van Hise,Jason Weiss,1.0,Win,Loss,OK,2|David Van Hise|Jason Weiss
+2_20_26,2,Evan Hamlin,Stan Kornacki,0.0,Loss,Win,OK,2|Evan Hamlin|Stan Kornacki
+2_20_26,2,Evan Johnstone,Nathan Cormier,0.0,Loss,Win,OK,2|Evan Johnstone|Nathan Cormier
+2_20_26,2,Hex Dowd,Sean Marks,0.0,Loss,Win,OK,2|Hex Dowd|Sean Marks
+2_20_26,2,Jonathon Streker,Mike Adams,0.0,Loss,Win,OK,2|Jonathon Streker|Mike Adams
+2_20_26,3,Amy Altman,Sean Marks,1.0,Win,Loss,OK,3|Amy Altman|Sean Marks
+2_20_26,3,Anthony Wilkinson,David Van Hise,1.0,Win,Loss,OK,3|Anthony Wilkinson|David Van Hise
+2_20_26,3,Ash DerManouelian,Nathan Cormier,0.0,Loss,Win,OK,3|Ash DerManouelian|Nathan Cormier
+2_20_26,3,Becca Blackwood,Stella Burfeind,1.0,Win,Loss,OK,3|Becca Blackwood|Stella Burfeind
+2_20_26,3,Dani Masom,Jason Weiss,0.0,Loss,Win,OK,3|Dani Masom|Jason Weiss
+2_20_26,3,Evan Johnstone,Mike Adams,0.0,Loss,Win,OK,3|Evan Johnstone|Mike Adams
+2_20_26,3,Gina Millott,[REDACTED] [REDACTED],0.0,Loss,Win,OK,3|Gina Millott|[REDACTED] [REDACTED]
+2_20_26,3,Jarrod Haase,Stan Kornacki,0.5,Tie,Tie,OK,3|Jarrod Haase|Stan Kornacki
+2_20_26,4,Amy Altman,Jason Weiss,1.0,Win,Loss,OK,4|Amy Altman|Jason Weiss
+2_20_26,4,Anthony Wilkinson,Nathan Cormier,0.0,Loss,Win,OK,4|Anthony Wilkinson|Nathan Cormier
+2_20_26,4,Ash DerManouelian,[REDACTED] [REDACTED],1.0,Win,Loss,OK,4|Ash DerManouelian|[REDACTED] [REDACTED]
+2_20_26,4,Becca Blackwood,Mike Adams,1.0,Win,Loss,OK,4|Becca Blackwood|Mike Adams
+2_20_26,4,Dani Masom,Stella Burfeind,1.0,Win,Loss,OK,4|Dani Masom|Stella Burfeind
+2_20_26,4,David Van Hise,Gina Millott,1.0,Win,Loss,OK,4|David Van Hise|Gina Millott
+2_20_26,4,Evan Johnstone,Sean Marks,0.0,Loss,Win,OK,4|Evan Johnstone|Sean Marks
+2_20_26,4,Hex Dowd,Stan Kornacki,0.0,Loss,Win,OK,4|Hex Dowd|Stan Kornacki
+2_20_26,5,Amy Altman,Becca Blackwood,0.5,Tie,Tie,OK,5|Amy Altman|Becca Blackwood
+2_20_26,5,Anthony Wilkinson,Ash DerManouelian,1.0,Win,Loss,OK,5|Anthony Wilkinson|Ash DerManouelian
+2_20_26,5,Dani Masom,Mike Adams,1.0,Win,Loss,OK,5|Dani Masom|Mike Adams
+2_20_26,5,David Van Hise,Nathan Cormier,1.0,Win,Loss,OK,5|David Van Hise|Nathan Cormier
+2_20_26,5,Evan Johnstone,Hex Dowd,0.0,Loss,Win,OK,5|Evan Johnstone|Hex Dowd
+2_20_26,5,Gina Millott,Jason Weiss,0.0,Loss,Win,OK,5|Gina Millott|Jason Weiss
+2_20_26,5,Jarrod Haase,Sean Marks,0.0,Loss,Win,OK,5|Jarrod Haase|Sean Marks
+2_20_26,5,Stan Kornacki,[REDACTED] [REDACTED],0.0,Loss,Win,OK,5|Stan Kornacki|[REDACTED] [REDACTED]

@@ -5,7 +5,7 @@ Table  Player                          Opponent                        Points
        Mike Laing                       ***Bye***                       6
 1      Jarrod Haase                     Stan Kornacki                   0-3
 2      Daniel Cotto                     Reya Truher                     0-3
-3      Phil iwanow                      Pan Rasking                      0-3
+3      Phil iwanow                      Pan Rasking                     0-3
 4      Terry Eleftherakis               Thomas Ostroff                  3-0
 5      John Larochelle                  Sean Thornton                   3-0
 6      Sean Marks                       Gabe Dietz                      0-3
@@ -13,12 +13,12 @@ Table  Player                          Opponent                        Points
 8      Milo Brown                       Veronica Kirtley                1-1
 9      Jason Flynn                      Jack Henry                      3-0
 10     Kenton Najdzien                  Philip Petronis                 3-0
-11     Willow Blackthorne                 Amber Cronin                    0-3
+11     Willow Blackthorne               Amber Cronin                    0-3
 12     Jonathon Torchia                 Amy Altman                      0-3
 13     Isharah Considine                Anthony Wilkinson               0-3
 14     Autumn Garofalo                  Daniel Hernandez                3-0
 15     Becca Blackwood                  Karl Rookey                     0-3
-16     David Van Hise                   Hex Dowd                        3-0
+16     David Van Hise                   Hex Dowd                        0-3
 17     Dani Masom                       Stella Burfeind                 0-3
 18     Thomas Kotcher                   Ryan MacDonald                  3-0
 19     Evan Johnstone                   Devon O'Donnell                 0-3
