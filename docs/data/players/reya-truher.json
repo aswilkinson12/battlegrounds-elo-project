@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1482.72,
+  "elo": 1482.69,
   "games": 5,
   "wins": 2,
   "losses": 3,
@@ -50,7 +50,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1498.6259,
-      "elo_after": 1482.7186
+      "elo_after": 1482.6877
     }
   ]
 }

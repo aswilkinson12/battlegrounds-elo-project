@@ -77,7 +77,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1587.6844,
-      "elo_after": 1603.0447
+      "elo_after": 1603.0434
     },
     {
       "week": "2_20_26",
@@ -85,8 +85,8 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1603.0447,
-      "elo_after": 1584.3786
+      "elo_before": 1603.0434,
+      "elo_after": 1584.3774
     },
     {
       "week": "2_20_26",
@@ -94,8 +94,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1584.3786,
-      "elo_after": 1596.5674
+      "elo_before": 1584.3774,
+      "elo_after": 1596.5663
     }
   ]
 }

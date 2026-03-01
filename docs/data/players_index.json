@@ -68,6 +68,10 @@
     "slug": "mike-adams"
   },
   {
+    "player": "Mike Laing",
+    "slug": "mike-laing"
+  },
+  {
     "player": "Milo Brown",
     "slug": "milo-brown"
   },
@@ -88,8 +92,16 @@
     "slug": "ran-guo"
   },
   {
+    "player": "Raul Bottrell-Rogers",
+    "slug": "raul-bottrell-rogers"
+  },
+  {
     "player": "Reya Truher",
     "slug": "reya-truher"
+  },
+  {
+    "player": "Ryan MacDonald",
+    "slug": "ryan-macdonald"
   },
   {
     "player": "Stan Kornacki",
@@ -98,6 +110,10 @@
   {
     "player": "Stella Burfeind",
     "slug": "stella-burfeind"
+  },
+  {
+    "player": "Timofey Tylik",
+    "slug": "timofey-tylik"
   },
   {
     "player": "Veronica Kirtley",

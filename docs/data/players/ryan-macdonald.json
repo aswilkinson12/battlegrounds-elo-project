@@ -1,0 +1,38 @@
+{
+  "player": "Ryan MacDonald",
+  "slug": "ryan-macdonald",
+  "elo": 1453.47,
+  "games": 3,
+  "wins": 0,
+  "losses": 3,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 1,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0,
+      "elo_after": 1468.0
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.0,
+      "elo_after": 1453.4695
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1432.28,
+  "elo": 1432.35,
   "games": 9,
   "wins": 2,
   "losses": 7,
@@ -77,7 +77,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1424.2894,
-      "elo_after": 1414.3286
+      "elo_after": 1414.4016
     },
     {
       "week": "2_20_26",
@@ -85,8 +85,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1414.3286,
-      "elo_after": 1432.2754
+      "elo_before": 1414.4016,
+      "elo_after": 1432.3451
     }
   ]
 }

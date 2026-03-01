@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1433.51,
+  "elo": 1433.59,
   "games": 8,
   "wins": 1,
   "losses": 6,
@@ -68,7 +68,7 @@
       "result": "T",
       "score": 0.5,
       "elo_before": 1441.523,
-      "elo_after": 1447.0961
+      "elo_after": 1447.174
     },
     {
       "week": "2_20_26",
@@ -76,8 +76,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1447.0961,
-      "elo_after": 1433.5137
+      "elo_before": 1447.174,
+      "elo_after": 1433.5881
     }
   ]
 }

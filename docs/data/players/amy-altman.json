@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1543.34,
+  "elo": 1543.33,
   "games": 10,
   "wins": 6,
   "losses": 3,
@@ -59,7 +59,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1515.9646,
-      "elo_after": 1501.3408
+      "elo_after": 1501.3394
     },
     {
       "week": "2_20_26",
@@ -67,8 +67,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.3408,
-      "elo_after": 1515.2383
+      "elo_before": 1501.3394,
+      "elo_after": 1515.237
     },
     {
       "week": "2_20_26",
@@ -76,8 +76,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.2383,
-      "elo_after": 1530.537
+      "elo_before": 1515.237,
+      "elo_after": 1530.5357
     },
     {
       "week": "2_20_26",
@@ -85,8 +85,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.537,
-      "elo_after": 1545.1343
+      "elo_before": 1530.5357,
+      "elo_after": 1545.1331
     },
     {
       "week": "2_20_26",
@@ -94,8 +94,8 @@
       "opponent": "Becca Blackwood",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1545.1343,
-      "elo_after": 1543.3353
+      "elo_before": 1545.1331,
+      "elo_after": 1543.3341
     }
   ]
 }

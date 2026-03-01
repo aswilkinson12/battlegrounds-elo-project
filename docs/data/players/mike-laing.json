@@ -1,0 +1,47 @@
+{
+  "player": "Mike Laing",
+  "slug": "mike-laing",
+  "elo": 1531.14,
+  "games": 4,
+  "wins": 3,
+  "losses": 1,
+  "ties": 0,
+  "matches": [
+    {
+      "week": "2_13_26",
+      "round": 2,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.7363
+    },
+    {
+      "week": "2_13_26",
+      "round": 3,
+      "opponent": "Karl Rookey",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.7363,
+      "elo_after": 1531.9662
+    },
+    {
+      "week": "2_13_26",
+      "round": 4,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1531.9662,
+      "elo_after": 1546.4982
+    },
+    {
+      "week": "2_13_26",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1546.4982,
+      "elo_after": 1531.1381
+    }
+  ]
+}

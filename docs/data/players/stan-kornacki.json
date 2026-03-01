@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1552.93,
+  "elo": 1554.63,
   "games": 10,
   "wins": 7,
   "losses": 2,
@@ -50,7 +50,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1560.4004,
-      "elo_after": 1573.6466
+      "elo_after": 1575.7605
     },
     {
       "week": "2_20_26",
@@ -58,8 +58,8 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.6466,
-      "elo_after": 1554.3049
+      "elo_before": 1575.7605,
+      "elo_after": 1556.3259
     },
     {
       "week": "2_20_26",
@@ -67,8 +67,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1554.3049,
-      "elo_after": 1567.8242
+      "elo_before": 1556.3259,
+      "elo_after": 1569.7545
     },
     {
       "week": "2_20_26",
@@ -76,8 +76,8 @@
       "opponent": "Jarrod Haase",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1567.8242,
-      "elo_after": 1562.2512
+      "elo_before": 1569.7545,
+      "elo_after": 1564.1035
     },
     {
       "week": "2_20_26",
@@ -85,8 +85,8 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1562.2512,
-      "elo_after": 1572.212
+      "elo_before": 1564.1035,
+      "elo_after": 1573.9912
     },
     {
       "week": "2_20_26",
@@ -94,8 +94,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1572.212,
-      "elo_after": 1552.9336
+      "elo_before": 1573.9912,
+      "elo_after": 1554.6344
     }
   ]
 }

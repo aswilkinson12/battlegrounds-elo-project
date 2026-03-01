@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1516.55,
+  "elo": 1515.91,
   "games": 5,
   "wins": 3,
   "losses": 2,
@@ -23,7 +23,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1484.0,
-      "elo_after": 1500.7363
+      "elo_after": 1500.0
     },
     {
       "week": "2_13_26",
@@ -31,8 +31,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.7363,
-      "elo_after": 1516.7024
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
     },
     {
       "week": "2_13_26",
@@ -40,8 +40,8 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.7024,
-      "elo_after": 1500.6377
+      "elo_before": 1516.0,
+      "elo_after": 1499.9677
     },
     {
       "week": "2_13_26",
@@ -49,8 +49,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.6377,
-      "elo_after": 1516.5451
+      "elo_before": 1499.9677,
+      "elo_after": 1515.9059
     }
   ]
 }

@@ -9,7 +9,7 @@
   },
   {
     "player": "David Van Hise",
-    "elo": 1587.37,
+    "elo": 1587.34,
     "games": 10,
     "wins": 8,
     "losses": 2,
@@ -17,7 +17,7 @@
   },
   {
     "player": "Stan Kornacki",
-    "elo": 1552.93,
+    "elo": 1554.63,
     "games": 10,
     "wins": 7,
     "losses": 2,
@@ -33,7 +33,7 @@
   },
   {
     "player": "Amy Altman",
-    "elo": 1543.34,
+    "elo": 1543.33,
     "games": 10,
     "wins": 6,
     "losses": 3,
@@ -46,6 +46,14 @@
     "wins": 3,
     "losses": 1,
     "ties": 1
+  },
+  {
+    "player": "Mike Laing",
+    "elo": 1531.14,
+    "games": 4,
+    "wins": 3,
+    "losses": 1,
+    "ties": 0
   },
   {
     "player": "Pan Rasking",
@@ -72,16 +80,16 @@
     "ties": 1
   },
   {
-    "player": "Isharah Considine",
-    "elo": 1516.55,
+    "player": "Amber Cronin",
+    "elo": 1516.03,
     "games": 5,
     "wins": 3,
     "losses": 2,
     "ties": 0
   },
   {
-    "player": "Amber Cronin",
-    "elo": 1516.03,
+    "player": "Isharah Considine",
+    "elo": 1515.91,
     "games": 5,
     "wins": 3,
     "losses": 2,
@@ -144,6 +152,22 @@
     "ties": 0
   },
   {
+    "player": "Raul Bottrell-Rogers",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "player": "Timofey Tylik",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
     "player": "Dani Masom",
     "elo": 1490.92,
     "games": 9,
@@ -153,7 +177,7 @@
   },
   {
     "player": "Reya Truher",
-    "elo": 1482.72,
+    "elo": 1482.69,
     "games": 5,
     "wins": 2,
     "losses": 3,
@@ -176,6 +200,14 @@
     "ties": 0
   },
   {
+    "player": "Ryan MacDonald",
+    "elo": 1453.47,
+    "games": 3,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
     "player": "Stella Burfeind",
     "elo": 1448.48,
     "games": 9,
@@ -193,7 +225,7 @@
   },
   {
     "player": "Jarrod Haase",
-    "elo": 1433.51,
+    "elo": 1433.59,
     "games": 8,
     "wins": 1,
     "losses": 6,
@@ -201,7 +233,7 @@
   },
   {
     "player": "Hex Dowd",
-    "elo": 1432.28,
+    "elo": 1432.35,
     "games": 9,
     "wins": 2,
     "losses": 7,
