@@ -84,8 +84,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1514.0485,
-      "elo_after": 1530.9008,
-      "opp_elo": 1532.5732
+      "elo_after": 1530.9007,
+      "opp_elo": 1532.5718
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Autumn Garofalo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1530.9008,
-      "elo_after": 1513.4815,
+      "elo_before": 1530.9007,
+      "elo_after": 1513.4814,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1513.4815,
-      "elo_after": 1527.6633,
+      "elo_before": 1513.4814,
+      "elo_after": 1527.6632,
       "opp_elo": 1473.8285
     },
     {
@@ -113,7 +113,7 @@
       "opponent": "Philip Petronis",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1527.6633,
+      "elo_before": 1527.6632,
       "elo_after": 1526.392,
       "opp_elo": 1500.0
     }

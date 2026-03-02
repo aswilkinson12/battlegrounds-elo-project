@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1533.14,
+  "elo": 1531.36,
   "games": 5,
   "wins": 3,
   "losses": 1,
@@ -10,12 +10,12 @@
     {
       "week": "26-2-13",
       "round": 1,
-      "opponent": "Phil iwanow",
+      "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
-      "opp_elo": 1500.0
+      "elo_after": 1513.8671,
+      "opp_elo": 1453.4075
     },
     {
       "week": "26-2-13",
@@ -23,8 +23,8 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1500.6761,
+      "elo_before": 1513.8671,
+      "elo_after": 1498.6412,
       "opp_elo": 1530.6893
     },
     {
@@ -33,8 +33,8 @@
       "opponent": "Devon O'Donnell",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.6761,
-      "elo_after": 1516.6449,
+      "elo_before": 1498.6412,
+      "elo_after": 1514.7038,
       "opp_elo": 1500.0
     },
     {
@@ -43,8 +43,8 @@
       "opponent": "Gabe Dietz",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.6449,
-      "elo_after": 1531.879,
+      "elo_before": 1514.7038,
+      "elo_after": 1530.027,
       "opp_elo": 1500.0
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Mike Adams",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1531.879,
-      "elo_after": 1533.1358,
-      "opp_elo": 1559.226
+      "elo_before": 1530.027,
+      "elo_after": 1531.3638,
+      "opp_elo": 1559.1224
     }
   ]
 }

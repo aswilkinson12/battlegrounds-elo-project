@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1429.31,
+  "elo": 1429.23,
   "games": 16,
   "wins": 5,
   "losses": 10,
@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1472.4307,
-      "elo_after": 1454.8094,
-      "opp_elo": 1437.1028
+      "elo_after": 1454.7261,
+      "opp_elo": 1435.2749
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1454.8094,
-      "elo_after": 1471.6595,
-      "opp_elo": 1473.2872
+      "elo_before": 1454.7261,
+      "elo_after": 1471.5775,
+      "opp_elo": 1473.2311
     },
     {
       "week": "26-2-20",
@@ -123,8 +123,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.6595,
-      "elo_after": 1488.9618,
+      "elo_before": 1471.5775,
+      "elo_after": 1488.8835,
       "opp_elo": 1500.0
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1488.9618,
-      "elo_after": 1472.8718,
+      "elo_before": 1488.8835,
+      "elo_after": 1472.7972,
       "opp_elo": 1487.0091
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.8718,
-      "elo_after": 1460.6841,
-      "opp_elo": 1557.2771
+      "elo_before": 1472.7972,
+      "elo_after": 1460.6054,
+      "opp_elo": 1557.1097
     },
     {
       "week": "26-2-20",
@@ -153,8 +153,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1460.6841,
-      "elo_after": 1446.487,
+      "elo_before": 1460.6054,
+      "elo_after": 1446.4119,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1446.487,
-      "elo_after": 1429.3058,
-      "opp_elo": 1420.7901
+      "elo_before": 1446.4119,
+      "elo_after": 1429.2317,
+      "opp_elo": 1420.7375
     }
   ]
 }

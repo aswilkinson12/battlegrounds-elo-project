@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1531.32,
+  "elo": 1531.13,
   "games": 16,
   "wins": 9,
   "losses": 6,
@@ -64,8 +64,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1515.2976,
-      "elo_after": 1531.3285,
-      "opp_elo": 1515.9677
+      "elo_after": 1531.299,
+      "opp_elo": 1515.3285
     },
     {
       "week": "26-2-13",
@@ -73,8 +73,8 @@
       "opponent": "Nathan \"Nemo\" Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1531.3285,
-      "elo_after": 1515.1642,
+      "elo_before": 1531.299,
+      "elo_after": 1515.1361,
       "opp_elo": 1527.7604
     },
     {
@@ -83,9 +83,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.1642,
-      "elo_after": 1533.085,
-      "opp_elo": 1557.0766
+      "elo_before": 1515.1361,
+      "elo_after": 1533.0582,
+      "opp_elo": 1557.0765
     },
     {
       "week": "26-2-13",
@@ -93,9 +93,9 @@
       "opponent": "Amber Cronin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1533.085,
-      "elo_after": 1545.3004,
-      "opp_elo": 1449.3182
+      "elo_before": 1533.0582,
+      "elo_after": 1545.1919,
+      "opp_elo": 1447.4086
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Thomas Ostroff",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.3004,
-      "elo_after": 1559.226,
+      "elo_before": 1545.1919,
+      "elo_after": 1559.1224,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Pan Rasking",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1559.226,
-      "elo_after": 1557.9692,
-      "opp_elo": 1531.879
+      "elo_before": 1559.1224,
+      "elo_after": 1557.7856,
+      "opp_elo": 1530.027
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.9692,
-      "elo_after": 1543.259,
-      "opp_elo": 1586.038
+      "elo_before": 1557.7856,
+      "elo_after": 1543.0836,
+      "opp_elo": 1586.0343
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.259,
-      "elo_after": 1557.2771,
+      "elo_before": 1543.0836,
+      "elo_after": 1557.1097,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1557.2771,
-      "elo_after": 1569.4648,
-      "opp_elo": 1472.8718
+      "elo_before": 1557.1097,
+      "elo_after": 1569.3014,
+      "opp_elo": 1472.7972
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1569.4648,
-      "elo_after": 1550.6963,
-      "opp_elo": 1508.7362
+      "elo_before": 1569.3014,
+      "elo_after": 1550.54,
+      "opp_elo": 1508.7329
     },
     {
       "week": "26-2-20",
@@ -163,9 +163,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1550.6963,
-      "elo_after": 1531.3233,
-      "opp_elo": 1476.3373
+      "elo_before": 1550.54,
+      "elo_after": 1531.1341,
+      "opp_elo": 1475.4332
     }
   ]
 }

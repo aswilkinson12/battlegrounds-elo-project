@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1472.8,
+  "elo": 1471.13,
   "games": 10,
   "wins": 3,
   "losses": 6,
@@ -50,12 +50,12 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
-      "opponent": "Phil iwanow",
+      "opponent": "Phil Iwanow",
       "result": "D",
       "score": 0.5,
       "elo_before": 1440.2705,
-      "elo_after": 1442.9943,
-      "opp_elo": 1500.0
+      "elo_after": 1440.9043,
+      "opp_elo": 1454.0413
     },
     {
       "week": "26-2-13",
@@ -63,8 +63,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1442.9943,
-      "elo_after": 1461.5962,
+      "elo_before": 1440.9043,
+      "elo_after": 1459.5998,
       "opp_elo": 1500.0
     },
     {
@@ -73,9 +73,9 @@
       "opponent": "Nathan \"Nemo\" Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1461.5962,
-      "elo_after": 1449.3182,
-      "opp_elo": 1543.9247
+      "elo_before": 1459.5998,
+      "elo_after": 1447.4086,
+      "opp_elo": 1543.9234
     },
     {
       "week": "26-2-13",
@@ -83,9 +83,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1449.3182,
-      "elo_after": 1437.1028,
-      "opp_elo": 1533.085
+      "elo_before": 1447.4086,
+      "elo_after": 1435.2749,
+      "opp_elo": 1533.0582
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1437.1028,
-      "elo_after": 1454.7241,
+      "elo_before": 1435.2749,
+      "elo_after": 1452.9795,
       "opp_elo": 1472.4307
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1454.7241,
-      "elo_after": 1472.7974,
+      "elo_before": 1452.9795,
+      "elo_after": 1471.1317,
       "opp_elo": 1500.0
     }
   ]

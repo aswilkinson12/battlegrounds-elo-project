@@ -92,7 +92,7 @@
   // Expect: ../data/players/<slug>.json
   function getSlug() {
     const url = new URL(window.location.href);
-    return url.searchParams.get("p") || "";
+    return (url.searchParams.get("p") || "").toLowerCase().trim();
   }
 
   function safeNum(x, fallback = 0) {

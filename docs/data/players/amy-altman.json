@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1563.46,
+  "elo": 1563.45,
   "games": 16,
   "wins": 10,
   "losses": 5,
@@ -105,7 +105,7 @@
       "score": 1.0,
       "elo_before": 1510.1484,
       "elo_after": 1526.0608,
-      "opp_elo": 1508.2461
+      "opp_elo": 1508.2449
     },
     {
       "week": "26-2-13",
@@ -114,8 +114,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1526.0608,
-      "elo_after": 1541.8236,
-      "opp_elo": 1520.9098
+      "elo_after": 1541.8212,
+      "opp_elo": 1520.8576
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.8236,
-      "elo_after": 1525.5105,
-      "opp_elo": 1535.0222
+      "elo_before": 1541.8212,
+      "elo_after": 1525.5058,
+      "opp_elo": 1534.9723
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1525.5105,
-      "elo_after": 1537.2506,
+      "elo_before": 1525.5058,
+      "elo_after": 1537.2462,
       "opp_elo": 1430.7258
     },
     {
@@ -143,8 +143,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1537.2506,
-      "elo_after": 1551.5417,
+      "elo_before": 1537.2462,
+      "elo_after": 1551.5375,
       "opp_elo": 1500.0
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5417,
-      "elo_after": 1565.1854,
+      "elo_before": 1551.5375,
+      "elo_after": 1565.1813,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Becca Blackwood",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1565.1854,
-      "elo_after": 1563.4569,
-      "opp_elo": 1527.5047
+      "elo_before": 1565.1813,
+      "elo_after": 1563.4526,
+      "opp_elo": 1527.4943
     }
   ]
 }

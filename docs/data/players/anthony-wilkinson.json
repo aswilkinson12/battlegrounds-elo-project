@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1616.58,
+  "elo": 1616.57,
   "games": 16,
   "wins": 12,
   "losses": 3,
@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1557.5474,
-      "elo_after": 1573.3674,
-      "opp_elo": 1553.6369
+      "elo_after": 1573.3635,
+      "opp_elo": 1553.5527
     },
     {
       "week": "26-2-13",
@@ -113,8 +113,8 @@
       "opponent": "Jason Flynn",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1573.3674,
-      "elo_after": 1586.038,
+      "elo_before": 1573.3635,
+      "elo_after": 1586.0343,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1586.038,
-      "elo_after": 1600.7482,
-      "opp_elo": 1557.9692
+      "elo_before": 1586.0343,
+      "elo_after": 1600.7363,
+      "opp_elo": 1557.7856
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1600.7482,
-      "elo_after": 1612.2344,
+      "elo_before": 1600.7363,
+      "elo_after": 1612.2229,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1612.2344,
-      "elo_after": 1626.0719,
-      "opp_elo": 1564.9884
+      "elo_before": 1612.2229,
+      "elo_after": 1626.059,
+      "opp_elo": 1564.9428
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1626.0719,
-      "elo_after": 1605.2896,
-      "opp_elo": 1518.9563
+      "elo_before": 1626.059,
+      "elo_after": 1605.2771,
+      "opp_elo": 1518.9529
     },
     {
       "week": "26-2-20",
@@ -163,8 +163,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1605.2896,
-      "elo_after": 1616.5841,
+      "elo_before": 1605.2771,
+      "elo_after": 1616.572,
       "opp_elo": 1500.0
     }
   ]
