@@ -1,10 +1,65 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1500.0,
-  "games": 0,
-  "wins": 0,
-  "losses": 0,
+  "elo": 1535.02,
+  "games": 6,
+  "wins": 4,
+  "losses": 2,
   "ties": 0,
-  "matches": []
+  "matches": [
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1487.9397
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Matt Suyer",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1487.9397,
+      "elo_after": 1472.4949
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Markis Galea",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.4949,
+      "elo_after": 1489.7589
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1489.7589,
+      "elo_after": 1506.2304
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1506.2304,
+      "elo_after": 1521.9435
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.9435,
+      "elo_after": 1535.0155
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1454.81,
-  "games": 5,
-  "wins": 1,
-  "losses": 4,
+  "elo": 1470.47,
+  "games": 11,
+  "wins": 4,
+  "losses": 7,
   "ties": 0,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 0.0,
       "elo_before": 1469.4064,
       "elo_after": 1454.8117
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.8117,
+      "elo_after": 1472.881
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.881,
+      "elo_after": 1494.4631
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1494.4631,
+      "elo_after": 1482.3376
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.3376,
+      "elo_after": 1499.9457
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Ryan MacDonald",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.9457,
+      "elo_after": 1483.719
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1483.719,
+      "elo_after": 1470.472
     }
   ]
 }

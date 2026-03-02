@@ -1,10 +1,10 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1482.69,
-  "games": 5,
-  "wins": 2,
-  "losses": 3,
+  "elo": 1486.19,
+  "games": 11,
+  "wins": 5,
+  "losses": 6,
   "ties": 0,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 0.0,
       "elo_before": 1498.6259,
       "elo_after": 1482.6877
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.6877,
+      "elo_after": 1469.9544
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Matt Rosenbloom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.9544,
+      "elo_after": 1487.3346
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1487.3346,
+      "elo_after": 1471.9515
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.9515,
+      "elo_after": 1485.8901
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1485.8901,
+      "elo_after": 1502.5395
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.5395,
+      "elo_after": 1486.1859
     }
   ]
 }

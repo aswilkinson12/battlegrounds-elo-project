@@ -1,0 +1,63 @@
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+9      Adipto Sengupta                 Joel Brook                     3-6   
+5      Alexander Gimmi                 Luke Deratzou                   6-9   
+19     Amber Cronin                    Mike Laing                      3-6   
+4      Amy Altman                      Brian Kennes                    6-9   
+20     Anthony Wilkinson               Nathan Cormier                  6-3   
+16     Austin Wolf                     Dani Masom                      6-3   
+8      Avi Lessure                     mavin liu                       3-9   
+7      Becca Blackwood                 Benjamin Wakefield              9-6   
+7      Benjamin Wakefield              Becca Blackwood                 6-9   
+1      Bradley Skubic                  Nathan C                        9-6   
+4      Brian Kennes                    Amy Altman                      9-6   
+14     Cameron Riley                   Sam White                       3-6   
+27     Colin Hogan                     Phil iwanow                     0-3   
+16     Dani Masom                      Austin Wolf                     3-6   
+18     Daniel Hernandez                Philip Petronis                 6-3   
+28     Danielle Lucibello              John Petrella                   0-3   
+17     David Van Hise                  Raul Bottrell-Rogers            3-6   
+25     Elias Medrano                   Sean Marks                      3-0   
+21     Etai Kurtzman                   Tim Lawson                      6-3   
+23     Evan Johnstone                  Timothy Haase                   3-3   
+26     Gina Millott                    Hex Dowd                        0-3   
+10     Graham Bateman                 Jonathon Streker                4-4   
+26     Hex Dowd                        Gina Millott                    3-0   
+3      Ian Marcellana                  Stella Burfeind                 6-9   
+22     Isharah Considine              Veronica Kirtley                3-6   
+6      Jack Henry                      Stan Kornacki                   6-9   
+13     Jarrod Haase                   Matt Suyer                      6-3   
+9      Joel Brook                     Adipto Sengupta                 6-3   
+2      John Larochelle                Milo Brown                      6-9   
+28     John Petrella                   Danielle Lucibello              3-0   
+10     Jonathon Streker                Graham Bateman                 4-4   
+12     Joseph Chung                    Mike Adams                      3-6   
+15     Logan Hesch                     Reya Truher                     6-3   
+5      Luke Deratzou                   Alexander Gimmi                 9-6   
+24     Markis Galea                    Ran Guo                         0-3   
+29     Matt Rosenbloom                 tyler kaldenberg                3-0   
+13     Matt Suyer                      Jarrod Haase                   3-6   
+8      mavin liu                       Avi Lessure                     9-3   
+11     Michael Stopa                   Ryan MacDonald                  3-6   
+12     Mike Adams                      Joseph Chung                    6-3   
+19     Mike Laing                      Amber Cronin                    6-3   
+2      Milo Brown                      John Larochelle                9-6   
+1      Nathan C                        Bradley Skubic                  6-9   
+20     Nathan Cormier                  Anthony Wilkinson               3-6   
+27     Phil iwanow                     Colin Hogan                     3-0   
+18     Philip Petronis                 Daniel Hernandez                3-6   
+24     Ran Guo                         Markis Galea                    3-0   
+17     Raul Bottrell-Rogers            David Van Hise                  6-3   
+15     Reya Truher                     Logan Hesch                     3-6   
+11     Ryan MacDonald                  Michael Stopa                   6-3   
+14     Sam White                       Cameron Riley                   6-3   
+25     Sean Marks                      Elias Medrano                   0-3   
+6      Stan Kornacki                   Jack Henry                      9-6   
+3      Stella Burfeind                 Ian Marcellana                  9-6   
+       Terry Eleftherakis              ***Bye***                       6     
+21     Tim Lawson                      Etai Kurtzman                   3-6   
+23     Timothy Haase                   Evan Johnstone                  3-3   
+29     tyler kaldenberg                Matt Rosenbloom                 0-3   
+22     Veronica Kirtley                Isharah Considine              6-3   
+
+EventLink - Copyright © 2025 - Wizards of the Coast LLC

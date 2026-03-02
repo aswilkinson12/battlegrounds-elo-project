@@ -1,10 +1,10 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1529.93,
-  "games": 5,
-  "wins": 3,
-  "losses": 1,
+  "elo": 1548.21,
+  "games": 11,
+  "wins": 7,
+  "losses": 3,
   "ties": 1,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 1.0,
       "elo_before": 1514.5305,
       "elo_after": 1529.9261
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Markis Galea",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1529.9261,
+      "elo_after": 1544.5514
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Adipto Sengupta",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.5514,
+      "elo_after": 1558.5109
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1558.5109,
+      "elo_after": 1541.5139
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1541.5139,
+      "elo_after": 1553.7217
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Austin Wolf",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.7217,
+      "elo_after": 1567.2672
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Sam White",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1567.2672,
+      "elo_after": 1548.2076
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1433.59,
-  "games": 8,
-  "wins": 1,
-  "losses": 6,
+  "elo": 1418.96,
+  "games": 14,
+  "wins": 3,
+  "losses": 10,
   "ties": 1,
   "matches": [
     {
@@ -78,6 +78,60 @@
       "score": 0.0,
       "elo_before": 1447.174,
       "elo_after": 1433.5881
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Matt Rosenbloom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1433.5881,
+      "elo_after": 1452.6098
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Alexander Gimmi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1452.6098,
+      "elo_after": 1438.7788
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Matt Suyer",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1438.7788,
+      "elo_after": 1457.5693
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.5693,
+      "elo_after": 1445.3616
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Joel Brook",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1445.3616,
+      "elo_after": 1431.8572
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1431.8572,
+      "elo_after": 1418.9557
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1531.29,
-  "games": 5,
-  "wins": 3,
+  "elo": 1584.92,
+  "games": 11,
+  "wins": 7,
   "losses": 1,
-  "ties": 1,
+  "ties": 3,
   "matches": [
     {
       "week": "2_13_26",
@@ -51,6 +51,60 @@
       "score": 1.0,
       "elo_before": 1516.0323,
       "elo_after": 1531.2945
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1531.2945,
+      "elo_after": 1545.8572
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Tim Lawson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.8572,
+      "elo_after": 1559.7576
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.7576,
+      "elo_after": 1575.6145
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Luke Deratzou",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1575.6145,
+      "elo_after": 1588.1863
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1588.1863,
+      "elo_after": 1588.9264
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "mavin liu",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1588.9264,
+      "elo_after": 1584.9184
     }
   ]
 }

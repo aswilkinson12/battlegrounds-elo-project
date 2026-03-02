@@ -1,10 +1,10 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1471.45,
-  "games": 5,
-  "wins": 1,
-  "losses": 3,
+  "elo": 1511.21,
+  "games": 11,
+  "wins": 5,
+  "losses": 5,
   "ties": 1,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 0.0,
       "elo_before": 1486.8426,
       "elo_after": 1471.4482
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Sam White",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.4482,
+      "elo_after": 1488.7601
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Benjamin Wakefield",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1488.7601,
+      "elo_after": 1473.2775
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1473.2775,
+      "elo_after": 1491.175
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1491.175,
+      "elo_after": 1477.842
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Tim Lawson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1477.842,
+      "elo_after": 1494.8611
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1494.8611,
+      "elo_after": 1511.2146
     }
   ]
 }

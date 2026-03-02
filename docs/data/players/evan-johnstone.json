@@ -1,11 +1,11 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1438.87,
-  "games": 10,
-  "wins": 3,
-  "losses": 7,
-  "ties": 0,
+  "elo": 1444.57,
+  "games": 16,
+  "wins": 5,
+  "losses": 10,
+  "ties": 1,
   "matches": [
     {
       "week": "2_13_26",
@@ -96,6 +96,60 @@
       "score": 0.0,
       "elo_before": 1456.8129,
       "elo_after": 1438.8695
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Avi Lessure",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1438.8695,
+      "elo_after": 1425.6559
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Jonathon Streker",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.6559,
+      "elo_after": 1413.0283
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Timothy Haase",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1413.0283,
+      "elo_after": 1416.9519
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1416.9519,
+      "elo_after": 1435.682
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1435.682,
+      "elo_after": 1457.6382
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.6382,
+      "elo_after": 1444.5662
     }
   ]
 }

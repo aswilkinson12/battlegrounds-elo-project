@@ -1,10 +1,10 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1490.92,
-  "games": 9,
-  "wins": 4,
-  "losses": 5,
+  "elo": 1493.12,
+  "games": 15,
+  "wins": 7,
+  "losses": 8,
   "ties": 0,
   "matches": [
     {
@@ -87,6 +87,60 @@
       "score": 1.0,
       "elo_before": 1472.4067,
       "elo_after": 1490.9248
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Graham Bateman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1490.9248,
+      "elo_after": 1475.3427
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1475.3427,
+      "elo_after": 1492.4763
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Austin Wolf",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1492.4763,
+      "elo_after": 1476.8227
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1476.8227,
+      "elo_after": 1458.0925
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1458.0925,
+      "elo_after": 1476.0131
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.0131,
+      "elo_after": 1493.116
     }
   ]
 }

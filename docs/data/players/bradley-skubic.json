@@ -1,10 +1,65 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1500.0,
-  "games": 0,
-  "wins": 0,
+  "elo": 1568.38,
+  "games": 6,
+  "wins": 4,
   "losses": 0,
-  "ties": 0,
-  "matches": []
+  "ties": 2,
+  "matches": [
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1520.336
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1520.336,
+      "elo_after": 1536.8349
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1536.8349,
+      "elo_after": 1553.8318
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.8318,
+      "elo_after": 1569.8637
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "mavin liu",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1569.8637,
+      "elo_after": 1566.689
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Stan Kornacki",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1566.689,
+      "elo_after": 1568.3793
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1515.91,
-  "games": 5,
-  "wins": 3,
-  "losses": 2,
+  "elo": 1514.31,
+  "games": 11,
+  "wins": 6,
+  "losses": 5,
   "ties": 0,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 1.0,
       "elo_before": 1499.9677,
       "elo_after": 1515.9059
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "tyler kaldenberg",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.9059,
+      "elo_after": 1531.1739
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1531.1739,
+      "elo_after": 1514.6749
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1514.6749,
+      "elo_after": 1496.7775
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1496.7775,
+      "elo_after": 1514.3106
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1514.3106,
+      "elo_after": 1529.6519
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1529.6519,
+      "elo_after": 1514.3094
     }
   ]
 }

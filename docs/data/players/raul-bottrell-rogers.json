@@ -1,10 +1,65 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1500.0,
-  "games": 0,
-  "wins": 0,
-  "losses": 0,
+  "elo": 1499.05,
+  "games": 6,
+  "wins": 3,
+  "losses": 3,
   "ties": 0,
-  "matches": []
+  "matches": [
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Cameron Riley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1497.7508
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.7508,
+      "elo_after": 1517.3744
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1517.3744,
+      "elo_after": 1499.7663
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Benjamin Wakefield",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.7663,
+      "elo_after": 1515.7771
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Joel Brook",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1515.7771,
+      "elo_after": 1499.051
+    }
+  ]
 }

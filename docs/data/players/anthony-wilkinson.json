@@ -1,10 +1,10 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1596.57,
-  "games": 10,
-  "wins": 8,
-  "losses": 1,
+  "elo": 1605.92,
+  "games": 16,
+  "wins": 12,
+  "losses": 3,
   "ties": 1,
   "matches": [
     {
@@ -96,6 +96,60 @@
       "score": 1.0,
       "elo_before": 1584.3774,
       "elo_after": 1596.5663
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1596.5663,
+      "elo_after": 1576.2303
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "tyler kaldenberg",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1576.2303,
+      "elo_after": 1588.775
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1588.775,
+      "elo_after": 1602.7301
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1602.7301,
+      "elo_after": 1614.1324
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1614.1324,
+      "elo_after": 1627.5403
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Etai Kurtzman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1627.5403,
+      "elo_after": 1605.9172
     }
   ]
 }

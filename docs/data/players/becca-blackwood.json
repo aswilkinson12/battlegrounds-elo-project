@@ -1,10 +1,10 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1507.7,
-  "games": 9,
-  "wins": 4,
-  "losses": 4,
+  "elo": 1534.32,
+  "games": 15,
+  "wins": 8,
+  "losses": 6,
   "ties": 1,
   "matches": [
     {
@@ -87,6 +87,60 @@
       "score": 0.5,
       "elo_before": 1505.9022,
       "elo_after": 1507.7012
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.7012,
+      "elo_after": 1523.3466
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1523.3466,
+      "elo_after": 1540.375
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Benjamin Wakefield",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1540.375,
+      "elo_after": 1554.524
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1554.524,
+      "elo_after": 1538.4921
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Brian Kennes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.4921,
+      "elo_after": 1552.7267
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1552.7267,
+      "elo_after": 1534.317
     }
   ]
 }

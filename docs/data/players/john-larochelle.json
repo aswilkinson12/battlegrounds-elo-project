@@ -1,10 +1,10 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1527.88,
-  "games": 5,
-  "wins": 3,
-  "losses": 1,
+  "elo": 1520.13,
+  "games": 11,
+  "wins": 6,
+  "losses": 4,
   "ties": 1,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 0.5,
       "elo_before": 1529.2268,
       "elo_after": 1527.884
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Joel Brook",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.884,
+      "elo_after": 1542.6026
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Michael Stopa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1542.6026,
+      "elo_after": 1556.6505
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1556.6505,
+      "elo_after": 1540.7936
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Etai Kurtzman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1540.7936,
+      "elo_after": 1522.9235
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1522.9235,
+      "elo_after": 1537.8694
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Graham Bateman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.8694,
+      "elo_after": 1520.1323
     }
   ]
 }

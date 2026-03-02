@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1509.03,
-  "games": 10,
-  "wins": 5,
-  "losses": 4,
+  "elo": 1535.68,
+  "games": 16,
+  "wins": 9,
+  "losses": 6,
   "ties": 1,
   "matches": [
     {
@@ -96,6 +96,60 @@
       "score": 0.0,
       "elo_before": 1527.5465,
       "elo_after": 1509.0283
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Tim Lawson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1509.0283,
+      "elo_after": 1492.6127
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1492.6127,
+      "elo_after": 1505.2911
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1505.2911,
+      "elo_after": 1521.0474
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Alexander Gimmi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.0474,
+      "elo_after": 1504.0794
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1504.0794,
+      "elo_after": 1519.8915
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.8915,
+      "elo_after": 1535.685
     }
   ]
 }

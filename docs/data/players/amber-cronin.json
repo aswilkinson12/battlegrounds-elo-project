@@ -1,11 +1,11 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1516.03,
-  "games": 5,
+  "elo": 1456.83,
+  "games": 10,
   "wins": 3,
-  "losses": 2,
-  "ties": 0,
+  "losses": 6,
+  "ties": 1,
   "matches": [
     {
       "week": "2_13_26",
@@ -51,6 +51,51 @@
       "score": 1.0,
       "elo_before": 1500.0308,
       "elo_after": 1516.0294
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0294,
+      "elo_after": 1499.2917
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.2917,
+      "elo_after": 1484.6419
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Graham Bateman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.6419,
+      "elo_after": 1469.3487
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.3487,
+      "elo_after": 1454.7566
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Phil iwanow",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1454.7566,
+      "elo_after": 1456.8284
     }
   ]
 }

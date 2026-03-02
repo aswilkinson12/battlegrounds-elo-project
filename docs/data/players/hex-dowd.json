@@ -1,10 +1,10 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1432.35,
-  "games": 9,
-  "wins": 2,
-  "losses": 7,
+  "elo": 1451.38,
+  "games": 15,
+  "wins": 5,
+  "losses": 10,
   "ties": 0,
   "matches": [
     {
@@ -87,6 +87,60 @@
       "score": 1.0,
       "elo_before": 1414.4016,
       "elo_after": 1432.3451
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Alexander Gimmi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1432.3451,
+      "elo_after": 1419.4219
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1419.4219,
+      "elo_after": 1406.7435
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1406.7435,
+      "elo_after": 1426.9379
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1426.9379,
+      "elo_after": 1412.9993
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Markis Galea",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1412.9993,
+      "elo_after": 1432.9241
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Elias Medrano",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1432.9241,
+      "elo_after": 1451.3801
     }
   ]
 }

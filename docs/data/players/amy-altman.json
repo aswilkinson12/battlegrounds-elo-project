@@ -1,10 +1,10 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1543.33,
-  "games": 10,
-  "wins": 6,
-  "losses": 3,
+  "elo": 1557.35,
+  "games": 16,
+  "wins": 10,
+  "losses": 5,
   "ties": 1,
   "matches": [
     {
@@ -96,6 +96,60 @@
       "score": 0.5,
       "elo_before": 1545.1331,
       "elo_after": 1543.3341
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.3341,
+      "elo_after": 1555.2856
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Etai Kurtzman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1555.2856,
+      "elo_after": 1568.7608
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Brian Kennes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1568.7608,
+      "elo_after": 1549.635
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1549.635,
+      "elo_after": 1562.9679
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1562.9679,
+      "elo_after": 1544.0995
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.0995,
+      "elo_after": 1557.3465
     }
   ]
 }

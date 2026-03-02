@@ -1,10 +1,10 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1531.14,
-  "games": 4,
-  "wins": 3,
-  "losses": 1,
+  "elo": 1559.28,
+  "games": 10,
+  "wins": 7,
+  "losses": 3,
   "ties": 0,
   "matches": [
     {
@@ -42,6 +42,60 @@
       "score": 0.0,
       "elo_before": 1546.4982,
       "elo_after": 1531.1381
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Matt Suyer",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1531.1381,
+      "elo_after": 1545.708
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1545.708,
+      "elo_after": 1528.6796
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1528.6796,
+      "elo_after": 1543.3295
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Benjamin Wakefield",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.3295,
+      "elo_after": 1557.3443
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1557.3443,
+      "elo_after": 1543.9365
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.9365,
+      "elo_after": 1559.279
     }
   ]
 }

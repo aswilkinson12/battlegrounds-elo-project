@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1547.66,
-  "games": 5,
-  "wins": 4,
-  "losses": 1,
+  "elo": 1512.24,
+  "games": 11,
+  "wins": 6,
+  "losses": 5,
   "ties": 0,
   "matches": [
     {
@@ -51,6 +51,60 @@
       "score": 0.0,
       "elo_before": 1563.2722,
       "elo_after": 1547.6618
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Etai Kurtzman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1547.6618,
+      "elo_after": 1529.4805
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1529.4805,
+      "elo_after": 1544.1261
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1544.1261,
+      "elo_after": 1530.1711
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1530.1711,
+      "elo_after": 1512.6379
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Joseph Chung",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1512.6379,
+      "elo_after": 1496.0562
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Markis Galea",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1496.0562,
+      "elo_after": 1512.2378
     }
   ]
 }

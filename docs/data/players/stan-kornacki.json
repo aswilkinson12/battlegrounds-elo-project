@@ -1,11 +1,11 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1554.63,
-  "games": 10,
-  "wins": 7,
+  "elo": 1601.84,
+  "games": 16,
+  "wins": 11,
   "losses": 2,
-  "ties": 1,
+  "ties": 3,
   "matches": [
     {
       "week": "2_13_26",
@@ -96,6 +96,60 @@
       "score": 0.0,
       "elo_before": 1573.9912,
       "elo_after": 1554.6344
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.6344,
+      "elo_after": 1567.3677
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1567.3677,
+      "elo_after": 1580.3036
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1580.3036,
+      "elo_after": 1592.429
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Brian Kennes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1592.429,
+      "elo_after": 1604.2702
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Milo Brown",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1604.2702,
+      "elo_after": 1603.53
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Bradley Skubic",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1603.53,
+      "elo_after": 1601.8398
     }
   ]
 }

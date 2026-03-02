@@ -1,10 +1,10 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1448.48,
-  "games": 9,
-  "wins": 3,
-  "losses": 6,
+  "elo": 1487.71,
+  "games": 15,
+  "wins": 7,
+  "losses": 8,
   "ties": 0,
   "matches": [
     {
@@ -87,6 +87,60 @@
       "score": 0.0,
       "elo_before": 1464.8887,
       "elo_after": 1448.4793
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1448.4793,
+      "elo_after": 1466.8347
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1466.8347,
+      "elo_after": 1485.0838
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1485.0838,
+      "elo_after": 1501.7703
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "mavin liu",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.7703,
+      "elo_after": 1485.6888
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Etai Kurtzman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1485.6888,
+      "elo_after": 1470.3475
+    },
+    {
+      "week": "brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Austin Wolf",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.3475,
+      "elo_after": 1487.7097
     }
   ]
 }

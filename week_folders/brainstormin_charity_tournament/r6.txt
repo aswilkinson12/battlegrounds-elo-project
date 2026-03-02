@@ -1,0 +1,52 @@
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+8      Alexander Gimmi                 Avi Lessure                     9-12  
+23     Amber Cronin                    Phil iwanow                     4-4   
+7      Amy Altman                      Jack Henry                      12-9  
+5      Anthony Wilkinson               Etai Kurtzman                   12-15 
+9      Austin Wolf                     Stella Burfeind                 9-12  
+8      Avi Lessure                     Alexander Gimmi                 12-9  
+3      Becca Blackwood                 Luke Deratzou                   12-15 
+1      Bradley Skubic                  Stan Kornacki                   14-14 
+6      Brian Kennes                    Ryan MacDonald                  9-15  
+24     Colin Hogan                     tyler kaldenberg                3-6   
+19     Dani Masom                      Joseph Chung                    9-6   
+17     Daniel Hernandez                Jarrod Haase                   9-6   
+18     Elias Medrano                   Hex Dowd                        6-9   
+5      Etai Kurtzman                   Anthony Wilkinson               15-12 
+14     Evan Johnstone                  Ran Guo                         9-12  
+20     Gina Millott                    Matt Rosenbloom                 9-6   
+15     Graham Bateman                 John Larochelle                10-7  
+18     Hex Dowd                        Elias Medrano                   9-6   
+16     Ian Marcellana                  Tim Lawson                      6-9   
+11     Isharah Considine              Mike Laing                      9-12  
+7      Jack Henry                      Amy Altman                      9-12  
+17     Jarrod Haase                   Daniel Hernandez                6-9   
+12     Joel Brook                     Raul Bottrell-Rogers            12-9  
+15     John Larochelle                Graham Bateman                 7-10  
+21     Jonathon Streker                Philip Petronis                 8-6   
+19     Joseph Chung                    Dani Masom                      6-9   
+13     Logan Hesch                     Mike Adams                      9-12  
+3      Luke Deratzou                   Becca Blackwood                 15-12 
+22     Markis Galea                    Nathan Cormier                  3-6   
+20     Matt Rosenbloom                 Gina Millott                    6-9   
+2      mavin liu                       Milo Brown                      14-14 
+13     Mike Adams                      Logan Hesch                     12-9  
+11     Mike Laing                      Isharah Considine              12-9  
+2      Milo Brown                      mavin liu                       14-14 
+4      Nathan C                        Sam White                       12-15 
+22     Nathan Cormier                  Markis Galea                    6-3   
+23     Phil iwanow                     Amber Cronin                    4-4   
+21     Philip Petronis                 Jonathon Streker                6-8   
+14     Ran Guo                         Evan Johnstone                  12-9  
+12     Raul Bottrell-Rogers            Joel Brook                     9-12  
+10     Reya Truher                     Veronica Kirtley                9-12  
+6      Ryan MacDonald                  Brian Kennes                    15-9  
+4      Sam White                       Nathan C                        15-12 
+1      Stan Kornacki                   Bradley Skubic                  14-14 
+9      Stella Burfeind                 Austin Wolf                     12-9  
+16     Tim Lawson                      Ian Marcellana                  9-6   
+24     tyler kaldenberg                Colin Hogan                     6-3   
+10     Veronica Kirtley                Reya Truher                     12-9  
+
+EventLink - Copyright © 2025 - Wizards of the Coast LLC
