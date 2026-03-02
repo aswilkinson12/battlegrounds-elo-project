@@ -1,146 +1,146 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1451.38,
+  "elo": 1437.97,
   "games": 15,
   "wins": 5,
   "losses": 10,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "David Van Hise",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1516.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Stan Kornacki",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Stella Burfeind",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1483.9661
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Dani Masom",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1483.9661,
-      "elo_after": 1468.0353
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Evan Johnstone",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1468.0353,
-      "elo_after": 1452.0323
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Stella Burfeind",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1452.0323,
-      "elo_after": 1437.4391
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Sean Marks",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1437.4391,
-      "elo_after": 1424.2894
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Stan Kornacki",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1424.2894,
-      "elo_after": 1414.4016
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Evan Johnstone",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1414.4016,
-      "elo_after": 1432.3451
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Alexander Gimmi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.3451,
-      "elo_after": 1419.4219
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1419.4219,
-      "elo_after": 1406.7435
+      "elo_before": 1484.0,
+      "elo_after": 1468.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1406.7435,
-      "elo_after": 1426.9379
+      "elo_before": 1468.0,
+      "elo_after": 1485.4695
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1426.9379,
-      "elo_after": 1412.9993
+      "elo_before": 1485.4695,
+      "elo_after": 1469.4357
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Markis Galea",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1412.9993,
-      "elo_after": 1432.9241
+      "elo_before": 1469.4357,
+      "elo_after": 1486.8397
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Elias Medrano",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1432.9241,
-      "elo_after": 1451.3801
+      "elo_before": 1486.8397,
+      "elo_after": 1502.8323
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.8323,
+      "elo_after": 1517.9703
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1517.9703,
+      "elo_after": 1504.4808
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1504.4808,
+      "elo_after": 1489.3587
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.3587,
+      "elo_after": 1473.2872
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.2872,
+      "elo_after": 1456.437
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1456.437,
+      "elo_after": 1442.6656
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1442.6656,
+      "elo_after": 1429.2823
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1429.2823,
+      "elo_after": 1420.7901
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1420.7901,
+      "elo_after": 1437.9713
     }
   ]
 }

@@ -1,110 +1,110 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1511.21,
+  "elo": 1497.76,
   "games": 11,
   "wins": 5,
   "losses": 5,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Milo Brown",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1500.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "John Larochelle",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.7363
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1484.7363,
-      "elo_after": 1469.4388
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Willow Blackthorne",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1469.4388,
-      "elo_after": 1486.8426
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Terry Eleftherakis",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1486.8426,
-      "elo_after": 1471.4482
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Sam White",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.4482,
-      "elo_after": 1488.7601
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Benjamin Wakefield",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1488.7601,
-      "elo_after": 1473.2775
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1473.2775,
-      "elo_after": 1491.175
+      "elo_before": 1499.2637,
+      "elo_after": 1515.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.175,
-      "elo_after": 1477.842
+      "elo_before": 1515.2976,
+      "elo_after": 1499.2299
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Tim Lawson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1477.842,
-      "elo_after": 1494.8611
+      "elo_before": 1499.2299,
+      "elo_after": 1515.2654
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1494.8611,
-      "elo_after": 1511.2146
+      "elo_before": 1515.2654,
+      "elo_after": 1531.333
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1531.333,
+      "elo_after": 1532.5732
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1532.5732,
+      "elo_after": 1515.7209
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1515.7209,
+      "elo_after": 1498.3465
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1498.3465,
+      "elo_after": 1514.4226
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1514.4226,
+      "elo_after": 1497.7588
     }
   ]
 }

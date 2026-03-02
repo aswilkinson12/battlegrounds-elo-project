@@ -1,110 +1,110 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1548.21,
+  "elo": 1552.26,
   "games": 11,
   "wins": 7,
   "losses": 3,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Mike Adams",
+      "opponent": "Markis Galea",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Amber Cronin",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1516.0,
-      "elo_after": 1532.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Gabe Dietz",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1532.0,
-      "elo_after": 1530.5305
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Anthony Wilkinson",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1530.5305,
-      "elo_after": 1514.5305
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Dani Masom",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1514.5305,
-      "elo_after": 1529.9261
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Markis Galea",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1529.9261,
-      "elo_after": 1544.5514
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Adipto Sengupta",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1544.5514,
-      "elo_after": 1558.5109
+      "elo_before": 1516.0,
+      "elo_after": 1531.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1558.5109,
-      "elo_after": 1541.5139
+      "elo_before": 1531.2637,
+      "elo_after": 1515.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1541.5139,
-      "elo_after": 1553.7217
+      "elo_before": 1515.2976,
+      "elo_after": 1531.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Austin Wolf",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.7217,
-      "elo_after": 1567.2672
+      "elo_before": 1531.2976,
+      "elo_after": 1545.8602
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Sam White",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1567.2672,
-      "elo_after": 1548.2076
+      "elo_before": 1545.8602,
+      "elo_after": 1527.7604
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.7604,
+      "elo_after": 1543.9247
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.9247,
+      "elo_after": 1556.2028
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Gabe Dietz",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1556.2028,
+      "elo_after": 1553.6369
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1553.6369,
+      "elo_after": 1537.817
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.817,
+      "elo_after": 1552.2589
     }
   ]
 }

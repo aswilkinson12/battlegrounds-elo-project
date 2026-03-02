@@ -1,146 +1,146 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1487.71,
+  "elo": 1468.38,
   "games": 15,
   "wins": 7,
   "losses": 8,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Dani Masom",
+      "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Autumn Garofalo",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1499.2637
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1499.2637,
-      "elo_after": 1515.2976
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Jason Flynn",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1515.2976,
-      "elo_after": 1498.5936
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Amy Altman",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1498.5936,
-      "elo_after": 1482.6598
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1482.6598,
-      "elo_after": 1497.253
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Ash DerManouelian",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1497.253,
-      "elo_after": 1481.3795
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Becca Blackwood",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1481.3795,
-      "elo_after": 1464.8887
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Dani Masom",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1464.8887,
-      "elo_after": 1448.4793
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Sean Marks",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1448.4793,
-      "elo_after": 1466.8347
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1466.8347,
-      "elo_after": 1485.0838
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1485.0838,
-      "elo_after": 1501.7703
+      "elo_before": 1532.0,
+      "elo_after": 1546.5305
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "mavin liu",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.7703,
-      "elo_after": 1485.6888
+      "elo_before": 1546.5305,
+      "elo_after": 1528.4004
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Etai Kurtzman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.6888,
-      "elo_after": 1470.3475
+      "elo_before": 1528.4004,
+      "elo_after": 1511.0954
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Austin Wolf",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.3475,
-      "elo_after": 1487.7097
+      "elo_before": 1511.0954,
+      "elo_after": 1526.5846
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.5846,
+      "elo_after": 1541.4621
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Autumn Garofalo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.4621,
+      "elo_after": 1523.5617
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1523.5617,
+      "elo_after": 1538.6839
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1538.6839,
+      "elo_after": 1520.9098
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.9098,
+      "elo_after": 1505.147
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1505.147,
+      "elo_after": 1518.9184
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Ash DerManouelian",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.9184,
+      "elo_after": 1502.048
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.048,
+      "elo_after": 1485.5986
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1485.5986,
+      "elo_after": 1468.3816
     }
   ]
 }

@@ -1,110 +1,110 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1514.31,
+  "elo": 1518.87,
   "games": 11,
   "wins": 6,
   "losses": 5,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Anthony Wilkinson",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Ryan MacDonald",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Jonathon Torchia",
+      "opponent": "tyler kaldenberg",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1499.9677
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Reya Truher",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1499.9677,
-      "elo_after": 1515.9059
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "tyler kaldenberg",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1515.9059,
-      "elo_after": 1531.1739
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1531.1739,
-      "elo_after": 1514.6749
+      "elo_before": 1516.0,
+      "elo_after": 1500.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Veronica Kirtley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.6749,
-      "elo_after": 1496.7775
+      "elo_before": 1500.0,
+      "elo_after": 1483.9661
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.7775,
-      "elo_after": 1514.3106
+      "elo_before": 1483.9661,
+      "elo_after": 1500.0016
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1514.3106,
-      "elo_after": 1529.6519
+      "elo_before": 1500.0016,
+      "elo_after": 1516.0015
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1529.6519,
-      "elo_after": 1514.3094
+      "elo_before": 1516.0015,
+      "elo_after": 1499.9381
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.9381,
+      "elo_after": 1485.3058
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1485.3058,
+      "elo_after": 1503.9353
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1503.9353,
+      "elo_after": 1519.7541
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.7541,
+      "elo_after": 1502.9913
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.9913,
+      "elo_after": 1518.8655
     }
   ]
 }

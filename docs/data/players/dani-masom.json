@@ -1,146 +1,146 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1493.12,
+  "elo": 1495.71,
   "games": 15,
   "wins": 7,
   "losses": 8,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Stella Burfeind",
+      "opponent": "Graham Bateman",
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1484.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1484.0,
-      "elo_after": 1468.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Willow Blackthorne",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1468.0,
-      "elo_after": 1485.4695
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1485.4695,
-      "elo_after": 1501.4003
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Nathan Choi",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1501.4003,
-      "elo_after": 1486.0046
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Ash DerManouelian",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1486.0046,
-      "elo_after": 1470.6488
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Jason Weiss",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1470.6488,
-      "elo_after": 1455.9973
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Stella Burfeind",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1455.9973,
-      "elo_after": 1472.4067
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Mike Adams",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1472.4067,
-      "elo_after": 1490.9248
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Graham Bateman",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1490.9248,
-      "elo_after": 1475.3427
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1475.3427,
-      "elo_after": 1492.4763
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Austin Wolf",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1492.4763,
-      "elo_after": 1476.8227
+      "elo_before": 1500.7363,
+      "elo_after": 1484.7024
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1476.8227,
-      "elo_after": 1458.0925
+      "elo_before": 1484.7024,
+      "elo_after": 1468.0336
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Phil iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1458.0925,
-      "elo_after": 1476.0131
+      "elo_before": 1468.0336,
+      "elo_after": 1485.5016
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1476.0131,
-      "elo_after": 1493.116
+      "elo_before": 1485.5016,
+      "elo_after": 1502.1689
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.1689,
+      "elo_after": 1487.2914
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1487.2914,
+      "elo_after": 1470.448
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.448,
+      "elo_after": 1487.8056
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1487.8056,
+      "elo_after": 1503.8771
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1503.8771,
+      "elo_after": 1489.4352
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Ash DerManouelian",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.4352,
+      "elo_after": 1473.9215
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Jason Weiss",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.9215,
+      "elo_after": 1459.1203
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.1203,
+      "elo_after": 1476.3373
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.3373,
+      "elo_after": 1495.7103
     }
   ]
 }

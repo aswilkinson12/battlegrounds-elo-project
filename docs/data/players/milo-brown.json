@@ -1,110 +1,110 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1584.92,
+  "elo": 1579.88,
   "games": 11,
   "wins": 7,
   "losses": 1,
   "ties": 3,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Veronica Kirtley",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1500.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Mike Adams",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1483.2637
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Daniel Hernandez",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1483.2637,
-      "elo_after": 1500.0338
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Sean Marks",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0338,
-      "elo_after": 1516.0323
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Gabe Dietz",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1516.0323,
-      "elo_after": 1531.2945
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Phil iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1531.2945,
-      "elo_after": 1545.8572
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Tim Lawson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.8572,
-      "elo_after": 1559.7576
+      "elo_before": 1516.0,
+      "elo_after": 1531.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.7576,
-      "elo_after": 1575.6145
+      "elo_before": 1531.2637,
+      "elo_after": 1547.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Luke Deratzou",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1575.6145,
-      "elo_after": 1588.1863
+      "elo_before": 1547.2637,
+      "elo_after": 1561.1004
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Stan Kornacki",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1588.1863,
-      "elo_after": 1588.9264
+      "elo_before": 1561.1004,
+      "elo_after": 1561.1019
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "mavin liu",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1588.9264,
-      "elo_after": 1584.9184
+      "elo_before": 1561.1019,
+      "elo_after": 1558.3167
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Veronica Kirtley",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1558.3167,
+      "elo_after": 1557.0766
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1557.0766,
+      "elo_after": 1539.1558
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1539.1558,
+      "elo_after": 1553.3602
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.3602,
+      "elo_after": 1566.922
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Gabe Dietz",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1566.922,
+      "elo_after": 1579.8777
     }
   ]
 }

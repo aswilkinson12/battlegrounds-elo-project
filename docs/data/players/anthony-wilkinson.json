@@ -1,155 +1,155 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1605.92,
+  "elo": 1616.58,
   "games": 16,
   "wins": 12,
   "losses": 3,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Isharah Considine",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1516.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Amy Altman",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1516.0,
-      "elo_after": 1532.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Thomas Kotcher",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1532.0,
-      "elo_after": 1530.5305
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Nathan Choi",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1530.5305,
-      "elo_after": 1546.5305
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Jason Flynn",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1546.5305,
-      "elo_after": 1560.4004
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Mike Adams",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1560.4004,
-      "elo_after": 1575.0896
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "[REDACTED] [REDACTED]",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1575.0896,
-      "elo_after": 1587.6844
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "David Van Hise",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1587.6844,
-      "elo_after": 1603.0434
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Nathan Cormier",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1603.0434,
-      "elo_after": 1584.3774
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Ash DerManouelian",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1584.3774,
-      "elo_after": 1596.5663
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1596.5663,
-      "elo_after": 1576.2303
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "tyler kaldenberg",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1576.2303,
-      "elo_after": 1588.775
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1588.775,
-      "elo_after": 1602.7301
+      "elo_before": 1500.7363,
+      "elo_after": 1516.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1602.7301,
-      "elo_after": 1614.1324
+      "elo_before": 1516.7363,
+      "elo_after": 1531.9662
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1614.1324,
-      "elo_after": 1627.5403
+      "elo_before": 1531.9662,
+      "elo_after": 1547.9015
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Etai Kurtzman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1627.5403,
-      "elo_after": 1605.9172
+      "elo_before": 1547.9015,
+      "elo_after": 1529.7094
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1529.7094,
+      "elo_after": 1544.3417
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.3417,
+      "elo_after": 1560.2966
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Thomas Kotcher",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1560.2966,
+      "elo_after": 1557.5474
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1557.5474,
+      "elo_after": 1573.3674
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.3674,
+      "elo_after": 1586.038
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1586.038,
+      "elo_after": 1600.7482
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.7482,
+      "elo_after": 1612.2344
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1612.2344,
+      "elo_after": 1626.0719
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1626.0719,
+      "elo_after": 1605.2896
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Ash DerManouelian",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.2896,
+      "elo_after": 1616.5841
     }
   ]
 }

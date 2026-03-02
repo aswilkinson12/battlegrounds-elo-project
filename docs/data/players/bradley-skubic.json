@@ -1,65 +1,65 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1568.38,
+  "elo": 1561.0,
   "games": 6,
   "wins": 4,
   "losses": 0,
   "ties": 2,
   "matches": [
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1520.336
+      "elo_after": 1516.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.336,
-      "elo_after": 1536.8349
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1536.8349,
-      "elo_after": 1553.8318
+      "elo_before": 1532.0,
+      "elo_after": 1547.9661
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.8318,
-      "elo_after": 1569.8637
+      "elo_before": 1547.9661,
+      "elo_after": 1563.9
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "mavin liu",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1569.8637,
-      "elo_after": 1566.689
+      "elo_before": 1563.9,
+      "elo_after": 1560.99
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Stan Kornacki",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1566.689,
-      "elo_after": 1568.3793
+      "elo_before": 1560.99,
+      "elo_after": 1560.9965
     }
   ]
 }

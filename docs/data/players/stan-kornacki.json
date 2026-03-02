@@ -1,155 +1,155 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1601.84,
+  "elo": 1593.56,
   "games": 16,
   "wins": 11,
   "losses": 2,
   "ties": 3,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Jarrod Haase",
+      "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1516.0,
-      "elo_after": 1532.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Kenton Najdzien",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1532.0,
-      "elo_after": 1546.5305
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Autumn Garofalo",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1546.5305,
-      "elo_after": 1560.4004
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Mike Laing",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1560.4004,
-      "elo_after": 1575.7605
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Gina Millott",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1575.7605,
-      "elo_after": 1556.3259
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Evan Hamlin",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1556.3259,
-      "elo_after": 1569.7545
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Jarrod Haase",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1569.7545,
-      "elo_after": 1564.1035
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1564.1035,
-      "elo_after": 1573.9912
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "[REDACTED] [REDACTED]",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1573.9912,
-      "elo_after": 1554.6344
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Reya Truher",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1554.6344,
-      "elo_after": 1567.3677
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Graham Bateman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1567.3677,
-      "elo_after": 1580.3036
+      "elo_before": 1516.0,
+      "elo_after": 1531.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1580.3036,
-      "elo_after": 1592.429
+      "elo_before": 1531.2637,
+      "elo_after": 1547.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Brian Kennes",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1592.429,
-      "elo_after": 1604.2702
+      "elo_before": 1547.2976,
+      "elo_after": 1561.1328
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Milo Brown",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1604.2702,
-      "elo_after": 1603.53
+      "elo_before": 1561.1328,
+      "elo_after": 1561.1313
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Bradley Skubic",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1603.53,
-      "elo_after": 1601.8398
+      "elo_before": 1561.1313,
+      "elo_after": 1561.1248
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1561.1248,
+      "elo_after": 1572.9403
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1572.9403,
+      "elo_after": 1586.4297
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1586.4297,
+      "elo_after": 1598.5296
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Autumn Garofalo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1598.5296,
+      "elo_after": 1610.11
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1610.11,
+      "elo_after": 1624.4154
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1624.4154,
+      "elo_after": 1602.9189
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1602.9189,
+      "elo_after": 1614.3132
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1614.3132,
+      "elo_after": 1606.1595
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1606.1595,
+      "elo_after": 1614.6517
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1614.6517,
+      "elo_after": 1593.5554
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1499.61,
+  "elo": 1499.94,
   "games": 6,
   "wins": 3,
   "losses": 3,
   "ties": 0,
   "matches": [
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Ian Marcellana",
       "result": "L",
@@ -17,7 +17,7 @@
       "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Phil iwanow",
       "result": "W",
@@ -26,40 +26,40 @@
       "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.7363,
-      "elo_after": 1516.1194
+      "elo_after": 1516.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Austin Wolf",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.1194,
-      "elo_after": 1499.3776
+      "elo_before": 1516.7363,
+      "elo_after": 1499.9662
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Matt Rosenbloom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.3776,
-      "elo_after": 1515.4063
+      "elo_before": 1499.9662,
+      "elo_after": 1515.9677
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.4063,
-      "elo_after": 1499.6128
+      "elo_before": 1515.9677,
+      "elo_after": 1499.9369
     }
   ]
 }

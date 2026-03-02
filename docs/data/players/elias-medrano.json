@@ -1,14 +1,14 @@
 {
   "player": "Elias Medrano",
   "slug": "elias-medrano",
-  "elo": 1468.22,
+  "elo": 1470.69,
   "games": 6,
   "wins": 2,
   "losses": 4,
   "ties": 0,
   "matches": [
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Austin Wolf",
       "result": "L",
@@ -17,7 +17,7 @@
       "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Joel Brook",
       "result": "L",
@@ -26,7 +26,7 @@
       "elo_after": 1468.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Sean Marks",
       "result": "W",
@@ -35,7 +35,7 @@
       "elo_after": 1486.1722
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Michael Stopa",
       "result": "W",
@@ -44,7 +44,7 @@
       "elo_after": 1502.8086
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Avi Lessure",
       "result": "L",
@@ -53,13 +53,13 @@
       "elo_after": 1486.6793
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
       "elo_before": 1486.6793,
-      "elo_after": 1468.2233
+      "elo_after": 1470.6867
     }
   ]
 }

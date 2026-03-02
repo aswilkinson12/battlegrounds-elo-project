@@ -1,101 +1,101 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1456.83,
+  "elo": 1472.8,
   "games": 10,
   "wins": 3,
   "losses": 6,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Willow Blackthorne",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1516.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Nathan Choi",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Mike Adams",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.0339
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Evan Johnstone",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0339,
-      "elo_after": 1500.0308
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Sean Thornton",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0308,
-      "elo_after": 1516.0294
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Luke Deratzou",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0294,
-      "elo_after": 1499.2917
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.2917,
-      "elo_after": 1484.6419
+      "elo_before": 1484.0,
+      "elo_after": 1468.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Graham Bateman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1484.6419,
-      "elo_after": 1469.3487
+      "elo_before": 1468.7363,
+      "elo_after": 1454.1722
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1469.3487,
-      "elo_after": 1454.7566
+      "elo_before": 1454.1722,
+      "elo_after": 1440.2705
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Phil iwanow",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1454.7566,
-      "elo_after": 1456.8284
+      "elo_before": 1440.2705,
+      "elo_after": 1442.9943
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Willow Blackthorne",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1442.9943,
+      "elo_after": 1461.5962
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1461.5962,
+      "elo_after": 1449.3182
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1449.3182,
+      "elo_after": 1437.1028
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.1028,
+      "elo_after": 1454.7241
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.7241,
+      "elo_after": 1472.7974
     }
   ]
 }

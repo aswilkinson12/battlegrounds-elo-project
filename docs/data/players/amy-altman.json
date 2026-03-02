@@ -1,155 +1,155 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1557.35,
+  "elo": 1563.46,
   "games": 16,
   "wins": 10,
   "losses": 5,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Jonathon Torchia",
+      "opponent": "Ryan MacDonald",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Anthony Wilkinson",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Philip Petronis",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Becca Blackwood",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0,
-      "elo_after": 1500.0308
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Stella Burfeind",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0308,
-      "elo_after": 1515.9646
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1515.9646,
-      "elo_after": 1501.3394
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Jarrod Haase",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1501.3394,
-      "elo_after": 1515.237
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Sean Marks",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1515.237,
-      "elo_after": 1530.5357
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Jason Weiss",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1530.5357,
-      "elo_after": 1545.1331
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Becca Blackwood",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1545.1331,
-      "elo_after": 1543.3341
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Ryan MacDonald",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1543.3341,
-      "elo_after": 1555.2856
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Etai Kurtzman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1555.2856,
-      "elo_after": 1568.7608
+      "elo_before": 1516.0,
+      "elo_after": 1531.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Brian Kennes",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1568.7608,
-      "elo_after": 1549.635
+      "elo_before": 1531.2637,
+      "elo_after": 1513.8278
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Veronica Kirtley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1549.635,
-      "elo_after": 1562.9679
+      "elo_before": 1513.8278,
+      "elo_after": 1529.8955
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Luke Deratzou",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1562.9679,
-      "elo_after": 1544.0995
+      "elo_before": 1529.8955,
+      "elo_after": 1512.5222
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1544.0995,
-      "elo_after": 1557.3465
+      "elo_before": 1512.5222,
+      "elo_after": 1528.6807
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1528.6807,
+      "elo_after": 1543.3629
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1543.3629,
+      "elo_after": 1527.408
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1527.408,
+      "elo_after": 1510.1484
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1510.1484,
+      "elo_after": 1526.0608
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.0608,
+      "elo_after": 1541.8236
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.8236,
+      "elo_after": 1525.5105
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1525.5105,
+      "elo_after": 1537.2506
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.2506,
+      "elo_after": 1551.5417
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Jason Weiss",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1551.5417,
+      "elo_after": 1565.1854
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1565.1854,
+      "elo_after": 1563.4569
     }
   ]
 }

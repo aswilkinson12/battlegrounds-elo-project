@@ -1,137 +1,137 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1418.96,
+  "elo": 1414.45,
   "games": 14,
   "wins": 3,
   "losses": 10,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Stan Kornacki",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Evan Johnstone",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0,
-      "elo_after": 1500.7701
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "John Larochelle",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.7701,
-      "elo_after": 1485.3712
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Karl Rookey",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1485.3712,
-      "elo_after": 1470.0445
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Nathan Cormier",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1470.0445,
-      "elo_after": 1455.4206
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Amy Altman",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1455.4206,
-      "elo_after": 1441.523
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Stan Kornacki",
-      "result": "T",
-      "score": 0.5,
-      "elo_before": 1441.523,
-      "elo_after": 1447.174
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Sean Marks",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1447.174,
-      "elo_after": 1433.5881
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Matt Rosenbloom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1433.5881,
-      "elo_after": 1452.6098
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Alexander Gimmi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1452.6098,
-      "elo_after": 1438.7788
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Matt Suyer",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1438.7788,
-      "elo_after": 1457.5693
+      "elo_before": 1499.2637,
+      "elo_after": 1515.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.5693,
-      "elo_after": 1445.3616
+      "elo_before": 1515.2976,
+      "elo_after": 1499.2976
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Joel Brook",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1445.3616,
-      "elo_after": 1431.8572
+      "elo_before": 1499.2976,
+      "elo_after": 1483.3299
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1431.8572,
-      "elo_after": 1418.9557
+      "elo_before": 1483.3299,
+      "elo_after": 1468.097
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.097,
+      "elo_after": 1456.2816
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1456.2816,
+      "elo_after": 1473.8285
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.8285,
+      "elo_after": 1459.6467
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Karl Rookey",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.6467,
+      "elo_after": 1445.4967
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1445.4967,
+      "elo_after": 1430.7258
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1430.7258,
+      "elo_after": 1418.9856
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "T",
+      "score": 0.5,
+      "elo_before": 1418.9856,
+      "elo_after": 1427.1393
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1427.1393,
+      "elo_after": 1414.4464
     }
   ]
 }

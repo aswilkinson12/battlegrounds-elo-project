@@ -1,110 +1,110 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1486.19,
+  "elo": 1484.39,
   "games": 11,
   "wins": 5,
   "losses": 6,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
-      "round": 1,
-      "opponent": "Daniel Cotto",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1516.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Kenton Najdzien",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1499.2637
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Becca Blackwood",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1499.2637,
-      "elo_after": 1515.3315
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Philip Petronis",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1515.3315,
-      "elo_after": 1498.6259
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Isharah Considine",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1498.6259,
-      "elo_after": 1482.6877
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.6877,
-      "elo_after": 1469.9544
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Matt Rosenbloom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.9544,
-      "elo_after": 1487.3346
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1487.3346,
-      "elo_after": 1471.9515
+      "elo_before": 1500.7363,
+      "elo_after": 1484.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.9515,
-      "elo_after": 1485.8901
+      "elo_before": 1484.7363,
+      "elo_after": 1500.7701
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1485.8901,
-      "elo_after": 1502.5395
+      "elo_before": 1500.7701,
+      "elo_after": 1516.7346
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Veronica Kirtley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.5395,
-      "elo_after": 1486.1859
+      "elo_before": 1516.7346,
+      "elo_after": 1500.6669
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Daniel Cotto",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.6669,
+      "elo_after": 1516.6362
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.6362,
+      "elo_after": 1499.8707
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.8707,
+      "elo_after": 1517.0452
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1517.0452,
+      "elo_after": 1500.2609
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.2609,
+      "elo_after": 1484.3866
     }
   ]
 }

@@ -1,155 +1,155 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1444.57,
+  "elo": 1429.31,
   "games": 16,
   "wins": 5,
   "losses": 10,
   "ties": 1,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Devon O'Donnell",
+      "opponent": "Avi Lessure",
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1484.0
     },
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
-      "opponent": "Sean Marks",
-      "result": "W",
-      "score": 1.0,
+      "opponent": "Jonathon Streker",
+      "result": "L",
+      "score": 0.0,
       "elo_before": 1484.0,
-      "elo_after": 1500.7363
+      "elo_after": 1468.7363
     },
     {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Jarrod Haase",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.7363,
-      "elo_after": 1483.9662
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Amber Cronin",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1483.9662,
-      "elo_after": 1467.9693
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Hex Dowd",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1467.9693,
-      "elo_after": 1483.9723
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Jonathon Streker",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1483.9723,
-      "elo_after": 1500.7099
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Nathan Cormier",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.7099,
-      "elo_after": 1485.3503
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Mike Adams",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1485.3503,
-      "elo_after": 1471.5035
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Sean Marks",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1471.5035,
-      "elo_after": 1456.8129
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Hex Dowd",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1456.8129,
-      "elo_after": 1438.8695
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Avi Lessure",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1438.8695,
-      "elo_after": 1425.6559
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 2,
-      "opponent": "Jonathon Streker",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1425.6559,
-      "elo_after": 1413.0283
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Timothy Haase",
       "result": "T",
       "score": 0.5,
-      "elo_before": 1413.0283,
-      "elo_after": 1416.9519
+      "elo_before": 1468.7363,
+      "elo_after": 1470.1722
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1416.9519,
-      "elo_after": 1435.682
+      "elo_before": 1470.1722,
+      "elo_after": 1486.8409
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1435.682,
-      "elo_after": 1457.6382
+      "elo_before": 1486.8409,
+      "elo_after": 1503.4805
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Ran Guo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.6382,
-      "elo_after": 1444.5662
+      "elo_before": 1503.4805,
+      "elo_after": 1488.18
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Devon O'Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1488.18,
+      "elo_after": 1472.7241
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.7241,
+      "elo_after": 1489.9776
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.9776,
+      "elo_after": 1472.4307
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Amber Cronin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.4307,
+      "elo_after": 1454.8094
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.8094,
+      "elo_after": 1471.6595
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.6595,
+      "elo_after": 1488.9618
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1488.9618,
+      "elo_after": 1472.8718
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.8718,
+      "elo_after": 1460.6841
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1460.6841,
+      "elo_after": 1446.487
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1446.487,
+      "elo_after": 1429.3058
     }
   ]
 }

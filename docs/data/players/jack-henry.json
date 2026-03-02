@@ -1,110 +1,110 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1470.47,
+  "elo": 1454.66,
   "games": 11,
   "wins": 4,
   "losses": 7,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Jason Flynn",
-      "result": "L",
-      "score": 0.0,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1484.0
+      "elo_after": 1516.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Daniel Hernandez",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0,
-      "elo_after": 1500.7363
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Thomas Ostroff",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.7363,
-      "elo_after": 1484.7024
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Sean Thornton",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1484.7024,
-      "elo_after": 1469.4064
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Willow Blackthorne",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1469.4064,
-      "elo_after": 1454.8117
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Daniel Hernandez",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1454.8117,
-      "elo_after": 1472.881
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1472.881,
-      "elo_after": 1494.4631
+      "elo_before": 1516.0,
+      "elo_after": 1532.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.4631,
-      "elo_after": 1482.3376
+      "elo_before": 1532.0,
+      "elo_after": 1515.9661
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.3376,
-      "elo_after": 1499.9457
+      "elo_before": 1515.9661,
+      "elo_after": 1531.9677
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Ryan MacDonald",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.9457,
-      "elo_after": 1483.719
+      "elo_before": 1531.9677,
+      "elo_after": 1515.9661
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1483.719,
-      "elo_after": 1470.472
+      "elo_before": 1515.9661,
+      "elo_after": 1499.8075
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.8075,
+      "elo_after": 1483.8164
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1483.8164,
+      "elo_after": 1500.5611
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Thomas Ostroff",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.5611,
+      "elo_after": 1484.5353
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.5353,
+      "elo_after": 1469.247
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Willow Blackthorne",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.247,
+      "elo_after": 1454.6595
     }
   ]
 }

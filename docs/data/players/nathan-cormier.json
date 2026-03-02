@@ -1,110 +1,110 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1512.24,
+  "elo": 1524.89,
   "games": 11,
   "wins": 6,
   "losses": 5,
   "ties": 0,
   "matches": [
     {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Jarrod Haase",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1514.6239
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Evan Johnstone",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1514.6239,
-      "elo_after": 1529.9835
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Ash DerManouelian",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1529.9835,
-      "elo_after": 1544.6061
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Anthony Wilkinson",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1544.6061,
-      "elo_after": 1563.2722
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1563.2722,
-      "elo_after": 1547.6618
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
       "opponent": "Etai Kurtzman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1547.6618,
-      "elo_after": 1529.4805
+      "elo_before": 1500.0,
+      "elo_after": 1484.0
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "Terry Eleftherakis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1529.4805,
-      "elo_after": 1544.1261
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1544.1261,
-      "elo_after": 1530.1711
+      "elo_before": 1500.7363,
+      "elo_after": 1484.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1530.1711,
-      "elo_after": 1512.6379
+      "elo_before": 1484.7363,
+      "elo_after": 1468.7008
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1512.6379,
-      "elo_after": 1496.0562
+      "elo_before": 1468.7008,
+      "elo_after": 1454.1383
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Markis Galea",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.0562,
-      "elo_after": 1512.2378
+      "elo_before": 1454.1383,
+      "elo_after": 1472.2382
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.2382,
+      "elo_after": 1487.0091
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1487.0091,
+      "elo_after": 1503.099
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Ash DerManouelian",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1503.099,
+      "elo_after": 1518.9563
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.9563,
+      "elo_after": 1539.7386
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.7386,
+      "elo_after": 1524.8913
     }
   ]
 }

@@ -1,146 +1,146 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1549.59,
+  "elo": 1579.66,
   "games": 15,
   "wins": 10,
   "losses": 5,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Hex Dowd",
+      "opponent": "Ran Guo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1484.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Dani Masom",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1484.0,
-      "elo_after": 1500.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Veronica Kirtley",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1500.0,
-      "elo_after": 1515.2975
-    },
-    {
-      "week": "2_13_26",
-      "round": 4,
-      "opponent": "Isharah Considine",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1515.2975,
-      "elo_after": 1531.3299
-    },
-    {
-      "week": "2_13_26",
-      "round": 5,
-      "opponent": "Kenton Najdzien",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1531.3299,
-      "elo_after": 1545.891
-    },
-    {
-      "week": "2_20_26",
-      "round": 1,
-      "opponent": "Amy Altman",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1545.891,
-      "elo_after": 1560.5162
-    },
-    {
-      "week": "2_20_26",
-      "round": 2,
-      "opponent": "Jason Weiss",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1560.5162,
-      "elo_after": 1573.7572
-    },
-    {
-      "week": "2_20_26",
-      "round": 3,
-      "opponent": "Anthony Wilkinson",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1573.7572,
-      "elo_after": 1558.3982
-    },
-    {
-      "week": "2_20_26",
-      "round": 4,
-      "opponent": "Gina Millott",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1558.3982,
-      "elo_after": 1571.7339
-    },
-    {
-      "week": "2_20_26",
-      "round": 5,
-      "opponent": "Nathan Cormier",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1571.7339,
-      "elo_after": 1587.3443
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Ran Guo",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1587.3443,
-      "elo_after": 1599.4046
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 2,
-      "opponent": "Jack Henry",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1599.4046,
-      "elo_after": 1577.8226
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 3,
-      "opponent": "Raul Bottrell-Rogers",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1577.8226,
-      "elo_after": 1558.1991
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.1991,
-      "elo_after": 1571.5437
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1571.5437,
-      "elo_after": 1549.5876
+      "elo_before": 1500.7363,
+      "elo_after": 1484.0967
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0967,
+      "elo_after": 1468.9587
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.9587,
+      "elo_after": 1485.8022
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1485.8022,
+      "elo_after": 1503.1766
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1503.1766,
+      "elo_after": 1519.9394
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.9394,
+      "elo_after": 1535.0222
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1535.0222,
+      "elo_after": 1551.3354
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Jason Weiss",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1551.3354,
+      "elo_after": 1564.9884
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1564.9884,
+      "elo_after": 1551.1508
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1551.1508,
+      "elo_after": 1564.8121
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1564.8121,
+      "elo_after": 1579.6594
     }
   ]
 }

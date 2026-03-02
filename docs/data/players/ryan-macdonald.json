@@ -1,92 +1,92 @@
 {
   "player": "Ryan MacDonald",
   "slug": "ryan-macdonald",
-  "elo": 1526.73,
+  "elo": 1507.18,
   "games": 9,
   "wins": 5,
   "losses": 4,
   "ties": 0,
   "matches": [
     {
-      "week": "2_13_26",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Thomas Kotcher",
+      "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1484.0
     },
     {
-      "week": "2_13_26",
-      "round": 2,
-      "opponent": "Isharah Considine",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1484.0,
-      "elo_after": 1468.0
-    },
-    {
-      "week": "2_13_26",
-      "round": 3,
-      "opponent": "Sean Thornton",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1468.0,
-      "elo_after": 1453.4695
-    },
-    {
-      "week": "brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Amy Altman",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1453.4695,
-      "elo_after": 1441.518
-    },
-    {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
       "opponent": "John Petrella",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1441.518,
-      "elo_after": 1460.1861
+      "elo_before": 1484.0,
+      "elo_after": 1500.7363
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
       "opponent": "Michael Stopa",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1460.1861,
-      "elo_after": 1478.0116
+      "elo_before": 1500.7363,
+      "elo_after": 1516.7024
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1478.0116,
-      "elo_after": 1495.0228
+      "elo_before": 1516.7024,
+      "elo_after": 1531.9338
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1495.0228,
-      "elo_after": 1511.2495
+      "elo_before": 1531.9338,
+      "elo_after": 1547.9354
     },
     {
-      "week": "brainstormin_charity_tournament",
+      "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Brian Kennes",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1511.2495,
-      "elo_after": 1526.7317
+      "elo_before": 1547.9354,
+      "elo_after": 1561.7418
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1561.7418,
+      "elo_after": 1542.928
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1542.928,
+      "elo_after": 1524.2985
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1524.2985,
+      "elo_after": 1507.1813
     }
   ]
 }
