@@ -5,7 +5,7 @@
   "games": 6,
   "wins": 4,
   "losses": 0,
-  "ties": 2,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -14,7 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -23,16 +24,18 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1516.0,
-      "elo_after": 1532.0
+      "elo_after": 1532.0,
+      "opp_elo": 1516.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
-      "opponent": "Nathan Choi",
+      "opponent": "Nathan \"Nemo\" Choi",
       "result": "W",
       "score": 1.0,
       "elo_before": 1532.0,
-      "elo_after": 1547.9661
+      "elo_after": 1547.9661,
+      "opp_elo": 1531.2637
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,25 +44,28 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1547.9661,
-      "elo_after": 1563.9
+      "elo_after": 1563.9,
+      "opp_elo": 1546.5305
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "mavin liu",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1563.9,
-      "elo_after": 1560.99
+      "elo_after": 1560.99,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Stan Kornacki",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1560.99,
-      "elo_after": 1560.9965
+      "elo_after": 1560.9965,
+      "opp_elo": 1561.1313
     }
   ]
 }

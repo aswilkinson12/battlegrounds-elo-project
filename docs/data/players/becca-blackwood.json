@@ -5,7 +5,7 @@
   "games": 15,
   "wins": 8,
   "losses": 6,
-  "ties": 1,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -14,7 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -23,7 +24,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1516.0,
-      "elo_after": 1532.0
+      "elo_after": 1532.0,
+      "opp_elo": 1516.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -32,7 +34,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1532.0,
-      "elo_after": 1546.5305
+      "elo_after": 1546.5305,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,7 +44,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1546.5305,
-      "elo_after": 1530.5966
+      "elo_after": 1530.5966,
+      "opp_elo": 1547.9661
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -50,7 +54,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1530.5966,
-      "elo_after": 1545.1912
+      "elo_after": 1545.1912,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,7 +64,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1545.1912,
-      "elo_after": 1527.1217
+      "elo_after": 1527.1217,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -68,7 +74,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1527.1217,
-      "elo_after": 1509.8753
+      "elo_after": 1509.8753,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -77,7 +84,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1509.8753,
-      "elo_after": 1525.4206
+      "elo_after": 1525.4206,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -86,7 +94,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1525.4206,
-      "elo_after": 1508.2461
+      "elo_after": 1508.2461,
+      "opp_elo": 1499.8707
     },
     {
       "week": "26-2-13",
@@ -95,7 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1508.2461,
-      "elo_after": 1492.3337
+      "elo_after": 1492.3337,
+      "opp_elo": 1510.1484
     },
     {
       "week": "26-2-20",
@@ -104,7 +114,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1492.3337,
-      "elo_after": 1508.6867
+      "elo_after": 1508.6867,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-20",
@@ -113,7 +124,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1508.6867,
-      "elo_after": 1492.2868
+      "elo_after": 1492.2868,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-20",
@@ -122,7 +134,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1492.2868,
-      "elo_after": 1508.7362
+      "elo_after": 1508.7362,
+      "opp_elo": 1502.048
     },
     {
       "week": "26-2-20",
@@ -131,16 +144,18 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1508.7362,
-      "elo_after": 1527.5047
+      "elo_after": 1527.5047,
+      "opp_elo": 1569.4648
     },
     {
       "week": "26-2-20",
       "round": 5,
       "opponent": "Amy Altman",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1527.5047,
-      "elo_after": 1529.2332
+      "elo_after": 1529.2332,
+      "opp_elo": 1565.1854
     }
   ]
 }

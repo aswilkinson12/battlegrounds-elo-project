@@ -5,7 +5,7 @@
   "games": 5,
   "wins": 3,
   "losses": 1,
-  "ties": 1,
+  "draws": 1,
   "matches": [
     {
       "week": "26-2-13",
@@ -14,7 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -23,7 +24,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.0,
-      "elo_after": 1500.6761
+      "elo_after": 1500.6761,
+      "opp_elo": 1530.6893
     },
     {
       "week": "26-2-13",
@@ -32,7 +34,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.6761,
-      "elo_after": 1516.6449
+      "elo_after": 1516.6449,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -41,16 +44,18 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1516.6449,
-      "elo_after": 1531.879
+      "elo_after": 1531.879,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
       "round": 5,
       "opponent": "Mike Adams",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1531.879,
-      "elo_after": 1533.1358
+      "elo_after": 1533.1358,
+      "opp_elo": 1559.226
     }
   ]
 }

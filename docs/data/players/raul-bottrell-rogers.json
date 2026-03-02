@@ -5,7 +5,7 @@
   "games": 6,
   "wins": 3,
   "losses": 3,
-  "ties": 0,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -14,7 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -23,7 +24,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.0,
-      "elo_after": 1500.0
+      "elo_after": 1500.0,
+      "opp_elo": 1516.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -32,7 +34,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,7 +44,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.0,
-      "elo_after": 1499.9984
+      "elo_after": 1499.9984,
+      "opp_elo": 1515.9661
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -50,7 +54,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1499.9984,
-      "elo_after": 1515.9985
+      "elo_after": 1515.9985,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,7 +64,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1515.9985,
-      "elo_after": 1499.2623
+      "elo_after": 1499.2623,
+      "opp_elo": 1500.0
     }
   ]
 }

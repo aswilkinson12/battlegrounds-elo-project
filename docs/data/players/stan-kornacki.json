@@ -5,7 +5,7 @@
   "games": 16,
   "wins": 11,
   "losses": 2,
-  "ties": 3,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -14,7 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0
+      "elo_after": 1516.0,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -23,7 +24,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1516.0,
-      "elo_after": 1531.2637
+      "elo_after": 1531.2637,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -32,7 +34,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1531.2637,
-      "elo_after": 1547.2976
+      "elo_after": 1547.2976,
+      "opp_elo": 1532.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,25 +44,28 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1547.2976,
-      "elo_after": 1561.1328
+      "elo_after": 1561.1328,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Milo Brown",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1561.1328,
-      "elo_after": 1561.1313
+      "elo_after": 1561.1313,
+      "opp_elo": 1561.1004
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Bradley Skubic",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1561.1313,
-      "elo_after": 1561.1248
+      "elo_after": 1561.1248,
+      "opp_elo": 1560.99
     },
     {
       "week": "26-2-13",
@@ -68,7 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1561.1248,
-      "elo_after": 1572.9403
+      "elo_after": 1572.9403,
+      "opp_elo": 1468.097
     },
     {
       "week": "26-2-13",
@@ -77,7 +84,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1572.9403,
-      "elo_after": 1586.4297
+      "elo_after": 1586.4297,
+      "opp_elo": 1517.9703
     },
     {
       "week": "26-2-13",
@@ -86,7 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1586.4297,
-      "elo_after": 1598.5296
+      "elo_after": 1598.5296,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -95,7 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1598.5296,
-      "elo_after": 1610.11
+      "elo_after": 1610.11,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
@@ -104,7 +114,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1610.11,
-      "elo_after": 1624.4154
+      "elo_after": 1624.4154,
+      "opp_elo": 1573.1747
     },
     {
       "week": "26-2-20",
@@ -113,7 +124,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1624.4154,
-      "elo_after": 1602.9189
+      "elo_after": 1602.9189,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-20",
@@ -122,16 +134,18 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1602.9189,
-      "elo_after": 1614.3132
+      "elo_after": 1614.3132,
+      "opp_elo": 1500.0
     },
     {
       "week": "26-2-20",
       "round": 3,
       "opponent": "Jarrod Haase",
-      "result": "T",
+      "result": "D",
       "score": 0.5,
       "elo_before": 1614.3132,
-      "elo_after": 1606.1595
+      "elo_after": 1606.1595,
+      "opp_elo": 1418.9856
     },
     {
       "week": "26-2-20",
@@ -140,7 +154,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1606.1595,
-      "elo_after": 1614.6517
+      "elo_after": 1614.6517,
+      "opp_elo": 1429.2823
     },
     {
       "week": "26-2-20",
@@ -149,7 +164,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1614.6517,
-      "elo_after": 1593.5554
+      "elo_after": 1593.5554,
+      "opp_elo": 1500.0
     }
   ]
 }

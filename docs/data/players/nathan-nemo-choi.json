@@ -1,16 +1,16 @@
 {
-  "player": "John Larochelle",
-  "slug": "john-larochelle",
-  "elo": 1526.39,
+  "player": "Nathan \"Nemo\" Choi",
+  "slug": "nathan-nemo-choi",
+  "elo": 1552.26,
   "games": 11,
-  "wins": 6,
-  "losses": 4,
+  "wins": 7,
+  "losses": 3,
   "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Joel Brook",
+      "opponent": "Markis Galea",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
@@ -20,7 +20,7 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
-      "opponent": "Michael Stopa",
+      "opponent": "Adipto Sengupta",
       "result": "W",
       "score": 1.0,
       "elo_before": 1516.0,
@@ -30,92 +30,92 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
-      "opponent": "Milo Brown",
+      "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
       "elo_before": 1531.2637,
-      "elo_after": 1515.2637,
-      "opp_elo": 1531.2637
+      "elo_after": 1515.2976,
+      "opp_elo": 1532.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
-      "opponent": "Etai Kurtzman",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1515.2637,
-      "elo_after": 1498.5612,
-      "opp_elo": 1500.0
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.2976,
+      "elo_after": 1531.2976,
+      "opp_elo": 1515.2976
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
-      "opponent": "Jonathon Streker",
+      "opponent": "Austin Wolf",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1498.5612,
-      "elo_after": 1514.6275,
+      "elo_before": 1531.2976,
+      "elo_after": 1545.8602,
       "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
-      "opponent": "Graham Bateman",
+      "opponent": "Sam White",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.6275,
-      "elo_after": 1497.9543,
+      "elo_before": 1545.8602,
+      "elo_after": 1527.7604,
       "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
       "round": 1,
-      "opponent": "Sean Thornton",
+      "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1497.9543,
-      "elo_after": 1514.0485,
-      "opp_elo": 1500.0
+      "elo_before": 1527.7604,
+      "elo_after": 1543.9247,
+      "opp_elo": 1531.3285
     },
     {
       "week": "26-2-13",
       "round": 2,
-      "opponent": "Veronica Kirtley",
+      "opponent": "Amber Cronin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1514.0485,
-      "elo_after": 1530.9008,
-      "opp_elo": 1532.5732
+      "elo_before": 1543.9247,
+      "elo_after": 1556.2028,
+      "opp_elo": 1461.5962
     },
     {
       "week": "26-2-13",
       "round": 3,
-      "opponent": "Autumn Garofalo",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1530.9008,
-      "elo_after": 1513.4815,
+      "opponent": "Gabe Dietz",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1556.2028,
+      "elo_after": 1553.6369,
       "opp_elo": 1500.0
     },
     {
       "week": "26-2-13",
       "round": 4,
-      "opponent": "Jarrod Haase",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1513.4815,
-      "elo_after": 1527.6633,
-      "opp_elo": 1473.8285
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1553.6369,
+      "elo_after": 1537.817,
+      "opp_elo": 1557.5474
     },
     {
       "week": "26-2-13",
       "round": 5,
-      "opponent": "Philip Petronis",
-      "result": "D",
-      "score": 0.5,
-      "elo_before": 1527.6633,
-      "elo_after": 1526.392,
-      "opp_elo": 1500.0
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.817,
+      "elo_after": 1552.2589,
+      "opp_elo": 1503.8771
     }
   ]
 }
