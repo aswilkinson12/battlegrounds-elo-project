@@ -112,7 +112,7 @@
               <th data-col="games">Games <span class="hint">sort</span></th>
               <th data-col="wins">W <span class="hint">sort</span></th>
               <th data-col="losses">L <span class="hint">sort</span></th>
-              <th data-col="ties">T <span class="hint">sort</span></th>
+              <th data-col="draws">D <span class="hint">sort</span></th>
             </tr>
           </thead>
           <tbody id="tbody"></tbody>
@@ -218,10 +218,10 @@
       losses.textContent = String(safeNum(r.losses));
       tr.appendChild(losses);
 
-      const ties = document.createElement("td");
-      ties.className = "num";
-      ties.textContent = String(safeNum(r.ties));
-      tr.appendChild(ties);
+      const draws = document.createElement("td");
+      draws.className = "num";
+      draws.textContent = String(safeNum(r.draws));
+      tr.appendChild(draws);
 
       tbody.appendChild(tr);
     });
@@ -243,7 +243,7 @@
         case "games": return safeNum(r.games);
         case "wins": return safeNum(r.wins);
         case "losses": return safeNum(r.losses);
-        case "ties": return safeNum(r.ties);
+        case "draws": return safeNum(r.draws);
         default: return safeNum(r.elo);
       }
     };
@@ -303,14 +303,14 @@
       const data = await res.json();
 
       // Expect array of objects
-      // Minimal expected shape: {player, elo, games, wins, losses, ties}
+      // Minimal expected shape: {player, elo, games, wins, losses, draws}
       allRows = (Array.isArray(data) ? data : []).map(x => ({
         player: x.player ?? x.Player ?? "",
         elo: x.elo ?? x.Elo ?? 1500,
         games: x.games ?? x.Games ?? 0,
         wins: x.wins ?? x.Wins ?? 0,
         losses: x.losses ?? x.Losses ?? 0,
-        ties: x.ties ?? x.Ties ?? 0,
+        draws: x.draws ?? x.Draws ?? x.ties ?? x.Ties ?? 0,
       })).filter(r => r.player);
 
       // Default sort: Elo desc

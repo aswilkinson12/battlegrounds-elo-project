@@ -26,7 +26,7 @@
     .num { font-variant-numeric: tabular-nums; }
     .win { color: #0b7a2a; font-weight: 700; }
     .loss { color: #b00020; font-weight: 700; }
-    .tie { color: #7a5b00; font-weight: 700; }
+    .draw { color: #7a5b00; font-weight: 700; }
 
     input {
       width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
@@ -54,7 +54,7 @@
         </div>
         <div class="meta">
           <span class="pill" id="eloPill">Elo: —</span>
-          <span class="pill" id="recordPill">W-L-T: —</span>
+          <span class="pill" id="recordPill">W-L-D: —</span>
           <span class="pill" id="gamesPill">Games: —</span>
         </div>
       </div>
@@ -75,12 +75,12 @@
               <th>Week</th>
               <th class="num">Round</th>
               <th>Opponent</th>
+              <th class="num">Opp Elo</th>
               <th>Result</th>
               <th class="num">Score</th>
               <th class="num">Elo Before</th>
               <th class="num">Elo After</th>
-              <th class="num">Δ</th>
-            </tr>
+              <th class="num">Δ</th>            </tr>
           </thead>
           <tbody id="tbody"></tbody>
         </table>
@@ -131,13 +131,18 @@
       const tdOpp = document.createElement("td");
       tdOpp.textContent = m.opponent;
       tr.appendChild(tdOpp);
+      
+      const tdOppElo = document.createElement("td");
+      tdOppElo.className = "num";
+      tdOppElo.textContent = safeNum(m.opp_elo).toFixed(2);
+      tr.appendChild(tdOppElo);
 
       const tdRes = document.createElement("td");
       const r = String(m.result || "");
       tdRes.textContent = r;
       if (r === "W") tdRes.className = "win";
       if (r === "L") tdRes.className = "loss";
-      if (r === "T") tdRes.className = "tie";
+      if (r === "D") tdRes.className = "draw";
       tr.appendChild(tdRes);
 
       const tdScore = document.createElement("td");
@@ -195,7 +200,7 @@
       document.getElementById("playerName").textContent = playerData.player;
       document.getElementById("eloPill").textContent = `Elo: ${safeNum(playerData.elo).toFixed(2)}`;
       document.getElementById("recordPill").textContent =
-        `W-L-T: ${playerData.wins}-${playerData.losses}-${playerData.ties}`;
+        `W-L-D: ${playerData.wins}-${playerData.losses}-${playerData.draws}`;
       document.getElementById("gamesPill").textContent = `Games: ${playerData.games}`;
 
       allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];

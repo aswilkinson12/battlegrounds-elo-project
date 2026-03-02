@@ -5,7 +5,7 @@
     "games": 16,
     "wins": 12,
     "losses": 3,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Stan Kornacki",
@@ -13,7 +13,7 @@
     "games": 16,
     "wins": 11,
     "losses": 2,
-    "ties": 3
+    "draws": 3
   },
   {
     "player": "Milo Brown",
@@ -21,7 +21,7 @@
     "games": 11,
     "wins": 7,
     "losses": 1,
-    "ties": 3
+    "draws": 3
   },
   {
     "player": "David Van Hise",
@@ -29,7 +29,7 @@
     "games": 15,
     "wins": 10,
     "losses": 5,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Amy Altman",
@@ -37,7 +37,7 @@
     "games": 16,
     "wins": 10,
     "losses": 5,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Bradley Skubic",
@@ -45,7 +45,7 @@
     "games": 6,
     "wins": 4,
     "losses": 0,
-    "ties": 2
+    "draws": 2
   },
   {
     "player": "Mike Laing",
@@ -53,15 +53,15 @@
     "games": 10,
     "wins": 7,
     "losses": 3,
-    "ties": 0
+    "draws": 0
   },
   {
-    "player": "Nathan Choi",
+    "player": "Nathan \"Nemo\" Choi",
     "elo": 1552.26,
     "games": 11,
     "wins": 7,
     "losses": 3,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Ran Guo",
@@ -69,7 +69,7 @@
     "games": 6,
     "wins": 4,
     "losses": 2,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Pan Rasking",
@@ -77,7 +77,7 @@
     "games": 5,
     "wins": 3,
     "losses": 1,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Mike Adams",
@@ -85,7 +85,7 @@
     "games": 16,
     "wins": 9,
     "losses": 6,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Becca Blackwood",
@@ -93,7 +93,7 @@
     "games": 15,
     "wins": 8,
     "losses": 6,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "John Larochelle",
@@ -101,7 +101,7 @@
     "games": 11,
     "wins": 6,
     "losses": 4,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Nathan Cormier",
@@ -109,7 +109,7 @@
     "games": 11,
     "wins": 6,
     "losses": 5,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Isharah Considine",
@@ -117,7 +117,7 @@
     "games": 11,
     "wins": 6,
     "losses": 5,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Ryan MacDonald",
@@ -125,7 +125,7 @@
     "games": 9,
     "wins": 5,
     "losses": 4,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Bailey Sarkis",
@@ -133,7 +133,15 @@
     "games": 0,
     "wins": 0,
     "losses": 0,
-    "ties": 0
+    "draws": 0
+  },
+  {
+    "player": "Phil Iwanow",
+    "elo": 1500.0,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0
   },
   {
     "player": "Timofey Tylik",
@@ -141,7 +149,7 @@
     "games": 0,
     "wins": 0,
     "losses": 0,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Logan Hesch",
@@ -149,7 +157,7 @@
     "games": 6,
     "wins": 3,
     "losses": 3,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Raul Bottrell-Rogers",
@@ -157,7 +165,7 @@
     "games": 6,
     "wins": 3,
     "losses": 3,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Veronica Kirtley",
@@ -165,7 +173,7 @@
     "games": 11,
     "wins": 5,
     "losses": 5,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Dani Masom",
@@ -173,7 +181,7 @@
     "games": 15,
     "wins": 7,
     "losses": 8,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Reya Truher",
@@ -181,7 +189,7 @@
     "games": 11,
     "wins": 5,
     "losses": 6,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Amber Cronin",
@@ -189,7 +197,7 @@
     "games": 10,
     "wins": 3,
     "losses": 6,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Elias Medrano",
@@ -197,7 +205,7 @@
     "games": 6,
     "wins": 2,
     "losses": 4,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Stella Burfeind",
@@ -205,7 +213,7 @@
     "games": 15,
     "wins": 7,
     "losses": 8,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Jack Henry",
@@ -213,7 +221,7 @@
     "games": 11,
     "wins": 4,
     "losses": 7,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Hex Dowd",
@@ -221,7 +229,7 @@
     "games": 15,
     "wins": 5,
     "losses": 10,
-    "ties": 0
+    "draws": 0
   },
   {
     "player": "Evan Johnstone",
@@ -229,7 +237,7 @@
     "games": 16,
     "wins": 5,
     "losses": 10,
-    "ties": 1
+    "draws": 1
   },
   {
     "player": "Jarrod Haase",
@@ -237,6 +245,6 @@
     "games": 14,
     "wins": 3,
     "losses": 10,
-    "ties": 1
+    "draws": 1
   }
 ]
