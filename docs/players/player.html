@@ -18,6 +18,7 @@
     .meta { color: #556; font-size: 13px; }
     .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #2b3cff; font-size: 12px; font-weight: 700; }
     .error { color: #b00020; padding: 14px 16px; }
+    .dropdown { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #1b1b1c; font-size: 14px; font-weight: 500; }
 
     table { width: 100%; border-collapse: collapse; }
     th, td { padding: 10px 12px; border-top: 1px solid #eef0f7; font-size: 14px; }
@@ -40,12 +41,18 @@
       <h1 id="title">Player</h1>
       <nav>
         <a href="../index.html">Leaderboard</a>
-        <a href="../players.html">Player Search</a>
+        <a href="player.html">Player Search</a>
       </nav>
     </div>
   </header>
 
   <main class="wrap">
+    <section class="card">
+      <div class="row">
+        <label for="player-search">Player Search:</label>
+        <select class="dropdown" name="player-search" id="player-search"></select>
+      </div>
+    </section>
     <section class="card">
       <div class="row">
         <div>
@@ -108,7 +115,13 @@
     el.textContent = msg;
   }
 
+  async function getPlayersIndex() {
+    const url = "../data/players_index.json"
+    return await fetch(url);
+  }
+
   const slug = getSlug();
+  const select = document.getElementById("player-search");
   const tbody = document.getElementById("tbody");
   const filter = document.getElementById("filter");
   const matchCount = document.getElementById("matchCount");
@@ -207,9 +220,39 @@
 
   filter.addEventListener("input", applyFilter);
 
+  async function loadPlayersIndex() {
+    let playerList = await getPlayersIndex();
+    if (!playerList.ok) throw new Error(`HTTP ${playerList.status}`);
+    playerList = await playerList.json();
+
+    if (slug == "" || !playerList.map((p) => { p.value}).includes(slug)) {
+      const option = document.createElement("option");
+      option.textContent = "--- Select a Player ---"
+      option.selected = true;
+      option.disabled = true;
+      select.appendChild(option);
+    }
+
+    playerList.forEach(p => {
+      const option = document.createElement("option");
+      option.value = p.slug;
+      option.textContent = p.player;
+      if (slug === p.slug) {
+        option.selected = true;
+      }
+      select.appendChild(option);
+    });
+  }
+
+  select.addEventListener("change", (e) => {
+    const url = new URL(window.location.href);
+    url.searchParams.set("p", e.target.value);
+    window.location.href = url;
+  });
+
   async function load() {
     if (!slug) {
-      showError("Missing player slug. Use a URL like: player.html?p=amy-altman");
+      showError("Make a selection above to view player records");
       return;
     }
 
@@ -257,6 +300,7 @@
   }
 
   load();
+  loadPlayersIndex();
 </script>
 </body>
 </html>
