@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1484.36,
+  "elo": 1484.38,
   "games": 11,
   "wins": 5,
   "losses": 6,
@@ -34,8 +34,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.7363,
-      "elo_after": 1484.7024,
-      "opp_elo": 1500.0
+      "elo_after": 1484.7363,
+      "opp_elo": 1500.7363
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -43,8 +43,8 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.7024,
-      "elo_after": 1500.7377,
+      "elo_before": 1484.7363,
+      "elo_after": 1500.7701,
       "opp_elo": 1485.4695
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.7377,
-      "elo_after": 1516.7038,
+      "elo_before": 1500.7701,
+      "elo_after": 1516.7346,
       "opp_elo": 1500.0
     },
     {
@@ -63,8 +63,8 @@
       "opponent": "Veronica Kirtley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.7038,
-      "elo_after": 1500.6375,
+      "elo_before": 1516.7346,
+      "elo_after": 1500.6669,
       "opp_elo": 1515.2654
     },
     {
@@ -73,8 +73,8 @@
       "opponent": "Daniel Cotto",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.6375,
-      "elo_after": 1516.6082,
+      "elo_before": 1500.6669,
+      "elo_after": 1516.6362,
       "opp_elo": 1500.0
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.6082,
-      "elo_after": 1499.8439,
+      "elo_before": 1516.6362,
+      "elo_after": 1499.8707,
       "opp_elo": 1500.0
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.8439,
-      "elo_after": 1517.0196,
-      "opp_elo": 1525.4206
+      "elo_before": 1499.8707,
+      "elo_after": 1517.0427,
+      "opp_elo": 1525.3658
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.0196,
-      "elo_after": 1500.2365,
+      "elo_before": 1517.0427,
+      "elo_after": 1500.2585,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.2365,
-      "elo_after": 1484.3632,
-      "opp_elo": 1502.9888
+      "elo_before": 1500.2585,
+      "elo_after": 1484.3843,
+      "opp_elo": 1502.9913
     }
   ]
 }

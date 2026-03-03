@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1558.78,
+  "elo": 1558.87,
   "games": 10,
   "wins": 7,
   "losses": 3,
@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1530.6893,
-      "elo_after": 1545.9152,
-      "opp_elo": 1513.8671
+      "elo_after": 1546.0132,
+      "opp_elo": 1516.0
     },
     {
       "week": "26-2-13",
@@ -83,8 +83,8 @@
       "opponent": "Karl Rookey",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.9152,
-      "elo_after": 1559.8129,
+      "elo_before": 1546.0132,
+      "elo_after": 1559.9065,
       "opp_elo": 1500.0
     },
     {
@@ -93,8 +93,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.8129,
-      "elo_after": 1573.0853,
+      "elo_before": 1559.9065,
+      "elo_after": 1573.1747,
       "opp_elo": 1500.0
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0853,
-      "elo_after": 1558.784,
-      "opp_elo": 1610.1099
+      "elo_before": 1573.1747,
+      "elo_after": 1558.8659,
+      "opp_elo": 1610.0355
     }
   ]
 }

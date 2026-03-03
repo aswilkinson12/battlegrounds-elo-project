@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1468.29,
+  "elo": 1468.31,
   "games": 15,
   "wins": 7,
   "losses": 8,
@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1526.5846,
-      "elo_after": 1541.4022,
-      "opp_elo": 1500.8609
+      "elo_after": 1541.4621,
+      "opp_elo": 1502.1689
     },
     {
       "week": "26-2-13",
@@ -83,8 +83,8 @@
       "opponent": "Autumn Garofalo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.4022,
-      "elo_after": 1523.5045,
+      "elo_before": 1541.4621,
+      "elo_after": 1523.5617,
       "opp_elo": 1500.0
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1523.5045,
-      "elo_after": 1538.6293,
-      "opp_elo": 1504.4796
+      "elo_before": 1523.5617,
+      "elo_after": 1538.6837,
+      "opp_elo": 1504.477
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.6293,
-      "elo_after": 1520.8576,
+      "elo_before": 1538.6837,
+      "elo_after": 1520.9096,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.8576,
-      "elo_after": 1505.0972,
-      "opp_elo": 1526.0608
+      "elo_before": 1520.9096,
+      "elo_after": 1505.1467,
+      "opp_elo": 1526.0584
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.0972,
-      "elo_after": 1518.8683,
-      "opp_elo": 1456.3798
+      "elo_before": 1505.1467,
+      "elo_after": 1518.9177,
+      "opp_elo": 1456.4284
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.8683,
-      "elo_after": 1502.0002,
+      "elo_before": 1518.9177,
+      "elo_after": 1502.0474,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.0002,
-      "elo_after": 1485.553,
-      "opp_elo": 1492.2857
+      "elo_before": 1502.0474,
+      "elo_after": 1485.5959,
+      "opp_elo": 1492.2413
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.553,
-      "elo_after": 1468.2948,
-      "opp_elo": 1458.175
+      "elo_before": 1485.5959,
+      "elo_after": 1468.3067,
+      "opp_elo": 1457.5393
     }
   ]
 }

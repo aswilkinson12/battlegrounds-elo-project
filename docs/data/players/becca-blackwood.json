@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1529.22,
+  "elo": 1529.15,
   "games": 15,
   "wins": 8,
   "losses": 6,
@@ -44,8 +44,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1546.5305,
-      "elo_after": 1530.5966,
-      "opp_elo": 1547.9661
+      "elo_after": 1530.5305,
+      "opp_elo": 1546.5305
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -53,8 +53,8 @@
       "opponent": "Brian Kennes",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.5966,
-      "elo_after": 1545.1912,
+      "elo_before": 1530.5305,
+      "elo_after": 1545.1281,
       "opp_elo": 1500.0
     },
     {
@@ -63,8 +63,8 @@
       "opponent": "Luke Deratzou",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1545.1912,
-      "elo_after": 1527.1217,
+      "elo_before": 1545.1281,
+      "elo_after": 1527.0615,
       "opp_elo": 1500.0
     },
     {
@@ -73,8 +73,8 @@
       "opponent": "Karl Rookey",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1527.1217,
-      "elo_after": 1509.8753,
+      "elo_before": 1527.0615,
+      "elo_after": 1509.8178,
       "opp_elo": 1500.0
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1509.8753,
-      "elo_after": 1525.4206,
+      "elo_before": 1509.8178,
+      "elo_after": 1525.3658,
       "opp_elo": 1500.0
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1525.4206,
-      "elo_after": 1508.2449,
-      "opp_elo": 1499.8439
+      "elo_before": 1525.3658,
+      "elo_after": 1508.1938,
+      "opp_elo": 1499.8707
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.2449,
-      "elo_after": 1492.3326,
+      "elo_before": 1508.1938,
+      "elo_after": 1492.2838,
       "opp_elo": 1510.1484
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1492.3326,
-      "elo_after": 1508.6856,
+      "elo_before": 1492.2838,
+      "elo_after": 1508.6391,
       "opp_elo": 1500.0
     },
     {
@@ -123,8 +123,8 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.6856,
-      "elo_after": 1492.2857,
+      "elo_before": 1508.6391,
+      "elo_after": 1492.2413,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1492.2857,
-      "elo_after": 1508.7329,
-      "opp_elo": 1502.0002
+      "elo_before": 1492.2413,
+      "elo_after": 1508.6928,
+      "opp_elo": 1502.0474
     },
     {
       "week": "26-2-20",
@@ -143,9 +143,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1508.7329,
-      "elo_after": 1527.4943,
-      "opp_elo": 1569.3014
+      "elo_before": 1508.6928,
+      "elo_after": 1527.4144,
+      "opp_elo": 1568.3712
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Amy Altman",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1527.4943,
-      "elo_after": 1529.2231,
-      "opp_elo": 1565.1813
+      "elo_before": 1527.4144,
+      "elo_after": 1529.146,
+      "opp_elo": 1565.1636
     }
   ]
 }

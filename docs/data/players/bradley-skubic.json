@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1561.0,
+  "elo": 1559.75,
   "games": 6,
   "wins": 4,
   "losses": 0,
@@ -30,12 +30,12 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
-      "opponent": "Nathan \"Nemo\" Choi",
+      "opponent": "Nathan C",
       "result": "W",
       "score": 1.0,
       "elo_before": 1532.0,
-      "elo_after": 1547.9661,
-      "opp_elo": 1531.2637
+      "elo_after": 1546.5305,
+      "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -43,8 +43,8 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1547.9661,
-      "elo_after": 1563.9,
+      "elo_before": 1546.5305,
+      "elo_after": 1562.5305,
       "opp_elo": 1546.5305
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "mavin liu",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1563.9,
-      "elo_after": 1560.99,
+      "elo_before": 1562.5305,
+      "elo_after": 1559.6816,
       "opp_elo": 1500.0
     },
     {
@@ -63,8 +63,8 @@
       "opponent": "Stan Kornacki",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1560.99,
-      "elo_after": 1560.9965,
+      "elo_before": 1559.6816,
+      "elo_after": 1559.7483,
       "opp_elo": 1561.1313
     }
   ]

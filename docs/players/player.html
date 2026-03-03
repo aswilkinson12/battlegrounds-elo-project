@@ -100,6 +100,8 @@
     return Number.isFinite(n) ? n : fallback;
   }
 
+  const PLAYERS_INDEX_URL = "../data/players_index.json";
+
   function showError(msg) {
     const el = document.getElementById("error");
     el.style.display = "block";
@@ -112,6 +114,11 @@
   const matchCount = document.getElementById("matchCount");
 
   let playerData = null;
+  function normName(s) {
+    return String(s || "").trim().toLowerCase();
+  }
+
+  let nameToSlug = new Map(); // normalized name -> slug
   let allMatches = [];
 
   function render(matches) {
@@ -129,7 +136,23 @@
       tr.appendChild(tdRound);
 
       const tdOpp = document.createElement("td");
-      tdOpp.textContent = m.opponent;
+      const oppName = String(m.opponent || "").trim();
+      const oppSlug = nameToSlug.get(normName(oppName));
+
+      if (oppSlug && oppSlug !== slug) {
+        const link = document.createElement("a");
+        link.href = `./player.html?p=${encodeURIComponent(oppSlug)}`;
+        link.textContent = oppName;
+        link.style.color = "#111";
+        link.style.fontWeight = "700";
+        link.style.textDecoration = "none";
+        link.addEventListener("mouseenter", () => link.style.textDecoration = "underline");
+        link.addEventListener("mouseleave", () => link.style.textDecoration = "none");
+        tdOpp.appendChild(link);
+      } else {
+        tdOpp.textContent = oppName;
+      }
+
       tr.appendChild(tdOpp);
       
       const tdOppElo = document.createElement("td");

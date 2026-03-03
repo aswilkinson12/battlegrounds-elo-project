@@ -1,91 +1,10 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1426.3,
-  "games": 8,
-  "wins": 1,
-  "losses": 6,
-  "draws": 1,
-  "matches": [
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 1,
-      "opponent": "Milo Brown",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1500.0,
-      "elo_after": 1484.0,
-      "opp_elo": 1500.0
-    },
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 2,
-      "opponent": "Logan Hesch",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1484.0,
-      "elo_after": 1468.0,
-      "opp_elo": 1484.0
-    },
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 3,
-      "opponent": "Colin Hogan",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1468.0,
-      "elo_after": 1485.4695,
-      "opp_elo": 1500.0
-    },
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 4,
-      "opponent": "Matt Rosenbloom",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1485.4695,
-      "elo_after": 1470.1383,
-      "opp_elo": 1500.0
-    },
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 5,
-      "opponent": "Dani Masom",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1470.1383,
-      "elo_after": 1454.0413,
-      "opp_elo": 1468.0336
-    },
-    {
-      "week": "25-12-6_brainstormin_charity_tournament",
-      "round": 6,
-      "opponent": "Amber Cronin",
-      "result": "D",
-      "score": 0.5,
-      "elo_before": 1454.0413,
-      "elo_after": 1453.4075,
-      "opp_elo": 1440.2705
-    },
-    {
-      "week": "26-2-13",
-      "round": 1,
-      "opponent": "Pan Rasking",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1453.4075,
-      "elo_after": 1439.5404,
-      "opp_elo": 1500.0
-    },
-    {
-      "week": "26-2-13",
-      "round": 2,
-      "opponent": "Philip Petronis",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1439.5404,
-      "elo_after": 1426.2969,
-      "opp_elo": 1500.0
-    }
-  ]
+  "elo": 1500.0,
+  "games": 0,
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "matches": []
 }

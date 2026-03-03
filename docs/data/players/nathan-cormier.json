@@ -1,7 +1,7 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1524.89,
+  "elo": 1524.78,
   "games": 11,
   "wins": 6,
   "losses": 5,
@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1472.2382,
-      "elo_after": 1487.0091,
-      "opp_elo": 1445.4967
+      "elo_after": 1486.9846,
+      "opp_elo": 1444.9612
     },
     {
       "week": "26-2-20",
@@ -83,9 +83,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1487.0091,
-      "elo_after": 1503.0954,
-      "opp_elo": 1488.8835
+      "elo_before": 1486.9846,
+      "elo_after": 1503.0708,
+      "opp_elo": 1488.8572
     },
     {
       "week": "26-2-20",
@@ -93,8 +93,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.0954,
-      "elo_after": 1518.9529,
+      "elo_before": 1503.0708,
+      "elo_after": 1518.9294,
       "opp_elo": 1500.0
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.9529,
-      "elo_after": 1539.7348,
-      "opp_elo": 1626.059
+      "elo_before": 1518.9294,
+      "elo_after": 1539.6251,
+      "opp_elo": 1623.9846
     },
     {
       "week": "26-2-20",
@@ -113,9 +113,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.7348,
-      "elo_after": 1524.8857,
-      "opp_elo": 1564.77
+      "elo_before": 1539.6251,
+      "elo_after": 1524.7787,
+      "opp_elo": 1564.7175
     }
   ]
 }

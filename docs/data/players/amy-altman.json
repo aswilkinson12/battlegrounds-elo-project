@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1563.45,
+  "elo": 1563.43,
   "games": 16,
   "wins": 10,
   "losses": 5,
@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1510.1484,
-      "elo_after": 1526.0608,
-      "opp_elo": 1508.2449
+      "elo_after": 1526.0584,
+      "opp_elo": 1508.1938
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.0608,
-      "elo_after": 1541.8212,
-      "opp_elo": 1520.8576
+      "elo_before": 1526.0584,
+      "elo_after": 1541.8213,
+      "opp_elo": 1520.9096
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.8212,
-      "elo_after": 1525.5058,
-      "opp_elo": 1534.9723
+      "elo_before": 1541.8213,
+      "elo_after": 1525.5083,
+      "opp_elo": 1535.0222
     },
     {
       "week": "26-2-20",
@@ -133,9 +133,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1525.5058,
-      "elo_after": 1537.2462,
-      "opp_elo": 1430.7258
+      "elo_before": 1525.5083,
+      "elo_after": 1537.2267,
+      "opp_elo": 1430.2148
     },
     {
       "week": "26-2-20",
@@ -143,8 +143,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1537.2462,
-      "elo_after": 1551.5375,
+      "elo_before": 1537.2267,
+      "elo_after": 1551.5188,
       "opp_elo": 1500.0
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5375,
-      "elo_after": 1565.1813,
+      "elo_before": 1551.5188,
+      "elo_after": 1565.1636,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Becca Blackwood",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1565.1813,
-      "elo_after": 1563.4526,
-      "opp_elo": 1527.4943
+      "elo_before": 1565.1636,
+      "elo_after": 1563.4319,
+      "opp_elo": 1527.4144
     }
   ]
 }
