@@ -20,7 +20,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,1,Jarrod Haase,Matt Rosenbloom,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,1,Joel Brook,John Larochelle,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Jonathon Streker,mavin liu,0.0,Loss,Win,OK
-25-12-6_brainstormin_charity_tournament,1,Markis Galea,Nathan C,0.0,Loss,Win,OK
+25-12-6_brainstormin_charity_tournament,1,Markis Galea,Nathan Choi,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Matt Suyer,Mike Laing,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Mike Adams,Tim Lawson,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Milo Brown,Phil iwanow,1.0,Win,Loss,OK
@@ -28,7 +28,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,1,Sam White,Veronica Kirtley,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Sean Marks,Stella Burfeind,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,1,Terry Eleftherakis,Timothy Haase,0.0,Loss,Win,OK
-25-12-6_brainstormin_charity_tournament,2,Adipto Sengupta,Nathan C,0.0,Loss,Win,OK
+25-12-6_brainstormin_charity_tournament,2,Adipto Sengupta,Nathan Choi,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,2,Alexander Gimmi,Jarrod Haase,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,2,Amy Altman,Etai Kurtzman,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,2,Anthony Wilkinson,tyler kaldenberg,1.0,Win,Loss,OK
@@ -65,7 +65,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,3,Austin Wolf,Dani Masom,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,3,Avi Lessure,mavin liu,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,3,Becca Blackwood,Benjamin Wakefield,1.0,Win,Loss,OK
-25-12-6_brainstormin_charity_tournament,3,Bradley Skubic,Nathan C,1.0,Win,Loss,OK
+25-12-6_brainstormin_charity_tournament,3,Bradley Skubic,Nathan Choi,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,3,Cameron Riley,Sam White,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,3,Colin Hogan,Phil iwanow,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,3,Daniel Hernandez,Philip Petronis,1.0,Win,Loss,OK
@@ -107,7 +107,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,4,Hex Dowd,Reya Truher,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,4,Isharah Considine,Nathan Cormier,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,4,Jack Henry,Raul Bottrell-Rogers,1.0,Win,Loss,OK
-25-12-6_brainstormin_charity_tournament,4,Jarrod Haase,Nathan C,0.0,Loss,Win,OK
+25-12-6_brainstormin_charity_tournament,4,Jarrod Haase,Nathan Choi,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,4,Joel Brook,Sam White,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,4,Joseph Chung,Ran Guo,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,4,Luke Deratzou,Milo Brown,0.0,Loss,Win,OK
@@ -120,7 +120,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,5,Amber Cronin,Gina Millott,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,5,Amy Altman,Luke Deratzou,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,5,Anthony Wilkinson,Mike Laing,1.0,Win,Loss,OK
-25-12-6_brainstormin_charity_tournament,5,Austin Wolf,Nathan C,0.0,Loss,Win,OK
+25-12-6_brainstormin_charity_tournament,5,Austin Wolf,Nathan Choi,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,5,Avi Lessure,Elias Medrano,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,5,Becca Blackwood,Brian Kennes,1.0,Win,Loss,OK
 25-12-6_brainstormin_charity_tournament,5,Benjamin Wakefield,Raul Bottrell-Rogers,0.0,Loss,Win,OK
@@ -164,5 +164,5 @@ Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status
 25-12-6_brainstormin_charity_tournament,6,Logan Hesch,Mike Adams,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,6,Markis Galea,Nathan Cormier,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,6,Milo Brown,mavin liu,0.5,Tie,Tie,OK
-25-12-6_brainstormin_charity_tournament,6,Nathan C,Sam White,0.0,Loss,Win,OK
+25-12-6_brainstormin_charity_tournament,6,Nathan Choi,Sam White,0.0,Loss,Win,OK
 25-12-6_brainstormin_charity_tournament,6,Reya Truher,Veronica Kirtley,0.0,Loss,Win,OK

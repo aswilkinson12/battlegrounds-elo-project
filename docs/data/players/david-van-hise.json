@@ -1,7 +1,7 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1579.56,
+  "elo": 1579.57,
   "games": 15,
   "wins": 10,
   "losses": 5,
@@ -114,8 +114,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1535.0222,
-      "elo_after": 1551.3353,
-      "opp_elo": 1541.8213
+      "elo_after": 1551.3354,
+      "opp_elo": 1541.8236
     },
     {
       "week": "26-2-20",
@@ -123,8 +123,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.3353,
-      "elo_after": 1564.9882,
+      "elo_before": 1551.3354,
+      "elo_after": 1564.9884,
       "opp_elo": 1500.0
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1564.9882,
-      "elo_after": 1551.0518,
+      "elo_before": 1564.9884,
+      "elo_after": 1551.0519,
       "opp_elo": 1610.0481
     },
     {
@@ -143,8 +143,8 @@
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.0518,
-      "elo_after": 1564.7175,
+      "elo_before": 1551.0519,
+      "elo_after": 1564.7176,
       "opp_elo": 1500.0
     },
     {
@@ -153,9 +153,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1564.7175,
-      "elo_after": 1579.564,
-      "opp_elo": 1539.6251
+      "elo_before": 1564.7176,
+      "elo_after": 1579.5651,
+      "opp_elo": 1539.6475
     }
   ]
 }

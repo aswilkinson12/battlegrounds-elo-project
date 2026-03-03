@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1437.95,
+  "elo": 1437.96,
   "games": 15,
   "wins": 5,
   "losses": 10,
@@ -84,8 +84,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1517.9703,
-      "elo_after": 1504.477,
-      "opp_elo": 1572.8551
+      "elo_after": 1504.4808,
+      "opp_elo": 1572.9403
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.477,
-      "elo_after": 1489.355,
+      "elo_before": 1504.4808,
+      "elo_after": 1489.3587,
       "opp_elo": 1523.5617
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.355,
-      "elo_after": 1473.2837,
+      "elo_before": 1489.3587,
+      "elo_after": 1473.2872,
       "opp_elo": 1487.8056
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1473.2837,
-      "elo_after": 1456.4284,
-      "opp_elo": 1454.6947
+      "elo_before": 1473.2872,
+      "elo_after": 1456.433,
+      "opp_elo": 1454.7216
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1456.4284,
-      "elo_after": 1442.6574,
-      "opp_elo": 1505.1467
+      "elo_before": 1456.433,
+      "elo_after": 1442.6618,
+      "opp_elo": 1505.147
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1442.6574,
-      "elo_after": 1429.2744,
+      "elo_before": 1442.6618,
+      "elo_after": 1429.2786,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1429.2744,
-      "elo_after": 1420.7796,
-      "opp_elo": 1606.0797
+      "elo_before": 1429.2786,
+      "elo_after": 1420.7865,
+      "opp_elo": 1606.1595
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1420.7796,
-      "elo_after": 1437.955,
-      "opp_elo": 1446.3477
+      "elo_before": 1420.7865,
+      "elo_after": 1437.9626,
+      "opp_elo": 1446.3701
     }
   ]
 }

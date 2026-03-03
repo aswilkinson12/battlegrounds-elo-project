@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1484.38,
+  "elo": 1484.39,
   "games": 11,
   "wins": 5,
   "losses": 6,
@@ -94,8 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1499.8707,
-      "elo_after": 1517.0427,
-      "opp_elo": 1525.3658
+      "elo_after": 1517.0452,
+      "opp_elo": 1525.4206
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.0427,
-      "elo_after": 1500.2585,
+      "elo_before": 1517.0452,
+      "elo_after": 1500.2609,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.2585,
-      "elo_after": 1484.3843,
+      "elo_before": 1500.2609,
+      "elo_after": 1484.3866,
       "opp_elo": 1502.9913
     }
   ]

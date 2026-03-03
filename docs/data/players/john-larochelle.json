@@ -1,7 +1,7 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1526.37,
+  "elo": 1526.39,
   "games": 11,
   "wins": 6,
   "losses": 4,
@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1513.4815,
-      "elo_after": 1527.6366,
-      "opp_elo": 1473.2408
+      "elo_after": 1527.6633,
+      "opp_elo": 1473.8285
     },
     {
       "week": "26-2-13",
@@ -113,8 +113,8 @@
       "opponent": "Philip Petronis",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1527.6366,
-      "elo_after": 1526.3665,
+      "elo_before": 1527.6633,
+      "elo_after": 1526.392,
       "opp_elo": 1500.0
     }
   ]

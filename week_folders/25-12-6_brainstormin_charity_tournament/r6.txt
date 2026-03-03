@@ -34,7 +34,7 @@ Table  Player                          Opponent                        Points
 13     Mike Adams                      Logan Hesch                     12-9  
 11     Mike Laing                      Isharah Considine              12-9  
 2      Milo Brown                      mavin liu                       14-14 
-4      Nathan C                        Sam White                       12-15 
+4      Nathan Choi                       Sam White                       12-15 
 22     Nathan Cormier                  Markis Galea                    6-3   
 23     Phil iwanow                     Amber Cronin                    4-4   
 21     Philip Petronis                 Jonathon Streker                6-8   
@@ -42,7 +42,7 @@ Table  Player                          Opponent                        Points
 12     Raul Bottrell-Rogers            Joel Brook                     9-12  
 10     Reya Truher                     Veronica Kirtley                9-12  
 6      Ryan MacDonald                  Brian Kennes                    15-9  
-4      Sam White                       Nathan C                        15-12 
+4      Sam White                       Nathan Choi                       15-12 
 1      Stan Kornacki                   Bradley Skubic                  14-14 
 9      Stella Burfeind                 Austin Wolf                     12-9  
 16     Tim Lawson                      Ian Marcellana                  9-6   

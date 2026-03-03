@@ -145,7 +145,7 @@
       "score": 1.0,
       "elo_before": 1610.0481,
       "elo_after": 1623.9846,
-      "opp_elo": 1564.9882
+      "opp_elo": 1564.9884
     },
     {
       "week": "26-2-20",
@@ -154,8 +154,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1623.9846,
-      "elo_after": 1603.2888,
-      "opp_elo": 1518.9294
+      "elo_after": 1603.2898,
+      "opp_elo": 1518.9528
     },
     {
       "week": "26-2-20",
@@ -163,8 +163,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1603.2888,
-      "elo_after": 1614.6676,
+      "elo_before": 1603.2898,
+      "elo_after": 1614.6685,
       "opp_elo": 1500.0
     }
   ]

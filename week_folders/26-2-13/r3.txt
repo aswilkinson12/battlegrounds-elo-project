@@ -5,7 +5,7 @@ Table  Player                         Opponent                       Points
        Sean Marks                     ***Bye***                      6
 1      Mike Laing                     Karl Rookey                    9-6
 2      John Larochelle                Autumn Garofalo                6-9
-3      Gabe Dietz                     Nathan C                       7-7
+3      Gabe Dietz                     Nathan Choi                       7-7
 4      Anthony Wilkinson              Thomas Kotcher                 7-7
 5      Stan Kornacki                  Kenton Najdzien                9-6
 6      Pan Rasking                    Devon O'Donnell                6-3

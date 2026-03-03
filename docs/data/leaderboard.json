@@ -9,7 +9,7 @@
   },
   {
     "player": "Stan Kornacki",
-    "elo": 1593.48,
+    "elo": 1593.56,
     "games": 16,
     "wins": 11,
     "losses": 2,
@@ -25,7 +25,7 @@
   },
   {
     "player": "David Van Hise",
-    "elo": 1579.56,
+    "elo": 1579.57,
     "games": 15,
     "wins": 10,
     "losses": 5,
@@ -33,7 +33,7 @@
   },
   {
     "player": "Amy Altman",
-    "elo": 1563.43,
+    "elo": 1563.45,
     "games": 16,
     "wins": 10,
     "losses": 5,
@@ -41,7 +41,7 @@
   },
   {
     "player": "Bradley Skubic",
-    "elo": 1559.75,
+    "elo": 1561.0,
     "games": 6,
     "wins": 4,
     "losses": 0,
@@ -81,15 +81,23 @@
   },
   {
     "player": "Becca Blackwood",
-    "elo": 1529.15,
+    "elo": 1529.19,
     "games": 15,
     "wins": 8,
     "losses": 6,
     "draws": 1
   },
   {
+    "player": "Nathan Choi",
+    "elo": 1527.76,
+    "games": 6,
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  {
     "player": "John Larochelle",
-    "elo": 1526.37,
+    "elo": 1526.39,
     "games": 11,
     "wins": 6,
     "losses": 4,
@@ -97,7 +105,7 @@
   },
   {
     "player": "Nathan Cormier",
-    "elo": 1524.78,
+    "elo": 1524.8,
     "games": 11,
     "wins": 6,
     "losses": 5,
@@ -121,14 +129,6 @@
   },
   {
     "player": "Bailey Sarkis",
-    "elo": 1500.0,
-    "games": 0,
-    "wins": 0,
-    "losses": 0,
-    "draws": 0
-  },
-  {
-    "player": "Nathan \"Nemo\" Choi",
     "elo": 1500.0,
     "games": 0,
     "wins": 0,
@@ -185,7 +185,7 @@
   },
   {
     "player": "Reya Truher",
-    "elo": 1484.38,
+    "elo": 1484.39,
     "games": 11,
     "wins": 5,
     "losses": 6,
@@ -225,7 +225,7 @@
   },
   {
     "player": "Hex Dowd",
-    "elo": 1437.95,
+    "elo": 1437.96,
     "games": 15,
     "wins": 5,
     "losses": 10,
@@ -233,7 +233,7 @@
   },
   {
     "player": "Evan Johnstone",
-    "elo": 1429.17,
+    "elo": 1429.19,
     "games": 16,
     "wins": 5,
     "losses": 10,
@@ -241,7 +241,7 @@
   },
   {
     "player": "Jarrod Haase",
-    "elo": 1413.99,
+    "elo": 1414.45,
     "games": 14,
     "wins": 3,
     "losses": 10,

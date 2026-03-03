@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1429.17,
+  "elo": 1429.19,
   "games": 16,
   "wins": 5,
   "losses": 10,
@@ -94,8 +94,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1489.9776,
-      "elo_after": 1472.4026,
-      "opp_elo": 1455.6657
+      "elo_after": 1472.4307,
+      "opp_elo": 1456.2816
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Amber Cronin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.4026,
-      "elo_after": 1454.6947,
+      "elo_before": 1472.4307,
+      "elo_after": 1454.7216,
       "opp_elo": 1435.1745
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1454.6947,
-      "elo_after": 1471.55,
-      "opp_elo": 1473.2837
+      "elo_before": 1454.7216,
+      "elo_after": 1471.5757,
+      "opp_elo": 1473.2872
     },
     {
       "week": "26-2-20",
@@ -123,8 +123,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.55,
-      "elo_after": 1488.8572,
+      "elo_before": 1471.5757,
+      "elo_after": 1488.8818,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1488.8572,
-      "elo_after": 1472.771,
-      "opp_elo": 1486.9846
+      "elo_before": 1488.8818,
+      "elo_after": 1472.7956,
+      "opp_elo": 1487.0091
     },
     {
       "week": "26-2-20",
@@ -143,8 +143,8 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.771,
-      "elo_after": 1460.5382,
+      "elo_before": 1472.7956,
+      "elo_after": 1460.5617,
       "opp_elo": 1556.1384
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1460.5382,
-      "elo_after": 1446.3477,
+      "elo_before": 1460.5617,
+      "elo_after": 1446.3701,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1446.3477,
-      "elo_after": 1429.1724,
-      "opp_elo": 1420.7796
+      "elo_before": 1446.3701,
+      "elo_after": 1429.1941,
+      "opp_elo": 1420.7865
     }
   ]
 }

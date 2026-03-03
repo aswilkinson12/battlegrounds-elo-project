@@ -94,8 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1523.5617,
-      "elo_after": 1538.6837,
-      "opp_elo": 1504.477
+      "elo_after": 1538.6839,
+      "opp_elo": 1504.4808
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.6837,
-      "elo_after": 1520.9096,
+      "elo_before": 1538.6839,
+      "elo_after": 1520.9098,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.9096,
-      "elo_after": 1505.1467,
-      "opp_elo": 1526.0584
+      "elo_before": 1520.9098,
+      "elo_after": 1505.147,
+      "opp_elo": 1526.0608
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.1467,
-      "elo_after": 1518.9177,
-      "opp_elo": 1456.4284
+      "elo_before": 1505.147,
+      "elo_after": 1518.9182,
+      "opp_elo": 1456.433
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.9177,
-      "elo_after": 1502.0474,
+      "elo_before": 1518.9182,
+      "elo_after": 1502.0478,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.0474,
-      "elo_after": 1485.5959,
-      "opp_elo": 1492.2413
+      "elo_before": 1502.0478,
+      "elo_after": 1485.5984,
+      "opp_elo": 1492.2868
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.5959,
-      "elo_after": 1468.3067,
-      "opp_elo": 1457.5393
+      "elo_before": 1485.5984,
+      "elo_after": 1468.3091,
+      "opp_elo": 1457.5394
     }
   ]
 }

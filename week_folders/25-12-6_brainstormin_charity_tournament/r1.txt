@@ -34,7 +34,7 @@ Table  Player                          Opponent                        Points
        Joseph Chung                    ***Bye***                       6     
 17     Logan Hesch                     Ian Marcellana                  0-3   
 19     Luke Deratzou                   Amber Cronin                    3-0   
-8      Markis Galea                    Nathan C                        0-3   
+8      Markis Galea                    Nathan Choi                       0-3   
 27     Matt Rosenbloom                 Jarrod Haase                   0-3   
 16     Matt Suyer                      Mike Laing                      0-3   
 10     mavin liu                       Jonathon Streker                3-0   
@@ -42,7 +42,7 @@ Table  Player                          Opponent                        Points
 21     Mike Adams                      Tim Lawson                      0-3   
 16     Mike Laing                      Matt Suyer                      3-0   
 6      Milo Brown                      Phil iwanow                     3-0   
-8      Nathan C                        Markis Galea                    3-0   
+8      Nathan Choi                       Markis Galea                    3-0   
 22     Nathan Cormier                  Etai Kurtzman                   0-3   
 6      Phil iwanow                     Milo Brown                      0-3   
 2      Philip Petronis                 Benjamin Wakefield              0-3   

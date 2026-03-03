@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1487.8056,
-      "elo_after": 1503.877,
-      "opp_elo": 1489.355
+      "elo_after": 1503.8771,
+      "opp_elo": 1489.3587
     },
     {
       "week": "26-2-13",
@@ -113,8 +113,8 @@
       "opponent": "Nathan C",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1503.877,
-      "elo_after": 1487.6984,
+      "elo_before": 1503.8771,
+      "elo_after": 1487.6986,
       "opp_elo": 1500.0
     },
     {
@@ -123,8 +123,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1487.6984,
-      "elo_after": 1472.2647,
+      "elo_before": 1487.6986,
+      "elo_after": 1472.2649,
       "opp_elo": 1500.0
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.2647,
-      "elo_after": 1457.5393,
+      "elo_before": 1472.2649,
+      "elo_after": 1457.5394,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1457.5393,
-      "elo_after": 1474.8285,
-      "opp_elo": 1485.5959
+      "elo_before": 1457.5394,
+      "elo_after": 1474.8288,
+      "opp_elo": 1485.5984
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1474.8285,
-      "elo_after": 1494.2219,
-      "opp_elo": 1549.6497
+      "elo_before": 1474.8288,
+      "elo_after": 1494.2222,
+      "opp_elo": 1549.6526
     }
   ]
 }

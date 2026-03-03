@@ -144,8 +144,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1556.1384,
-      "elo_after": 1568.3712,
-      "opp_elo": 1472.771
+      "elo_after": 1568.3723,
+      "opp_elo": 1472.7956
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1568.3712,
-      "elo_after": 1549.6497,
-      "opp_elo": 1508.6928
+      "elo_before": 1568.3723,
+      "elo_after": 1549.6526,
+      "opp_elo": 1508.7362
     },
     {
       "week": "26-2-20",
@@ -163,9 +163,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1549.6497,
-      "elo_after": 1530.2563,
-      "opp_elo": 1474.8285
+      "elo_before": 1549.6526,
+      "elo_after": 1530.2592,
+      "opp_elo": 1474.8288
     }
   ]
 }
