@@ -64,8 +64,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1515.2654,
-      "elo_after": 1531.333,
-      "opp_elo": 1516.7346
+      "elo_after": 1531.3316,
+      "opp_elo": 1516.7038
     },
     {
       "week": "26-2-13",
@@ -73,8 +73,8 @@
       "opponent": "Milo Brown",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1531.333,
-      "elo_after": 1532.5732,
+      "elo_before": 1531.3316,
+      "elo_after": 1532.5718,
       "opp_elo": 1558.3167
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1532.5732,
-      "elo_after": 1515.7209,
+      "elo_before": 1532.5718,
+      "elo_after": 1515.7196,
       "opp_elo": 1514.0485
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.7209,
-      "elo_after": 1498.3465,
-      "opp_elo": 1485.8022
+      "elo_before": 1515.7196,
+      "elo_after": 1498.3426,
+      "opp_elo": 1485.7448
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1498.3465,
-      "elo_after": 1514.4226,
+      "elo_before": 1498.3426,
+      "elo_after": 1514.419,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.4226,
-      "elo_after": 1497.7588,
+      "elo_before": 1514.419,
+      "elo_after": 1497.7553,
       "opp_elo": 1500.0
     }
   ]

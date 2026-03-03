@@ -1,7 +1,7 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1524.8,
+  "elo": 1524.89,
   "games": 11,
   "wins": 6,
   "losses": 5,
@@ -84,8 +84,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1487.0091,
-      "elo_after": 1503.0953,
-      "opp_elo": 1488.8818
+      "elo_after": 1503.0954,
+      "opp_elo": 1488.8835
     },
     {
       "week": "26-2-20",
@@ -93,8 +93,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.0953,
-      "elo_after": 1518.9528,
+      "elo_before": 1503.0954,
+      "elo_after": 1518.9529,
       "opp_elo": 1500.0
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.9528,
-      "elo_after": 1539.6475,
-      "opp_elo": 1623.9846
+      "elo_before": 1518.9529,
+      "elo_after": 1539.7348,
+      "opp_elo": 1626.059
     },
     {
       "week": "26-2-20",
@@ -113,9 +113,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.6475,
-      "elo_after": 1524.8001,
-      "opp_elo": 1564.7176
+      "elo_before": 1539.7348,
+      "elo_after": 1524.8857,
+      "opp_elo": 1564.77
     }
   ]
 }

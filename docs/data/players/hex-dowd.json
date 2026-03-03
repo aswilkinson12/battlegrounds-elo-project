@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1437.96,
+  "elo": 1437.92,
   "games": 15,
   "wins": 5,
   "losses": 10,
@@ -44,8 +44,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1485.4695,
-      "elo_after": 1469.4357,
-      "opp_elo": 1484.7363
+      "elo_after": 1469.4342,
+      "opp_elo": 1484.7024
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -53,8 +53,8 @@
       "opponent": "Markis Galea",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.4357,
-      "elo_after": 1486.8397,
+      "elo_before": 1469.4342,
+      "elo_after": 1486.8382,
       "opp_elo": 1500.0
     },
     {
@@ -63,8 +63,8 @@
       "opponent": "Elias Medrano",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1486.8397,
-      "elo_after": 1502.8323,
+      "elo_before": 1486.8382,
+      "elo_after": 1502.8308,
       "opp_elo": 1486.6793
     },
     {
@@ -73,8 +73,8 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.8323,
-      "elo_after": 1517.9703,
+      "elo_before": 1502.8308,
+      "elo_after": 1517.9689,
       "opp_elo": 1484.0967
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.9703,
-      "elo_after": 1504.4808,
+      "elo_before": 1517.9689,
+      "elo_after": 1504.4796,
       "opp_elo": 1572.9403
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.4808,
-      "elo_after": 1489.3587,
-      "opp_elo": 1523.5617
+      "elo_before": 1504.4796,
+      "elo_after": 1489.3548,
+      "opp_elo": 1523.5045
     },
     {
       "week": "26-2-13",
@@ -103,9 +103,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.3587,
-      "elo_after": 1473.2872,
-      "opp_elo": 1487.8056
+      "elo_before": 1489.3548,
+      "elo_after": 1473.2311,
+      "opp_elo": 1486.6693
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1473.2872,
-      "elo_after": 1456.433,
-      "opp_elo": 1454.7216
+      "elo_before": 1473.2311,
+      "elo_after": 1456.3798,
+      "opp_elo": 1454.7261
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1456.433,
-      "elo_after": 1442.6618,
-      "opp_elo": 1505.147
+      "elo_before": 1456.3798,
+      "elo_after": 1442.6087,
+      "opp_elo": 1505.0972
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1442.6618,
-      "elo_after": 1429.2786,
+      "elo_before": 1442.6087,
+      "elo_after": 1429.2279,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1429.2786,
-      "elo_after": 1420.7865,
-      "opp_elo": 1606.1595
+      "elo_before": 1429.2279,
+      "elo_after": 1420.7375,
+      "opp_elo": 1606.1558
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1420.7865,
-      "elo_after": 1437.9626,
-      "opp_elo": 1446.3701
+      "elo_before": 1420.7375,
+      "elo_after": 1437.9177,
+      "opp_elo": 1446.4119
     }
   ]
 }

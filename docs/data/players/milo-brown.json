@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1579.83,
+  "elo": 1579.88,
   "games": 11,
   "wins": 7,
   "losses": 1,
@@ -10,7 +10,7 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Phil iwanow",
+      "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
@@ -74,8 +74,8 @@
       "result": "D",
       "score": 0.5,
       "elo_before": 1558.3167,
-      "elo_after": 1557.0766,
-      "opp_elo": 1531.333
+      "elo_after": 1557.0765,
+      "opp_elo": 1531.3316
     },
     {
       "week": "26-2-13",
@@ -83,9 +83,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.0766,
-      "elo_after": 1539.0979,
-      "opp_elo": 1513.8896
+      "elo_before": 1557.0765,
+      "elo_after": 1539.1544,
+      "opp_elo": 1515.1361
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1539.0979,
-      "elo_after": 1553.305,
+      "elo_before": 1539.1544,
+      "elo_after": 1553.3589,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.305,
-      "elo_after": 1566.8693,
+      "elo_before": 1553.3589,
+      "elo_after": 1566.9208,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Gabe Dietz",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1566.8693,
-      "elo_after": 1579.8273,
+      "elo_before": 1566.9208,
+      "elo_after": 1579.8765,
       "opp_elo": 1500.0
     }
   ]

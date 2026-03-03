@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1518.87,
+  "elo": 1518.86,
   "games": 11,
   "wins": 6,
   "losses": 5,
@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.7541,
-      "elo_after": 1502.9913,
-      "opp_elo": 1503.1766
+      "elo_after": 1502.9888,
+      "opp_elo": 1503.1218
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.9913,
-      "elo_after": 1518.8655,
-      "opp_elo": 1500.2609
+      "elo_before": 1502.9888,
+      "elo_after": 1518.862,
+      "opp_elo": 1500.2365
     }
   ]
 }

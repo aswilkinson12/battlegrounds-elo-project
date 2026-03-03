@@ -9,7 +9,7 @@ Table  Player                          Opponent                        Points
 4      Terry Eleftherakis               Thomas Ostroff                  3-0
 5      John Larochelle                  Sean Thornton                   3-0
 6      Sean Marks                       Gabe Dietz                      0-3
-7      Nathan Choi                         Mike Adams                      3-0
+7      Nathan C                         Mike Adams                      3-0
 8      Milo Brown                       Veronica Kirtley                1-1
 9      Jason Flynn                      Jack Henry                      3-0
 10     Kenton Najdzien                  Philip Petronis                 3-0

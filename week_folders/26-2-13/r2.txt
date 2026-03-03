@@ -7,7 +7,7 @@ Table  Player                         Opponent                       Points
 2      Reya Truher                    Kenton Najdzien                3-6
 3      Amy Altman                     Anthony Wilkinson              3-6
 4      Pan Rasking                    Mike Laing                     3-6
-5      Amber Cronin                   Nathan Choi                       3-6
+5      Amber Cronin                   Nathan C                       3-6
 6      Thomas Kotcher                 Terry Eleftherakis             6-3
 7      Gabe Dietz                     Jason Flynn                    6-3
 8      Devon O'Donnell                Karl Rookey                    3-6

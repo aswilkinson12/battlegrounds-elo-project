@@ -53,8 +53,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 1,6,Phil iwanow,Milo Brown,0-3,0,3.0,Loss,False
 1,7,Avi Lessure,Evan Johnstone,3-0,3,0.0,Win,False
 1,7,Evan Johnstone,Avi Lessure,0-3,0,3.0,Loss,False
-1,8,Markis Galea,Nathan Choi,0-3,0,3.0,Loss,False
-1,8,Nathan Choi,Markis Galea,3-0,3,0.0,Win,False
+1,8,Markis Galea,Nathan C,0-3,0,3.0,Loss,False
+1,8,Nathan C,Markis Galea,3-0,3,0.0,Win,False
 1,9,Anthony Wilkinson,Bradley Skubic,0-3,0,3.0,Loss,False
 1,9,Bradley Skubic,Anthony Wilkinson,3-0,3,0.0,Win,False
 1,,Joseph Chung,***Bye***,6,6,,Bye,True
@@ -106,8 +106,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 2,3,Mike Laing,Becca Blackwood,3-6,3,6.0,Loss,False
 2,4,David Van Hise,Jack Henry,3-6,3,6.0,Loss,False
 2,4,Jack Henry,David Van Hise,6-3,6,3.0,Win,False
-2,5,Adipto Sengupta,Nathan Choi,3-6,3,6.0,Loss,False
-2,5,Nathan Choi,Adipto Sengupta,6-3,6,3.0,Win,False
+2,5,Adipto Sengupta,Nathan C,3-6,3,6.0,Loss,False
+2,5,Nathan C,Adipto Sengupta,6-3,6,3.0,Win,False
 2,6,Austin Wolf,Brian Kennes,3-6,3,6.0,Loss,False
 2,6,Brian Kennes,Austin Wolf,6-3,6,3.0,Win,False
 2,7,Raul Bottrell-Rogers,Stella Burfeind,3-6,3,6.0,Loss,False
@@ -117,8 +117,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 2,9,Bradley Skubic,Isharah Considine,6-3,6,3.0,Win,False
 2,9,Isharah Considine,Bradley Skubic,3-6,3,6.0,Loss,False
 2,,Amber Cronin,***Bye***,6,6,,Bye,True
-3,1,Bradley Skubic,Nathan Choi,9-6,9,6.0,Win,False
-3,1,Nathan Choi,Bradley Skubic,6-9,6,9.0,Loss,False
+3,1,Bradley Skubic,Nathan C,9-6,9,6.0,Win,False
+3,1,Nathan C,Bradley Skubic,6-9,6,9.0,Loss,False
 3,10,Graham Bateman,Jonathon Streker,4-4,4,4.0,Tie,False
 3,10,Jonathon Streker,Graham Bateman,4-4,4,4.0,Tie,False
 3,11,Michael Stopa,Ryan MacDonald,3-6,3,6.0,Loss,False
@@ -232,8 +232,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 4,7,Raul Bottrell-Rogers,Jack Henry,6-9,6,9.0,Loss,False
 4,8,Austin Wolf,Logan Hesch,9-6,9,6.0,Win,False
 4,8,Logan Hesch,Austin Wolf,6-9,6,9.0,Loss,False
-4,9,Jarrod Haase,Nathan Choi,6-9,6,9.0,Loss,False
-4,9,Nathan Choi,Jarrod Haase,9-6,9,6.0,Win,False
+4,9,Jarrod Haase,Nathan C,6-9,6,9.0,Loss,False
+4,9,Nathan C,Jarrod Haase,9-6,9,6.0,Win,False
 5,1,Milo Brown,Stan Kornacki,13-13,13,13.0,Tie,False
 5,1,Stan Kornacki,Milo Brown,13-13,13,13.0,Tie,False
 5,10,Graham Bateman,Ran Guo,7-9,7,9.0,Loss,False
@@ -280,8 +280,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 5,4,Brian Kennes,Becca Blackwood,9-12,9,12.0,Loss,False
 5,5,Alexander Gimmi,Sam White,9-12,9,12.0,Loss,False
 5,5,Sam White,Alexander Gimmi,12-9,12,9.0,Win,False
-5,6,Austin Wolf,Nathan Choi,9-12,9,12.0,Loss,False
-5,6,Nathan Choi,Austin Wolf,12-9,12,9.0,Win,False
+5,6,Austin Wolf,Nathan C,9-12,9,12.0,Loss,False
+5,6,Nathan C,Austin Wolf,12-9,12,9.0,Win,False
 5,7,Etai Kurtzman,Stella Burfeind,12-9,12,9.0,Win,False
 5,7,Stella Burfeind,Etai Kurtzman,9-12,9,12.0,Loss,False
 5,8,Anthony Wilkinson,Mike Laing,12-9,12,9.0,Win,False
@@ -324,8 +324,8 @@ Round,Table,Player,Opponent,PointsRaw,PlayerPts,OppPts,Outcome,IsBye
 6,24,tyler kaldenberg,Colin Hogan,6-3,6,3.0,Win,False
 6,3,Becca Blackwood,Luke Deratzou,12-15,12,15.0,Loss,False
 6,3,Luke Deratzou,Becca Blackwood,15-12,15,12.0,Win,False
-6,4,Nathan Choi,Sam White,12-15,12,15.0,Loss,False
-6,4,Sam White,Nathan Choi,15-12,15,12.0,Win,False
+6,4,Nathan C,Sam White,12-15,12,15.0,Loss,False
+6,4,Sam White,Nathan C,15-12,15,12.0,Win,False
 6,5,Anthony Wilkinson,Etai Kurtzman,12-15,12,15.0,Loss,False
 6,5,Etai Kurtzman,Anthony Wilkinson,15-12,15,12.0,Win,False
 6,6,Brian Kennes,Ryan MacDonald,9-15,9,15.0,Loss,False

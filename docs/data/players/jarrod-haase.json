@@ -95,7 +95,7 @@
       "score": 0.0,
       "elo_before": 1473.8285,
       "elo_after": 1459.6467,
-      "opp_elo": 1513.4815
+      "opp_elo": 1513.4814
     },
     {
       "week": "26-2-13",
@@ -124,8 +124,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1430.7258,
-      "elo_after": 1418.9856,
-      "opp_elo": 1525.5105
+      "elo_after": 1418.9854,
+      "opp_elo": 1525.5058
     },
     {
       "week": "26-2-20",
@@ -133,9 +133,9 @@
       "opponent": "Stan Kornacki",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1418.9856,
-      "elo_after": 1427.1393,
-      "opp_elo": 1614.3132
+      "elo_before": 1418.9854,
+      "elo_after": 1427.139,
+      "opp_elo": 1614.3094
     },
     {
       "week": "26-2-20",
@@ -143,8 +143,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1427.1393,
-      "elo_after": 1414.4464,
+      "elo_before": 1427.139,
+      "elo_after": 1414.4461,
       "opp_elo": 1500.0
     }
   ]

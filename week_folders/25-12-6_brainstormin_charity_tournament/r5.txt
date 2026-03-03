@@ -5,7 +5,7 @@ Table  Player                          Opponent                        Points
 25     Amber Cronin                    Gina Millott                    3-6   
 3      Amy Altman                      Luke Deratzou                   9-12  
 8      Anthony Wilkinson               Mike Laing                      12-9  
-6      Austin Wolf                     Nathan Choi                       9-12  
+6      Austin Wolf                     Nathan C                       9-12  
 17     Avi Lessure                     Elias Medrano                   9-6   
 4      Becca Blackwood                 Brian Kennes                    12-9  
 13     Benjamin Wakefield              Raul Bottrell-Rogers            6-9   
@@ -38,7 +38,7 @@ Table  Player                          Opponent                        Points
 14     Mike Adams                      Terry Eleftherakis              9-6   
 8      Mike Laing                      Anthony Wilkinson               9-12  
 1      Milo Brown                      Stan Kornacki                   13-13 
-6      Nathan Choi                       Austin Wolf                     12-9  
+6      Nathan C                       Austin Wolf                     12-9  
 22     Nathan Cormier                  Joseph Chung                    3-6   
 21     Phil iwanow                     Dani Masom                      3-6   
 24     Philip Petronis                 Sean Marks                      6-3   

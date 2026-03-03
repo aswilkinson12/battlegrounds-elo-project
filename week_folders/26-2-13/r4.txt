@@ -4,7 +4,7 @@ Table  Player                         Opponent                       Points
 -------------------------------------------------------------------------------
 1      Autumn Garofalo                Stan Kornacki                  9-12
 2      Mike Laing                     Thomas Kotcher                 12-7
-3      Nathan Choi                       Anthony Wilkinson              7-10
+3      Nathan C                       Anthony Wilkinson              7-10
 4      Gabe Dietz                     Pan Rasking                    7-9
 5      Stella Burfeind                Jason Flynn                    6-9
 6      Mike Adams                     Thomas Ostroff                 9-6

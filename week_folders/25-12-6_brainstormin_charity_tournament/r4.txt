@@ -26,7 +26,7 @@ Table  Player                          Opponent                        Points
 13     Ian Marcellana                  Anthony Wilkinson               6-9   
 20     Isharah Considine              Nathan Cormier                  6-3   
 7      Jack Henry                      Raul Bottrell-Rogers            9-6   
-9      Jarrod Haase                   Nathan Choi                       6-9   
+9      Jarrod Haase                   Nathan C                       6-9   
 5      Joel Brook                     Sam White                       6-9   
 11     John Larochelle                Etai Kurtzman                   6-9   
 21     John Petrella                   Cameron Riley                   3-6   
@@ -42,7 +42,7 @@ Table  Player                          Opponent                        Points
 10     Mike Adams                      Alexander Gimmi                 6-9   
 14     Mike Laing                      Benjamin Wakefield              9-6   
 1      Milo Brown                      Luke Deratzou                   12-9  
-9      Nathan Choi                       Jarrod Haase                   9-6   
+9      Nathan C                       Jarrod Haase                   9-6   
 20     Nathan Cormier                  Isharah Considine              3-6   
 17     Phil iwanow                     Matt Rosenbloom                 3-6   
 19     Philip Petronis                 Terry Eleftherakis              3-6   

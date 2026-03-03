@@ -1,6 +1,6 @@
 Table  Player                          Opponent                        Points
 -------------------------------------------------------------------------------
-5      Adipto Sengupta                 Nathan Choi                       3-6   
+5      Adipto Sengupta                 Nathan C                       3-6   
 14     Alexander Gimmi                 Jarrod Haase                   6-3   
        Amber Cronin                    ***Bye***                       6     
 12     Amy Altman                      Etai Kurtzman                   6-3   
@@ -42,7 +42,7 @@ Table  Player                          Opponent                        Points
 19     Mike Adams                      Hex Dowd                        3-0   
 3      Mike Laing                      Becca Blackwood                 3-6   
 10     Milo Brown                      Tim Lawson                      6-3   
-5      Nathan Choi                       Adipto Sengupta                 6-3   
+5      Nathan C                       Adipto Sengupta                 6-3   
 17     Nathan Cormier                  Terry Eleftherakis              3-0   
 16     Phil iwanow                     Logan Hesch                     0-3   
 28     Philip Petronis                 Gina Millott                    3-0   

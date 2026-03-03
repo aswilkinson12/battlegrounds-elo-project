@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1499.94,
+  "elo": 1499.33,
   "games": 6,
   "wins": 3,
   "losses": 3,
@@ -20,12 +20,12 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
-      "opponent": "Phil iwanow",
+      "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
       "elo_before": 1484.0,
-      "elo_after": 1500.7363,
-      "opp_elo": 1500.0
+      "elo_after": 1500.0,
+      "opp_elo": 1484.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -33,8 +33,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.7363,
-      "elo_after": 1516.7363,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0339,
       "opp_elo": 1500.7363
     },
     {
@@ -43,8 +43,8 @@
       "opponent": "Austin Wolf",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.7363,
-      "elo_after": 1499.9662,
+      "elo_before": 1516.0339,
+      "elo_after": 1499.296,
       "opp_elo": 1500.0
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "Matt Rosenbloom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.9662,
-      "elo_after": 1515.9677,
+      "elo_before": 1499.296,
+      "elo_after": 1515.3285,
       "opp_elo": 1500.0
     },
     {
@@ -63,8 +63,8 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.9677,
-      "elo_after": 1499.9369,
+      "elo_before": 1515.3285,
+      "elo_after": 1499.327,
       "opp_elo": 1515.2976
     }
   ]
