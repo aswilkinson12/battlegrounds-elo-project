@@ -1,9 +1,9 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1579.62,
-  "games": 15,
-  "wins": 10,
+  "elo": 1647.02,
+  "games": 20,
+  "wins": 15,
   "losses": 5,
   "draws": 0,
   "matches": [
@@ -156,6 +156,56 @@
       "elo_before": 1564.77,
       "elo_after": 1579.6191,
       "opp_elo": 1539.7348
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1579.6191,
+      "elo_after": 1592.0154,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1592.0154,
+      "elo_after": 1603.8743,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1603.8743,
+      "elo_after": 1621.5208,
+      "opp_elo": 1639.7551
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1621.5208,
+      "elo_after": 1633.616,
+      "opp_elo": 1534.9815
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1633.616,
+      "elo_after": 1647.017,
+      "opp_elo": 1576.6749
     }
   ]
 }

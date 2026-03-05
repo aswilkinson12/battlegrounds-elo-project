@@ -1,10 +1,10 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1494.84,
-  "games": 15,
-  "wins": 7,
-  "losses": 8,
+  "elo": 1467.4,
+  "games": 19,
+  "wins": 8,
+  "losses": 11,
   "draws": 0,
   "matches": [
     {
@@ -156,6 +156,46 @@
       "elo_before": 1475.4332,
       "elo_after": 1494.8391,
       "opp_elo": 1550.54
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1494.8391,
+      "elo_after": 1481.4539,
+      "opp_elo": 1552.1328
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.4539,
+      "elo_after": 1469.5896,
+      "opp_elo": 1573.3432
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.5896,
+      "elo_after": 1482.2569,
+      "opp_elo": 1396.1475
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.2569,
+      "elo_after": 1467.3984,
+      "opp_elo": 1507.0858
     }
   ]
 }

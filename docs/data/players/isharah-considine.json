@@ -1,10 +1,10 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1518.86,
-  "games": 11,
-  "wins": 6,
-  "losses": 5,
+  "elo": 1563.27,
+  "games": 16,
+  "wins": 10,
+  "losses": 6,
   "draws": 0,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1502.9888,
       "elo_after": 1518.862,
       "opp_elo": 1500.2365
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.862,
+      "elo_after": 1530.8236,
+      "opp_elo": 1429.2317
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1530.8236,
+      "elo_after": 1544.1732,
+      "opp_elo": 1472.7358
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.1732,
+      "elo_after": 1559.5508,
+      "opp_elo": 1530.6512
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.5508,
+      "elo_after": 1576.6749,
+      "opp_elo": 1584.0011
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.6749,
+      "elo_after": 1563.2739,
+      "opp_elo": 1633.616
     }
   ]
 }

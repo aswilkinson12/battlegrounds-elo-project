@@ -1,0 +1,19 @@
+Round 1
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Pan Rasking                  Hex Dowd                     0-3     
+2      Devon O’Donnell              Anthony Wilkinson            0-3     
+3      Isharah Considine           Evan Johnstone               3-0     
+4      Stan Kornacki                Jonathon Streker             0-3     
+5      Nathan Cormier               Philip Petronis              0-3     
+6      Kenton Najdzien              David Van Hise               0-3     
+7      Timofey Tylik                Sean Thornton                0-3     
+8      Dani Masom                   Nathan Choi                  0-3     
+9      John Larochelle             Mike Adams                   0-3     
+10     Sean Marks                   Reya Truher                  0-3     
+11     Logan Hesch                  Evan Hamlin                  3-0     
+12     Phil iwanow                  Joseph Chung                 3-0     
+13     Josh Kibbe                   Bradley Skubic               1-1     
+14     Jack Henry                   Daniel Hernandez             3-0     
+15     Milo Brown                   Jarrod Haase                3-0

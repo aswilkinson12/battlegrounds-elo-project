@@ -1,10 +1,10 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1426.3,
-  "games": 8,
-  "wins": 1,
-  "losses": 6,
+  "elo": 1393.46,
+  "games": 13,
+  "wins": 2,
+  "losses": 10,
   "draws": 1,
   "matches": [
     {
@@ -86,6 +86,56 @@
       "elo_before": 1439.5404,
       "elo_after": 1426.2969,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1426.2969,
+      "elo_after": 1445.641,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1445.641,
+      "elo_after": 1434.9525,
+      "opp_elo": 1565.518
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1434.9525,
+      "elo_after": 1421.9135,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1421.9135,
+      "elo_after": 1409.4502,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1409.4502,
+      "elo_after": 1393.4576,
+      "opp_elo": 1409.6119
     }
   ]
 }

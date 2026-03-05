@@ -1,11 +1,11 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1561.0,
-  "games": 6,
-  "wins": 4,
-  "losses": 0,
-  "draws": 2,
+  "elo": 1579.83,
+  "games": 11,
+  "wins": 7,
+  "losses": 1,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -66,6 +66,56 @@
       "elo_before": 1560.99,
       "elo_after": 1560.9965,
       "opp_elo": 1561.1313
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Josh Kibbe",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1560.9965,
+      "elo_after": 1558.216,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1558.216,
+      "elo_after": 1567.6051,
+      "opp_elo": 1405.5365
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1567.6051,
+      "elo_after": 1584.0011,
+      "opp_elo": 1576.2066
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.0011,
+      "elo_after": 1566.877,
+      "opp_elo": 1559.5508
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1566.877,
+      "elo_after": 1579.8347,
+      "opp_elo": 1500.0
     }
   ]
 }

@@ -1,10 +1,51 @@
 {
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
-  "elo": 1500.0,
-  "games": 0,
-  "wins": 0,
-  "losses": 0,
+  "elo": 1471.11,
+  "games": 4,
+  "wins": 1,
+  "losses": 3,
   "draws": 0,
-  "matches": []
+  "matches": [
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0,
+      "elo_after": 1468.7363,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.7363,
+      "elo_after": 1486.1722,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1486.1722,
+      "elo_after": 1471.1141,
+      "opp_elo": 1506.6499
+    }
+  ]
 }

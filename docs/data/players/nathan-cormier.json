@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1524.89,
-  "games": 11,
-  "wins": 6,
-  "losses": 5,
+  "elo": 1504.71,
+  "games": 16,
+  "wins": 8,
+  "losses": 8,
   "draws": 0,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1539.7348,
       "elo_after": 1524.8857,
       "opp_elo": 1564.77
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1524.8857,
+      "elo_after": 1507.7416,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.7416,
+      "elo_after": 1519.6669,
+      "opp_elo": 1417.2701
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.6669,
+      "elo_after": 1506.6499,
+      "opp_elo": 1585.2075
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Timofey Tylik",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1506.6499,
+      "elo_after": 1521.7079,
+      "opp_elo": 1486.1722
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.7079,
+      "elo_after": 1504.7096,
+      "opp_elo": 1500.0
     }
   ]
 }

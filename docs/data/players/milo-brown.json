@@ -1,10 +1,10 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1579.88,
-  "games": 11,
-  "wins": 7,
-  "losses": 1,
+  "elo": 1575.92,
+  "games": 16,
+  "wins": 10,
+  "losses": 3,
   "draws": 3,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1566.9208,
       "elo_after": 1579.8765,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1579.8765,
+      "elo_after": 1588.7861,
+      "opp_elo": 1414.4461
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1588.7861,
+      "elo_after": 1600.784,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1600.784,
+      "elo_after": 1580.9169,
+      "opp_elo": 1515.1144
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1580.9169,
+      "elo_after": 1561.2565,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1561.2565,
+      "elo_after": 1575.921,
+      "opp_elo": 1532.19
     }
   ]
 }

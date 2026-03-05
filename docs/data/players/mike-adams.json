@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1531.13,
-  "games": 16,
-  "wins": 9,
-  "losses": 6,
+  "elo": 1517.53,
+  "games": 21,
+  "wins": 11,
+  "losses": 9,
   "draws": 1,
   "matches": [
     {
@@ -166,6 +166,56 @@
       "elo_before": 1550.54,
       "elo_after": 1531.1341,
       "opp_elo": 1475.4332
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1531.1341,
+      "elo_after": 1546.9158,
+      "opp_elo": 1526.392
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1546.9158,
+      "elo_after": 1534.5571,
+      "opp_elo": 1627.3964
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1534.5571,
+      "elo_after": 1516.9709,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.9709,
+      "elo_after": 1532.19,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1532.19,
+      "elo_after": 1517.5255,
+      "opp_elo": 1561.2565
     }
   ]
 }

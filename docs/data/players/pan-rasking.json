@@ -1,10 +1,10 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1531.36,
-  "games": 5,
-  "wins": 3,
-  "losses": 1,
+  "elo": 1486.52,
+  "games": 9,
+  "wins": 4,
+  "losses": 4,
   "draws": 1,
   "matches": [
     {
@@ -56,6 +56,46 @@
       "elo_before": 1530.027,
       "elo_after": 1531.3638,
       "opp_elo": 1559.1224
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1531.3638,
+      "elo_after": 1511.1613,
+      "opp_elo": 1437.9177
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1511.1613,
+      "elo_after": 1494.6475,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1494.6475,
+      "elo_after": 1474.6232,
+      "opp_elo": 1405.3448
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1474.6232,
+      "elo_after": 1486.5196,
+      "opp_elo": 1383.4801
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1526.39,
-  "games": 11,
-  "wins": 6,
-  "losses": 4,
+  "elo": 1521.94,
+  "games": 15,
+  "wins": 8,
+  "losses": 6,
   "draws": 1,
   "matches": [
     {
@@ -116,6 +116,46 @@
       "elo_before": 1527.6632,
       "elo_after": 1526.392,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1526.392,
+      "elo_after": 1510.6103,
+      "opp_elo": 1531.1341
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1510.6103,
+      "elo_after": 1526.1219,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1526.1219,
+      "elo_after": 1507.0858,
+      "opp_elo": 1459.3861
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.0858,
+      "elo_after": 1521.9443,
+      "opp_elo": 1482.2569
     }
   ]
 }

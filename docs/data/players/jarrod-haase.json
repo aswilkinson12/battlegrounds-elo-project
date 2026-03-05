@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1414.45,
-  "games": 14,
+  "elo": 1371.58,
+  "games": 18,
   "wins": 3,
-  "losses": 10,
+  "losses": 14,
   "draws": 1,
   "matches": [
     {
@@ -146,6 +146,46 @@
       "elo_before": 1427.139,
       "elo_after": 1414.4461,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1414.4461,
+      "elo_after": 1405.5365,
+      "opp_elo": 1579.8765
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1405.5365,
+      "elo_after": 1396.1475,
+      "opp_elo": 1558.216
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1396.1475,
+      "elo_after": 1383.4801,
+      "opp_elo": 1469.5896
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Pan Rasking",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1383.4801,
+      "elo_after": 1371.5837,
+      "opp_elo": 1474.6232
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1499.33,
-  "games": 6,
-  "wins": 3,
-  "losses": 3,
+  "elo": 1519.14,
+  "games": 11,
+  "wins": 6,
+  "losses": 5,
   "draws": 0,
   "matches": [
     {
@@ -66,6 +66,56 @@
       "elo_before": 1515.3285,
       "elo_after": 1499.327,
       "opp_elo": 1515.2976
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.327,
+      "elo_after": 1515.358,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.358,
+      "elo_after": 1530.6512,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1530.6512,
+      "elo_after": 1515.2736,
+      "opp_elo": 1544.1732
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Josh Kibbe",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.2736,
+      "elo_after": 1530.5707,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1530.5707,
+      "elo_after": 1519.1432,
+      "opp_elo": 1632.7059
     }
   ]
 }

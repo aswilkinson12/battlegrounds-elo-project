@@ -1,0 +1,72 @@
+Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status,MatchKey
+26-2-27,1,Anthony Wilkinson,Devon O’Donnell,1.0,Win,Loss,OK,1|Anthony Wilkinson|Devon O’Donnell
+26-2-27,1,Bradley Skubic,Josh Kibbe,0.5,Tie,Tie,OK,1|Bradley Skubic|Josh Kibbe
+26-2-27,1,Dani Masom,Nathan Choi,0.0,Loss,Win,OK,1|Dani Masom|Nathan Choi
+26-2-27,1,Daniel Hernandez,Jack Henry,0.0,Loss,Win,OK,1|Daniel Hernandez|Jack Henry
+26-2-27,1,David Van Hise,Kenton Najdzien,1.0,Win,Loss,OK,1|David Van Hise|Kenton Najdzien
+26-2-27,1,Evan Hamlin,Logan Hesch,0.0,Loss,Win,OK,1|Evan Hamlin|Logan Hesch
+26-2-27,1,Evan Johnstone,Isharah Considine,0.0,Loss,Win,OK,1|Evan Johnstone|Isharah Considine
+26-2-27,1,Hex Dowd,Pan Rasking,1.0,Win,Loss,OK,1|Hex Dowd|Pan Rasking
+26-2-27,1,Jarrod Haase,Milo Brown,0.0,Loss,Win,OK,1|Jarrod Haase|Milo Brown
+26-2-27,1,John Larochelle,Mike Adams,0.0,Loss,Win,OK,1|John Larochelle|Mike Adams
+26-2-27,1,Jonathon Streker,Stan Kornacki,1.0,Win,Loss,OK,1|Jonathon Streker|Stan Kornacki
+26-2-27,1,Joseph Chung,Phil iwanow,0.0,Loss,Win,OK,1|Joseph Chung|Phil iwanow
+26-2-27,1,Nathan Cormier,Philip Petronis,0.0,Loss,Win,OK,1|Nathan Cormier|Philip Petronis
+26-2-27,1,Reya Truher,Sean Marks,1.0,Win,Loss,OK,1|Reya Truher|Sean Marks
+26-2-27,1,Sean Thornton,Timofey Tylik,1.0,Win,Loss,OK,1|Sean Thornton|Timofey Tylik
+26-2-27,2,Anthony Wilkinson,Mike Adams,1.0,Win,Loss,OK,2|Anthony Wilkinson|Mike Adams
+26-2-27,2,Bradley Skubic,Jarrod Haase,1.0,Win,Loss,OK,2|Bradley Skubic|Jarrod Haase
+26-2-27,2,Dani Masom,Stan Kornacki,0.0,Loss,Win,OK,2|Dani Masom|Stan Kornacki
+26-2-27,2,Daniel Hernandez,Joseph Chung,1.0,Win,Loss,OK,2|Daniel Hernandez|Joseph Chung
+26-2-27,2,David Van Hise,Sean Thornton,1.0,Win,Loss,OK,2|David Van Hise|Sean Thornton
+26-2-27,2,Devon O’Donnell,Pan Rasking,1.0,Win,Loss,OK,2|Devon O’Donnell|Pan Rasking
+26-2-27,2,Evan Hamlin,Timofey Tylik,1.0,Win,Loss,OK,2|Evan Hamlin|Timofey Tylik
+26-2-27,2,Evan Johnstone,Nathan Cormier,0.0,Loss,Win,OK,2|Evan Johnstone|Nathan Cormier
+26-2-27,2,Hex Dowd,Reya Truher,0.0,Loss,Win,OK,2|Hex Dowd|Reya Truher
+26-2-27,2,Isharah Considine,Jack Henry,1.0,Win,Loss,OK,2|Isharah Considine|Jack Henry
+26-2-27,2,John Larochelle,Sean Marks,1.0,Win,Loss,OK,2|John Larochelle|Sean Marks
+26-2-27,2,Jonathon Streker,Logan Hesch,0.0,Loss,Win,OK,2|Jonathon Streker|Logan Hesch
+26-2-27,2,Josh Kibbe,Kenton Najdzien,0.0,Loss,Win,OK,2|Josh Kibbe|Kenton Najdzien
+26-2-27,2,Milo Brown,Philip Petronis,1.0,Win,Loss,OK,2|Milo Brown|Philip Petronis
+26-2-27,2,Nathan Choi,Phil iwanow,1.0,Win,Loss,OK,2|Nathan Choi|Phil iwanow
+26-2-27,3,Anthony Wilkinson,David Van Hise,0.0,Loss,Win,OK,3|Anthony Wilkinson|David Van Hise
+26-2-27,3,Bradley Skubic,Nathan Choi,1.0,Win,Loss,OK,3|Bradley Skubic|Nathan Choi
+26-2-27,3,Dani Masom,Jarrod Haase,1.0,Win,Loss,OK,3|Dani Masom|Jarrod Haase
+26-2-27,3,Daniel Hernandez,Sean Thornton,1.0,Win,Loss,OK,3|Daniel Hernandez|Sean Thornton
+26-2-27,3,Devon O’Donnell,Mike Adams,1.0,Win,Loss,OK,3|Devon O’Donnell|Mike Adams
+26-2-27,3,Evan Hamlin,Hex Dowd,1.0,Win,Loss,OK,3|Evan Hamlin|Hex Dowd
+26-2-27,3,Evan Johnstone,Pan Rasking,1.0,Win,Loss,OK,3|Evan Johnstone|Pan Rasking
+26-2-27,3,Isharah Considine,Logan Hesch,1.0,Win,Loss,OK,3|Isharah Considine|Logan Hesch
+26-2-27,3,Jack Henry,John Larochelle,1.0,Win,Loss,OK,3|Jack Henry|John Larochelle
+26-2-27,3,Jonathon Streker,Kenton Najdzien,1.0,Win,Loss,OK,3|Jonathon Streker|Kenton Najdzien
+26-2-27,3,Joseph Chung,Josh Kibbe,0.0,Loss,Win,OK,3|Joseph Chung|Josh Kibbe
+26-2-27,3,Milo Brown,Reya Truher,0.0,Loss,Win,OK,3|Milo Brown|Reya Truher
+26-2-27,3,Nathan Cormier,Stan Kornacki,0.0,Loss,Win,OK,3|Nathan Cormier|Stan Kornacki
+26-2-27,3,Phil iwanow,Philip Petronis,0.0,Loss,Win,OK,3|Phil iwanow|Philip Petronis
+26-2-27,3,Sean Marks,Timofey Tylik,0.0,Loss,Win,OK,3|Sean Marks|Timofey Tylik
+26-2-27,4,Anthony Wilkinson,Jonathon Streker,1.0,Win,Loss,OK,4|Anthony Wilkinson|Jonathon Streker
+26-2-27,4,Bradley Skubic,Isharah Considine,0.0,Loss,Win,OK,4|Bradley Skubic|Isharah Considine
+26-2-27,4,Dani Masom,John Larochelle,0.0,Loss,Win,OK,4|Dani Masom|John Larochelle
+26-2-27,4,Daniel Hernandez,Stan Kornacki,0.0,Loss,Win,OK,4|Daniel Hernandez|Stan Kornacki
+26-2-27,4,David Van Hise,Reya Truher,1.0,Win,Loss,OK,4|David Van Hise|Reya Truher
+26-2-27,4,Devon O’Donnell,Milo Brown,1.0,Win,Loss,OK,4|Devon O’Donnell|Milo Brown
+26-2-27,4,Evan Hamlin,Jack Henry,1.0,Win,Loss,OK,4|Evan Hamlin|Jack Henry
+26-2-27,4,Evan Johnstone,Hex Dowd,0.0,Loss,Win,OK,4|Evan Johnstone|Hex Dowd
+26-2-27,4,Jarrod Haase,Pan Rasking,0.0,Loss,Win,OK,4|Jarrod Haase|Pan Rasking
+26-2-27,4,Joseph Chung,Sean Marks,1.0,Win,Loss,OK,4|Joseph Chung|Sean Marks
+26-2-27,4,Josh Kibbe,Logan Hesch,0.0,Loss,Win,OK,4|Josh Kibbe|Logan Hesch
+26-2-27,4,Kenton Najdzien,Phil iwanow,1.0,Win,Loss,OK,4|Kenton Najdzien|Phil iwanow
+26-2-27,4,Mike Adams,Sean Thornton,1.0,Win,Loss,OK,4|Mike Adams|Sean Thornton
+26-2-27,4,Nathan Choi,Philip Petronis,1.0,Win,Loss,OK,4|Nathan Choi|Philip Petronis
+26-2-27,4,Nathan Cormier,Timofey Tylik,1.0,Win,Loss,OK,4|Nathan Cormier|Timofey Tylik
+26-2-27,5,Anthony Wilkinson,Logan Hesch,1.0,Win,Loss,OK,5|Anthony Wilkinson|Logan Hesch
+26-2-27,5,Bradley Skubic,Jonathon Streker,1.0,Win,Loss,OK,5|Bradley Skubic|Jonathon Streker
+26-2-27,5,Daniel Hernandez,Nathan Cormier,1.0,Win,Loss,OK,5|Daniel Hernandez|Nathan Cormier
+26-2-27,5,David Van Hise,Isharah Considine,1.0,Win,Loss,OK,5|David Van Hise|Isharah Considine
+26-2-27,5,Devon O’Donnell,Reya Truher,1.0,Win,Loss,OK,5|Devon O’Donnell|Reya Truher
+26-2-27,5,Evan Hamlin,Stan Kornacki,0.0,Loss,Win,OK,5|Evan Hamlin|Stan Kornacki
+26-2-27,5,Evan Johnstone,Phil iwanow,1.0,Win,Loss,OK,5|Evan Johnstone|Phil iwanow
+26-2-27,5,Hex Dowd,Kenton Najdzien,0.0,Loss,Win,OK,5|Hex Dowd|Kenton Najdzien
+26-2-27,5,Jack Henry,Nathan Choi,0.0,Loss,Win,OK,5|Jack Henry|Nathan Choi
+26-2-27,5,Joseph Chung,Sean Thornton,1.0,Win,Loss,OK,5|Joseph Chung|Sean Thornton
+26-2-27,5,Mike Adams,Milo Brown,0.0,Loss,Win,OK,5|Mike Adams|Milo Brown

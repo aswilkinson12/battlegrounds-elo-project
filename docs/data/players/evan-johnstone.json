@@ -1,10 +1,10 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1429.23,
-  "games": 16,
-  "wins": 5,
-  "losses": 10,
+  "elo": 1425.6,
+  "games": 21,
+  "wins": 7,
+  "losses": 13,
   "draws": 1,
   "matches": [
     {
@@ -166,6 +166,56 @@
       "elo_before": 1446.4119,
       "elo_after": 1429.2317,
       "opp_elo": 1420.7375
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1429.2317,
+      "elo_after": 1417.2701,
+      "opp_elo": 1518.862
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1417.2701,
+      "elo_after": 1405.3448,
+      "opp_elo": 1507.7416
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1405.3448,
+      "elo_after": 1425.3691,
+      "opp_elo": 1494.6475
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.3691,
+      "elo_after": 1409.6119,
+      "opp_elo": 1430.6415
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1409.6119,
+      "elo_after": 1425.6045,
+      "opp_elo": 1409.4502
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1616.57,
-  "games": 16,
-  "wins": 12,
-  "losses": 3,
+  "elo": 1644.13,
+  "games": 21,
+  "wins": 16,
+  "losses": 4,
   "draws": 1,
   "matches": [
     {
@@ -166,6 +166,56 @@
       "elo_before": 1605.2771,
       "elo_after": 1616.572,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1616.572,
+      "elo_after": 1627.3964,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1627.3964,
+      "elo_after": 1639.7551,
+      "opp_elo": 1546.9158
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1639.7551,
+      "elo_after": 1622.1085,
+      "opp_elo": 1603.8743
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Jonathon Streker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1622.1085,
+      "elo_after": 1632.7059,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1632.7059,
+      "elo_after": 1644.1333,
+      "opp_elo": 1530.5707
     }
   ]
 }

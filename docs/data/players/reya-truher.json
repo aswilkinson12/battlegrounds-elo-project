@@ -1,10 +1,10 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1484.36,
-  "games": 11,
-  "wins": 5,
-  "losses": 6,
+  "elo": 1505.83,
+  "games": 16,
+  "wins": 8,
+  "losses": 8,
   "draws": 0,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1500.2365,
       "elo_after": 1484.3632,
       "opp_elo": 1502.9888
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.3632,
+      "elo_after": 1501.0828,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.0828,
+      "elo_after": 1515.1144,
+      "opp_elo": 1458.1202
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.1144,
+      "elo_after": 1534.9815,
+      "opp_elo": 1600.784
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1534.9815,
+      "elo_after": 1522.8864,
+      "opp_elo": 1621.5208
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1522.8864,
+      "elo_after": 1505.834,
+      "opp_elo": 1500.0
     }
   ]
 }

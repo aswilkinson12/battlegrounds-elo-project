@@ -1,10 +1,10 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1552.13,
-  "games": 11,
-  "wins": 7,
-  "losses": 3,
+  "elo": 1584.19,
+  "games": 16,
+  "wins": 11,
+  "losses": 4,
   "draws": 1,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1537.7366,
       "elo_after": 1552.1328,
       "opp_elo": 1502.7929
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.1328,
+      "elo_after": 1565.518,
+      "opp_elo": 1494.8391
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1565.518,
+      "elo_after": 1576.2066,
+      "opp_elo": 1445.641
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.2066,
+      "elo_after": 1559.8106,
+      "opp_elo": 1567.6051
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.8106,
+      "elo_after": 1573.0831,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.0831,
+      "elo_after": 1584.194,
+      "opp_elo": 1463.4146
     }
   ]
 }

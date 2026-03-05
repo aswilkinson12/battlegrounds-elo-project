@@ -1,10 +1,10 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1437.92,
-  "games": 15,
-  "wins": 5,
-  "losses": 10,
+  "elo": 1432.85,
+  "games": 20,
+  "wins": 7,
+  "losses": 13,
   "draws": 0,
   "matches": [
     {
@@ -156,6 +156,56 @@
       "elo_before": 1420.7375,
       "elo_after": 1437.9177,
       "opp_elo": 1446.4119
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.9177,
+      "elo_after": 1458.1202,
+      "opp_elo": 1531.3638
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1458.1202,
+      "elo_after": 1444.0887,
+      "opp_elo": 1501.0828
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1444.0887,
+      "elo_after": 1430.6415,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1430.6415,
+      "elo_after": 1446.3987,
+      "opp_elo": 1425.3691
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1446.3987,
+      "elo_after": 1432.8478,
+      "opp_elo": 1500.0
     }
   ]
 }

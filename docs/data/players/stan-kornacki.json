@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1593.55,
-  "games": 16,
-  "wins": 11,
-  "losses": 2,
+  "elo": 1620.92,
+  "games": 21,
+  "wins": 15,
+  "losses": 3,
   "draws": 3,
   "matches": [
     {
@@ -165,6 +165,56 @@
       "score": 0.0,
       "elo_before": 1614.6462,
       "elo_after": 1593.5502,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Jonathon Streker",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1593.5502,
+      "elo_after": 1573.3432,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.3432,
+      "elo_after": 1585.2075,
+      "opp_elo": 1481.4539
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1585.2075,
+      "elo_after": 1598.2246,
+      "opp_elo": 1519.6669
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1598.2246,
+      "elo_after": 1609.818,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1609.818,
+      "elo_after": 1620.9226,
       "opp_elo": 1500.0
     }
   ]
