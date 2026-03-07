@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1371.58,
-  "games": 18,
-  "wins": 3,
-  "losses": 14,
+  "elo": 1415.44,
+  "games": 23,
+  "wins": 6,
+  "losses": 16,
   "draws": 1,
   "matches": [
     {
@@ -186,6 +186,56 @@
       "elo_before": 1383.4801,
       "elo_after": 1371.5837,
       "opp_elo": 1474.6232
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Andy Perez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1371.5837,
+      "elo_after": 1361.2421,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1361.2421,
+      "elo_after": 1383.3128,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1383.3128,
+      "elo_after": 1373.1432,
+      "opp_elo": 1516.0163
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1373.1432,
+      "elo_after": 1394.7387,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1394.7387,
+      "elo_after": 1415.4431,
+      "opp_elo": 1500.0
     }
   ]
 }

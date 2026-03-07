@@ -1,11 +1,11 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1517.53,
-  "games": 21,
-  "wins": 11,
-  "losses": 9,
-  "draws": 1,
+  "elo": 1548.38,
+  "games": 26,
+  "wins": 14,
+  "losses": 10,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -216,6 +216,56 @@
       "elo_before": 1532.19,
       "elo_after": 1517.5255,
       "opp_elo": 1561.2565
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1517.5255,
+      "elo_after": 1532.1014,
+      "opp_elo": 1486.5196
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Bailey Sarkis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1532.1014,
+      "elo_after": 1547.4009,
+      "opp_elo": 1516.8807
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Timofey Tylik",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1547.4009,
+      "elo_after": 1561.3936,
+      "opp_elo": 1503.5834
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1561.3936,
+      "elo_after": 1550.6961,
+      "opp_elo": 1681.0526
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1550.6961,
+      "elo_after": 1548.3779,
+      "opp_elo": 1500.0
     }
   ]
 }

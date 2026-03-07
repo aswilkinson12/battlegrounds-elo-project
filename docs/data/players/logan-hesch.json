@@ -1,10 +1,10 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1519.14,
-  "games": 11,
-  "wins": 6,
-  "losses": 5,
+  "elo": 1561.08,
+  "games": 16,
+  "wins": 10,
+  "losses": 6,
   "draws": 0,
   "matches": [
     {
@@ -116,6 +116,56 @@
       "elo_before": 1530.5707,
       "elo_after": 1519.1432,
       "opp_elo": 1632.7059
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Bailey Sarkis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.1432,
+      "elo_after": 1502.2625,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.2625,
+      "elo_after": 1516.0163,
+      "opp_elo": 1453.1612
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0163,
+      "elo_after": 1526.1859,
+      "opp_elo": 1383.3128
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.1859,
+      "elo_after": 1545.6356,
+      "opp_elo": 1602.2892
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Andy Perez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.6356,
+      "elo_after": 1561.0816,
+      "opp_elo": 1533.6007
     }
   ]
 }

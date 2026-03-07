@@ -1,11 +1,11 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1425.6,
-  "games": 21,
+  "elo": 1376.9,
+  "games": 26,
   "wins": 7,
-  "losses": 13,
-  "draws": 1,
+  "losses": 17,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -216,6 +216,56 @@
       "elo_before": 1409.6119,
       "elo_after": 1425.6045,
       "opp_elo": 1409.4502
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Chris Daniel",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.6045,
+      "elo_after": 1412.9791,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Patrick Brooks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1412.9791,
+      "elo_after": 1400.9048,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1400.9048,
+      "elo_after": 1385.2656,
+      "opp_elo": 1408.7409
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1385.2656,
+      "elo_after": 1374.3653,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Pan Rasking",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1374.3653,
+      "elo_after": 1376.896,
+      "opp_elo": 1429.7855
     }
   ]
 }

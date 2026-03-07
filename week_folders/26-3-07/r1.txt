@@ -1,0 +1,19 @@
+Round 1
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+1      Patrick Brooks                  Ian Marcellana                  0-3
+2      Stella Burfeind                 Timofey Tylik                   0-3
+3      Joseph Chung                    Phil iwanow                     0-3
+4      Nathan Choi                     Hex Dowd                        3-0
+5      Mike Adams                      Pan Rasking                     3-0
+6      Terry Eleftherakis              Nathan Cormier                  0-3
+7      Mike Laing                      Robert Legree                   3-0
+8      Chris Daniel                    Evan Johnstone                  3-0
+9      Bailey Sarkis                   Logan Hesch                     3-0
+10     Anthony Wilkinson               Sean Marks                      3-0
+11     cory wright                     Evan Hamlin                     0-3
+12     Sean Thornton                   Philip Watson                   3-0
+13     Daniel Hernandez                Stan Kornacki                   0-3
+14     Jarrod Haase                    Andy Perez                      0-3
+15     Reya Truher                     Dani Masom                      3-0

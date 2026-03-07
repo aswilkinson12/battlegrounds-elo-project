@@ -1,11 +1,11 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1486.52,
-  "games": 9,
+  "elo": 1427.25,
+  "games": 14,
   "wins": 4,
-  "losses": 4,
-  "draws": 1,
+  "losses": 8,
+  "draws": 2,
   "matches": [
     {
       "week": "26-2-13",
@@ -96,6 +96,56 @@
       "elo_before": 1474.6232,
       "elo_after": 1486.5196,
       "opp_elo": 1383.4801
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1486.5196,
+      "elo_after": 1471.9437,
+      "opp_elo": 1517.5255
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1471.9437,
+      "elo_after": 1457.2329,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Joseph Chung",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.2329,
+      "elo_after": 1443.1925,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Philip Watson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1443.1925,
+      "elo_after": 1429.7855,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Evan Johnstone",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1429.7855,
+      "elo_after": 1427.2548,
+      "opp_elo": 1374.3653
     }
   ]
 }

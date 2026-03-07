@@ -1,10 +1,10 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1558.78,
-  "games": 10,
-  "wins": 7,
-  "losses": 3,
+  "elo": 1572.92,
+  "games": 15,
+  "wins": 10,
+  "losses": 5,
   "draws": 0,
   "matches": [
     {
@@ -106,6 +106,56 @@
       "elo_before": 1573.0853,
       "elo_after": 1558.784,
       "opp_elo": 1610.1099
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Robert Legree",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1558.784,
+      "elo_after": 1572.1024,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Andy Perez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1572.1024,
+      "elo_after": 1585.2878,
+      "opp_elo": 1510.3416
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1585.2878,
+      "elo_after": 1573.0625,
+      "opp_elo": 1668.8272
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Bailey Sarkis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.0625,
+      "elo_after": 1554.5257,
+      "opp_elo": 1517.5084
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.5257,
+      "elo_after": 1572.9248,
+      "opp_elo": 1607.0179
     }
   ]
 }

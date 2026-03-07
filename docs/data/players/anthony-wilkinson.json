@@ -1,11 +1,11 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1644.13,
-  "games": 21,
-  "wins": 16,
+  "elo": 1683.99,
+  "games": 26,
+  "wins": 20,
   "losses": 4,
-  "draws": 1,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -216,6 +216,56 @@
       "elo_before": 1632.7059,
       "elo_after": 1644.1333,
       "opp_elo": 1530.5707
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1644.1333,
+      "elo_after": 1653.852,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1653.852,
+      "elo_after": 1668.8272,
+      "opp_elo": 1631.5684
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1668.8272,
+      "elo_after": 1681.0526,
+      "opp_elo": 1585.2878
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1681.0526,
+      "elo_after": 1691.7501,
+      "opp_elo": 1561.3936
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Timofey Tylik",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1691.7501,
+      "elo_after": 1683.9935,
+      "opp_elo": 1507.8782
     }
   ]
 }

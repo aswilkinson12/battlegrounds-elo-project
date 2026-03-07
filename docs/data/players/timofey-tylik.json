@@ -1,11 +1,11 @@
 {
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
-  "elo": 1471.11,
-  "games": 4,
-  "wins": 1,
-  "losses": 3,
-  "draws": 0,
+  "elo": 1515.63,
+  "games": 9,
+  "wins": 4,
+  "losses": 4,
+  "draws": 1,
   "matches": [
     {
       "week": "26-2-27",
@@ -46,6 +46,56 @@
       "elo_before": 1486.1722,
       "elo_after": 1471.1141,
       "opp_elo": 1506.6499
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.1141,
+      "elo_after": 1486.9843,
+      "opp_elo": 1468.2948
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1486.9843,
+      "elo_after": 1503.5834,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1503.5834,
+      "elo_after": 1489.5906,
+      "opp_elo": 1547.4009
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1489.5906,
+      "elo_after": 1507.8782,
+      "opp_elo": 1539.6075
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1507.8782,
+      "elo_after": 1515.6348,
+      "opp_elo": 1691.7501
     }
   ]
 }

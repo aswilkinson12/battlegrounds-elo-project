@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1620.92,
-  "games": 21,
-  "wins": 15,
-  "losses": 3,
+  "elo": 1588.62,
+  "games": 26,
+  "wins": 17,
+  "losses": 6,
   "draws": 3,
   "matches": [
     {
@@ -216,6 +216,56 @@
       "elo_before": 1609.818,
       "elo_after": 1620.9226,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1620.9226,
+      "elo_after": 1631.5684,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1631.5684,
+      "elo_after": 1616.5932,
+      "opp_elo": 1653.852
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Andy Perez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1616.5932,
+      "elo_after": 1595.2998,
+      "opp_elo": 1497.1562
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1595.2998,
+      "elo_after": 1607.0179,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1607.0179,
+      "elo_after": 1588.6188,
+      "opp_elo": 1554.5257
     }
   ]
 }

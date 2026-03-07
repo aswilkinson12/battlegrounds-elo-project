@@ -1,11 +1,11 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1584.19,
-  "games": 16,
-  "wins": 11,
-  "losses": 4,
-  "draws": 1,
+  "elo": 1562.97,
+  "games": 21,
+  "wins": 13,
+  "losses": 6,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -166,6 +166,56 @@
       "elo_before": 1573.0831,
       "elo_after": 1584.194,
       "opp_elo": 1463.4146
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1584.194,
+      "elo_after": 1593.634,
+      "opp_elo": 1432.8478
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1593.634,
+      "elo_after": 1605.4234,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1605.4234,
+      "elo_after": 1602.2892,
+      "opp_elo": 1536.4733
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1602.2892,
+      "elo_after": 1582.8395,
+      "opp_elo": 1526.1859
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1582.8395,
+      "elo_after": 1562.9664,
+      "opp_elo": 1497.034
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1505.83,
-  "games": 16,
-  "wins": 8,
-  "losses": 8,
+  "elo": 1484.2,
+  "games": 21,
+  "wins": 10,
+  "losses": 11,
   "draws": 0,
   "matches": [
     {
@@ -166,6 +166,56 @@
       "elo_before": 1522.8864,
       "elo_after": 1505.834,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1505.834,
+      "elo_after": 1520.0711,
+      "opp_elo": 1467.3984
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.0711,
+      "elo_after": 1504.0905,
+      "opp_elo": 1520.4927
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1504.0905,
+      "elo_after": 1519.9022,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Chris Daniel",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.9022,
+      "elo_after": 1502.9866,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.9866,
+      "elo_after": 1484.2035,
+      "opp_elo": 1441.9313
     }
   ]
 }

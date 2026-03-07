@@ -1,10 +1,10 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1468.29,
-  "games": 15,
-  "wins": 7,
-  "losses": 8,
+  "elo": 1516.91,
+  "games": 20,
+  "wins": 11,
+  "losses": 9,
   "draws": 0,
   "matches": [
     {
@@ -156,6 +156,56 @@
       "elo_before": 1485.553,
       "elo_after": 1468.2948,
       "opp_elo": 1458.175
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Timofey Tylik",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.2948,
+      "elo_after": 1452.4246,
+      "opp_elo": 1471.1141
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1452.4246,
+      "elo_after": 1467.0914,
+      "opp_elo": 1423.4077
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1467.0914,
+      "elo_after": 1484.6024,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.6024,
+      "elo_after": 1497.034,
+      "opp_elo": 1405.7918
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.034,
+      "elo_after": 1516.9071,
+      "opp_elo": 1582.8395
     }
   ]
 }

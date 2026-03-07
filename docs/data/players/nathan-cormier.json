@@ -1,11 +1,11 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1504.71,
-  "games": 16,
-  "wins": 8,
-  "losses": 8,
-  "draws": 0,
+  "elo": 1536.34,
+  "games": 21,
+  "wins": 11,
+  "losses": 9,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -165,6 +165,56 @@
       "score": 0.0,
       "elo_before": 1521.7079,
       "elo_after": 1504.7096,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1504.7096,
+      "elo_after": 1520.4927,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1520.4927,
+      "elo_after": 1536.4733,
+      "opp_elo": 1520.0711
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1536.4733,
+      "elo_after": 1539.6075,
+      "opp_elo": 1605.4234
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Timofey Tylik",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.6075,
+      "elo_after": 1521.3199,
+      "opp_elo": 1489.5906
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.3199,
+      "elo_after": 1536.3393,
       "opp_elo": 1500.0
     }
   ]

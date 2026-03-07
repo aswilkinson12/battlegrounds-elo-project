@@ -1,0 +1,61 @@
+{
+  "player": "Andy Perez",
+  "slug": "andy-perez",
+  "elo": 1518.15,
+  "games": 5,
+  "wins": 3,
+  "losses": 2,
+  "draws": 0,
+  "matches": [
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1510.3416,
+      "opp_elo": 1371.5837
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1510.3416,
+      "elo_after": 1497.1562,
+      "opp_elo": 1572.1024
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.1562,
+      "elo_after": 1518.4496,
+      "opp_elo": 1616.5932
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Robert Legree",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.4496,
+      "elo_after": 1533.6007,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1533.6007,
+      "elo_after": 1518.1547,
+      "opp_elo": 1545.6356
+    }
+  ]
+}

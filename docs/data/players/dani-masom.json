@@ -1,10 +1,10 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1467.4,
-  "games": 19,
-  "wins": 8,
-  "losses": 11,
+  "elo": 1459.33,
+  "games": 24,
+  "wins": 10,
+  "losses": 14,
   "draws": 0,
   "matches": [
     {
@@ -196,6 +196,56 @@
       "elo_before": 1482.2569,
       "elo_after": 1467.3984,
       "opp_elo": 1507.0858
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1467.3984,
+      "elo_after": 1453.1612,
+      "opp_elo": 1505.834
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1453.1612,
+      "elo_after": 1439.4075,
+      "opp_elo": 1502.2625
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1439.4075,
+      "elo_after": 1458.1699,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1458.1699,
+      "elo_after": 1440.6187,
+      "opp_elo": 1424.3801
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1440.6187,
+      "elo_after": 1459.327,
+      "opp_elo": 1500.0
     }
   ]
 }

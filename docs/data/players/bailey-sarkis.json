@@ -1,10 +1,61 @@
 {
   "player": "Bailey Sarkis",
   "slug": "bailey-sarkis",
-  "elo": 1500.0,
-  "games": 0,
-  "wins": 0,
-  "losses": 0,
+  "elo": 1550.39,
+  "games": 5,
+  "wins": 4,
+  "losses": 1,
   "draws": 0,
-  "matches": []
+  "matches": [
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.8807,
+      "opp_elo": 1519.1432
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.8807,
+      "elo_after": 1501.5812,
+      "opp_elo": 1532.1014
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.5812,
+      "elo_after": 1517.5084,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1517.5084,
+      "elo_after": 1536.0451,
+      "opp_elo": 1573.0625
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Chris Daniel",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1536.0451,
+      "elo_after": 1550.3911,
+      "opp_elo": 1500.0
+    }
+  ]
 }

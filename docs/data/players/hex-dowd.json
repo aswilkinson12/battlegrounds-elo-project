@@ -1,10 +1,10 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1432.85,
-  "games": 20,
-  "wins": 7,
-  "losses": 13,
+  "elo": 1460.71,
+  "games": 25,
+  "wins": 10,
+  "losses": 15,
   "draws": 0,
   "matches": [
     {
@@ -206,6 +206,56 @@
       "elo_before": 1446.3987,
       "elo_after": 1432.8478,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1432.8478,
+      "elo_after": 1423.4077,
+      "opp_elo": 1584.194
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1423.4077,
+      "elo_after": 1408.7409,
+      "opp_elo": 1452.4246
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1408.7409,
+      "elo_after": 1424.3801,
+      "opp_elo": 1400.9048
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1424.3801,
+      "elo_after": 1441.9313,
+      "opp_elo": 1458.1699
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1441.9313,
+      "elo_after": 1460.7144,
+      "opp_elo": 1502.9866
     }
   ]
 }

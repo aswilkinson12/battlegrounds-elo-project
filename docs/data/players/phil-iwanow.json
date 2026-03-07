@@ -1,11 +1,11 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1393.46,
-  "games": 13,
-  "wins": 2,
-  "losses": 10,
-  "draws": 1,
+  "elo": 1414.12,
+  "games": 18,
+  "wins": 4,
+  "losses": 12,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -136,6 +136,56 @@
       "elo_before": 1409.4502,
       "elo_after": 1393.4576,
       "opp_elo": 1409.6119
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1393.4576,
+      "elo_after": 1414.2158,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1414.2158,
+      "elo_after": 1418.088,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Robert Legree",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1418.088,
+      "elo_after": 1405.7918,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1405.7918,
+      "elo_after": 1393.3602,
+      "opp_elo": 1484.6024
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Ian Marcellana",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1393.3602,
+      "elo_after": 1414.1225,
+      "opp_elo": 1500.0
     }
   ]
 }
