@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1579.83,
+  "elo": 1582.16,
   "games": 11,
   "wins": 7,
   "losses": 1,
@@ -51,21 +51,21 @@
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "mavin liu",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1563.9,
-      "elo_after": 1560.99,
+      "elo_after": 1563.9,
       "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "Stan Kornacki",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1560.99,
-      "elo_after": 1560.9965,
-      "opp_elo": 1561.1313
+      "elo_before": 1563.9,
+      "elo_after": 1563.9,
+      "opp_elo": 1561.1328
     },
     {
       "week": "26-2-27",
@@ -73,8 +73,8 @@
       "opponent": "Josh Kibbe",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1560.9965,
-      "elo_after": 1558.216,
+      "elo_before": 1563.9,
+      "elo_after": 1560.99,
       "opp_elo": 1500.0
     },
     {
@@ -83,9 +83,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.216,
-      "elo_after": 1567.6051,
-      "opp_elo": 1405.5365
+      "elo_before": 1560.99,
+      "elo_after": 1570.2719,
+      "opp_elo": 1405.495
     },
     {
       "week": "26-2-27",
@@ -93,9 +93,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1567.6051,
-      "elo_after": 1584.0011,
-      "opp_elo": 1576.2066
+      "elo_before": 1570.2719,
+      "elo_after": 1586.5362,
+      "opp_elo": 1576.0125
     },
     {
       "week": "26-2-27",
@@ -103,9 +103,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1584.0011,
-      "elo_after": 1566.877,
-      "opp_elo": 1559.5508
+      "elo_before": 1586.5362,
+      "elo_after": 1569.3121,
+      "opp_elo": 1559.9022
     },
     {
       "week": "26-2-27",
@@ -113,8 +113,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1566.877,
-      "elo_after": 1579.8347,
+      "elo_before": 1569.3121,
+      "elo_after": 1582.1618,
       "opp_elo": 1500.0
     }
   ]

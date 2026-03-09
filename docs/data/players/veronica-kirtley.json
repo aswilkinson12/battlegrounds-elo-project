@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1497.76,
+  "elo": 1497.3,
   "games": 11,
   "wins": 5,
   "losses": 5,
@@ -64,8 +64,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1515.2654,
-      "elo_after": 1531.3316,
-      "opp_elo": 1516.7038
+      "elo_after": 1531.3287,
+      "opp_elo": 1516.6407
     },
     {
       "week": "26-2-13",
@@ -73,9 +73,9 @@
       "opponent": "Milo Brown",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1531.3316,
-      "elo_after": 1532.5718,
-      "opp_elo": 1558.3167
+      "elo_before": 1531.3287,
+      "elo_after": 1532.6964,
+      "opp_elo": 1561.1004
     },
     {
       "week": "26-2-13",
@@ -83,9 +83,9 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1532.5718,
-      "elo_after": 1515.7196,
-      "opp_elo": 1514.0485
+      "elo_before": 1532.6964,
+      "elo_after": 1515.1717,
+      "opp_elo": 1499.4872
     },
     {
       "week": "26-2-13",
@@ -93,9 +93,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.7196,
-      "elo_after": 1498.3426,
-      "opp_elo": 1485.7448
+      "elo_before": 1515.1717,
+      "elo_after": 1497.8451,
+      "opp_elo": 1486.299
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1498.3426,
-      "elo_after": 1514.419,
+      "elo_before": 1497.8451,
+      "elo_after": 1513.9444,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.419,
-      "elo_after": 1497.7553,
+      "elo_before": 1513.9444,
+      "elo_after": 1497.3025,
       "opp_elo": 1500.0
     }
   ]

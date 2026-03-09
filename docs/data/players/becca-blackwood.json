@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1529.22,
+  "elo": 1530.19,
   "games": 15,
   "wins": 8,
   "losses": 6,
@@ -94,8 +94,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1525.4206,
-      "elo_after": 1508.2449,
-      "opp_elo": 1499.8439
+      "elo_after": 1508.2424,
+      "opp_elo": 1499.7891
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.2449,
-      "elo_after": 1492.3326,
+      "elo_before": 1508.2424,
+      "elo_after": 1492.3302,
       "opp_elo": 1510.1484
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1492.3326,
-      "elo_after": 1508.6856,
+      "elo_before": 1492.3302,
+      "elo_after": 1508.6833,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.6856,
-      "elo_after": 1492.2857,
-      "opp_elo": 1500.0
+      "elo_before": 1508.6833,
+      "elo_after": 1493.3938,
+      "opp_elo": 1524.122
     },
     {
       "week": "26-2-20",
@@ -133,9 +133,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1492.2857,
-      "elo_after": 1508.7329,
-      "opp_elo": 1502.0002
+      "elo_before": 1493.3938,
+      "elo_after": 1509.7861,
+      "opp_elo": 1501.9141
     },
     {
       "week": "26-2-20",
@@ -143,9 +143,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1508.7329,
-      "elo_after": 1527.4943,
-      "opp_elo": 1569.3014
+      "elo_before": 1509.7861,
+      "elo_after": 1528.5021,
+      "opp_elo": 1569.3386
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Amy Altman",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1527.4943,
-      "elo_after": 1529.2231,
-      "opp_elo": 1565.1813
+      "elo_before": 1528.5021,
+      "elo_after": 1530.1854,
+      "opp_elo": 1565.191
     }
   ]
 }

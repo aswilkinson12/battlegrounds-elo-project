@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1683.99,
+  "elo": 1691.72,
   "games": 26,
   "wins": 20,
   "losses": 4,
@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1557.5474,
-      "elo_after": 1573.3635,
-      "opp_elo": 1553.5527
+      "elo_after": 1573.3599,
+      "opp_elo": 1553.4756
     },
     {
       "week": "26-2-13",
@@ -113,8 +113,8 @@
       "opponent": "Jason Flynn",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1573.3635,
-      "elo_after": 1586.0343,
+      "elo_before": 1573.3599,
+      "elo_after": 1586.0309,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1586.0343,
-      "elo_after": 1600.7363,
-      "opp_elo": 1557.7856
+      "elo_before": 1586.0309,
+      "elo_after": 1600.7125,
+      "opp_elo": 1557.3373
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1600.7363,
-      "elo_after": 1612.2229,
+      "elo_before": 1600.7125,
+      "elo_after": 1612.2002,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1612.2229,
-      "elo_after": 1626.059,
-      "opp_elo": 1564.9428
+      "elo_before": 1612.2002,
+      "elo_after": 1626.0561,
+      "opp_elo": 1565.3604
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1626.059,
-      "elo_after": 1605.2771,
-      "opp_elo": 1518.9529
+      "elo_before": 1626.0561,
+      "elo_after": 1605.2191,
+      "opp_elo": 1517.6345
     },
     {
       "week": "26-2-20",
@@ -163,8 +163,8 @@
       "opponent": "Ash DerManouelian",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1605.2771,
-      "elo_after": 1616.572,
+      "elo_before": 1605.2191,
+      "elo_after": 1616.5165,
       "opp_elo": 1500.0
     },
     {
@@ -173,8 +173,8 @@
       "opponent": "Devon O’Donnell",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1616.572,
-      "elo_after": 1627.3964,
+      "elo_before": 1616.5165,
+      "elo_after": 1627.3432,
       "opp_elo": 1500.0
     },
     {
@@ -183,9 +183,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1627.3964,
-      "elo_after": 1639.7551,
-      "opp_elo": 1546.9158
+      "elo_before": 1627.3432,
+      "elo_after": 1639.6824,
+      "opp_elo": 1546.416
     },
     {
       "week": "26-2-27",
@@ -193,9 +193,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1639.7551,
-      "elo_after": 1622.1085,
-      "opp_elo": 1603.8743
+      "elo_before": 1639.6824,
+      "elo_after": 1622.0909,
+      "opp_elo": 1605.0099
     },
     {
       "week": "26-2-27",
@@ -203,8 +203,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1622.1085,
-      "elo_after": 1632.7059,
+      "elo_before": 1622.0909,
+      "elo_after": 1632.689,
       "opp_elo": 1500.0
     },
     {
@@ -213,9 +213,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1632.7059,
-      "elo_after": 1644.1333,
-      "opp_elo": 1530.5707
+      "elo_before": 1632.689,
+      "elo_after": 1644.1167,
+      "opp_elo": 1530.5614
     },
     {
       "week": "26-3-07",
@@ -223,8 +223,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1644.1333,
-      "elo_after": 1653.852,
+      "elo_before": 1644.1167,
+      "elo_after": 1653.8361,
       "opp_elo": 1500.0
     },
     {
@@ -233,9 +233,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1653.852,
-      "elo_after": 1668.8272,
-      "opp_elo": 1631.5684
+      "elo_before": 1653.8361,
+      "elo_after": 1668.8116,
+      "opp_elo": 1631.5589
     },
     {
       "week": "26-3-07",
@@ -243,9 +243,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1668.8272,
-      "elo_after": 1681.0526,
-      "opp_elo": 1585.2878
+      "elo_before": 1668.8116,
+      "elo_after": 1681.0375,
+      "opp_elo": 1585.2861
     },
     {
       "week": "26-3-07",
@@ -253,19 +253,19 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1681.0526,
-      "elo_after": 1691.7501,
-      "opp_elo": 1561.3936
+      "elo_before": 1681.0375,
+      "elo_after": 1691.7242,
+      "opp_elo": 1561.1152
     },
     {
       "week": "26-3-07",
       "round": 5,
       "opponent": "Timofey Tylik",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1691.7501,
-      "elo_after": 1683.9935,
-      "opp_elo": 1507.8782
+      "elo_before": 1691.7242,
+      "elo_after": 1691.7242,
+      "opp_elo": 1507.8148
     }
   ]
 }

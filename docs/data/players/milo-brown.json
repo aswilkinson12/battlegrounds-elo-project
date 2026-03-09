@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1575.92,
+  "elo": 1577.65,
   "games": 16,
   "wins": 10,
   "losses": 3,
@@ -51,20 +51,20 @@
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
       "opponent": "Stan Kornacki",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1561.1004,
-      "elo_after": 1561.1019,
+      "elo_after": 1561.1004,
       "opp_elo": 1561.1328
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
       "opponent": "mavin liu",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1561.1019,
-      "elo_after": 1558.3167,
+      "elo_before": 1561.1004,
+      "elo_after": 1561.1004,
       "opp_elo": 1500.0
     },
     {
@@ -73,9 +73,9 @@
       "opponent": "Veronica Kirtley",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1558.3167,
-      "elo_after": 1557.0765,
-      "opp_elo": 1531.3316
+      "elo_before": 1561.1004,
+      "elo_after": 1559.7328,
+      "opp_elo": 1531.3287
     },
     {
       "week": "26-2-13",
@@ -83,9 +83,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.0765,
-      "elo_after": 1539.1544,
-      "opp_elo": 1515.1361
+      "elo_before": 1559.7328,
+      "elo_after": 1541.6626,
+      "opp_elo": 1514.5262
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1539.1544,
-      "elo_after": 1553.3589,
+      "elo_before": 1541.6626,
+      "elo_after": 1555.7531,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.3589,
-      "elo_after": 1566.9208,
+      "elo_before": 1555.7531,
+      "elo_after": 1569.2074,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Gabe Dietz",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1566.9208,
-      "elo_after": 1579.8765,
+      "elo_before": 1569.2074,
+      "elo_after": 1582.0618,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1579.8765,
-      "elo_after": 1588.7861,
-      "opp_elo": 1414.4461
+      "elo_before": 1582.0618,
+      "elo_after": 1590.886,
+      "opp_elo": 1414.3193
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Philip Petronis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1588.7861,
-      "elo_after": 1600.784,
+      "elo_before": 1590.886,
+      "elo_after": 1602.7935,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1600.784,
-      "elo_after": 1580.9169,
-      "opp_elo": 1515.1144
+      "elo_before": 1602.7935,
+      "elo_after": 1582.8375,
+      "opp_elo": 1515.0728
     },
     {
       "week": "26-2-27",
@@ -153,8 +153,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1580.9169,
-      "elo_after": 1561.2565,
+      "elo_before": 1582.8375,
+      "elo_after": 1563.0934,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1561.2565,
-      "elo_after": 1575.921,
-      "opp_elo": 1532.19
+      "elo_before": 1563.0934,
+      "elo_after": 1577.654,
+      "opp_elo": 1531.7527
     }
   ]
 }

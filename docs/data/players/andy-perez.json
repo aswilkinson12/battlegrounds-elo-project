@@ -14,8 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1510.3416,
-      "opp_elo": 1371.5837
+      "elo_after": 1510.3438,
+      "opp_elo": 1371.6389
     },
     {
       "week": "26-3-07",
@@ -23,9 +23,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1510.3416,
-      "elo_after": 1497.1562,
-      "opp_elo": 1572.1024
+      "elo_before": 1510.3438,
+      "elo_after": 1497.1582,
+      "opp_elo": 1572.1006
     },
     {
       "week": "26-3-07",
@@ -33,9 +33,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1497.1562,
-      "elo_after": 1518.4496,
-      "opp_elo": 1616.5932
+      "elo_before": 1497.1582,
+      "elo_after": 1518.4511,
+      "opp_elo": 1616.5834
     },
     {
       "week": "26-3-07",
@@ -43,8 +43,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.4496,
-      "elo_after": 1533.6007,
+      "elo_before": 1518.4511,
+      "elo_after": 1533.6022,
       "opp_elo": 1500.0
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1533.6007,
-      "elo_after": 1518.1547,
-      "opp_elo": 1545.6356
+      "elo_before": 1533.6022,
+      "elo_after": 1518.1541,
+      "opp_elo": 1545.5914
     }
   ]
 }

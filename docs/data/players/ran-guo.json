@@ -1,7 +1,7 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1533.98,
+  "elo": 1533.34,
   "games": 6,
   "wins": 4,
   "losses": 2,
@@ -44,8 +44,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1486.1722,
-      "elo_after": 1502.8086,
-      "opp_elo": 1500.0
+      "elo_after": 1501.3699,
+      "opp_elo": 1468.7363
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -53,8 +53,8 @@
       "opponent": "Graham Bateman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.8086,
-      "elo_after": 1518.6793,
+      "elo_before": 1501.3699,
+      "elo_after": 1517.3068,
       "opp_elo": 1500.0
     },
     {
@@ -63,9 +63,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.6793,
-      "elo_after": 1533.9798,
-      "opp_elo": 1503.4805
+      "elo_before": 1517.3068,
+      "elo_after": 1533.3406,
+      "opp_elo": 1518.0415
     }
   ]
 }

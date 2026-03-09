@@ -1,0 +1,151 @@
+{
+  "player": "Joseph Chung",
+  "slug": "joseph-chung",
+  "elo": 1418.17,
+  "games": 14,
+  "wins": 4,
+  "losses": 10,
+  "draws": 0,
+  "matches": [
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Ian Marcellana",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0,
+      "elo_after": 1468.7363,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.7363,
+      "elo_after": 1453.5386,
+      "opp_elo": 1486.1722
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1453.5386,
+      "elo_after": 1470.2364,
+      "opp_elo": 1468.7008
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.2364,
+      "elo_after": 1454.9082,
+      "opp_elo": 1484.8331
+    },
+    {
+      "week": "26-2-27",
+      "round": 1,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1454.9082,
+      "elo_after": 1437.5924,
+      "opp_elo": 1426.2706
+    },
+    {
+      "week": "26-2-27",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1437.5924,
+      "elo_after": 1424.4358,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 3,
+      "opponent": "Josh Kibbe",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1424.4358,
+      "elo_after": 1411.8618,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1411.8618,
+      "elo_after": 1431.8359,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-27",
+      "round": 5,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1431.8359,
+      "elo_after": 1450.9353,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1450.9353,
+      "elo_after": 1432.2496,
+      "opp_elo": 1392.0601
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Robert Legree",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1432.2496,
+      "elo_after": 1419.3307,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1419.3307,
+      "elo_after": 1437.0812,
+      "opp_elo": 1457.4954
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1437.0812,
+      "elo_after": 1418.1716,
+      "opp_elo": 1373.1902
+    }
+  ]
+}

@@ -1,442 +1,442 @@
-Week,Round,PlayerA,PlayerB,ScoreA,OutcomeA,OutcomeB,Status,MatchKey
-25-12-6_brainstormin_charity_tournament,1,Adipto Sengupta,Colin Hogan,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Alexander Gimmi,Hex Dowd,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Amber Cronin,Luke Deratzou,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Amy Altman,Ryan MacDonald,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Anthony Wilkinson,Bradley Skubic,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Austin Wolf,Elias Medrano,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Avi Lessure,Evan Johnstone,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Becca Blackwood,Gina Millott,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Benjamin Wakefield,Philip Petronis,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Brian Kennes,John Petrella,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Cameron Riley,Raul Bottrell-Rogers,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Dani Masom,Graham Bateman,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Daniel Hernandez,Jack Henry,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Danielle Lucibello,Michael Stopa,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,David Van Hise,Ran Guo,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Etai Kurtzman,Nathan Cormier,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Ian Marcellana,Logan Hesch,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Isharah Considine,tyler kaldenberg,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Jarrod Haase,Matt Rosenbloom,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Joel Brook,John Larochelle,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Jonathon Streker,mavin liu,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Markis Galea,Nathan C,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Matt Suyer,Mike Laing,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Mike Adams,Tim Lawson,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Milo Brown,Phil iwanow,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,1,Reya Truher,Stan Kornacki,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Sam White,Veronica Kirtley,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Sean Marks,Stella Burfeind,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,1,Terry Eleftherakis,Timothy Haase,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Adipto Sengupta,Nathan C,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Alexander Gimmi,Jarrod Haase,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Amy Altman,Etai Kurtzman,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Anthony Wilkinson,tyler kaldenberg,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Austin Wolf,Brian Kennes,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Avi Lessure,Luke Deratzou,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Becca Blackwood,Mike Laing,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Benjamin Wakefield,Veronica Kirtley,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Bradley Skubic,Isharah Considine,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Cameron Riley,Colin Hogan,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Dani Masom,Sean Marks,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Daniel Hernandez,Danielle Lucibello,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,David Van Hise,Jack Henry,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Elias Medrano,Joel Brook,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Evan Johnstone,Jonathon Streker,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Gina Millott,Philip Petronis,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Graham Bateman,Stan Kornacki,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Hex Dowd,Mike Adams,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Ian Marcellana,Joseph Chung,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,John Larochelle,Michael Stopa,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,John Petrella,Ryan MacDonald,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Logan Hesch,Phil iwanow,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Markis Galea,Sam White,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Matt Rosenbloom,Reya Truher,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Matt Suyer,Ran Guo,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Milo Brown,Tim Lawson,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Nathan Cormier,Terry Eleftherakis,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,2,Raul Bottrell-Rogers,Stella Burfeind,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,2,Timothy Haase,mavin liu,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Adipto Sengupta,Joel Brook,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Alexander Gimmi,Luke Deratzou,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Amber Cronin,Mike Laing,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Amy Altman,Brian Kennes,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Anthony Wilkinson,Nathan Cormier,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Austin Wolf,Dani Masom,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Avi Lessure,mavin liu,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Becca Blackwood,Benjamin Wakefield,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Bradley Skubic,Nathan C,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Cameron Riley,Sam White,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Colin Hogan,Phil iwanow,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Daniel Hernandez,Philip Petronis,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Danielle Lucibello,John Petrella,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,David Van Hise,Raul Bottrell-Rogers,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Elias Medrano,Sean Marks,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Etai Kurtzman,Tim Lawson,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Evan Johnstone,Timothy Haase,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,3,Gina Millott,Hex Dowd,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Graham Bateman,Jonathon Streker,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,3,Ian Marcellana,Stella Burfeind,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Isharah Considine,Veronica Kirtley,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Jack Henry,Stan Kornacki,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Jarrod Haase,Matt Suyer,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,John Larochelle,Milo Brown,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Joseph Chung,Mike Adams,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Logan Hesch,Reya Truher,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Markis Galea,Ran Guo,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,3,Matt Rosenbloom,tyler kaldenberg,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,3,Michael Stopa,Ryan MacDonald,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Adipto Sengupta,Tim Lawson,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Alexander Gimmi,Mike Adams,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Amber Cronin,Graham Bateman,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Amy Altman,Veronica Kirtley,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Anthony Wilkinson,Ian Marcellana,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Austin Wolf,Logan Hesch,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Avi Lessure,Matt Suyer,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Becca Blackwood,Bradley Skubic,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Benjamin Wakefield,Mike Laing,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Brian Kennes,Stan Kornacki,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Cameron Riley,John Petrella,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Colin Hogan,Gina Millott,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Dani Masom,Evan Johnstone,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Daniel Hernandez,Ryan MacDonald,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Danielle Lucibello,Markis Galea,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,David Van Hise,Jonathon Streker,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Elias Medrano,Michael Stopa,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Etai Kurtzman,John Larochelle,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Hex Dowd,Reya Truher,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Isharah Considine,Nathan Cormier,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Jack Henry,Raul Bottrell-Rogers,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Jarrod Haase,Nathan C,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Joel Brook,Sam White,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Joseph Chung,Ran Guo,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Luke Deratzou,Milo Brown,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Matt Rosenbloom,Phil iwanow,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Philip Petronis,Terry Eleftherakis,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,4,Sean Marks,tyler kaldenberg,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,4,Stella Burfeind,mavin liu,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Adipto Sengupta,tyler kaldenberg,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,5,Alexander Gimmi,Sam White,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Amber Cronin,Gina Millott,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Amy Altman,Luke Deratzou,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Anthony Wilkinson,Mike Laing,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Austin Wolf,Nathan C,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Avi Lessure,Elias Medrano,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Becca Blackwood,Brian Kennes,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Benjamin Wakefield,Raul Bottrell-Rogers,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Bradley Skubic,mavin liu,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,5,Colin Hogan,Danielle Lucibello,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Dani Masom,Phil iwanow,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Daniel Hernandez,Isharah Considine,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,David Van Hise,Evan Johnstone,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Etai Kurtzman,Stella Burfeind,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Graham Bateman,Ran Guo,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Hex Dowd,Markis Galea,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Ian Marcellana,Reya Truher,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Jack Henry,Ryan MacDonald,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,Jarrod Haase,Joel Brook,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,5,John Larochelle,Jonathon Streker,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Joseph Chung,Nathan Cormier,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Logan Hesch,Matt Rosenbloom,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Mike Adams,Terry Eleftherakis,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Milo Brown,Stan Kornacki,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,5,Philip Petronis,Sean Marks,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,5,Tim Lawson,Veronica Kirtley,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Alexander Gimmi,Avi Lessure,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Amber Cronin,Phil iwanow,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,6,Amy Altman,Jack Henry,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Anthony Wilkinson,Etai Kurtzman,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Austin Wolf,Stella Burfeind,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Becca Blackwood,Luke Deratzou,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Bradley Skubic,Stan Kornacki,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,6,Brian Kennes,Ryan MacDonald,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Colin Hogan,tyler kaldenberg,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Dani Masom,Joseph Chung,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Daniel Hernandez,Jarrod Haase,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Elias Medrano,Hex Dowd,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Evan Johnstone,Ran Guo,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Gina Millott,Matt Rosenbloom,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Graham Bateman,John Larochelle,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Ian Marcellana,Tim Lawson,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Isharah Considine,Mike Laing,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Joel Brook,Raul Bottrell-Rogers,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Jonathon Streker,Philip Petronis,1.0,Win,Loss,OK,
-25-12-6_brainstormin_charity_tournament,6,Logan Hesch,Mike Adams,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Markis Galea,Nathan Cormier,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Milo Brown,mavin liu,0.5,Tie,Tie,OK,
-25-12-6_brainstormin_charity_tournament,6,Nathan C,Sam White,0.0,Loss,Win,OK,
-25-12-6_brainstormin_charity_tournament,6,Reya Truher,Veronica Kirtley,0.0,Loss,Win,OK,
-26-2-13,1,Amber Cronin,Willow Blackthorne,1.0,Win,Loss,OK,1|Amber Cronin|Willow Blackthorne
-26-2-13,1,Amy Altman,Jonathon Torchia,1.0,Win,Loss,OK,1|Amy Altman|Jonathon Torchia
-26-2-13,1,Anthony Wilkinson,Isharah Considine,1.0,Win,Loss,OK,1|Anthony Wilkinson|Isharah Considine
-26-2-13,1,Autumn Garofalo,Daniel Hernandez,1.0,Win,Loss,OK,1|Autumn Garofalo|Daniel Hernandez
-26-2-13,1,Becca Blackwood,Karl Rookey,0.0,Loss,Win,OK,1|Becca Blackwood|Karl Rookey
-26-2-13,1,Dani Masom,Stella Burfeind,0.0,Loss,Win,OK,1|Dani Masom|Stella Burfeind
-26-2-13,1,Daniel Cotto,Reya Truher,0.0,Loss,Win,OK,1|Daniel Cotto|Reya Truher
-26-2-13,1,David Van Hise,Hex Dowd,0.0,Loss,Win,OK,1|David Van Hise|Hex Dowd
-26-2-13,1,Devon O'Donnell,Evan Johnstone,1.0,Win,Loss,OK,1|Devon O'Donnell|Evan Johnstone
-26-2-13,1,Gabe Dietz,Sean Marks,1.0,Win,Loss,OK,1|Gabe Dietz|Sean Marks
-26-2-13,1,Jack Henry,Jason Flynn,0.0,Loss,Win,OK,1|Jack Henry|Jason Flynn
-26-2-13,1,Jarrod Haase,Stan Kornacki,0.0,Loss,Win,OK,1|Jarrod Haase|Stan Kornacki
-26-2-13,1,John Larochelle,Sean Thornton,1.0,Win,Loss,OK,1|John Larochelle|Sean Thornton
-26-2-13,1,Kenton Najdzien,Philip Petronis,1.0,Win,Loss,OK,1|Kenton Najdzien|Philip Petronis
-26-2-13,1,Mike Adams,Nathan C,0.0,Loss,Win,OK,1|Mike Adams|Nathan C
-26-2-13,1,Milo Brown,Veronica Kirtley,0.5,Tie,Tie,OK,1|Milo Brown|Veronica Kirtley
-26-2-13,1,Pan Rasking,Phil iwanow,1.0,Win,Loss,OK,1|Pan Rasking|Phil iwanow
-26-2-13,1,Ryan MacDonald,Thomas Kotcher,0.0,Loss,Win,OK,1|Ryan MacDonald|Thomas Kotcher
-26-2-13,1,Terry Eleftherakis,Thomas Ostroff,1.0,Win,Loss,OK,1|Terry Eleftherakis|Thomas Ostroff
-26-2-13,2,Amber Cronin,Nathan C,0.0,Loss,Win,OK,2|Amber Cronin|Nathan C
-26-2-13,2,Amy Altman,Anthony Wilkinson,0.0,Loss,Win,OK,2|Amy Altman|Anthony Wilkinson
-26-2-13,2,Autumn Garofalo,Stella Burfeind,1.0,Win,Loss,OK,2|Autumn Garofalo|Stella Burfeind
-26-2-13,2,Becca Blackwood,Willow Blackthorne,1.0,Win,Loss,OK,2|Becca Blackwood|Willow Blackthorne
-26-2-13,2,Dani Masom,David Van Hise,0.0,Loss,Win,OK,2|Dani Masom|David Van Hise
-26-2-13,2,Daniel Cotto,Jonathon Torchia,0.0,Loss,Win,OK,2|Daniel Cotto|Jonathon Torchia
-26-2-13,2,Daniel Hernandez,Jack Henry,0.0,Loss,Win,OK,2|Daniel Hernandez|Jack Henry
-26-2-13,2,Devon O'Donnell,Karl Rookey,0.0,Loss,Win,OK,2|Devon O'Donnell|Karl Rookey
-26-2-13,2,Evan Johnstone,Sean Marks,1.0,Win,Loss,OK,2|Evan Johnstone|Sean Marks
-26-2-13,2,Gabe Dietz,Jason Flynn,1.0,Win,Loss,OK,2|Gabe Dietz|Jason Flynn
-26-2-13,2,Hex Dowd,Stan Kornacki,0.0,Loss,Win,OK,2|Hex Dowd|Stan Kornacki
-26-2-13,2,Isharah Considine,Ryan MacDonald,1.0,Win,Loss,OK,2|Isharah Considine|Ryan MacDonald
-26-2-13,2,John Larochelle,Veronica Kirtley,1.0,Win,Loss,OK,2|John Larochelle|Veronica Kirtley
-26-2-13,2,Kenton Najdzien,Reya Truher,1.0,Win,Loss,OK,2|Kenton Najdzien|Reya Truher
-26-2-13,2,Mike Adams,Milo Brown,1.0,Win,Loss,OK,2|Mike Adams|Milo Brown
-26-2-13,2,Mike Laing,Pan Rasking,1.0,Win,Loss,OK,2|Mike Laing|Pan Rasking
-26-2-13,2,Phil iwanow,Philip Petronis,0.0,Loss,Win,OK,2|Phil iwanow|Philip Petronis
-26-2-13,2,Sean Thornton,Thomas Ostroff,0.0,Loss,Win,OK,2|Sean Thornton|Thomas Ostroff
-26-2-13,2,Terry Eleftherakis,Thomas Kotcher,0.0,Loss,Win,OK,2|Terry Eleftherakis|Thomas Kotcher
-26-2-13,3,Amber Cronin,Mike Adams,0.0,Loss,Win,OK,3|Amber Cronin|Mike Adams
-26-2-13,3,Amy Altman,Philip Petronis,0.0,Loss,Win,OK,3|Amy Altman|Philip Petronis
-26-2-13,3,Anthony Wilkinson,Thomas Kotcher,0.5,Tie,Tie,OK,3|Anthony Wilkinson|Thomas Kotcher
-26-2-13,3,Autumn Garofalo,John Larochelle,1.0,Win,Loss,OK,3|Autumn Garofalo|John Larochelle
-26-2-13,3,Becca Blackwood,Reya Truher,0.0,Loss,Win,OK,3|Becca Blackwood|Reya Truher
-26-2-13,3,Dani Masom,Willow Blackthorne,1.0,Win,Loss,OK,3|Dani Masom|Willow Blackthorne
-26-2-13,3,Daniel Hernandez,Milo Brown,0.0,Loss,Win,OK,3|Daniel Hernandez|Milo Brown
-26-2-13,3,David Van Hise,Veronica Kirtley,1.0,Win,Loss,OK,3|David Van Hise|Veronica Kirtley
-26-2-13,3,Devon O'Donnell,Pan Rasking,0.0,Loss,Win,OK,3|Devon O'Donnell|Pan Rasking
-26-2-13,3,Evan Johnstone,Jarrod Haase,0.0,Loss,Win,OK,3|Evan Johnstone|Jarrod Haase
-26-2-13,3,Gabe Dietz,Nathan C,0.5,Tie,Tie,OK,3|Gabe Dietz|Nathan C
-26-2-13,3,Hex Dowd,Stella Burfeind,0.0,Loss,Win,OK,3|Hex Dowd|Stella Burfeind
-26-2-13,3,Isharah Considine,Jonathon Torchia,1.0,Win,Loss,OK,3|Isharah Considine|Jonathon Torchia
-26-2-13,3,Jack Henry,Thomas Ostroff,0.0,Loss,Win,OK,3|Jack Henry|Thomas Ostroff
-26-2-13,3,Jason Flynn,Terry Eleftherakis,1.0,Win,Loss,OK,3|Jason Flynn|Terry Eleftherakis
-26-2-13,3,Karl Rookey,Mike Laing,0.0,Loss,Win,OK,3|Karl Rookey|Mike Laing
-26-2-13,3,Kenton Najdzien,Stan Kornacki,0.0,Loss,Win,OK,3|Kenton Najdzien|Stan Kornacki
-26-2-13,3,Ryan MacDonald,Sean Thornton,0.0,Loss,Win,OK,3|Ryan MacDonald|Sean Thornton
-26-2-13,4,Amber Cronin,Evan Johnstone,1.0,Win,Loss,OK,4|Amber Cronin|Evan Johnstone
-26-2-13,4,Amy Altman,Becca Blackwood,1.0,Win,Loss,OK,4|Amy Altman|Becca Blackwood
-26-2-13,4,Anthony Wilkinson,Nathan C,1.0,Win,Loss,OK,4|Anthony Wilkinson|Nathan C
-26-2-13,4,Autumn Garofalo,Stan Kornacki,0.0,Loss,Win,OK,4|Autumn Garofalo|Stan Kornacki
-26-2-13,4,Dani Masom,Hex Dowd,1.0,Win,Loss,OK,4|Dani Masom|Hex Dowd
-26-2-13,4,David Van Hise,Isharah Considine,1.0,Win,Loss,OK,4|David Van Hise|Isharah Considine
-26-2-13,4,Gabe Dietz,Pan Rasking,0.0,Loss,Win,OK,4|Gabe Dietz|Pan Rasking
-26-2-13,4,Jack Henry,Sean Thornton,0.0,Loss,Win,OK,4|Jack Henry|Sean Thornton
-26-2-13,4,Jarrod Haase,John Larochelle,0.0,Loss,Win,OK,4|Jarrod Haase|John Larochelle
-26-2-13,4,Jason Flynn,Stella Burfeind,1.0,Win,Loss,OK,4|Jason Flynn|Stella Burfeind
-26-2-13,4,Jonathon Torchia,Terry Eleftherakis,0.0,Loss,Win,OK,4|Jonathon Torchia|Terry Eleftherakis
-26-2-13,4,Karl Rookey,Kenton Najdzien,0.0,Loss,Win,OK,4|Karl Rookey|Kenton Najdzien
-26-2-13,4,Mike Adams,Thomas Ostroff,1.0,Win,Loss,OK,4|Mike Adams|Thomas Ostroff
-26-2-13,4,Mike Laing,Thomas Kotcher,1.0,Win,Loss,OK,4|Mike Laing|Thomas Kotcher
-26-2-13,4,Milo Brown,Sean Marks,1.0,Win,Loss,OK,4|Milo Brown|Sean Marks
-26-2-13,4,Philip Petronis,Reya Truher,1.0,Win,Loss,OK,4|Philip Petronis|Reya Truher
-26-2-13,4,Veronica Kirtley,Willow Blackthorne,1.0,Win,Loss,OK,4|Veronica Kirtley|Willow Blackthorne
-26-2-13,5,Amber Cronin,Sean Thornton,1.0,Win,Loss,OK,5|Amber Cronin|Sean Thornton
-26-2-13,5,Amy Altman,Stella Burfeind,1.0,Win,Loss,OK,5|Amy Altman|Stella Burfeind
-26-2-13,5,Anthony Wilkinson,Jason Flynn,1.0,Win,Loss,OK,5|Anthony Wilkinson|Jason Flynn
-26-2-13,5,Autumn Garofalo,Thomas Kotcher,1.0,Win,Loss,OK,5|Autumn Garofalo|Thomas Kotcher
-26-2-13,5,Dani Masom,Nathan C,0.0,Loss,Win,OK,5|Dani Masom|Nathan C
-26-2-13,5,David Van Hise,Kenton Najdzien,1.0,Win,Loss,OK,5|David Van Hise|Kenton Najdzien
-26-2-13,5,Evan Johnstone,Hex Dowd,1.0,Win,Loss,OK,5|Evan Johnstone|Hex Dowd
-26-2-13,5,Gabe Dietz,Milo Brown,0.0,Loss,Win,OK,5|Gabe Dietz|Milo Brown
-26-2-13,5,Isharah Considine,Reya Truher,1.0,Win,Loss,OK,5|Isharah Considine|Reya Truher
-26-2-13,5,Jack Henry,Willow Blackthorne,0.0,Loss,Win,OK,5|Jack Henry|Willow Blackthorne
-26-2-13,5,Jarrod Haase,Karl Rookey,0.0,Loss,Win,OK,5|Jarrod Haase|Karl Rookey
-26-2-13,5,John Larochelle,Philip Petronis,0.5,Tie,Tie,OK,5|John Larochelle|Philip Petronis
-26-2-13,5,Mike Adams,Pan Rasking,0.5,Tie,Tie,OK,5|Mike Adams|Pan Rasking
-26-2-13,5,Mike Laing,Stan Kornacki,0.0,Loss,Win,OK,5|Mike Laing|Stan Kornacki
-26-2-13,5,Terry Eleftherakis,Veronica Kirtley,1.0,Win,Loss,OK,5|Terry Eleftherakis|Veronica Kirtley
-26-2-20,1,Amy Altman,David Van Hise,0.0,Loss,Win,OK,1|Amy Altman|David Van Hise
-26-2-20,1,Anthony Wilkinson,Mike Adams,1.0,Win,Loss,OK,1|Anthony Wilkinson|Mike Adams
-26-2-20,1,Ash DerManouelian,Dani Masom,1.0,Win,Loss,OK,1|Ash DerManouelian|Dani Masom
-26-2-20,1,Becca Blackwood,Evan Hamlin,1.0,Win,Loss,OK,1|Becca Blackwood|Evan Hamlin
-26-2-20,1,Evan Johnstone,Jonathon Streker,1.0,Win,Loss,OK,1|Evan Johnstone|Jonathon Streker
-26-2-20,1,Gina Millott,Stan Kornacki,1.0,Win,Loss,OK,1|Gina Millott|Stan Kornacki
-26-2-20,1,Hex Dowd,Stella Burfeind,0.0,Loss,Win,OK,1|Hex Dowd|Stella Burfeind
-26-2-20,1,Jarrod Haase,Nathan Cormier,0.0,Loss,Win,OK,1|Jarrod Haase|Nathan Cormier
-26-2-20,1,Jason Weiss,Sean Marks,1.0,Win,Loss,OK,1|Jason Weiss|Sean Marks
-26-2-20,2,Amy Altman,Jarrod Haase,1.0,Win,Loss,OK,2|Amy Altman|Jarrod Haase
-26-2-20,2,Anthony Wilkinson,[REDACTED] [REDACTED],1.0,Win,Loss,OK,2|Anthony Wilkinson|[REDACTED] [REDACTED]
-26-2-20,2,Ash DerManouelian,Stella Burfeind,1.0,Win,Loss,OK,2|Ash DerManouelian|Stella Burfeind
-26-2-20,2,Becca Blackwood,Gina Millott,0.0,Loss,Win,OK,2|Becca Blackwood|Gina Millott
-26-2-20,2,David Van Hise,Jason Weiss,1.0,Win,Loss,OK,2|David Van Hise|Jason Weiss
-26-2-20,2,Evan Hamlin,Stan Kornacki,0.0,Loss,Win,OK,2|Evan Hamlin|Stan Kornacki
-26-2-20,2,Evan Johnstone,Nathan Cormier,0.0,Loss,Win,OK,2|Evan Johnstone|Nathan Cormier
-26-2-20,2,Hex Dowd,Sean Marks,0.0,Loss,Win,OK,2|Hex Dowd|Sean Marks
-26-2-20,2,Jonathon Streker,Mike Adams,0.0,Loss,Win,OK,2|Jonathon Streker|Mike Adams
-26-2-20,3,Amy Altman,Sean Marks,1.0,Win,Loss,OK,3|Amy Altman|Sean Marks
-26-2-20,3,Anthony Wilkinson,David Van Hise,1.0,Win,Loss,OK,3|Anthony Wilkinson|David Van Hise
-26-2-20,3,Ash DerManouelian,Nathan Cormier,0.0,Loss,Win,OK,3|Ash DerManouelian|Nathan Cormier
-26-2-20,3,Becca Blackwood,Stella Burfeind,1.0,Win,Loss,OK,3|Becca Blackwood|Stella Burfeind
-26-2-20,3,Dani Masom,Jason Weiss,0.0,Loss,Win,OK,3|Dani Masom|Jason Weiss
-26-2-20,3,Evan Johnstone,Mike Adams,0.0,Loss,Win,OK,3|Evan Johnstone|Mike Adams
-26-2-20,3,Gina Millott,[REDACTED] [REDACTED],0.0,Loss,Win,OK,3|Gina Millott|[REDACTED] [REDACTED]
-26-2-20,3,Jarrod Haase,Stan Kornacki,0.5,Tie,Tie,OK,3|Jarrod Haase|Stan Kornacki
-26-2-20,4,Amy Altman,Jason Weiss,1.0,Win,Loss,OK,4|Amy Altman|Jason Weiss
-26-2-20,4,Anthony Wilkinson,Nathan Cormier,0.0,Loss,Win,OK,4|Anthony Wilkinson|Nathan Cormier
-26-2-20,4,Ash DerManouelian,[REDACTED] [REDACTED],1.0,Win,Loss,OK,4|Ash DerManouelian|[REDACTED] [REDACTED]
-26-2-20,4,Becca Blackwood,Mike Adams,1.0,Win,Loss,OK,4|Becca Blackwood|Mike Adams
-26-2-20,4,Dani Masom,Stella Burfeind,1.0,Win,Loss,OK,4|Dani Masom|Stella Burfeind
-26-2-20,4,David Van Hise,Gina Millott,1.0,Win,Loss,OK,4|David Van Hise|Gina Millott
-26-2-20,4,Evan Johnstone,Sean Marks,0.0,Loss,Win,OK,4|Evan Johnstone|Sean Marks
-26-2-20,4,Hex Dowd,Stan Kornacki,0.0,Loss,Win,OK,4|Hex Dowd|Stan Kornacki
-26-2-20,5,Amy Altman,Becca Blackwood,0.5,Tie,Tie,OK,5|Amy Altman|Becca Blackwood
-26-2-20,5,Anthony Wilkinson,Ash DerManouelian,1.0,Win,Loss,OK,5|Anthony Wilkinson|Ash DerManouelian
-26-2-20,5,Dani Masom,Mike Adams,1.0,Win,Loss,OK,5|Dani Masom|Mike Adams
-26-2-20,5,David Van Hise,Nathan Cormier,1.0,Win,Loss,OK,5|David Van Hise|Nathan Cormier
-26-2-20,5,Evan Johnstone,Hex Dowd,0.0,Loss,Win,OK,5|Evan Johnstone|Hex Dowd
-26-2-20,5,Gina Millott,Jason Weiss,0.0,Loss,Win,OK,5|Gina Millott|Jason Weiss
-26-2-20,5,Jarrod Haase,Sean Marks,0.0,Loss,Win,OK,5|Jarrod Haase|Sean Marks
-26-2-20,5,Stan Kornacki,[REDACTED] [REDACTED],0.0,Loss,Win,OK,5|Stan Kornacki|[REDACTED] [REDACTED]
-26-2-27,1,Anthony Wilkinson,Devon O’Donnell,1.0,Win,Loss,OK,1|Anthony Wilkinson|Devon O’Donnell
-26-2-27,1,Bradley Skubic,Josh Kibbe,0.5,Tie,Tie,OK,1|Bradley Skubic|Josh Kibbe
-26-2-27,1,Dani Masom,Nathan Choi,0.0,Loss,Win,OK,1|Dani Masom|Nathan Choi
-26-2-27,1,Daniel Hernandez,Jack Henry,0.0,Loss,Win,OK,1|Daniel Hernandez|Jack Henry
-26-2-27,1,David Van Hise,Kenton Najdzien,1.0,Win,Loss,OK,1|David Van Hise|Kenton Najdzien
-26-2-27,1,Evan Hamlin,Logan Hesch,0.0,Loss,Win,OK,1|Evan Hamlin|Logan Hesch
-26-2-27,1,Evan Johnstone,Isharah Considine,0.0,Loss,Win,OK,1|Evan Johnstone|Isharah Considine
-26-2-27,1,Hex Dowd,Pan Rasking,1.0,Win,Loss,OK,1|Hex Dowd|Pan Rasking
-26-2-27,1,Jarrod Haase,Milo Brown,0.0,Loss,Win,OK,1|Jarrod Haase|Milo Brown
-26-2-27,1,John Larochelle,Mike Adams,0.0,Loss,Win,OK,1|John Larochelle|Mike Adams
-26-2-27,1,Jonathon Streker,Stan Kornacki,1.0,Win,Loss,OK,1|Jonathon Streker|Stan Kornacki
-26-2-27,1,Joseph Chung,Phil iwanow,0.0,Loss,Win,OK,1|Joseph Chung|Phil iwanow
-26-2-27,1,Nathan Cormier,Philip Petronis,0.0,Loss,Win,OK,1|Nathan Cormier|Philip Petronis
-26-2-27,1,Reya Truher,Sean Marks,1.0,Win,Loss,OK,1|Reya Truher|Sean Marks
-26-2-27,1,Sean Thornton,Timofey Tylik,1.0,Win,Loss,OK,1|Sean Thornton|Timofey Tylik
-26-2-27,2,Anthony Wilkinson,Mike Adams,1.0,Win,Loss,OK,2|Anthony Wilkinson|Mike Adams
-26-2-27,2,Bradley Skubic,Jarrod Haase,1.0,Win,Loss,OK,2|Bradley Skubic|Jarrod Haase
-26-2-27,2,Dani Masom,Stan Kornacki,0.0,Loss,Win,OK,2|Dani Masom|Stan Kornacki
-26-2-27,2,Daniel Hernandez,Joseph Chung,1.0,Win,Loss,OK,2|Daniel Hernandez|Joseph Chung
-26-2-27,2,David Van Hise,Sean Thornton,1.0,Win,Loss,OK,2|David Van Hise|Sean Thornton
-26-2-27,2,Devon O’Donnell,Pan Rasking,1.0,Win,Loss,OK,2|Devon O’Donnell|Pan Rasking
-26-2-27,2,Evan Hamlin,Timofey Tylik,1.0,Win,Loss,OK,2|Evan Hamlin|Timofey Tylik
-26-2-27,2,Evan Johnstone,Nathan Cormier,0.0,Loss,Win,OK,2|Evan Johnstone|Nathan Cormier
-26-2-27,2,Hex Dowd,Reya Truher,0.0,Loss,Win,OK,2|Hex Dowd|Reya Truher
-26-2-27,2,Isharah Considine,Jack Henry,1.0,Win,Loss,OK,2|Isharah Considine|Jack Henry
-26-2-27,2,John Larochelle,Sean Marks,1.0,Win,Loss,OK,2|John Larochelle|Sean Marks
-26-2-27,2,Jonathon Streker,Logan Hesch,0.0,Loss,Win,OK,2|Jonathon Streker|Logan Hesch
-26-2-27,2,Josh Kibbe,Kenton Najdzien,0.0,Loss,Win,OK,2|Josh Kibbe|Kenton Najdzien
-26-2-27,2,Milo Brown,Philip Petronis,1.0,Win,Loss,OK,2|Milo Brown|Philip Petronis
-26-2-27,2,Nathan Choi,Phil iwanow,1.0,Win,Loss,OK,2|Nathan Choi|Phil iwanow
-26-2-27,3,Anthony Wilkinson,David Van Hise,0.0,Loss,Win,OK,3|Anthony Wilkinson|David Van Hise
-26-2-27,3,Bradley Skubic,Nathan Choi,1.0,Win,Loss,OK,3|Bradley Skubic|Nathan Choi
-26-2-27,3,Dani Masom,Jarrod Haase,1.0,Win,Loss,OK,3|Dani Masom|Jarrod Haase
-26-2-27,3,Daniel Hernandez,Sean Thornton,1.0,Win,Loss,OK,3|Daniel Hernandez|Sean Thornton
-26-2-27,3,Devon O’Donnell,Mike Adams,1.0,Win,Loss,OK,3|Devon O’Donnell|Mike Adams
-26-2-27,3,Evan Hamlin,Hex Dowd,1.0,Win,Loss,OK,3|Evan Hamlin|Hex Dowd
-26-2-27,3,Evan Johnstone,Pan Rasking,1.0,Win,Loss,OK,3|Evan Johnstone|Pan Rasking
-26-2-27,3,Isharah Considine,Logan Hesch,1.0,Win,Loss,OK,3|Isharah Considine|Logan Hesch
-26-2-27,3,Jack Henry,John Larochelle,1.0,Win,Loss,OK,3|Jack Henry|John Larochelle
-26-2-27,3,Jonathon Streker,Kenton Najdzien,1.0,Win,Loss,OK,3|Jonathon Streker|Kenton Najdzien
-26-2-27,3,Joseph Chung,Josh Kibbe,0.0,Loss,Win,OK,3|Joseph Chung|Josh Kibbe
-26-2-27,3,Milo Brown,Reya Truher,0.0,Loss,Win,OK,3|Milo Brown|Reya Truher
-26-2-27,3,Nathan Cormier,Stan Kornacki,0.0,Loss,Win,OK,3|Nathan Cormier|Stan Kornacki
-26-2-27,3,Phil iwanow,Philip Petronis,0.0,Loss,Win,OK,3|Phil iwanow|Philip Petronis
-26-2-27,3,Sean Marks,Timofey Tylik,0.0,Loss,Win,OK,3|Sean Marks|Timofey Tylik
-26-2-27,4,Anthony Wilkinson,Jonathon Streker,1.0,Win,Loss,OK,4|Anthony Wilkinson|Jonathon Streker
-26-2-27,4,Bradley Skubic,Isharah Considine,0.0,Loss,Win,OK,4|Bradley Skubic|Isharah Considine
-26-2-27,4,Dani Masom,John Larochelle,0.0,Loss,Win,OK,4|Dani Masom|John Larochelle
-26-2-27,4,Daniel Hernandez,Stan Kornacki,0.0,Loss,Win,OK,4|Daniel Hernandez|Stan Kornacki
-26-2-27,4,David Van Hise,Reya Truher,1.0,Win,Loss,OK,4|David Van Hise|Reya Truher
-26-2-27,4,Devon O’Donnell,Milo Brown,1.0,Win,Loss,OK,4|Devon O’Donnell|Milo Brown
-26-2-27,4,Evan Hamlin,Jack Henry,1.0,Win,Loss,OK,4|Evan Hamlin|Jack Henry
-26-2-27,4,Evan Johnstone,Hex Dowd,0.0,Loss,Win,OK,4|Evan Johnstone|Hex Dowd
-26-2-27,4,Jarrod Haase,Pan Rasking,0.0,Loss,Win,OK,4|Jarrod Haase|Pan Rasking
-26-2-27,4,Joseph Chung,Sean Marks,1.0,Win,Loss,OK,4|Joseph Chung|Sean Marks
-26-2-27,4,Josh Kibbe,Logan Hesch,0.0,Loss,Win,OK,4|Josh Kibbe|Logan Hesch
-26-2-27,4,Kenton Najdzien,Phil iwanow,1.0,Win,Loss,OK,4|Kenton Najdzien|Phil iwanow
-26-2-27,4,Mike Adams,Sean Thornton,1.0,Win,Loss,OK,4|Mike Adams|Sean Thornton
-26-2-27,4,Nathan Choi,Philip Petronis,1.0,Win,Loss,OK,4|Nathan Choi|Philip Petronis
-26-2-27,4,Nathan Cormier,Timofey Tylik,1.0,Win,Loss,OK,4|Nathan Cormier|Timofey Tylik
-26-2-27,5,Anthony Wilkinson,Logan Hesch,1.0,Win,Loss,OK,5|Anthony Wilkinson|Logan Hesch
-26-2-27,5,Bradley Skubic,Jonathon Streker,1.0,Win,Loss,OK,5|Bradley Skubic|Jonathon Streker
-26-2-27,5,Daniel Hernandez,Nathan Cormier,1.0,Win,Loss,OK,5|Daniel Hernandez|Nathan Cormier
-26-2-27,5,David Van Hise,Isharah Considine,1.0,Win,Loss,OK,5|David Van Hise|Isharah Considine
-26-2-27,5,Devon O’Donnell,Reya Truher,1.0,Win,Loss,OK,5|Devon O’Donnell|Reya Truher
-26-2-27,5,Evan Hamlin,Stan Kornacki,0.0,Loss,Win,OK,5|Evan Hamlin|Stan Kornacki
-26-2-27,5,Evan Johnstone,Phil iwanow,1.0,Win,Loss,OK,5|Evan Johnstone|Phil iwanow
-26-2-27,5,Hex Dowd,Kenton Najdzien,0.0,Loss,Win,OK,5|Hex Dowd|Kenton Najdzien
-26-2-27,5,Jack Henry,Nathan Choi,0.0,Loss,Win,OK,5|Jack Henry|Nathan Choi
-26-2-27,5,Joseph Chung,Sean Thornton,1.0,Win,Loss,OK,5|Joseph Chung|Sean Thornton
-26-2-27,5,Mike Adams,Milo Brown,0.0,Loss,Win,OK,5|Mike Adams|Milo Brown
-26-3-07,1,Andy Perez,Jarrod Haase,1.0,Win,Loss,OK,1|Andy Perez|Jarrod Haase
-26-3-07,1,Anthony Wilkinson,Sean Marks,1.0,Win,Loss,OK,1|Anthony Wilkinson|Sean Marks
-26-3-07,1,Bailey Sarkis,Logan Hesch,1.0,Win,Loss,OK,1|Bailey Sarkis|Logan Hesch
-26-3-07,1,Chris Daniel,Evan Johnstone,1.0,Win,Loss,OK,1|Chris Daniel|Evan Johnstone
-26-3-07,1,Dani Masom,Reya Truher,0.0,Loss,Win,OK,1|Dani Masom|Reya Truher
-26-3-07,1,Daniel Hernandez,Stan Kornacki,0.0,Loss,Win,OK,1|Daniel Hernandez|Stan Kornacki
-26-3-07,1,Evan Hamlin,cory wright,1.0,Win,Loss,OK,1|Evan Hamlin|cory wright
-26-3-07,1,Hex Dowd,Nathan Choi,0.0,Loss,Win,OK,1|Hex Dowd|Nathan Choi
-26-3-07,1,Ian Marcellana,Patrick Brooks,1.0,Win,Loss,OK,1|Ian Marcellana|Patrick Brooks
-26-3-07,1,Joseph Chung,Phil iwanow,0.0,Loss,Win,OK,1|Joseph Chung|Phil iwanow
-26-3-07,1,Mike Adams,Pan Rasking,1.0,Win,Loss,OK,1|Mike Adams|Pan Rasking
-26-3-07,1,Mike Laing,Robert Legree,1.0,Win,Loss,OK,1|Mike Laing|Robert Legree
-26-3-07,1,Nathan Cormier,Terry Eleftherakis,1.0,Win,Loss,OK,1|Nathan Cormier|Terry Eleftherakis
-26-3-07,1,Philip Watson,Sean Thornton,0.0,Loss,Win,OK,1|Philip Watson|Sean Thornton
-26-3-07,1,Stella Burfeind,Timofey Tylik,0.0,Loss,Win,OK,1|Stella Burfeind|Timofey Tylik
-26-3-07,2,Andy Perez,Mike Laing,0.0,Loss,Win,OK,2|Andy Perez|Mike Laing
-26-3-07,2,Anthony Wilkinson,Stan Kornacki,1.0,Win,Loss,OK,2|Anthony Wilkinson|Stan Kornacki
-26-3-07,2,Bailey Sarkis,Mike Adams,0.0,Loss,Win,OK,2|Bailey Sarkis|Mike Adams
-26-3-07,2,Chris Daniel,Sean Marks,0.0,Loss,Win,OK,2|Chris Daniel|Sean Marks
-26-3-07,2,Dani Masom,Logan Hesch,0.0,Loss,Win,OK,2|Dani Masom|Logan Hesch
-26-3-07,2,Daniel Hernandez,Jarrod Haase,0.0,Loss,Win,OK,2|Daniel Hernandez|Jarrod Haase
-26-3-07,2,Evan Hamlin,Phil iwanow,0.5,Tie,Tie,OK,2|Evan Hamlin|Phil iwanow
-26-3-07,2,Evan Johnstone,Patrick Brooks,0.0,Loss,Win,OK,2|Evan Johnstone|Patrick Brooks
-26-3-07,2,Hex Dowd,Stella Burfeind,0.0,Loss,Win,OK,2|Hex Dowd|Stella Burfeind
-26-3-07,2,Ian Marcellana,Timofey Tylik,0.0,Loss,Win,OK,2|Ian Marcellana|Timofey Tylik
-26-3-07,2,Joseph Chung,Robert Legree,0.0,Loss,Win,OK,2|Joseph Chung|Robert Legree
-26-3-07,2,Nathan Choi,Sean Thornton,1.0,Win,Loss,OK,2|Nathan Choi|Sean Thornton
-26-3-07,2,Nathan Cormier,Reya Truher,1.0,Win,Loss,OK,2|Nathan Cormier|Reya Truher
-26-3-07,2,Pan Rasking,Terry Eleftherakis,0.0,Loss,Win,OK,2|Pan Rasking|Terry Eleftherakis
-26-3-07,2,Philip Watson,cory wright,0.0,Loss,Win,OK,2|Philip Watson|cory wright
-26-3-07,3,Andy Perez,Stan Kornacki,1.0,Win,Loss,OK,3|Andy Perez|Stan Kornacki
-26-3-07,3,Anthony Wilkinson,Mike Laing,1.0,Win,Loss,OK,3|Anthony Wilkinson|Mike Laing
-26-3-07,3,Bailey Sarkis,Philip Watson,1.0,Win,Loss,OK,3|Bailey Sarkis|Philip Watson
-26-3-07,3,Chris Daniel,Evan Hamlin,1.0,Win,Loss,OK,3|Chris Daniel|Evan Hamlin
-26-3-07,3,Dani Masom,Daniel Hernandez,1.0,Win,Loss,OK,3|Dani Masom|Daniel Hernandez
-26-3-07,3,Evan Johnstone,Hex Dowd,0.0,Loss,Win,OK,3|Evan Johnstone|Hex Dowd
-26-3-07,3,Ian Marcellana,Reya Truher,0.0,Loss,Win,OK,3|Ian Marcellana|Reya Truher
-26-3-07,3,Jarrod Haase,Logan Hesch,0.0,Loss,Win,OK,3|Jarrod Haase|Logan Hesch
-26-3-07,3,Joseph Chung,Pan Rasking,1.0,Win,Loss,OK,3|Joseph Chung|Pan Rasking
-26-3-07,3,Mike Adams,Timofey Tylik,1.0,Win,Loss,OK,3|Mike Adams|Timofey Tylik
-26-3-07,3,Nathan Choi,Nathan Cormier,0.5,Tie,Tie,OK,3|Nathan Choi|Nathan Cormier
-26-3-07,3,Patrick Brooks,cory wright,1.0,Win,Loss,OK,3|Patrick Brooks|cory wright
-26-3-07,3,Phil iwanow,Robert Legree,0.0,Loss,Win,OK,3|Phil iwanow|Robert Legree
-26-3-07,3,Sean Marks,Terry Eleftherakis,1.0,Win,Loss,OK,3|Sean Marks|Terry Eleftherakis
-26-3-07,3,Sean Thornton,Stella Burfeind,0.0,Loss,Win,OK,3|Sean Thornton|Stella Burfeind
-26-3-07,4,Andy Perez,Robert Legree,1.0,Win,Loss,OK,4|Andy Perez|Robert Legree
-26-3-07,4,Anthony Wilkinson,Mike Adams,1.0,Win,Loss,OK,4|Anthony Wilkinson|Mike Adams
-26-3-07,4,Bailey Sarkis,Mike Laing,1.0,Win,Loss,OK,4|Bailey Sarkis|Mike Laing
-26-3-07,4,Chris Daniel,Reya Truher,1.0,Win,Loss,OK,4|Chris Daniel|Reya Truher
-26-3-07,4,Dani Masom,Hex Dowd,0.0,Loss,Win,OK,4|Dani Masom|Hex Dowd
-26-3-07,4,Daniel Hernandez,Evan Johnstone,1.0,Win,Loss,OK,4|Daniel Hernandez|Evan Johnstone
-26-3-07,4,Evan Hamlin,Terry Eleftherakis,1.0,Win,Loss,OK,4|Evan Hamlin|Terry Eleftherakis
-26-3-07,4,Ian Marcellana,cory wright,0.0,Loss,Win,OK,4|Ian Marcellana|cory wright
-26-3-07,4,Jarrod Haase,Joseph Chung,1.0,Win,Loss,OK,4|Jarrod Haase|Joseph Chung
-26-3-07,4,Logan Hesch,Nathan Choi,1.0,Win,Loss,OK,4|Logan Hesch|Nathan Choi
-26-3-07,4,Nathan Cormier,Timofey Tylik,0.0,Loss,Win,OK,4|Nathan Cormier|Timofey Tylik
-26-3-07,4,Pan Rasking,Philip Watson,0.0,Loss,Win,OK,4|Pan Rasking|Philip Watson
-26-3-07,4,Patrick Brooks,Sean Marks,0.0,Loss,Win,OK,4|Patrick Brooks|Sean Marks
-26-3-07,4,Phil iwanow,Stella Burfeind,0.0,Loss,Win,OK,4|Phil iwanow|Stella Burfeind
-26-3-07,4,Sean Thornton,Stan Kornacki,0.0,Loss,Win,OK,4|Sean Thornton|Stan Kornacki
-26-3-07,5,Andy Perez,Logan Hesch,0.0,Loss,Win,OK,5|Andy Perez|Logan Hesch
-26-3-07,5,Anthony Wilkinson,Timofey Tylik,0.5,Tie,Tie,OK,5|Anthony Wilkinson|Timofey Tylik
-26-3-07,5,Bailey Sarkis,Chris Daniel,1.0,Win,Loss,OK,5|Bailey Sarkis|Chris Daniel
-26-3-07,5,Dani Masom,Sean Thornton,1.0,Win,Loss,OK,5|Dani Masom|Sean Thornton
-26-3-07,5,Daniel Hernandez,Philip Watson,0.0,Loss,Win,OK,5|Daniel Hernandez|Philip Watson
-26-3-07,5,Evan Hamlin,Nathan Cormier,0.0,Loss,Win,OK,5|Evan Hamlin|Nathan Cormier
-26-3-07,5,Evan Johnstone,Pan Rasking,0.5,Tie,Tie,OK,5|Evan Johnstone|Pan Rasking
-26-3-07,5,Hex Dowd,Reya Truher,1.0,Win,Loss,OK,5|Hex Dowd|Reya Truher
-26-3-07,5,Ian Marcellana,Phil iwanow,0.0,Loss,Win,OK,5|Ian Marcellana|Phil iwanow
-26-3-07,5,Jarrod Haase,Patrick Brooks,1.0,Win,Loss,OK,5|Jarrod Haase|Patrick Brooks
-26-3-07,5,Mike Adams,Sean Marks,0.5,Tie,Tie,OK,5|Mike Adams|Sean Marks
-26-3-07,5,Mike Laing,Stan Kornacki,1.0,Win,Loss,OK,5|Mike Laing|Stan Kornacki
-26-3-07,5,Nathan Choi,Stella Burfeind,0.0,Loss,Win,OK,5|Nathan Choi|Stella Burfeind
+Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
+25-12-6_brainstormin_charity_tournament,1,Adipto Sengupta,Colin Hogan,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Alexander Gimmi,Hex Dowd,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Amber Cronin,Luke Deratzou,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Amy Altman,Ryan MacDonald,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Anthony Wilkinson,Bradley Skubic,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Austin Wolf,Elias Medrano,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Avi Lessure,Evan Johnstone,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Becca Blackwood,Gina Millott,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Benjamin Wakefield,Philip Petronis,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Brian Kennes,John Petrella,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Cameron Riley,Raul Bottrell-Rogers,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Dani Masom,Graham Bateman,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Daniel Hernandez,Jack Henry,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Danielle Lucibello,Michael Stopa,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,David Van Hise,Ran Guo,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Etai Kurtzman,Nathan Cormier,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Ian Marcellana,Logan Hesch,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Isharah Considine,tyler kaldenberg,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Jarrod Haase,Matt Rosenbloom,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Joel Brook,John Larochelle,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Jonathon Streker,mavin liu,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Markis Galea,Nathan C,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Matt Suyer,Mike Laing,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Mike Adams,Tim Lawson,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Milo Brown,Phil iwanow,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Reya Truher,Stan Kornacki,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Sam White,Veronica Kirtley,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Sean Marks,Stella Burfeind,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,1,Terry Eleftherakis,Timothy Haase,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Adipto Sengupta,Nathan C,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Alexander Gimmi,Jarrod Haase,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Amy Altman,Etai Kurtzman,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Anthony Wilkinson,tyler kaldenberg,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Austin Wolf,Brian Kennes,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Avi Lessure,Luke Deratzou,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Becca Blackwood,Mike Laing,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Benjamin Wakefield,Veronica Kirtley,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Bradley Skubic,Isharah Considine,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Cameron Riley,Colin Hogan,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Dani Masom,Sean Marks,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Daniel Hernandez,Danielle Lucibello,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,David Van Hise,Jack Henry,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Elias Medrano,Joel Brook,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Evan Johnstone,Jonathon Streker,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Gina Millott,Philip Petronis,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Graham Bateman,Stan Kornacki,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Hex Dowd,Mike Adams,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Ian Marcellana,Joseph Chung,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,John Larochelle,Michael Stopa,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,John Petrella,Ryan MacDonald,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Logan Hesch,Phil iwanow,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Markis Galea,Sam White,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Matt Rosenbloom,Reya Truher,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Matt Suyer,Ran Guo,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Milo Brown,Tim Lawson,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Nathan Cormier,Terry Eleftherakis,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Raul Bottrell-Rogers,Stella Burfeind,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,2,Timothy Haase,mavin liu,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Adipto Sengupta,Joel Brook,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Alexander Gimmi,Luke Deratzou,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Amber Cronin,Mike Laing,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Amy Altman,Brian Kennes,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Anthony Wilkinson,Nathan Cormier,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Austin Wolf,Dani Masom,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Avi Lessure,mavin liu,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Becca Blackwood,Benjamin Wakefield,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Bradley Skubic,Nathan C,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Cameron Riley,Sam White,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Colin Hogan,Phil iwanow,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Daniel Hernandez,Philip Petronis,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Danielle Lucibello,John Petrella,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,David Van Hise,Raul Bottrell-Rogers,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Elias Medrano,Sean Marks,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Etai Kurtzman,Tim Lawson,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Evan Johnstone,Timothy Haase,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Gina Millott,Hex Dowd,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Graham Bateman,Jonathon Streker,0.5,OK,False
+25-12-6_brainstormin_charity_tournament,3,Ian Marcellana,Stella Burfeind,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Isharah Considine,Veronica Kirtley,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Jack Henry,Stan Kornacki,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Jarrod Haase,Matt Suyer,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,John Larochelle,Milo Brown,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Joseph Chung,Mike Adams,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Logan Hesch,Reya Truher,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Markis Galea,Ran Guo,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Matt Rosenbloom,tyler kaldenberg,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,3,Michael Stopa,Ryan MacDonald,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Adipto Sengupta,Tim Lawson,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Alexander Gimmi,Mike Adams,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Amber Cronin,Graham Bateman,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Amy Altman,Veronica Kirtley,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Anthony Wilkinson,Ian Marcellana,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Austin Wolf,Logan Hesch,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Avi Lessure,Matt Suyer,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Becca Blackwood,Bradley Skubic,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Benjamin Wakefield,Mike Laing,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Brian Kennes,Stan Kornacki,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Cameron Riley,John Petrella,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Colin Hogan,Gina Millott,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Dani Masom,Evan Johnstone,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Daniel Hernandez,Ryan MacDonald,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Danielle Lucibello,Markis Galea,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,David Van Hise,Jonathon Streker,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Elias Medrano,Michael Stopa,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Etai Kurtzman,John Larochelle,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Hex Dowd,Reya Truher,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Isharah Considine,Nathan Cormier,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Jack Henry,Raul Bottrell-Rogers,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Jarrod Haase,Nathan C,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Joel Brook,Sam White,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Joseph Chung,Ran Guo,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Luke Deratzou,Milo Brown,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Matt Rosenbloom,Phil iwanow,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Philip Petronis,Terry Eleftherakis,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Sean Marks,tyler kaldenberg,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,4,Stella Burfeind,mavin liu,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Adipto Sengupta,tyler kaldenberg,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Alexander Gimmi,Sam White,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Amber Cronin,Gina Millott,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Amy Altman,Luke Deratzou,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Anthony Wilkinson,Mike Laing,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Austin Wolf,Nathan C,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Avi Lessure,Elias Medrano,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Becca Blackwood,Brian Kennes,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Benjamin Wakefield,Raul Bottrell-Rogers,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Bradley Skubic,mavin liu,0.5,ID,True
+25-12-6_brainstormin_charity_tournament,5,Colin Hogan,Danielle Lucibello,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Dani Masom,Phil iwanow,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Daniel Hernandez,Isharah Considine,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,David Van Hise,Evan Johnstone,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Etai Kurtzman,Stella Burfeind,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Graham Bateman,Ran Guo,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Hex Dowd,Markis Galea,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Ian Marcellana,Reya Truher,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Jack Henry,Ryan MacDonald,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Jarrod Haase,Joel Brook,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,John Larochelle,Jonathon Streker,0.5,OK,False
+25-12-6_brainstormin_charity_tournament,5,Joseph Chung,Nathan Cormier,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Logan Hesch,Matt Rosenbloom,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Mike Adams,Terry Eleftherakis,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Milo Brown,Stan Kornacki,0.5,ID,True
+25-12-6_brainstormin_charity_tournament,5,Philip Petronis,Sean Marks,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,5,Tim Lawson,Veronica Kirtley,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Alexander Gimmi,Avi Lessure,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Amber Cronin,Phil iwanow,0.5,OK,False
+25-12-6_brainstormin_charity_tournament,6,Amy Altman,Jack Henry,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Anthony Wilkinson,Etai Kurtzman,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Austin Wolf,Stella Burfeind,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Becca Blackwood,Luke Deratzou,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Bradley Skubic,Stan Kornacki,0.5,ID,True
+25-12-6_brainstormin_charity_tournament,6,Brian Kennes,Ryan MacDonald,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Colin Hogan,tyler kaldenberg,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Dani Masom,Joseph Chung,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Daniel Hernandez,Jarrod Haase,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Elias Medrano,Hex Dowd,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Evan Johnstone,Ran Guo,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Gina Millott,Matt Rosenbloom,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Graham Bateman,John Larochelle,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Ian Marcellana,Tim Lawson,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Isharah Considine,Mike Laing,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Joel Brook,Raul Bottrell-Rogers,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Jonathon Streker,Philip Petronis,1.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Logan Hesch,Mike Adams,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Markis Galea,Nathan Cormier,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Milo Brown,mavin liu,0.5,ID,True
+25-12-6_brainstormin_charity_tournament,6,Nathan C,Sam White,0.0,OK,False
+25-12-6_brainstormin_charity_tournament,6,Reya Truher,Veronica Kirtley,0.0,OK,False
+26-2-13,1,Amber Cronin,Willow Blackthorne,1.0,OK,False
+26-2-13,1,Amy Altman,Jonathon Torchia,1.0,OK,False
+26-2-13,1,Anthony Wilkinson,Isharah Considine,1.0,OK,False
+26-2-13,1,Autumn Garofalo,Daniel Hernandez,1.0,OK,False
+26-2-13,1,Becca Blackwood,Karl Rookey,0.0,OK,False
+26-2-13,1,Dani Masom,Stella Burfeind,0.0,OK,False
+26-2-13,1,Daniel Cotto,Reya Truher,0.0,OK,False
+26-2-13,1,David Van Hise,Hex Dowd,0.0,OK,False
+26-2-13,1,Devon O'Donnell,Evan Johnstone,1.0,OK,False
+26-2-13,1,Gabe Dietz,Sean Marks,1.0,OK,False
+26-2-13,1,Jack Henry,Jason Flynn,0.0,OK,False
+26-2-13,1,Jarrod Haase,Stan Kornacki,0.0,OK,False
+26-2-13,1,John Larochelle,Sean Thornton,1.0,OK,False
+26-2-13,1,Kenton Najdzien,Philip Petronis,1.0,OK,False
+26-2-13,1,Mike Adams,Nathan C,0.0,OK,False
+26-2-13,1,Milo Brown,Veronica Kirtley,0.5,OK,False
+26-2-13,1,Pan Rasking,Phil iwanow,1.0,OK,False
+26-2-13,1,Ryan MacDonald,Thomas Kotcher,0.0,OK,False
+26-2-13,1,Terry Eleftherakis,Thomas Ostroff,1.0,OK,False
+26-2-13,2,Amber Cronin,Nathan C,0.0,OK,False
+26-2-13,2,Amy Altman,Anthony Wilkinson,0.0,OK,False
+26-2-13,2,Autumn Garofalo,Stella Burfeind,1.0,OK,False
+26-2-13,2,Becca Blackwood,Willow Blackthorne,1.0,OK,False
+26-2-13,2,Dani Masom,David Van Hise,0.0,OK,False
+26-2-13,2,Daniel Cotto,Jonathon Torchia,0.0,OK,False
+26-2-13,2,Daniel Hernandez,Jack Henry,0.0,OK,False
+26-2-13,2,Devon O'Donnell,Karl Rookey,0.0,OK,False
+26-2-13,2,Evan Johnstone,Sean Marks,1.0,OK,False
+26-2-13,2,Gabe Dietz,Jason Flynn,1.0,OK,False
+26-2-13,2,Hex Dowd,Stan Kornacki,0.0,OK,False
+26-2-13,2,Isharah Considine,Ryan MacDonald,1.0,OK,False
+26-2-13,2,John Larochelle,Veronica Kirtley,1.0,OK,False
+26-2-13,2,Kenton Najdzien,Reya Truher,1.0,OK,False
+26-2-13,2,Mike Adams,Milo Brown,1.0,OK,False
+26-2-13,2,Mike Laing,Pan Rasking,1.0,OK,False
+26-2-13,2,Phil iwanow,Philip Petronis,0.0,OK,False
+26-2-13,2,Sean Thornton,Thomas Ostroff,0.0,OK,False
+26-2-13,2,Terry Eleftherakis,Thomas Kotcher,0.0,OK,False
+26-2-13,3,Amber Cronin,Mike Adams,0.0,OK,False
+26-2-13,3,Amy Altman,Philip Petronis,0.0,OK,False
+26-2-13,3,Anthony Wilkinson,Thomas Kotcher,0.5,OK,False
+26-2-13,3,Autumn Garofalo,John Larochelle,1.0,OK,False
+26-2-13,3,Becca Blackwood,Reya Truher,0.0,OK,False
+26-2-13,3,Dani Masom,Willow Blackthorne,1.0,OK,False
+26-2-13,3,Daniel Hernandez,Milo Brown,0.0,OK,False
+26-2-13,3,David Van Hise,Veronica Kirtley,1.0,OK,False
+26-2-13,3,Devon O'Donnell,Pan Rasking,0.0,OK,False
+26-2-13,3,Evan Johnstone,Jarrod Haase,0.0,OK,False
+26-2-13,3,Gabe Dietz,Nathan C,0.5,OK,False
+26-2-13,3,Hex Dowd,Stella Burfeind,0.0,OK,False
+26-2-13,3,Isharah Considine,Jonathon Torchia,1.0,OK,False
+26-2-13,3,Jack Henry,Thomas Ostroff,0.0,OK,False
+26-2-13,3,Jason Flynn,Terry Eleftherakis,1.0,OK,False
+26-2-13,3,Karl Rookey,Mike Laing,0.0,OK,False
+26-2-13,3,Kenton Najdzien,Stan Kornacki,0.0,OK,False
+26-2-13,3,Ryan MacDonald,Sean Thornton,0.0,OK,False
+26-2-13,4,Amber Cronin,Evan Johnstone,1.0,OK,False
+26-2-13,4,Amy Altman,Becca Blackwood,1.0,OK,False
+26-2-13,4,Anthony Wilkinson,Nathan C,1.0,OK,False
+26-2-13,4,Autumn Garofalo,Stan Kornacki,0.0,OK,False
+26-2-13,4,Dani Masom,Hex Dowd,1.0,OK,False
+26-2-13,4,David Van Hise,Isharah Considine,1.0,OK,False
+26-2-13,4,Gabe Dietz,Pan Rasking,0.0,OK,False
+26-2-13,4,Jack Henry,Sean Thornton,0.0,OK,False
+26-2-13,4,Jarrod Haase,John Larochelle,0.0,OK,False
+26-2-13,4,Jason Flynn,Stella Burfeind,1.0,OK,False
+26-2-13,4,Jonathon Torchia,Terry Eleftherakis,0.0,OK,False
+26-2-13,4,Karl Rookey,Kenton Najdzien,0.0,OK,False
+26-2-13,4,Mike Adams,Thomas Ostroff,1.0,OK,False
+26-2-13,4,Mike Laing,Thomas Kotcher,1.0,OK,False
+26-2-13,4,Milo Brown,Sean Marks,1.0,OK,False
+26-2-13,4,Philip Petronis,Reya Truher,1.0,OK,False
+26-2-13,4,Veronica Kirtley,Willow Blackthorne,1.0,OK,False
+26-2-13,5,Amber Cronin,Sean Thornton,1.0,OK,False
+26-2-13,5,Amy Altman,Stella Burfeind,1.0,OK,False
+26-2-13,5,Anthony Wilkinson,Jason Flynn,1.0,OK,False
+26-2-13,5,Autumn Garofalo,Thomas Kotcher,1.0,OK,False
+26-2-13,5,Dani Masom,Nathan C,0.0,OK,False
+26-2-13,5,David Van Hise,Kenton Najdzien,1.0,OK,False
+26-2-13,5,Evan Johnstone,Hex Dowd,1.0,OK,False
+26-2-13,5,Gabe Dietz,Milo Brown,0.0,OK,False
+26-2-13,5,Isharah Considine,Reya Truher,1.0,OK,False
+26-2-13,5,Jack Henry,Willow Blackthorne,0.0,OK,False
+26-2-13,5,Jarrod Haase,Karl Rookey,0.0,OK,False
+26-2-13,5,John Larochelle,Philip Petronis,0.5,OK,False
+26-2-13,5,Mike Adams,Pan Rasking,0.5,OK,False
+26-2-13,5,Mike Laing,Stan Kornacki,0.0,OK,False
+26-2-13,5,Terry Eleftherakis,Veronica Kirtley,1.0,OK,False
+26-2-20,1,Amy Altman,David Van Hise,0.0,OK,False
+26-2-20,1,Anthony Wilkinson,Mike Adams,1.0,OK,False
+26-2-20,1,Ash DerManouelian,Dani Masom,1.0,OK,False
+26-2-20,1,Becca Blackwood,Evan Hamlin,1.0,OK,False
+26-2-20,1,Evan Johnstone,Jonathon Streker,1.0,OK,False
+26-2-20,1,Gina Millott,Stan Kornacki,1.0,OK,False
+26-2-20,1,Hex Dowd,Stella Burfeind,0.0,OK,False
+26-2-20,1,Jarrod Haase,Nathan Cormier,0.0,OK,False
+26-2-20,1,Jason Weiss,Sean Marks,1.0,OK,False
+26-2-20,2,Amy Altman,Jarrod Haase,1.0,OK,False
+26-2-20,2,Anthony Wilkinson,[REDACTED] [REDACTED],1.0,OK,False
+26-2-20,2,Ash DerManouelian,Stella Burfeind,1.0,OK,False
+26-2-20,2,Becca Blackwood,Gina Millott,0.0,OK,False
+26-2-20,2,David Van Hise,Jason Weiss,1.0,OK,False
+26-2-20,2,Evan Hamlin,Stan Kornacki,0.0,OK,False
+26-2-20,2,Evan Johnstone,Nathan Cormier,0.0,OK,False
+26-2-20,2,Hex Dowd,Sean Marks,0.0,OK,False
+26-2-20,2,Jonathon Streker,Mike Adams,0.0,OK,False
+26-2-20,3,Amy Altman,Sean Marks,1.0,OK,False
+26-2-20,3,Anthony Wilkinson,David Van Hise,1.0,OK,False
+26-2-20,3,Ash DerManouelian,Nathan Cormier,0.0,OK,False
+26-2-20,3,Becca Blackwood,Stella Burfeind,1.0,OK,False
+26-2-20,3,Dani Masom,Jason Weiss,0.0,OK,False
+26-2-20,3,Evan Johnstone,Mike Adams,0.0,OK,False
+26-2-20,3,Gina Millott,[REDACTED] [REDACTED],0.0,OK,False
+26-2-20,3,Jarrod Haase,Stan Kornacki,0.5,OK,False
+26-2-20,4,Amy Altman,Jason Weiss,1.0,OK,False
+26-2-20,4,Anthony Wilkinson,Nathan Cormier,0.0,OK,False
+26-2-20,4,Ash DerManouelian,[REDACTED] [REDACTED],1.0,OK,False
+26-2-20,4,Becca Blackwood,Mike Adams,1.0,OK,False
+26-2-20,4,Dani Masom,Stella Burfeind,1.0,OK,False
+26-2-20,4,David Van Hise,Gina Millott,1.0,OK,False
+26-2-20,4,Evan Johnstone,Sean Marks,0.0,OK,False
+26-2-20,4,Hex Dowd,Stan Kornacki,0.0,OK,False
+26-2-20,5,Amy Altman,Becca Blackwood,0.5,OK,False
+26-2-20,5,Anthony Wilkinson,Ash DerManouelian,1.0,OK,False
+26-2-20,5,Dani Masom,Mike Adams,1.0,OK,False
+26-2-20,5,David Van Hise,Nathan Cormier,1.0,OK,False
+26-2-20,5,Evan Johnstone,Hex Dowd,0.0,OK,False
+26-2-20,5,Gina Millott,Jason Weiss,0.0,OK,False
+26-2-20,5,Jarrod Haase,Sean Marks,0.0,OK,False
+26-2-20,5,Stan Kornacki,[REDACTED] [REDACTED],0.0,OK,False
+26-2-27,1,Anthony Wilkinson,Devon O’Donnell,1.0,OK,False
+26-2-27,1,Bradley Skubic,Josh Kibbe,0.5,OK,False
+26-2-27,1,Dani Masom,Nathan Choi,0.0,OK,False
+26-2-27,1,Daniel Hernandez,Jack Henry,0.0,OK,False
+26-2-27,1,David Van Hise,Kenton Najdzien,1.0,OK,False
+26-2-27,1,Evan Hamlin,Logan Hesch,0.0,OK,False
+26-2-27,1,Evan Johnstone,Isharah Considine,0.0,OK,False
+26-2-27,1,Hex Dowd,Pan Rasking,1.0,OK,False
+26-2-27,1,Jarrod Haase,Milo Brown,0.0,OK,False
+26-2-27,1,John Larochelle,Mike Adams,0.0,OK,False
+26-2-27,1,Jonathon Streker,Stan Kornacki,1.0,OK,False
+26-2-27,1,Joseph Chung,Phil iwanow,0.0,OK,False
+26-2-27,1,Nathan Cormier,Philip Petronis,0.0,OK,False
+26-2-27,1,Reya Truher,Sean Marks,1.0,OK,False
+26-2-27,1,Sean Thornton,Timofey Tylik,1.0,OK,False
+26-2-27,2,Anthony Wilkinson,Mike Adams,1.0,OK,False
+26-2-27,2,Bradley Skubic,Jarrod Haase,1.0,OK,False
+26-2-27,2,Dani Masom,Stan Kornacki,0.0,OK,False
+26-2-27,2,Daniel Hernandez,Joseph Chung,1.0,OK,False
+26-2-27,2,David Van Hise,Sean Thornton,1.0,OK,False
+26-2-27,2,Devon O’Donnell,Pan Rasking,1.0,OK,False
+26-2-27,2,Evan Hamlin,Timofey Tylik,1.0,OK,False
+26-2-27,2,Evan Johnstone,Nathan Cormier,0.0,OK,False
+26-2-27,2,Hex Dowd,Reya Truher,0.0,OK,False
+26-2-27,2,Isharah Considine,Jack Henry,1.0,OK,False
+26-2-27,2,John Larochelle,Sean Marks,1.0,OK,False
+26-2-27,2,Jonathon Streker,Logan Hesch,0.0,OK,False
+26-2-27,2,Josh Kibbe,Kenton Najdzien,0.0,OK,False
+26-2-27,2,Milo Brown,Philip Petronis,1.0,OK,False
+26-2-27,2,Nathan Choi,Phil iwanow,1.0,OK,False
+26-2-27,3,Anthony Wilkinson,David Van Hise,0.0,OK,False
+26-2-27,3,Bradley Skubic,Nathan Choi,1.0,OK,False
+26-2-27,3,Dani Masom,Jarrod Haase,1.0,OK,False
+26-2-27,3,Daniel Hernandez,Sean Thornton,1.0,OK,False
+26-2-27,3,Devon O’Donnell,Mike Adams,1.0,OK,False
+26-2-27,3,Evan Hamlin,Hex Dowd,1.0,OK,False
+26-2-27,3,Evan Johnstone,Pan Rasking,1.0,OK,False
+26-2-27,3,Isharah Considine,Logan Hesch,1.0,OK,False
+26-2-27,3,Jack Henry,John Larochelle,1.0,OK,False
+26-2-27,3,Jonathon Streker,Kenton Najdzien,1.0,OK,False
+26-2-27,3,Joseph Chung,Josh Kibbe,0.0,OK,False
+26-2-27,3,Milo Brown,Reya Truher,0.0,OK,False
+26-2-27,3,Nathan Cormier,Stan Kornacki,0.0,OK,False
+26-2-27,3,Phil iwanow,Philip Petronis,0.0,OK,False
+26-2-27,3,Sean Marks,Timofey Tylik,0.0,OK,False
+26-2-27,4,Anthony Wilkinson,Jonathon Streker,1.0,OK,False
+26-2-27,4,Bradley Skubic,Isharah Considine,0.0,OK,False
+26-2-27,4,Dani Masom,John Larochelle,0.0,OK,False
+26-2-27,4,Daniel Hernandez,Stan Kornacki,0.0,OK,False
+26-2-27,4,David Van Hise,Reya Truher,1.0,OK,False
+26-2-27,4,Devon O’Donnell,Milo Brown,1.0,OK,False
+26-2-27,4,Evan Hamlin,Jack Henry,1.0,OK,False
+26-2-27,4,Evan Johnstone,Hex Dowd,0.0,OK,False
+26-2-27,4,Jarrod Haase,Pan Rasking,0.0,OK,False
+26-2-27,4,Joseph Chung,Sean Marks,1.0,OK,False
+26-2-27,4,Josh Kibbe,Logan Hesch,0.0,OK,False
+26-2-27,4,Kenton Najdzien,Phil iwanow,1.0,OK,False
+26-2-27,4,Mike Adams,Sean Thornton,1.0,OK,False
+26-2-27,4,Nathan Choi,Philip Petronis,1.0,OK,False
+26-2-27,4,Nathan Cormier,Timofey Tylik,1.0,OK,False
+26-2-27,5,Anthony Wilkinson,Logan Hesch,1.0,OK,False
+26-2-27,5,Bradley Skubic,Jonathon Streker,1.0,OK,False
+26-2-27,5,Daniel Hernandez,Nathan Cormier,1.0,OK,False
+26-2-27,5,David Van Hise,Isharah Considine,1.0,OK,False
+26-2-27,5,Devon O’Donnell,Reya Truher,1.0,OK,False
+26-2-27,5,Evan Hamlin,Stan Kornacki,0.0,OK,False
+26-2-27,5,Evan Johnstone,Phil iwanow,1.0,OK,False
+26-2-27,5,Hex Dowd,Kenton Najdzien,0.0,OK,False
+26-2-27,5,Jack Henry,Nathan Choi,0.0,OK,False
+26-2-27,5,Joseph Chung,Sean Thornton,1.0,OK,False
+26-2-27,5,Mike Adams,Milo Brown,0.0,OK,False
+26-3-07,1,Andy Perez,Jarrod Haase,1.0,OK,False
+26-3-07,1,Anthony Wilkinson,Sean Marks,1.0,OK,False
+26-3-07,1,Bailey Sarkis,Logan Hesch,1.0,OK,False
+26-3-07,1,Chris Daniel,Evan Johnstone,1.0,OK,False
+26-3-07,1,Dani Masom,Reya Truher,0.0,OK,False
+26-3-07,1,Daniel Hernandez,Stan Kornacki,0.0,OK,False
+26-3-07,1,Evan Hamlin,cory wright,1.0,OK,False
+26-3-07,1,Hex Dowd,Nathan Choi,0.0,OK,False
+26-3-07,1,Ian Marcellana,Patrick Brooks,1.0,OK,False
+26-3-07,1,Joseph Chung,Phil iwanow,0.0,OK,False
+26-3-07,1,Mike Adams,Pan Rasking,1.0,OK,False
+26-3-07,1,Mike Laing,Robert Legree,1.0,OK,False
+26-3-07,1,Nathan Cormier,Terry Eleftherakis,1.0,OK,False
+26-3-07,1,Philip Watson,Sean Thornton,0.0,OK,False
+26-3-07,1,Stella Burfeind,Timofey Tylik,0.0,OK,False
+26-3-07,2,Andy Perez,Mike Laing,0.0,OK,False
+26-3-07,2,Anthony Wilkinson,Stan Kornacki,1.0,OK,False
+26-3-07,2,Bailey Sarkis,Mike Adams,0.0,OK,False
+26-3-07,2,Chris Daniel,Sean Marks,0.0,OK,False
+26-3-07,2,Dani Masom,Logan Hesch,0.0,OK,False
+26-3-07,2,Daniel Hernandez,Jarrod Haase,0.0,OK,False
+26-3-07,2,Evan Hamlin,Phil iwanow,0.5,OK,False
+26-3-07,2,Evan Johnstone,Patrick Brooks,0.0,OK,False
+26-3-07,2,Hex Dowd,Stella Burfeind,0.0,OK,False
+26-3-07,2,Ian Marcellana,Timofey Tylik,0.0,OK,False
+26-3-07,2,Joseph Chung,Robert Legree,0.0,OK,False
+26-3-07,2,Nathan Choi,Sean Thornton,1.0,OK,False
+26-3-07,2,Nathan Cormier,Reya Truher,1.0,OK,False
+26-3-07,2,Pan Rasking,Terry Eleftherakis,0.0,OK,False
+26-3-07,2,Philip Watson,cory wright,0.0,OK,False
+26-3-07,3,Andy Perez,Stan Kornacki,1.0,OK,False
+26-3-07,3,Anthony Wilkinson,Mike Laing,1.0,OK,False
+26-3-07,3,Bailey Sarkis,Philip Watson,1.0,OK,False
+26-3-07,3,Chris Daniel,Evan Hamlin,1.0,OK,False
+26-3-07,3,Dani Masom,Daniel Hernandez,1.0,OK,False
+26-3-07,3,Evan Johnstone,Hex Dowd,0.0,OK,False
+26-3-07,3,Ian Marcellana,Reya Truher,0.0,OK,False
+26-3-07,3,Jarrod Haase,Logan Hesch,0.0,OK,False
+26-3-07,3,Joseph Chung,Pan Rasking,1.0,OK,False
+26-3-07,3,Mike Adams,Timofey Tylik,1.0,OK,False
+26-3-07,3,Nathan Choi,Nathan Cormier,0.5,OK,False
+26-3-07,3,Patrick Brooks,cory wright,1.0,OK,False
+26-3-07,3,Phil iwanow,Robert Legree,0.0,OK,False
+26-3-07,3,Sean Marks,Terry Eleftherakis,1.0,OK,False
+26-3-07,3,Sean Thornton,Stella Burfeind,0.0,OK,False
+26-3-07,4,Andy Perez,Robert Legree,1.0,OK,False
+26-3-07,4,Anthony Wilkinson,Mike Adams,1.0,OK,False
+26-3-07,4,Bailey Sarkis,Mike Laing,1.0,OK,False
+26-3-07,4,Chris Daniel,Reya Truher,1.0,OK,False
+26-3-07,4,Dani Masom,Hex Dowd,0.0,OK,False
+26-3-07,4,Daniel Hernandez,Evan Johnstone,1.0,OK,False
+26-3-07,4,Evan Hamlin,Terry Eleftherakis,1.0,OK,False
+26-3-07,4,Ian Marcellana,cory wright,0.0,OK,False
+26-3-07,4,Jarrod Haase,Joseph Chung,1.0,OK,False
+26-3-07,4,Logan Hesch,Nathan Choi,1.0,OK,False
+26-3-07,4,Nathan Cormier,Timofey Tylik,0.0,OK,False
+26-3-07,4,Pan Rasking,Philip Watson,0.0,OK,False
+26-3-07,4,Patrick Brooks,Sean Marks,0.0,OK,False
+26-3-07,4,Phil iwanow,Stella Burfeind,0.0,OK,False
+26-3-07,4,Sean Thornton,Stan Kornacki,0.0,OK,False
+26-3-07,5,Andy Perez,Logan Hesch,0.0,OK,False
+26-3-07,5,Anthony Wilkinson,Timofey Tylik,0.5,ID,True
+26-3-07,5,Bailey Sarkis,Chris Daniel,1.0,OK,False
+26-3-07,5,Dani Masom,Sean Thornton,1.0,OK,False
+26-3-07,5,Daniel Hernandez,Philip Watson,0.0,OK,False
+26-3-07,5,Evan Hamlin,Nathan Cormier,0.0,OK,False
+26-3-07,5,Evan Johnstone,Pan Rasking,0.5,OK,False
+26-3-07,5,Hex Dowd,Reya Truher,1.0,OK,False
+26-3-07,5,Ian Marcellana,Phil iwanow,0.0,OK,False
+26-3-07,5,Jarrod Haase,Patrick Brooks,1.0,OK,False
+26-3-07,5,Mike Adams,Sean Marks,0.5,OK,False
+26-3-07,5,Mike Laing,Stan Kornacki,1.0,OK,False
+26-3-07,5,Nathan Choi,Stella Burfeind,0.0,OK,False

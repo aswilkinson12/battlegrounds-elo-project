@@ -9,7 +9,7 @@ Table  Player                          Opponent                        Points
 17     Avi Lessure                     Elias Medrano                   9-6   
 4      Becca Blackwood                 Brian Kennes                    12-9  
 13     Benjamin Wakefield              Raul Bottrell-Rogers            6-9   
-2      Bradley Skubic                  mavin liu                       13-13 
+2      Bradley Skubic                  mavin liu                       13-13 ID
 4      Brian Kennes                    Becca Blackwood                 9-12  
 27     Colin Hogan                     Danielle Lucibello              3-0   
 21     Dani Masom                      Phil iwanow                     6-3   
@@ -34,10 +34,10 @@ Table  Player                          Opponent                        Points
 3      Luke Deratzou                   Amy Altman                      12-9  
 23     Markis Galea                    Hex Dowd                        3-6   
 11     Matt Rosenbloom                 Logan Hesch                     6-9   
-2      mavin liu                       Bradley Skubic                  13-13 
+2      mavin liu                       Bradley Skubic                  13-13 ID
 14     Mike Adams                      Terry Eleftherakis              9-6   
 8      Mike Laing                      Anthony Wilkinson               9-12  
-1      Milo Brown                      Stan Kornacki                   13-13 
+1      Milo Brown                      Stan Kornacki                   13-13 ID
 6      Nathan C                       Austin Wolf                     12-9  
 22     Nathan Cormier                  Joseph Chung                    3-6   
 21     Phil iwanow                     Dani Masom                      3-6   
@@ -48,7 +48,7 @@ Table  Player                          Opponent                        Points
 9      Ryan MacDonald                  Jack Henry                      12-9  
 5      Sam White                       Alexander Gimmi                 12-9  
 24     Sean Marks                      Philip Petronis                 3-6   
-1      Stan Kornacki                   Milo Brown                      13-13 
+1      Stan Kornacki                   Milo Brown                      13-13 ID
 7      Stella Burfeind                 Etai Kurtzman                   9-12  
 14     Terry Eleftherakis              Mike Adams                      6-9   
 19     Tim Lawson                      Veronica Kirtley                6-9   

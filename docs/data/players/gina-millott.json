@@ -1,0 +1,121 @@
+{
+  "player": "Gina Millott",
+  "slug": "gina-millott",
+  "elo": 1490.66,
+  "games": 11,
+  "wins": 5,
+  "losses": 6,
+  "draws": 0,
+  "matches": [
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0,
+      "elo_after": 1468.7363,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.7363,
+      "elo_after": 1452.7024,
+      "opp_elo": 1468.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Colin Hogan",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1452.7024,
+      "elo_after": 1470.8672,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.8672,
+      "elo_after": 1486.0989,
+      "opp_elo": 1454.1722
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Matt Rosenbloom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1486.0989,
+      "elo_after": 1502.7388,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-20",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.7388,
+      "elo_after": 1524.122,
+      "opp_elo": 1624.3723
+    },
+    {
+      "week": "26-2-20",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1524.122,
+      "elo_after": 1539.4115,
+      "opp_elo": 1508.6833
+    },
+    {
+      "week": "26-2-20",
+      "round": 3,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.4115,
+      "elo_after": 1521.6043,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-20",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.6043,
+      "elo_after": 1506.9779,
+      "opp_elo": 1551.5045
+    },
+    {
+      "week": "26-2-20",
+      "round": 5,
+      "opponent": "Jason Weiss",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1506.9779,
+      "elo_after": 1490.6566,
+      "opp_elo": 1500.0
+    }
+  ]
+}

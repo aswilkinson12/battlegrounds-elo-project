@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1563.27,
+  "elo": 1563.75,
   "games": 16,
   "wins": 10,
   "losses": 6,
@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.7541,
-      "elo_after": 1502.9888,
-      "opp_elo": 1503.1218
+      "elo_after": 1503.0119,
+      "opp_elo": 1503.6256
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.9888,
-      "elo_after": 1518.862,
-      "opp_elo": 1500.2365
+      "elo_before": 1503.0119,
+      "elo_after": 1518.8818,
+      "opp_elo": 1500.1866
     },
     {
       "week": "26-2-27",
@@ -123,9 +123,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.862,
-      "elo_after": 1530.8236,
-      "opp_elo": 1429.2317
+      "elo_before": 1518.8818,
+      "elo_after": 1531.2106,
+      "opp_elo": 1437.7169
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.8236,
-      "elo_after": 1544.1732,
+      "elo_before": 1531.2106,
+      "elo_after": 1544.5428,
       "opp_elo": 1472.7358
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1544.1732,
-      "elo_after": 1559.5508,
-      "opp_elo": 1530.6512
+      "elo_before": 1544.5428,
+      "elo_after": 1559.9022,
+      "opp_elo": 1530.6231
     },
     {
       "week": "26-2-27",
@@ -153,9 +153,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.5508,
-      "elo_after": 1576.6749,
-      "opp_elo": 1584.0011
+      "elo_before": 1559.9022,
+      "elo_after": 1577.1263,
+      "opp_elo": 1586.5362
     },
     {
       "week": "26-2-27",
@@ -163,9 +163,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1576.6749,
-      "elo_after": 1563.2739,
-      "opp_elo": 1633.616
+      "elo_before": 1577.1263,
+      "elo_after": 1563.7515,
+      "opp_elo": 1634.6517
     }
   ]
 }

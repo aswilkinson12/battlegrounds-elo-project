@@ -7,7 +7,7 @@ Table  Player                          Opponent                        Points
 9      Austin Wolf                     Stella Burfeind                 9-12  
 8      Avi Lessure                     Alexander Gimmi                 12-9  
 3      Becca Blackwood                 Luke Deratzou                   12-15 
-1      Bradley Skubic                  Stan Kornacki                   14-14 
+1      Bradley Skubic                  Stan Kornacki                   14-14 ID
 6      Brian Kennes                    Ryan MacDonald                  9-15  
 24     Colin Hogan                     tyler kaldenberg                3-6   
 19     Dani Masom                      Joseph Chung                    9-6   
@@ -30,10 +30,10 @@ Table  Player                          Opponent                        Points
 3      Luke Deratzou                   Becca Blackwood                 15-12 
 22     Markis Galea                    Nathan Cormier                  3-6   
 20     Matt Rosenbloom                 Gina Millott                    6-9   
-2      mavin liu                       Milo Brown                      14-14 
+2      mavin liu                       Milo Brown                      14-14 ID
 13     Mike Adams                      Logan Hesch                     12-9  
 11     Mike Laing                      Isharah Considine              12-9  
-2      Milo Brown                      mavin liu                       14-14 
+2      Milo Brown                      mavin liu                       14-14 ID
 4      Nathan C                       Sam White                       12-15 
 22     Nathan Cormier                  Markis Galea                    6-3   
 23     Phil iwanow                     Amber Cronin                    4-4   
@@ -43,7 +43,7 @@ Table  Player                          Opponent                        Points
 10     Reya Truher                     Veronica Kirtley                9-12  
 6      Ryan MacDonald                  Brian Kennes                    15-9  
 4      Sam White                       Nathan C                       15-12 
-1      Stan Kornacki                   Bradley Skubic                  14-14 
+1      Stan Kornacki                   Bradley Skubic                  14-14 ID
 9      Stella Burfeind                 Austin Wolf                     12-9  
 16     Tim Lawson                      Ian Marcellana                  9-6   
 24     tyler kaldenberg                Colin Hogan                     6-3   

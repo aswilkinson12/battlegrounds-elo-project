@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1414.12,
+  "elo": 1411.21,
   "games": 18,
   "wins": 4,
   "losses": 12,
@@ -54,8 +54,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1470.1383,
-      "elo_after": 1454.0413,
-      "opp_elo": 1468.0336
+      "elo_after": 1454.0753,
+      "opp_elo": 1468.7701
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -63,9 +63,9 @@
       "opponent": "Amber Cronin",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1454.0413,
-      "elo_after": 1453.4075,
-      "opp_elo": 1440.2705
+      "elo_before": 1454.0753,
+      "elo_after": 1453.3787,
+      "opp_elo": 1438.9404
     },
     {
       "week": "26-2-13",
@@ -73,8 +73,8 @@
       "opponent": "Pan Rasking",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1453.4075,
-      "elo_after": 1439.5404,
+      "elo_before": 1453.3787,
+      "elo_after": 1439.5129,
       "opp_elo": 1500.0
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1439.5404,
-      "elo_after": 1426.2969,
+      "elo_before": 1439.5129,
+      "elo_after": 1426.2706,
       "opp_elo": 1500.0
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1426.2969,
-      "elo_after": 1445.641,
-      "opp_elo": 1500.0
+      "elo_before": 1426.2706,
+      "elo_after": 1443.5865,
+      "opp_elo": 1454.9082
     },
     {
       "week": "26-2-27",
@@ -103,9 +103,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1445.641,
-      "elo_after": 1434.9525,
-      "opp_elo": 1565.518
+      "elo_before": 1443.5865,
+      "elo_after": 1432.9772,
+      "opp_elo": 1565.4033
     },
     {
       "week": "26-2-27",
@@ -113,8 +113,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1434.9525,
-      "elo_after": 1421.9135,
+      "elo_before": 1432.9772,
+      "elo_after": 1420.026,
       "opp_elo": 1500.0
     },
     {
@@ -123,8 +123,8 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1421.9135,
-      "elo_after": 1409.4502,
+      "elo_before": 1420.026,
+      "elo_after": 1407.6453,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1409.4502,
-      "elo_after": 1393.4576,
-      "opp_elo": 1409.6119
+      "elo_before": 1407.6453,
+      "elo_after": 1392.0601,
+      "opp_elo": 1416.6558
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1393.4576,
-      "elo_after": 1414.2158,
-      "opp_elo": 1500.0
+      "elo_before": 1392.0601,
+      "elo_after": 1410.7458,
+      "opp_elo": 1450.9353
     },
     {
       "week": "26-3-07",
@@ -153,8 +153,8 @@
       "opponent": "Evan Hamlin",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1414.2158,
-      "elo_after": 1418.088,
+      "elo_before": 1410.7458,
+      "elo_after": 1414.768,
       "opp_elo": 1500.0
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Robert Legree",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1418.088,
-      "elo_after": 1405.7918,
+      "elo_before": 1414.768,
+      "elo_after": 1402.6162,
       "opp_elo": 1500.0
     },
     {
@@ -173,9 +173,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1405.7918,
-      "elo_after": 1393.3602,
-      "opp_elo": 1484.6024
+      "elo_before": 1402.6162,
+      "elo_after": 1390.3217,
+      "opp_elo": 1484.5684
     },
     {
       "week": "26-3-07",
@@ -183,8 +183,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1393.3602,
-      "elo_after": 1414.1225,
+      "elo_before": 1390.3217,
+      "elo_after": 1411.2113,
       "opp_elo": 1500.0
     }
   ]

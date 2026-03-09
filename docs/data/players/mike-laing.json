@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1530.6893,
-      "elo_after": 1545.9152,
-      "opp_elo": 1513.8671
+      "elo_after": 1545.9151,
+      "opp_elo": 1513.8658
     },
     {
       "week": "26-2-13",
@@ -83,7 +83,7 @@
       "opponent": "Karl Rookey",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.9152,
+      "elo_before": 1545.9151,
       "elo_after": 1559.8129,
       "opp_elo": 1500.0
     },
@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1573.0853,
-      "elo_after": 1558.784,
-      "opp_elo": 1610.1099
+      "elo_after": 1558.7821,
+      "opp_elo": 1610.0691
     },
     {
       "week": "26-3-07",
@@ -113,8 +113,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.784,
-      "elo_after": 1572.1024,
+      "elo_before": 1558.7821,
+      "elo_after": 1572.1006,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1572.1024,
-      "elo_after": 1585.2878,
-      "opp_elo": 1510.3416
+      "elo_before": 1572.1006,
+      "elo_after": 1585.2861,
+      "opp_elo": 1510.3438
     },
     {
       "week": "26-3-07",
@@ -133,9 +133,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1585.2878,
-      "elo_after": 1573.0625,
-      "opp_elo": 1668.8272
+      "elo_before": 1585.2861,
+      "elo_after": 1573.0602,
+      "opp_elo": 1668.8116
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0625,
-      "elo_after": 1554.5257,
-      "opp_elo": 1517.5084
+      "elo_before": 1573.0602,
+      "elo_after": 1554.5229,
+      "opp_elo": 1517.4946
     },
     {
       "week": "26-3-07",
@@ -153,9 +153,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1554.5257,
-      "elo_after": 1572.9248,
-      "opp_elo": 1607.0179
+      "elo_before": 1554.5229,
+      "elo_after": 1572.9218,
+      "opp_elo": 1607.009
     }
   ]
 }

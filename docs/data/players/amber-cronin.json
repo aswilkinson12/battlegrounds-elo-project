@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1471.13,
+  "elo": 1470.62,
   "games": 10,
   "wins": 3,
   "losses": 6,
@@ -44,8 +44,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1454.1722,
-      "elo_after": 1440.2705,
-      "opp_elo": 1500.0
+      "elo_after": 1438.9404,
+      "opp_elo": 1470.8672
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -53,9 +53,9 @@
       "opponent": "Phil Iwanow",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1440.2705,
-      "elo_after": 1440.9043,
-      "opp_elo": 1454.0413
+      "elo_before": 1438.9404,
+      "elo_after": 1439.637,
+      "opp_elo": 1454.0753
     },
     {
       "week": "26-2-13",
@@ -63,8 +63,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1440.9043,
-      "elo_after": 1459.5998,
+      "elo_before": 1439.637,
+      "elo_after": 1458.3892,
       "opp_elo": 1500.0
     },
     {
@@ -73,9 +73,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1459.5998,
-      "elo_after": 1447.4086,
-      "opp_elo": 1543.9234
+      "elo_before": 1458.3892,
+      "elo_after": 1446.2492,
+      "opp_elo": 1543.8939
     },
     {
       "week": "26-2-13",
@@ -83,9 +83,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1447.4086,
-      "elo_after": 1435.2749,
-      "opp_elo": 1533.0582
+      "elo_before": 1446.2492,
+      "elo_after": 1434.1457,
+      "opp_elo": 1532.5964
     },
     {
       "week": "26-2-13",
@@ -93,9 +93,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1435.2749,
-      "elo_after": 1452.9795,
-      "opp_elo": 1472.4307
+      "elo_before": 1434.1457,
+      "elo_after": 1452.446,
+      "opp_elo": 1484.4446
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1452.9795,
-      "elo_after": 1471.1317,
+      "elo_before": 1452.446,
+      "elo_after": 1470.6224,
       "opp_elo": 1500.0
     }
   ]

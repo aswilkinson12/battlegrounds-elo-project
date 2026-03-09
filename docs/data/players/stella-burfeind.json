@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1516.91,
+  "elo": 1516.74,
   "games": 20,
   "wins": 11,
   "losses": 9,
@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1526.5846,
-      "elo_after": 1541.4022,
-      "opp_elo": 1500.8609
+      "elo_after": 1541.3701,
+      "opp_elo": 1500.1613
     },
     {
       "week": "26-2-13",
@@ -83,8 +83,8 @@
       "opponent": "Autumn Garofalo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.4022,
-      "elo_after": 1523.5045,
+      "elo_before": 1541.3701,
+      "elo_after": 1523.4739,
       "opp_elo": 1500.0
     },
     {
@@ -93,9 +93,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1523.5045,
-      "elo_after": 1538.6293,
-      "opp_elo": 1504.4796
+      "elo_before": 1523.4739,
+      "elo_after": 1538.5494,
+      "opp_elo": 1503.3746
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.6293,
-      "elo_after": 1520.8576,
+      "elo_before": 1538.5494,
+      "elo_after": 1520.7813,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.8576,
-      "elo_after": 1505.0972,
-      "opp_elo": 1526.0608
+      "elo_before": 1520.7813,
+      "elo_after": 1505.0244,
+      "opp_elo": 1526.0607
     },
     {
       "week": "26-2-20",
@@ -123,9 +123,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.0972,
-      "elo_after": 1518.8683,
-      "opp_elo": 1456.3798
+      "elo_before": 1505.0244,
+      "elo_after": 1518.778,
+      "opp_elo": 1455.9187
     },
     {
       "week": "26-2-20",
@@ -133,8 +133,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.8683,
-      "elo_after": 1502.0002,
+      "elo_before": 1518.778,
+      "elo_after": 1501.9141,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.0002,
-      "elo_after": 1485.553,
-      "opp_elo": 1492.2857
+      "elo_before": 1501.9141,
+      "elo_after": 1485.5218,
+      "opp_elo": 1493.3938
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.553,
-      "elo_after": 1468.2948,
-      "opp_elo": 1458.175
+      "elo_before": 1485.5218,
+      "elo_after": 1468.2409,
+      "opp_elo": 1457.6482
     },
     {
       "week": "26-3-07",
@@ -163,9 +163,9 @@
       "opponent": "Timofey Tylik",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.2948,
-      "elo_after": 1452.4246,
-      "opp_elo": 1471.1141
+      "elo_before": 1468.2409,
+      "elo_after": 1452.3718,
+      "opp_elo": 1471.0838
     },
     {
       "week": "26-3-07",
@@ -173,9 +173,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1452.4246,
-      "elo_after": 1467.0914,
-      "opp_elo": 1423.4077
+      "elo_before": 1452.3718,
+      "elo_after": 1467.0558,
+      "opp_elo": 1423.7296
     },
     {
       "week": "26-3-07",
@@ -183,8 +183,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1467.0914,
-      "elo_after": 1484.6024,
+      "elo_before": 1467.0558,
+      "elo_after": 1484.5684,
       "opp_elo": 1500.0
     },
     {
@@ -193,9 +193,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.6024,
-      "elo_after": 1497.034,
-      "opp_elo": 1405.7918
+      "elo_before": 1484.5684,
+      "elo_after": 1496.8628,
+      "opp_elo": 1402.6162
     },
     {
       "week": "26-3-07",
@@ -203,9 +203,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1497.034,
-      "elo_after": 1516.9071,
-      "opp_elo": 1582.8395
+      "elo_before": 1496.8628,
+      "elo_after": 1516.7399,
+      "opp_elo": 1582.7621
     }
   ]
 }
