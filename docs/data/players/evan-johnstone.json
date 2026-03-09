@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1382.06,
+  "elo": 1382.01,
   "games": 26,
   "wins": 8,
   "losses": 17,
@@ -144,8 +144,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1482.5796,
-      "elo_after": 1469.9422,
-      "opp_elo": 1556.7012
+      "elo_after": 1469.9949,
+      "opp_elo": 1557.8994
     },
     {
       "week": "26-2-20",
@@ -153,8 +153,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1469.9422,
-      "elo_after": 1455.3229,
+      "elo_before": 1469.9949,
+      "elo_after": 1455.3732,
       "opp_elo": 1500.0
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1455.3229,
-      "elo_after": 1437.7169,
+      "elo_before": 1455.3732,
+      "elo_after": 1437.7649,
       "opp_elo": 1420.3313
     },
     {
@@ -173,8 +173,8 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1437.7169,
-      "elo_after": 1425.3882,
+      "elo_before": 1437.7649,
+      "elo_after": 1425.4341,
       "opp_elo": 1518.8818
     },
     {
@@ -183,9 +183,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1425.3882,
-      "elo_after": 1413.0637,
-      "opp_elo": 1506.6509
+      "elo_before": 1425.4341,
+      "elo_after": 1413.1077,
+      "opp_elo": 1506.6531
     },
     {
       "week": "26-2-27",
@@ -193,9 +193,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1413.0637,
-      "elo_after": 1432.7523,
-      "opp_elo": 1494.6277
+      "elo_before": 1413.1077,
+      "elo_after": 1432.742,
+      "opp_elo": 1493.4268
     },
     {
       "week": "26-2-27",
@@ -203,9 +203,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.7523,
-      "elo_after": 1416.6558,
-      "opp_elo": 1430.6558
+      "elo_before": 1432.742,
+      "elo_after": 1416.6437,
+      "opp_elo": 1430.6064
     },
     {
       "week": "26-2-27",
@@ -213,8 +213,8 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1416.6558,
-      "elo_after": 1432.2409,
+      "elo_before": 1416.6437,
+      "elo_after": 1432.2294,
       "opp_elo": 1407.6453
     },
     {
@@ -223,8 +223,8 @@
       "opponent": "Chris Daniel",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.2409,
-      "elo_after": 1419.3224,
+      "elo_before": 1432.2294,
+      "elo_after": 1419.3113,
       "opp_elo": 1500.0
     },
     {
@@ -233,8 +233,8 @@
       "opponent": "Patrick Brooks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1419.3224,
-      "elo_after": 1406.9724,
+      "elo_before": 1419.3113,
+      "elo_after": 1406.9618,
       "opp_elo": 1500.0
     },
     {
@@ -243,9 +243,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1406.9724,
-      "elo_after": 1391.0678,
-      "opp_elo": 1409.0457
+      "elo_before": 1406.9618,
+      "elo_after": 1391.0558,
+      "opp_elo": 1409.004
     },
     {
       "week": "26-3-07",
@@ -253,8 +253,8 @@
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1391.0678,
-      "elo_after": 1379.9262,
+      "elo_before": 1391.0558,
+      "elo_after": 1379.9147,
       "opp_elo": 1500.0
     },
     {
@@ -263,9 +263,9 @@
       "opponent": "Pan Rasking",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1379.9262,
-      "elo_after": 1382.0579,
-      "opp_elo": 1426.4922
+      "elo_before": 1379.9147,
+      "elo_after": 1382.0072,
+      "opp_elo": 1425.6153
     }
   ]
 }

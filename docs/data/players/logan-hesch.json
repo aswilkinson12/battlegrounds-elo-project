@@ -94,8 +94,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1530.6231,
-      "elo_after": 1515.2638,
-      "opp_elo": 1544.5428
+      "elo_after": 1515.2639,
+      "opp_elo": 1544.5448
     },
     {
       "week": "26-2-27",
@@ -103,7 +103,7 @@
       "opponent": "Josh Kibbe",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.2638,
+      "elo_before": 1515.2639,
       "elo_after": 1530.5614,
       "opp_elo": 1500.0
     },
@@ -114,8 +114,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1530.5614,
-      "elo_after": 1519.1336,
-      "opp_elo": 1632.689
+      "elo_after": 1519.1372,
+      "opp_elo": 1632.7726
     },
     {
       "week": "26-3-07",
@@ -123,8 +123,8 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.1336,
-      "elo_after": 1502.2533,
+      "elo_before": 1519.1372,
+      "elo_after": 1502.2568,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.2533,
-      "elo_after": 1515.9698,
-      "opp_elo": 1452.3266
+      "elo_before": 1502.2568,
+      "elo_after": 1515.9761,
+      "opp_elo": 1452.393
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.9698,
-      "elo_after": 1526.1433,
-      "opp_elo": 1383.3636
+      "elo_before": 1515.9761,
+      "elo_after": 1526.1476,
+      "opp_elo": 1383.3199
     },
     {
       "week": "26-3-07",
@@ -153,9 +153,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.1433,
-      "elo_after": 1545.5914,
-      "opp_elo": 1602.2101
+      "elo_before": 1526.1476,
+      "elo_after": 1545.5955,
+      "opp_elo": 1602.2113
     },
     {
       "week": "26-3-07",
@@ -163,9 +163,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.5914,
-      "elo_after": 1561.0395,
-      "opp_elo": 1533.6022
+      "elo_before": 1545.5955,
+      "elo_after": 1561.0434,
+      "opp_elo": 1533.6007
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1577.65,
+  "elo": 1577.69,
   "games": 16,
   "wins": 10,
   "losses": 3,
@@ -144,8 +144,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1602.7935,
-      "elo_after": 1582.8375,
-      "opp_elo": 1515.0728
+      "elo_after": 1582.8374,
+      "opp_elo": 1515.0704
     },
     {
       "week": "26-2-27",
@@ -153,8 +153,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1582.8375,
-      "elo_after": 1563.0934,
+      "elo_before": 1582.8374,
+      "elo_after": 1563.0933,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1563.0934,
-      "elo_after": 1577.654,
-      "opp_elo": 1531.7527
+      "elo_before": 1563.0933,
+      "elo_after": 1577.695,
+      "opp_elo": 1532.6516
     }
   ]
 }

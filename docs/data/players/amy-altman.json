@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1563.51,
+  "elo": 1565.19,
   "games": 16,
   "wins": 10,
   "losses": 5,
@@ -161,11 +161,11 @@
       "week": "26-2-20",
       "round": 5,
       "opponent": "Becca Blackwood",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1565.191,
-      "elo_after": 1563.5077,
-      "opp_elo": 1528.5021
+      "elo_after": 1565.191,
+      "opp_elo": 1528.5533
     }
   ]
 }

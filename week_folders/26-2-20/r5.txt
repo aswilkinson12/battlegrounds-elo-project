@@ -5,7 +5,7 @@ Table  Player                          Opponent                        Points
        Stella Burfeind                 ***Bye***                       9
 1      Nathan Cormier                  David Van Hise                  12-12
 2      Anthony Wilkinson               Ash DerManouelian               12-9
-3      Amy Altman                      Becca Blackwood                 10-10
+3      Amy Altman                      Becca Blackwood                 10-10 ID
 4      Stan Kornacki                   [REDACTED] [REDACTED]            7-9
 5      Gina Millott                    Jason Weiss                     6-9
 6      Mike Adams                      Dani Masom                      6-9

@@ -184,8 +184,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1573.3857,
-      "elo_after": 1585.2284,
-      "opp_elo": 1480.9927
+      "elo_after": 1585.2303,
+      "opp_elo": 1481.0385
     },
     {
       "week": "26-2-27",
@@ -193,9 +193,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1585.2284,
-      "elo_after": 1598.2138,
-      "opp_elo": 1518.9754
+      "elo_before": 1585.2303,
+      "elo_after": 1598.2158,
+      "opp_elo": 1518.9795
     },
     {
       "week": "26-2-27",
@@ -203,8 +203,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1598.2138,
-      "elo_after": 1609.8076,
+      "elo_before": 1598.2158,
+      "elo_after": 1609.8096,
       "opp_elo": 1500.0
     },
     {
@@ -213,8 +213,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1609.8076,
-      "elo_after": 1620.9127,
+      "elo_before": 1609.8096,
+      "elo_after": 1620.9146,
       "opp_elo": 1500.0
     },
     {
@@ -223,8 +223,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1620.9127,
-      "elo_after": 1631.5589,
+      "elo_before": 1620.9146,
+      "elo_after": 1631.5607,
       "opp_elo": 1500.0
     },
     {
@@ -233,9 +233,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1631.5589,
-      "elo_after": 1616.5834,
-      "opp_elo": 1653.8361
+      "elo_before": 1631.5607,
+      "elo_after": 1616.5886,
+      "opp_elo": 1653.9131
     },
     {
       "week": "26-3-07",
@@ -243,9 +243,9 @@
       "opponent": "Andy Perez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1616.5834,
-      "elo_after": 1595.2905,
-      "opp_elo": 1497.1582
+      "elo_before": 1616.5886,
+      "elo_after": 1595.2954,
+      "opp_elo": 1497.1564
     },
     {
       "week": "26-3-07",
@@ -253,8 +253,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1595.2905,
-      "elo_after": 1607.009,
+      "elo_before": 1595.2954,
+      "elo_after": 1607.0138,
       "opp_elo": 1500.0
     },
     {
@@ -263,9 +263,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1607.009,
-      "elo_after": 1588.6101,
-      "opp_elo": 1554.5229
+      "elo_before": 1607.0138,
+      "elo_after": 1588.6149,
+      "opp_elo": 1554.5274
     }
   ]
 }

@@ -250,8 +250,8 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-2-13,5,Isharah Considine,Reya Truher,1.0,OK,False
 26-2-13,5,Jack Henry,Willow Blackthorne,0.0,OK,False
 26-2-13,5,Jarrod Haase,Karl Rookey,0.0,OK,False
-26-2-13,5,John Larochelle,Philip Petronis,0.5,OK,False
-26-2-13,5,Mike Adams,Pan Rasking,0.5,OK,False
+26-2-13,5,John Larochelle,Philip Petronis,0.5,ID,True
+26-2-13,5,Mike Adams,Pan Rasking,0.5,ID,True
 26-2-13,5,Mike Laing,Stan Kornacki,0.0,OK,False
 26-2-13,5,Terry Eleftherakis,Veronica Kirtley,1.0,OK,False
 26-2-20,1,Amy Altman,David Van Hise,0.0,OK,False
@@ -288,7 +288,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-2-20,4,David Van Hise,Gina Millott,1.0,OK,False
 26-2-20,4,Evan Johnstone,Sean Marks,0.0,OK,False
 26-2-20,4,Hex Dowd,Stan Kornacki,0.0,OK,False
-26-2-20,5,Amy Altman,Becca Blackwood,0.5,OK,False
+26-2-20,5,Amy Altman,Becca Blackwood,0.5,ID,True
 26-2-20,5,Anthony Wilkinson,Ash DerManouelian,1.0,OK,False
 26-2-20,5,Dani Masom,Mike Adams,1.0,OK,False
 26-2-20,5,David Van Hise,Nathan Cormier,1.0,OK,False
@@ -437,6 +437,6 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-3-07,5,Hex Dowd,Reya Truher,1.0,OK,False
 26-3-07,5,Ian Marcellana,Phil iwanow,0.0,OK,False
 26-3-07,5,Jarrod Haase,Patrick Brooks,1.0,OK,False
-26-3-07,5,Mike Adams,Sean Marks,0.5,OK,False
+26-3-07,5,Mike Adams,Sean Marks,0.5,ID,True
 26-3-07,5,Mike Laing,Stan Kornacki,1.0,OK,False
 26-3-07,5,Nathan Choi,Stella Burfeind,0.0,OK,False

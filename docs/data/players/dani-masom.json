@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1458.66,
+  "elo": 1458.71,
   "games": 24,
   "wins": 10,
   "losses": 14,
@@ -154,8 +154,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1474.9291,
-      "elo_after": 1494.3608,
-      "opp_elo": 1550.6226
+      "elo_after": 1494.4088,
+      "opp_elo": 1551.717
     },
     {
       "week": "26-2-27",
@@ -163,8 +163,8 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.3608,
-      "elo_after": 1480.9927,
+      "elo_before": 1494.4088,
+      "elo_after": 1481.0385,
       "opp_elo": 1552.0352
     },
     {
@@ -173,8 +173,8 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.9927,
-      "elo_after": 1469.15,
+      "elo_before": 1481.0385,
+      "elo_after": 1469.1939,
       "opp_elo": 1573.3857
     },
     {
@@ -183,8 +183,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.15,
-      "elo_after": 1481.8396,
+      "elo_before": 1469.1939,
+      "elo_after": 1481.8816,
       "opp_elo": 1396.2132
     },
     {
@@ -193,9 +193,9 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1481.8396,
-      "elo_after": 1466.5198,
-      "opp_elo": 1496.6187
+      "elo_before": 1481.8816,
+      "elo_after": 1466.5895,
+      "opp_elo": 1497.2643
     },
     {
       "week": "26-3-07",
@@ -203,9 +203,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1466.5198,
-      "elo_after": 1452.3266,
-      "opp_elo": 1505.9217
+      "elo_before": 1466.5895,
+      "elo_after": 1452.393,
+      "opp_elo": 1505.9198
     },
     {
       "week": "26-3-07",
@@ -213,9 +213,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1452.3266,
-      "elo_after": 1438.6101,
-      "opp_elo": 1502.2533
+      "elo_before": 1452.393,
+      "elo_after": 1438.6737,
+      "opp_elo": 1502.2568
     },
     {
       "week": "26-3-07",
@@ -223,8 +223,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1438.6101,
-      "elo_after": 1457.4081,
+      "elo_before": 1438.6737,
+      "elo_after": 1457.4689,
       "opp_elo": 1500.0
     },
     {
@@ -233,9 +233,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.4081,
-      "elo_after": 1439.9177,
-      "opp_elo": 1424.9502
+      "elo_before": 1457.4689,
+      "elo_after": 1439.9739,
+      "opp_elo": 1424.9099
     },
     {
       "week": "26-3-07",
@@ -243,8 +243,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1439.9177,
-      "elo_after": 1458.6574,
+      "elo_before": 1439.9739,
+      "elo_after": 1458.711,
       "opp_elo": 1500.0
     }
   ]

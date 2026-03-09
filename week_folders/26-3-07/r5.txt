@@ -3,7 +3,7 @@ Round 5
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
 1      Anthony Wilkinson            Timofey Tylik                13-10 ID 
-2      Mike Adams                   Sean Marks                   10-10   
+2      Mike Adams                   Sean Marks                   10-10 ID  
 3      Bailey Sarkis                Chris Daniel                 12-9    
 4      Logan Hesch                  Andy Perez                   12-9    
 5      Stella Burfeind              Nathan Choi                  12-7    

@@ -124,8 +124,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1518.8818,
-      "elo_after": 1531.2106,
-      "opp_elo": 1437.7169
+      "elo_after": 1531.2127,
+      "opp_elo": 1437.7649
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1531.2106,
-      "elo_after": 1544.5428,
+      "elo_before": 1531.2127,
+      "elo_after": 1544.5448,
       "opp_elo": 1472.7358
     },
     {
@@ -143,8 +143,8 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1544.5428,
-      "elo_after": 1559.9022,
+      "elo_before": 1544.5448,
+      "elo_after": 1559.9041,
       "opp_elo": 1530.6231
     },
     {
@@ -153,9 +153,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.9022,
-      "elo_after": 1577.1263,
-      "opp_elo": 1586.5362
+      "elo_before": 1559.9041,
+      "elo_after": 1577.1281,
+      "opp_elo": 1586.5363
     },
     {
       "week": "26-2-27",
@@ -163,9 +163,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1577.1263,
-      "elo_after": 1563.7515,
-      "opp_elo": 1634.6517
+      "elo_before": 1577.1281,
+      "elo_after": 1563.7535,
+      "opp_elo": 1634.6577
     }
   ]
 }

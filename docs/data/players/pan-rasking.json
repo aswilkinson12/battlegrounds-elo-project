@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1424.36,
+  "elo": 1423.52,
   "games": 14,
   "wins": 4,
   "losses": 8,
@@ -51,10 +51,10 @@
       "week": "26-2-13",
       "round": 5,
       "opponent": "Mike Adams",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1530.0259,
-      "elo_after": 1531.3412,
+      "elo_after": 1530.0259,
       "opp_elo": 1558.6527
     },
     {
@@ -63,9 +63,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1531.3412,
-      "elo_after": 1511.1405,
-      "opp_elo": 1437.9373
+      "elo_before": 1530.0259,
+      "elo_after": 1509.8818,
+      "opp_elo": 1437.9396
     },
     {
       "week": "26-2-27",
@@ -73,8 +73,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1511.1405,
-      "elo_after": 1494.6277,
+      "elo_before": 1509.8818,
+      "elo_after": 1493.4268,
       "opp_elo": 1500.0
     },
     {
@@ -83,9 +83,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.6277,
-      "elo_after": 1474.939,
-      "opp_elo": 1413.0637
+      "elo_before": 1493.4268,
+      "elo_after": 1473.7925,
+      "opp_elo": 1413.1077
     },
     {
       "week": "26-2-27",
@@ -93,9 +93,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1474.939,
-      "elo_after": 1486.8237,
-      "opp_elo": 1383.5236
+      "elo_before": 1473.7925,
+      "elo_after": 1485.7266,
+      "opp_elo": 1383.5255
     },
     {
       "week": "26-3-07",
@@ -103,9 +103,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1486.8237,
-      "elo_after": 1472.2187,
-      "opp_elo": 1517.1921
+      "elo_before": 1485.7266,
+      "elo_after": 1471.2109,
+      "opp_elo": 1518.0499
     },
     {
       "week": "26-3-07",
@@ -113,8 +113,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.2187,
-      "elo_after": 1457.4954,
+      "elo_before": 1471.2109,
+      "elo_after": 1456.5336,
       "opp_elo": 1500.0
     },
     {
@@ -123,8 +123,8 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.4954,
-      "elo_after": 1439.7448,
+      "elo_before": 1456.5336,
+      "elo_after": 1438.8269,
       "opp_elo": 1419.3307
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Philip Watson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1439.7448,
-      "elo_after": 1426.4922,
+      "elo_before": 1438.8269,
+      "elo_after": 1425.6153,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Evan Johnstone",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1426.4922,
-      "elo_after": 1424.3605,
-      "opp_elo": 1379.9262
+      "elo_before": 1425.6153,
+      "elo_after": 1423.5227,
+      "opp_elo": 1379.9147
     }
   ]
 }

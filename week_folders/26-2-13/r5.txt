@@ -4,9 +4,9 @@ Table  Player                         Opponent                       Points
 -------------------------------------------------------------------------------
 1      Mike Laing                     Stan Kornacki                  12-15
 2      Anthony Wilkinson              Jason Flynn                    13-9
-3      Philip Petronis                John Larochelle                10-10
+3      Philip Petronis                John Larochelle                10-10 ID
 4      Kenton Najdzien                David Van Hise                 9-12
-5      Pan Rasking                    Mike Adams                     10-10
+5      Pan Rasking                    Mike Adams                     10-10 ID
 6      Autumn Garofalo                Thomas Kotcher                 12-7
 7      Milo Brown                     Gabe Dietz                     10-7
 8      Nathan C                       Dani Masom                     10-6

@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1521.6043,
-      "elo_after": 1506.9779,
-      "opp_elo": 1551.5045
+      "elo_after": 1506.978,
+      "opp_elo": 1551.5071
     },
     {
       "week": "26-2-20",
@@ -113,8 +113,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1506.9779,
-      "elo_after": 1490.6566,
+      "elo_before": 1506.978,
+      "elo_after": 1490.6567,
       "opp_elo": 1500.0
     }
   ]

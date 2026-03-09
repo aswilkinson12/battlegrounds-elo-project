@@ -1,7 +1,7 @@
 {
   "player": "Joseph Chung",
   "slug": "joseph-chung",
-  "elo": 1418.17,
+  "elo": 1418.13,
   "games": 14,
   "wins": 4,
   "losses": 10,
@@ -115,7 +115,7 @@
       "score": 0.0,
       "elo_before": 1450.9353,
       "elo_after": 1432.2496,
-      "opp_elo": 1392.0601
+      "opp_elo": 1392.0596
     },
     {
       "week": "26-3-07",
@@ -134,8 +134,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1419.3307,
-      "elo_after": 1437.0812,
-      "opp_elo": 1457.4954
+      "elo_after": 1437.0374,
+      "opp_elo": 1456.5336
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1437.0812,
-      "elo_after": 1418.1716,
-      "opp_elo": 1373.1902
+      "elo_before": 1437.0374,
+      "elo_after": 1418.1279,
+      "opp_elo": 1373.1484
     }
   ]
 }

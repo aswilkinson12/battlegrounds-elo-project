@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1530.19,
+  "elo": 1528.55,
   "games": 15,
   "wins": 8,
   "losses": 6,
@@ -144,17 +144,17 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1509.7861,
-      "elo_after": 1528.5021,
-      "opp_elo": 1569.3386
+      "elo_after": 1528.5533,
+      "opp_elo": 1570.4841
     },
     {
       "week": "26-2-20",
       "round": 5,
       "opponent": "Amy Altman",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1528.5021,
-      "elo_after": 1530.1854,
+      "elo_before": 1528.5533,
+      "elo_after": 1528.5533,
       "opp_elo": 1565.191
     }
   ]

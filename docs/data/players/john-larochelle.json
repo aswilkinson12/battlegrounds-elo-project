@@ -1,7 +1,7 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1511.94,
+  "elo": 1512.56,
   "games": 15,
   "wins": 7,
   "losses": 6,
@@ -111,10 +111,10 @@
       "week": "26-2-13",
       "round": 5,
       "opponent": "Philip Petronis",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1515.0418,
-      "elo_after": 1514.3495,
+      "elo_after": 1515.0418,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.3495,
-      "elo_after": 1499.1245,
-      "opp_elo": 1531.1909
+      "elo_before": 1515.0418,
+      "elo_after": 1499.833,
+      "opp_elo": 1532.2372
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.1245,
-      "elo_after": 1515.1648,
+      "elo_before": 1499.833,
+      "elo_after": 1515.8407,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.1648,
-      "elo_after": 1496.6187,
-      "opp_elo": 1459.4035
+      "elo_before": 1515.8407,
+      "elo_after": 1497.2643,
+      "opp_elo": 1459.4036
     },
     {
       "week": "26-2-27",
@@ -153,9 +153,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.6187,
-      "elo_after": 1511.9385,
-      "opp_elo": 1481.8396
+      "elo_before": 1497.2643,
+      "elo_after": 1512.5564,
+      "opp_elo": 1481.8816
     }
   ]
 }

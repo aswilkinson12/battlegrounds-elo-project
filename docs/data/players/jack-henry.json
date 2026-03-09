@@ -1,7 +1,7 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1451.87,
+  "elo": 1451.9,
   "games": 16,
   "wins": 6,
   "losses": 10,
@@ -134,8 +134,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1472.7358,
-      "elo_after": 1459.4035,
-      "opp_elo": 1531.2106
+      "elo_after": 1459.4036,
+      "opp_elo": 1531.2127
     },
     {
       "week": "26-2-27",
@@ -143,9 +143,9 @@
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1459.4035,
-      "elo_after": 1477.9496,
-      "opp_elo": 1515.1648
+      "elo_before": 1459.4036,
+      "elo_after": 1477.98,
+      "opp_elo": 1515.8407
     },
     {
       "week": "26-2-27",
@@ -153,8 +153,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1477.9496,
-      "elo_after": 1462.9637,
+      "elo_before": 1477.98,
+      "elo_after": 1462.9927,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1462.9637,
-      "elo_after": 1451.8691,
-      "opp_elo": 1573.0235
+      "elo_before": 1462.9927,
+      "elo_after": 1451.897,
+      "opp_elo": 1573.0254
     }
   ]
 }

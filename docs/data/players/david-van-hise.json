@@ -134,8 +134,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1565.3604,
-      "elo_after": 1551.5045,
-      "opp_elo": 1612.2002
+      "elo_after": 1551.5071,
+      "opp_elo": 1612.2578
     },
     {
       "week": "26-2-20",
@@ -143,8 +143,8 @@
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5045,
-      "elo_after": 1566.1309,
+      "elo_before": 1551.5071,
+      "elo_after": 1566.1334,
       "opp_elo": 1521.6043
     },
     {
@@ -153,9 +153,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1566.1309,
-      "elo_after": 1580.8598,
-      "opp_elo": 1538.4715
+      "elo_before": 1566.1334,
+      "elo_after": 1580.8623,
+      "opp_elo": 1538.4738
     },
     {
       "week": "26-2-27",
@@ -163,8 +163,8 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1580.8598,
-      "elo_after": 1593.2019,
+      "elo_before": 1580.8623,
+      "elo_after": 1593.2043,
       "opp_elo": 1500.0
     },
     {
@@ -173,8 +173,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1593.2019,
-      "elo_after": 1605.0099,
+      "elo_before": 1593.2043,
+      "elo_after": 1605.0121,
       "opp_elo": 1500.0
     },
     {
@@ -183,9 +183,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1605.0099,
-      "elo_after": 1622.6013,
-      "opp_elo": 1639.6824
+      "elo_before": 1605.0121,
+      "elo_after": 1622.6076,
+      "opp_elo": 1639.7736
     },
     {
       "week": "26-2-27",
@@ -193,9 +193,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1622.6013,
-      "elo_after": 1634.6517,
-      "opp_elo": 1535.0288
+      "elo_before": 1622.6076,
+      "elo_after": 1634.6577,
+      "opp_elo": 1535.0265
     },
     {
       "week": "26-2-27",
@@ -203,9 +203,9 @@
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1634.6517,
-      "elo_after": 1648.0265,
-      "opp_elo": 1577.1263
+      "elo_before": 1634.6577,
+      "elo_after": 1648.0323,
+      "opp_elo": 1577.1281
     }
   ]
 }

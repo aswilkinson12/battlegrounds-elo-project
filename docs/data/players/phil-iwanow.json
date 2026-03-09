@@ -104,8 +104,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1443.5865,
-      "elo_after": 1432.9772,
-      "opp_elo": 1565.4033
+      "elo_after": 1432.9773,
+      "opp_elo": 1565.4054
     },
     {
       "week": "26-2-27",
@@ -113,8 +113,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.9772,
-      "elo_after": 1420.026,
+      "elo_before": 1432.9773,
+      "elo_after": 1420.0261,
       "opp_elo": 1500.0
     },
     {
@@ -123,7 +123,7 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1420.026,
+      "elo_before": 1420.0261,
       "elo_after": 1407.6453,
       "opp_elo": 1500.0
     },
@@ -134,8 +134,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1407.6453,
-      "elo_after": 1392.0601,
-      "opp_elo": 1416.6558
+      "elo_after": 1392.0596,
+      "opp_elo": 1416.6437
     },
     {
       "week": "26-3-07",
@@ -143,8 +143,8 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1392.0601,
-      "elo_after": 1410.7458,
+      "elo_before": 1392.0596,
+      "elo_after": 1410.7453,
       "opp_elo": 1450.9353
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Evan Hamlin",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1410.7458,
-      "elo_after": 1414.768,
+      "elo_before": 1410.7453,
+      "elo_after": 1414.7675,
       "opp_elo": 1500.0
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Robert Legree",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1414.768,
-      "elo_after": 1402.6162,
+      "elo_before": 1414.7675,
+      "elo_after": 1402.6157,
       "opp_elo": 1500.0
     },
     {
@@ -173,9 +173,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1402.6162,
-      "elo_after": 1390.3217,
-      "opp_elo": 1484.5684
+      "elo_before": 1402.6157,
+      "elo_after": 1390.3213,
+      "opp_elo": 1484.5665
     },
     {
       "week": "26-3-07",
@@ -183,8 +183,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1390.3217,
-      "elo_after": 1411.2113,
+      "elo_before": 1390.3213,
+      "elo_after": 1411.2108,
       "opp_elo": 1500.0
     }
   ]

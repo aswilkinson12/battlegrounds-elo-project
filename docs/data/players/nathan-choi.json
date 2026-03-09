@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1562.88,
+  "elo": 1562.89,
   "games": 21,
   "wins": 13,
   "losses": 6,
@@ -124,8 +124,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1552.0352,
-      "elo_after": 1565.4033,
-      "opp_elo": 1494.3608
+      "elo_after": 1565.4054,
+      "opp_elo": 1494.4088
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1565.4033,
-      "elo_after": 1576.0125,
+      "elo_before": 1565.4054,
+      "elo_after": 1576.0146,
       "opp_elo": 1443.5865
     },
     {
@@ -143,8 +143,8 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1576.0125,
-      "elo_after": 1559.7482,
+      "elo_before": 1576.0146,
+      "elo_after": 1559.7502,
       "opp_elo": 1570.2719
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Philip Petronis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.7482,
-      "elo_after": 1573.0235,
+      "elo_before": 1559.7502,
+      "elo_after": 1573.0254,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1573.0235,
-      "elo_after": 1584.118,
-      "opp_elo": 1462.9637
+      "elo_before": 1573.0254,
+      "elo_after": 1584.1211,
+      "opp_elo": 1462.9927
     },
     {
       "week": "26-3-07",
@@ -173,9 +173,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1584.118,
-      "elo_after": 1593.5739,
-      "opp_elo": 1433.1855
+      "elo_before": 1584.1211,
+      "elo_after": 1593.5751,
+      "opp_elo": 1433.14
     },
     {
       "week": "26-3-07",
@@ -183,8 +183,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1593.5739,
-      "elo_after": 1605.3659,
+      "elo_before": 1593.5751,
+      "elo_after": 1605.367,
       "opp_elo": 1500.0
     },
     {
@@ -193,9 +193,9 @@
       "opponent": "Nathan Cormier",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1605.3659,
-      "elo_after": 1602.2101,
-      "opp_elo": 1535.9286
+      "elo_before": 1605.367,
+      "elo_after": 1602.2113,
+      "opp_elo": 1535.932
     },
     {
       "week": "26-3-07",
@@ -203,9 +203,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1602.2101,
-      "elo_after": 1582.7621,
-      "opp_elo": 1526.1433
+      "elo_before": 1602.2113,
+      "elo_after": 1582.7634,
+      "opp_elo": 1526.1476
     },
     {
       "week": "26-3-07",
@@ -213,9 +213,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1582.7621,
-      "elo_after": 1562.8849,
-      "opp_elo": 1496.8628
+      "elo_before": 1582.7634,
+      "elo_after": 1562.8861,
+      "opp_elo": 1496.861
     }
   ]
 }

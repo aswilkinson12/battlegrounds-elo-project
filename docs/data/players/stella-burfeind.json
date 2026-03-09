@@ -165,7 +165,7 @@
       "score": 0.0,
       "elo_before": 1468.2409,
       "elo_after": 1452.3718,
-      "opp_elo": 1471.0838
+      "opp_elo": 1471.084
     },
     {
       "week": "26-3-07",
@@ -174,8 +174,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1452.3718,
-      "elo_after": 1467.0558,
-      "opp_elo": 1423.7296
+      "elo_after": 1467.0538,
+      "opp_elo": 1423.686
     },
     {
       "week": "26-3-07",
@@ -183,8 +183,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1467.0558,
-      "elo_after": 1484.5684,
+      "elo_before": 1467.0538,
+      "elo_after": 1484.5665,
       "opp_elo": 1500.0
     },
     {
@@ -193,9 +193,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.5684,
-      "elo_after": 1496.8628,
-      "opp_elo": 1402.6162
+      "elo_before": 1484.5665,
+      "elo_after": 1496.861,
+      "opp_elo": 1402.6157
     },
     {
       "week": "26-3-07",
@@ -203,9 +203,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.8628,
-      "elo_after": 1516.7399,
-      "opp_elo": 1582.7621
+      "elo_before": 1496.861,
+      "elo_after": 1516.7382,
+      "opp_elo": 1582.7634
     }
   ]
 }

@@ -94,8 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1570.2719,
-      "elo_after": 1586.5362,
-      "opp_elo": 1576.0125
+      "elo_after": 1586.5363,
+      "opp_elo": 1576.0146
     },
     {
       "week": "26-2-27",
@@ -103,9 +103,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1586.5362,
-      "elo_after": 1569.3121,
-      "opp_elo": 1559.9022
+      "elo_before": 1586.5363,
+      "elo_after": 1569.3123,
+      "opp_elo": 1559.9041
     },
     {
       "week": "26-2-27",
@@ -113,8 +113,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1569.3121,
-      "elo_after": 1582.1618,
+      "elo_before": 1569.3123,
+      "elo_after": 1582.162,
       "opp_elo": 1500.0
     }
   ]

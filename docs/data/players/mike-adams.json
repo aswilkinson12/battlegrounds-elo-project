@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1548.12,
+  "elo": 1551.1,
   "games": 26,
   "wins": 14,
   "losses": 10,
@@ -111,10 +111,10 @@
       "week": "26-2-13",
       "round": 5,
       "opponent": "Pan Rasking",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1558.6527,
-      "elo_after": 1557.3373,
+      "elo_after": 1558.6527,
       "opp_elo": 1530.0259
     },
     {
@@ -123,8 +123,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.3373,
-      "elo_after": 1542.6557,
+      "elo_before": 1558.6527,
+      "elo_after": 1543.9109,
       "opp_elo": 1586.0309
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1542.6557,
-      "elo_after": 1556.7012,
+      "elo_before": 1543.9109,
+      "elo_after": 1557.8994,
       "opp_elo": 1500.0
     },
     {
@@ -143,8 +143,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1556.7012,
-      "elo_after": 1569.3386,
+      "elo_before": 1557.8994,
+      "elo_after": 1570.4841,
       "opp_elo": 1482.5796
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1569.3386,
-      "elo_after": 1550.6226,
+      "elo_before": 1570.4841,
+      "elo_after": 1551.717,
       "opp_elo": 1509.7861
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1550.6226,
-      "elo_after": 1531.1909,
+      "elo_before": 1551.717,
+      "elo_after": 1532.2372,
       "opp_elo": 1474.9291
     },
     {
@@ -173,9 +173,9 @@
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1531.1909,
-      "elo_after": 1546.416,
-      "opp_elo": 1514.3495
+      "elo_before": 1532.2372,
+      "elo_after": 1547.446,
+      "opp_elo": 1515.0418
     },
     {
       "week": "26-2-27",
@@ -183,9 +183,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1546.416,
-      "elo_after": 1534.0768,
-      "opp_elo": 1627.3432
+      "elo_before": 1547.446,
+      "elo_after": 1535.064,
+      "opp_elo": 1627.3916
     },
     {
       "week": "26-2-27",
@@ -193,8 +193,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1534.0768,
-      "elo_after": 1516.5126,
+      "elo_before": 1535.064,
+      "elo_after": 1517.4547,
       "opp_elo": 1500.0
     },
     {
@@ -203,8 +203,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.5126,
-      "elo_after": 1531.7527,
+      "elo_before": 1517.4547,
+      "elo_after": 1532.6516,
       "opp_elo": 1500.0
     },
     {
@@ -213,9 +213,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1531.7527,
-      "elo_after": 1517.1921,
-      "opp_elo": 1563.0934
+      "elo_before": 1532.6516,
+      "elo_after": 1518.0499,
+      "opp_elo": 1563.0933
     },
     {
       "week": "26-3-07",
@@ -223,9 +223,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1517.1921,
-      "elo_after": 1531.7971,
-      "opp_elo": 1486.8237
+      "elo_before": 1518.0499,
+      "elo_after": 1532.5656,
+      "opp_elo": 1485.7266
     },
     {
       "week": "26-3-07",
@@ -233,9 +233,9 @@
       "opponent": "Bailey Sarkis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1531.7971,
-      "elo_after": 1547.1106,
-      "opp_elo": 1516.8802
+      "elo_before": 1532.5656,
+      "elo_after": 1547.8438,
+      "opp_elo": 1516.8804
     },
     {
       "week": "26-3-07",
@@ -243,9 +243,9 @@
       "opponent": "Timofey Tylik",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1547.1106,
-      "elo_after": 1561.1152,
-      "opp_elo": 1503.5535
+      "elo_before": 1547.8438,
+      "elo_after": 1561.8151,
+      "opp_elo": 1503.5536
     },
     {
       "week": "26-3-07",
@@ -253,18 +253,18 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1561.1152,
-      "elo_after": 1550.4284,
-      "opp_elo": 1681.0375
+      "elo_before": 1561.8151,
+      "elo_after": 1551.1026,
+      "opp_elo": 1681.1079
     },
     {
       "week": "26-3-07",
       "round": 5,
       "opponent": "Sean Marks",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1550.4284,
-      "elo_after": 1548.1223,
+      "elo_before": 1551.1026,
+      "elo_after": 1551.1026,
       "opp_elo": 1500.0
     }
   ]
