@@ -84,7 +84,6 @@
               <th>Opponent</th>
               <th class="num">Opp Elo</th>
               <th>Result</th>
-              <th class="num">Score</th>
               <th class="num">Elo Before</th>
               <th class="num">Elo After</th>
               <th class="num">Δ</th>            </tr>
@@ -180,11 +179,6 @@
       if (r === "L") tdRes.className = "loss";
       if (r === "D") tdRes.className = "draw";
       tr.appendChild(tdRes);
-
-      const tdScore = document.createElement("td");
-      tdScore.className = "num";
-      tdScore.textContent = (m.score === null || m.score === undefined) ? "" : String(m.score);
-      tr.appendChild(tdScore);
 
       const tdPre = document.createElement("td");
       tdPre.className = "num";
