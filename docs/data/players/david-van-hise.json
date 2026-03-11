@@ -94,8 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1503.6256,
-      "elo_after": 1520.3678,
-      "opp_elo": 1519.7541
+      "elo_after": 1520.3703,
+      "opp_elo": 1519.8095
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.3678,
-      "elo_after": 1535.4309,
+      "elo_before": 1520.3703,
+      "elo_after": 1535.4333,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Amy Altman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1535.4309,
-      "elo_after": 1551.725,
-      "opp_elo": 1541.8176
+      "elo_before": 1535.4333,
+      "elo_after": 1551.7274,
+      "opp_elo": 1541.8189
     },
     {
       "week": "26-2-20",
@@ -123,8 +123,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.725,
-      "elo_after": 1565.3604,
+      "elo_before": 1551.7274,
+      "elo_after": 1565.3627,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1565.3604,
-      "elo_after": 1551.5071,
-      "opp_elo": 1612.2578
+      "elo_before": 1565.3627,
+      "elo_after": 1551.5093,
+      "opp_elo": 1612.259
     },
     {
       "week": "26-2-20",
@@ -143,9 +143,9 @@
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5071,
-      "elo_after": 1566.1334,
-      "opp_elo": 1521.6043
+      "elo_before": 1551.5093,
+      "elo_after": 1566.1355,
+      "opp_elo": 1521.6034
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1566.1334,
-      "elo_after": 1580.8623,
-      "opp_elo": 1538.4738
+      "elo_before": 1566.1355,
+      "elo_after": 1580.8632,
+      "opp_elo": 1538.4493
     },
     {
       "week": "26-2-27",
@@ -163,8 +163,8 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1580.8623,
-      "elo_after": 1593.2043,
+      "elo_before": 1580.8632,
+      "elo_after": 1593.2051,
       "opp_elo": 1500.0
     },
     {
@@ -173,8 +173,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1593.2043,
-      "elo_after": 1605.0121,
+      "elo_before": 1593.2051,
+      "elo_after": 1605.0129,
       "opp_elo": 1500.0
     },
     {
@@ -183,8 +183,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1605.0121,
-      "elo_after": 1622.6076,
+      "elo_before": 1605.0129,
+      "elo_after": 1622.6084,
       "opp_elo": 1639.7736
     },
     {
@@ -193,9 +193,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1622.6076,
-      "elo_after": 1634.6577,
-      "opp_elo": 1535.0265
+      "elo_before": 1622.6084,
+      "elo_after": 1634.6562,
+      "opp_elo": 1534.9763
     },
     {
       "week": "26-2-27",
@@ -203,9 +203,9 @@
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1634.6577,
-      "elo_after": 1648.0323,
-      "opp_elo": 1577.1281
+      "elo_before": 1634.6562,
+      "elo_after": 1648.028,
+      "opp_elo": 1577.0632
     }
   ]
 }

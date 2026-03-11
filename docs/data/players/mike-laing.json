@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1572.93,
+  "elo": 1572.85,
   "games": 15,
   "wins": 10,
   "losses": 5,
@@ -64,8 +64,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1514.6259,
-      "elo_after": 1530.6893,
-      "opp_elo": 1516.0015
+      "elo_after": 1530.6908,
+      "opp_elo": 1516.0338
     },
     {
       "week": "26-2-13",
@@ -73,8 +73,8 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.6893,
-      "elo_after": 1545.9151,
+      "elo_before": 1530.6908,
+      "elo_after": 1545.9165,
       "opp_elo": 1513.8658
     },
     {
@@ -83,8 +83,8 @@
       "opponent": "Karl Rookey",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.9151,
-      "elo_after": 1559.8129,
+      "elo_before": 1545.9165,
+      "elo_after": 1559.8142,
       "opp_elo": 1500.0
     },
     {
@@ -93,8 +93,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.8129,
-      "elo_after": 1573.0853,
+      "elo_before": 1559.8142,
+      "elo_after": 1573.0866,
       "opp_elo": 1500.0
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0853,
+      "elo_before": 1573.0866,
       "elo_after": 1558.7821,
-      "opp_elo": 1610.0691
+      "opp_elo": 1610.0426
     },
     {
       "week": "26-3-07",
@@ -124,8 +124,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1572.1006,
-      "elo_after": 1585.2861,
-      "opp_elo": 1510.3419
+      "elo_after": 1585.2853,
+      "opp_elo": 1510.3233
     },
     {
       "week": "26-3-07",
@@ -133,9 +133,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1585.2861,
-      "elo_after": 1573.0633,
-      "opp_elo": 1668.8851
+      "elo_before": 1585.2853,
+      "elo_after": 1573.059,
+      "opp_elo": 1668.8041
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0633,
-      "elo_after": 1554.5274,
-      "opp_elo": 1517.5285
+      "elo_before": 1573.059,
+      "elo_after": 1554.5232,
+      "opp_elo": 1517.5261
     },
     {
       "week": "26-3-07",
@@ -153,9 +153,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1554.5274,
-      "elo_after": 1572.9263,
-      "opp_elo": 1607.0138
+      "elo_before": 1554.5232,
+      "elo_after": 1572.8526,
+      "opp_elo": 1605.4667
     }
   ]
 }

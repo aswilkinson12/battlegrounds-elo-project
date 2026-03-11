@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1577.69,
+  "elo": 1576.64,
   "games": 16,
   "wins": 10,
   "losses": 3,
@@ -94,8 +94,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1541.6626,
-      "elo_after": 1555.7531,
-      "opp_elo": 1500.0
+      "elo_after": 1554.3443,
+      "opp_elo": 1468.5467
     },
     {
       "week": "26-2-13",
@@ -103,8 +103,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1555.7531,
-      "elo_after": 1569.2074,
+      "elo_before": 1554.3443,
+      "elo_after": 1567.8619,
       "opp_elo": 1500.0
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Gabe Dietz",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1569.2074,
-      "elo_after": 1582.0618,
+      "elo_before": 1567.8619,
+      "elo_after": 1580.7759,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1582.0618,
-      "elo_after": 1590.886,
-      "opp_elo": 1414.3193
+      "elo_before": 1580.7759,
+      "elo_after": 1589.6292,
+      "opp_elo": 1413.8234
     },
     {
       "week": "26-2-27",
@@ -133,8 +133,8 @@
       "opponent": "Philip Petronis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1590.886,
-      "elo_after": 1602.7935,
+      "elo_before": 1589.6292,
+      "elo_after": 1601.5908,
       "opp_elo": 1500.0
     },
     {
@@ -143,9 +143,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1602.7935,
-      "elo_after": 1582.8374,
-      "opp_elo": 1515.0704
+      "elo_before": 1601.5908,
+      "elo_after": 1581.6869,
+      "opp_elo": 1515.0724
     },
     {
       "week": "26-2-27",
@@ -153,8 +153,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1582.8374,
-      "elo_after": 1563.0933,
+      "elo_before": 1581.6869,
+      "elo_after": 1561.9929,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1563.0933,
-      "elo_after": 1577.695,
-      "opp_elo": 1532.6516
+      "elo_before": 1561.9929,
+      "elo_after": 1576.6448,
+      "opp_elo": 1532.6495
     }
   ]
 }

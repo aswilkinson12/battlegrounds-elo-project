@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1582.16,
+  "elo": 1582.14,
   "games": 11,
   "wins": 7,
   "losses": 1,
@@ -84,8 +84,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1560.99,
-      "elo_after": 1570.2719,
-      "opp_elo": 1405.495
+      "elo_after": 1570.252,
+      "opp_elo": 1404.97
     },
     {
       "week": "26-2-27",
@@ -93,8 +93,8 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1570.2719,
-      "elo_after": 1586.5363,
+      "elo_before": 1570.252,
+      "elo_after": 1586.5173,
       "opp_elo": 1576.0146
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1586.5363,
-      "elo_after": 1569.3123,
-      "opp_elo": 1559.9041
+      "elo_before": 1586.5173,
+      "elo_after": 1569.2911,
+      "opp_elo": 1559.8369
     },
     {
       "week": "26-2-27",
@@ -113,8 +113,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1569.3123,
-      "elo_after": 1582.162,
+      "elo_before": 1569.2911,
+      "elo_after": 1582.1417,
       "opp_elo": 1500.0
     }
   ]

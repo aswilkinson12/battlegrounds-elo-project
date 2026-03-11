@@ -105,7 +105,7 @@
       "score": 0.0,
       "elo_before": 1508.2424,
       "elo_after": 1492.3302,
-      "opp_elo": 1510.1484
+      "opp_elo": 1510.1499
     },
     {
       "week": "26-2-20",
@@ -114,7 +114,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1492.3302,
-      "elo_after": 1508.6833,
+      "elo_after": 1508.6834,
       "opp_elo": 1500.0
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.6833,
+      "elo_before": 1508.6834,
       "elo_after": 1493.3938,
-      "opp_elo": 1524.122
+      "opp_elo": 1524.121
     },
     {
       "week": "26-2-20",
@@ -135,7 +135,7 @@
       "score": 1.0,
       "elo_before": 1493.3938,
       "elo_after": 1509.7861,
-      "opp_elo": 1501.9141
+      "opp_elo": 1501.914
     },
     {
       "week": "26-2-20",
@@ -144,8 +144,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1509.7861,
-      "elo_after": 1528.5533,
-      "opp_elo": 1570.4841
+      "elo_after": 1528.5532,
+      "opp_elo": 1570.483
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Amy Altman",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1528.5533,
-      "elo_after": 1528.5533,
-      "opp_elo": 1565.191
+      "elo_before": 1528.5532,
+      "elo_after": 1528.5532,
+      "opp_elo": 1565.1704
     }
   ]
 }

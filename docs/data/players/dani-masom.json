@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1458.71,
+  "elo": 1456.65,
   "games": 24,
   "wins": 10,
   "losses": 14,
@@ -104,8 +104,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1486.0884,
-      "elo_after": 1502.1902,
-      "opp_elo": 1488.2992
+      "elo_after": 1502.1901,
+      "opp_elo": 1488.2979
     },
     {
       "week": "26-2-13",
@@ -113,9 +113,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.1902,
+      "elo_before": 1502.1901,
       "elo_after": 1487.8181,
-      "opp_elo": 1537.6631
+      "opp_elo": 1537.6632
     },
     {
       "week": "26-2-20",
@@ -124,7 +124,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1487.8181,
-      "elo_after": 1472.3789,
+      "elo_after": 1472.3788,
       "opp_elo": 1500.0
     },
     {
@@ -133,7 +133,7 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1472.3789,
+      "elo_before": 1472.3788,
       "elo_after": 1457.6482,
       "opp_elo": 1500.0
     },
@@ -144,8 +144,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1457.6482,
-      "elo_after": 1474.9291,
-      "opp_elo": 1485.5218
+      "elo_after": 1474.929,
+      "opp_elo": 1485.5217
     },
     {
       "week": "26-2-20",
@@ -153,9 +153,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1474.9291,
-      "elo_after": 1494.4088,
-      "opp_elo": 1551.717
+      "elo_before": 1474.929,
+      "elo_after": 1494.4087,
+      "opp_elo": 1551.7159
     },
     {
       "week": "26-2-27",
@@ -163,7 +163,7 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.4088,
+      "elo_before": 1494.4087,
       "elo_after": 1481.0385,
       "opp_elo": 1552.0352
     },
@@ -174,8 +174,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1481.0385,
-      "elo_after": 1469.1939,
-      "opp_elo": 1573.3857
+      "elo_after": 1469.1923,
+      "opp_elo": 1573.3497
     },
     {
       "week": "26-2-27",
@@ -183,9 +183,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.1939,
-      "elo_after": 1481.8816,
-      "opp_elo": 1396.2132
+      "elo_before": 1469.1923,
+      "elo_after": 1481.8578,
+      "opp_elo": 1395.7081
     },
     {
       "week": "26-2-27",
@@ -193,9 +193,9 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1481.8816,
-      "elo_after": 1466.5895,
-      "opp_elo": 1497.2643
+      "elo_before": 1481.8578,
+      "elo_after": 1466.5605,
+      "opp_elo": 1497.1281
     },
     {
       "week": "26-3-07",
@@ -203,9 +203,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1466.5895,
-      "elo_after": 1452.393,
-      "opp_elo": 1505.9198
+      "elo_before": 1466.5605,
+      "elo_after": 1452.3633,
+      "opp_elo": 1505.8741
     },
     {
       "week": "26-3-07",
@@ -213,9 +213,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1452.393,
-      "elo_after": 1438.6737,
-      "opp_elo": 1502.2568
+      "elo_before": 1452.3633,
+      "elo_after": 1438.6452,
+      "opp_elo": 1502.254
     },
     {
       "week": "26-3-07",
@@ -223,9 +223,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1438.6737,
-      "elo_after": 1457.4689,
-      "opp_elo": 1500.0
+      "elo_before": 1438.6452,
+      "elo_after": 1455.2112,
+      "opp_elo": 1450.942
     },
     {
       "week": "26-3-07",
@@ -233,9 +233,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.4689,
-      "elo_after": 1439.9739,
-      "opp_elo": 1424.9099
+      "elo_before": 1455.2112,
+      "elo_after": 1437.8175,
+      "opp_elo": 1424.8695
     },
     {
       "week": "26-3-07",
@@ -243,8 +243,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1439.9739,
-      "elo_after": 1458.711,
+      "elo_before": 1437.8175,
+      "elo_after": 1456.6509,
       "opp_elo": 1500.0
     }
   ]

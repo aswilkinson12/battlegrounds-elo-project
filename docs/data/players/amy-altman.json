@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1565.19,
+  "elo": 1565.17,
   "games": 16,
   "wins": 10,
   "losses": 5,
@@ -64,8 +64,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1512.5222,
-      "elo_after": 1528.6807,
-      "opp_elo": 1515.9661
+      "elo_after": 1528.6824,
+      "opp_elo": 1516.0015
     },
     {
       "week": "26-2-13",
@@ -73,8 +73,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1528.6807,
-      "elo_after": 1543.3629,
+      "elo_before": 1528.6824,
+      "elo_after": 1543.3645,
       "opp_elo": 1500.0
     },
     {
@@ -83,9 +83,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1543.3629,
-      "elo_after": 1527.408,
-      "opp_elo": 1544.3417
+      "elo_before": 1543.3645,
+      "elo_after": 1527.4096,
+      "opp_elo": 1544.3431
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1527.408,
-      "elo_after": 1510.1484,
+      "elo_before": 1527.4096,
+      "elo_after": 1510.1499,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1510.1484,
-      "elo_after": 1526.0607,
+      "elo_before": 1510.1499,
+      "elo_after": 1526.0621,
       "opp_elo": 1508.2424
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.0607,
-      "elo_after": 1541.8176,
+      "elo_before": 1526.0621,
+      "elo_after": 1541.8189,
       "opp_elo": 1520.7813
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.8176,
-      "elo_after": 1525.5235,
-      "opp_elo": 1535.4309
+      "elo_before": 1541.8189,
+      "elo_after": 1525.5249,
+      "opp_elo": 1535.4333
     },
     {
       "week": "26-2-20",
@@ -133,9 +133,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1525.5235,
-      "elo_after": 1537.2568,
-      "opp_elo": 1430.579
+      "elo_before": 1525.5249,
+      "elo_after": 1537.2342,
+      "opp_elo": 1430.0187
     },
     {
       "week": "26-2-20",
@@ -143,8 +143,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1537.2568,
-      "elo_after": 1551.5476,
+      "elo_before": 1537.2342,
+      "elo_after": 1551.526,
       "opp_elo": 1500.0
     },
     {
@@ -153,8 +153,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5476,
-      "elo_after": 1565.191,
+      "elo_before": 1551.526,
+      "elo_after": 1565.1704,
       "opp_elo": 1500.0
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Becca Blackwood",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1565.191,
-      "elo_after": 1565.191,
-      "opp_elo": 1528.5533
+      "elo_before": 1565.1704,
+      "elo_after": 1565.1704,
+      "opp_elo": 1528.5532
     }
   ]
 }

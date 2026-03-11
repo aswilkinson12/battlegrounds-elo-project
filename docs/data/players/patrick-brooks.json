@@ -1,0 +1,61 @@
+{
+  "player": "Patrick Brooks",
+  "slug": "patrick-brooks",
+  "elo": 1475.84,
+  "games": 5,
+  "wins": 2,
+  "losses": 3,
+  "draws": 0,
+  "matches": [
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Ian Marcellana",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1484.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.0,
+      "elo_after": 1497.0542,
+      "opp_elo": 1419.2944
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "cory wright",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.0542,
+      "elo_after": 1513.1898,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.1898,
+      "elo_after": 1496.5827,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1496.5827,
+      "elo_after": 1475.845,
+      "opp_elo": 1390.5282
+    }
+  ]
+}

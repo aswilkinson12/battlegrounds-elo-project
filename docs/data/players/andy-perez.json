@@ -1,7 +1,7 @@
 {
   "player": "Andy Perez",
   "slug": "andy-perez",
-  "elo": 1518.15,
+  "elo": 1518.07,
   "games": 5,
   "wins": 3,
   "losses": 2,
@@ -14,8 +14,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1510.3419,
-      "opp_elo": 1371.5914
+      "elo_after": 1510.3233,
+      "opp_elo": 1371.1292
     },
     {
       "week": "26-3-07",
@@ -23,8 +23,8 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1510.3419,
-      "elo_after": 1497.1564,
+      "elo_before": 1510.3233,
+      "elo_after": 1497.1386,
       "opp_elo": 1572.1006
     },
     {
@@ -33,9 +33,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1497.1564,
-      "elo_after": 1518.4496,
-      "opp_elo": 1616.5886
+      "elo_before": 1497.1386,
+      "elo_after": 1518.3633,
+      "opp_elo": 1614.9039
     },
     {
       "week": "26-3-07",
@@ -43,8 +43,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.4496,
-      "elo_after": 1533.6007,
+      "elo_before": 1518.3633,
+      "elo_after": 1533.5184,
       "opp_elo": 1500.0
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1533.6007,
-      "elo_after": 1518.1529,
-      "opp_elo": 1545.5955
+      "elo_before": 1533.5184,
+      "elo_after": 1518.0712,
+      "opp_elo": 1545.5255
     }
   ]
 }

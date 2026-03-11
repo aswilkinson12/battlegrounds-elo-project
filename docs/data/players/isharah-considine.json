@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1563.75,
+  "elo": 1563.69,
   "games": 16,
   "wins": 10,
   "losses": 6,
@@ -54,8 +54,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0016,
-      "elo_after": 1516.0015,
-      "opp_elo": 1500.0
+      "elo_after": 1516.0338,
+      "opp_elo": 1500.7024
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -63,8 +63,8 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0015,
-      "elo_after": 1499.9381,
+      "elo_before": 1516.0338,
+      "elo_after": 1499.969,
       "opp_elo": 1514.6259
     },
     {
@@ -73,8 +73,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.9381,
-      "elo_after": 1485.3058,
+      "elo_before": 1499.969,
+      "elo_after": 1485.3353,
       "opp_elo": 1529.7094
     },
     {
@@ -83,9 +83,9 @@
       "opponent": "Ryan MacDonald",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1485.3058,
-      "elo_after": 1503.9353,
-      "opp_elo": 1542.928
+      "elo_before": 1485.3353,
+      "elo_after": 1503.9934,
+      "opp_elo": 1543.5969
     },
     {
       "week": "26-2-13",
@@ -93,8 +93,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.9353,
-      "elo_after": 1519.7541,
+      "elo_before": 1503.9934,
+      "elo_after": 1519.8095,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.7541,
-      "elo_after": 1503.0119,
+      "elo_before": 1519.8095,
+      "elo_after": 1503.0648,
       "opp_elo": 1503.6256
     },
     {
@@ -113,8 +113,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.0119,
-      "elo_after": 1518.8818,
+      "elo_before": 1503.0648,
+      "elo_after": 1518.9322,
       "opp_elo": 1500.1866
     },
     {
@@ -123,9 +123,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.8818,
-      "elo_after": 1531.2127,
-      "opp_elo": 1437.7649
+      "elo_before": 1518.9322,
+      "elo_after": 1531.2599,
+      "opp_elo": 1437.7416
     },
     {
       "week": "26-2-27",
@@ -133,9 +133,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1531.2127,
-      "elo_after": 1544.5448,
-      "opp_elo": 1472.7358
+      "elo_before": 1531.2599,
+      "elo_after": 1544.4744,
+      "opp_elo": 1470.1526
     },
     {
       "week": "26-2-27",
@@ -143,8 +143,8 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1544.5448,
-      "elo_after": 1559.9041,
+      "elo_before": 1544.4744,
+      "elo_after": 1559.8369,
       "opp_elo": 1530.6231
     },
     {
@@ -153,9 +153,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.9041,
-      "elo_after": 1577.1281,
-      "opp_elo": 1586.5363
+      "elo_before": 1559.8369,
+      "elo_after": 1577.0632,
+      "opp_elo": 1586.5173
     },
     {
       "week": "26-2-27",
@@ -163,9 +163,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1577.1281,
-      "elo_after": 1563.7535,
-      "opp_elo": 1634.6577
+      "elo_before": 1577.0632,
+      "elo_after": 1563.6914,
+      "opp_elo": 1634.6562
     }
   ]
 }

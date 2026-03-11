@@ -74,8 +74,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1502.7388,
-      "elo_after": 1524.122,
-      "opp_elo": 1624.3723
+      "elo_after": 1524.121,
+      "opp_elo": 1624.3471
     },
     {
       "week": "26-2-20",
@@ -83,9 +83,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1524.122,
-      "elo_after": 1539.4115,
-      "opp_elo": 1508.6833
+      "elo_before": 1524.121,
+      "elo_after": 1539.4105,
+      "opp_elo": 1508.6834
     },
     {
       "week": "26-2-20",
@@ -93,8 +93,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.4115,
-      "elo_after": 1521.6043,
+      "elo_before": 1539.4105,
+      "elo_after": 1521.6034,
       "opp_elo": 1500.0
     },
     {
@@ -103,9 +103,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1521.6043,
-      "elo_after": 1506.978,
-      "opp_elo": 1551.5071
+      "elo_before": 1521.6034,
+      "elo_after": 1506.9772,
+      "opp_elo": 1551.5093
     },
     {
       "week": "26-2-20",
@@ -113,8 +113,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1506.978,
-      "elo_after": 1490.6567,
+      "elo_before": 1506.9772,
+      "elo_after": 1490.6559,
       "opp_elo": 1500.0
     }
   ]

@@ -1,7 +1,7 @@
 {
   "player": "Joseph Chung",
   "slug": "joseph-chung",
-  "elo": 1418.13,
+  "elo": 1416.06,
   "games": 14,
   "wins": 4,
   "losses": 10,
@@ -74,8 +74,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1437.5924,
-      "elo_after": 1424.4358,
-      "opp_elo": 1500.0
+      "elo_after": 1421.6932,
+      "opp_elo": 1439.7823
     },
     {
       "week": "26-2-27",
@@ -83,8 +83,8 @@
       "opponent": "Josh Kibbe",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1424.4358,
-      "elo_after": 1411.8618,
+      "elo_before": 1421.6932,
+      "elo_after": 1409.2395,
       "opp_elo": 1500.0
     },
     {
@@ -93,8 +93,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1411.8618,
-      "elo_after": 1431.8359,
+      "elo_before": 1409.2395,
+      "elo_after": 1429.3267,
       "opp_elo": 1500.0
     },
     {
@@ -103,8 +103,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1431.8359,
-      "elo_after": 1450.9353,
+      "elo_before": 1429.3267,
+      "elo_after": 1448.5371,
       "opp_elo": 1500.0
     },
     {
@@ -113,9 +113,9 @@
       "opponent": "Phil Iwanow",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1450.9353,
-      "elo_after": 1432.2496,
-      "opp_elo": 1392.0596
+      "elo_before": 1448.5371,
+      "elo_after": 1429.9589,
+      "opp_elo": 1392.0588
     },
     {
       "week": "26-3-07",
@@ -123,8 +123,8 @@
       "opponent": "Robert Legree",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.2496,
-      "elo_after": 1419.3307,
+      "elo_before": 1429.9589,
+      "elo_after": 1417.1414,
       "opp_elo": 1500.0
     },
     {
@@ -133,9 +133,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1419.3307,
-      "elo_after": 1437.0374,
-      "opp_elo": 1456.5336
+      "elo_before": 1417.1414,
+      "elo_after": 1434.9467,
+      "opp_elo": 1456.5116
     },
     {
       "week": "26-3-07",
@@ -143,9 +143,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1437.0374,
-      "elo_after": 1418.1279,
-      "opp_elo": 1373.1484
+      "elo_before": 1434.9467,
+      "elo_after": 1416.0634,
+      "opp_elo": 1371.6449
     }
   ]
 }
