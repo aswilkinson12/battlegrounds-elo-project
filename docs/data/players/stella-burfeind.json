@@ -2,10 +2,6 @@
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
   "elo": 1516.73,
-  "games": 20,
-  "wins": 11,
-  "losses": 9,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -207,5 +203,8 @@
       "elo_after": 1516.7273,
       "opp_elo": 1582.6157
     }
-  ]
+  ],
+  "wins": 11,
+  "losses": 9,
+  "draws": 0
 }

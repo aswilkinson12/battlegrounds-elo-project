@@ -2,10 +2,6 @@
   "player": "Jack Henry",
   "slug": "jack-henry",
   "elo": 1449.74,
-  "games": 16,
-  "wins": 6,
-  "losses": 10,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -167,5 +163,8 @@
       "elo_after": 1449.7423,
       "opp_elo": 1573.0245
     }
-  ]
+  ],
+  "wins": 6,
+  "losses": 10,
+  "draws": 0
 }

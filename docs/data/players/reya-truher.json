@@ -2,10 +2,6 @@
   "player": "Reya Truher",
   "slug": "reya-truher",
   "elo": 1484.13,
-  "games": 21,
-  "wins": 10,
-  "losses": 11,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -217,5 +213,8 @@
       "elo_after": 1484.1311,
       "opp_elo": 1442.2633
     }
-  ]
+  ],
+  "wins": 10,
+  "losses": 11,
+  "draws": 0
 }

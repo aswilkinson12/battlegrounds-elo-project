@@ -2,10 +2,6 @@
   "player": "Andy Perez",
   "slug": "andy-perez",
   "elo": 1518.07,
-  "games": 5,
-  "wins": 3,
-  "losses": 2,
-  "draws": 0,
   "matches": [
     {
       "week": "26-3-07",
@@ -57,5 +53,8 @@
       "elo_after": 1518.0712,
       "opp_elo": 1545.5255
     }
-  ]
+  ],
+  "wins": 3,
+  "losses": 2,
+  "draws": 0
 }

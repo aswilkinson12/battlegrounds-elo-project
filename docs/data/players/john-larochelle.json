@@ -2,10 +2,6 @@
   "player": "John Larochelle",
   "slug": "john-larochelle",
   "elo": 1512.43,
-  "games": 15,
-  "wins": 7,
-  "losses": 6,
-  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -157,5 +153,8 @@
       "elo_after": 1512.4254,
       "opp_elo": 1481.8578
     }
-  ]
+  ],
+  "wins": 7,
+  "losses": 6,
+  "draws": 2
 }

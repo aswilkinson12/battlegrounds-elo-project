@@ -2,10 +2,6 @@
   "player": "Mike Adams",
   "slug": "mike-adams",
   "elo": 1551.05,
-  "games": 26,
-  "wins": 14,
-  "losses": 10,
-  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -267,5 +263,8 @@
       "elo_after": 1551.0549,
       "opp_elo": 1500.0
     }
-  ]
+  ],
+  "wins": 14,
+  "losses": 10,
+  "draws": 2
 }

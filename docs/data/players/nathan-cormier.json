@@ -2,10 +2,6 @@
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
   "elo": 1534.52,
-  "games": 21,
-  "wins": 11,
-  "losses": 9,
-  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -217,5 +213,8 @@
       "elo_after": 1534.5195,
       "opp_elo": 1500.0
     }
-  ]
+  ],
+  "wins": 11,
+  "losses": 9,
+  "draws": 1
 }

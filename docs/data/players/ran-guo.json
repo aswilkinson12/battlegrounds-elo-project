@@ -2,10 +2,6 @@
   "player": "Ran Guo",
   "slug": "ran-guo",
   "elo": 1533.34,
-  "games": 6,
-  "wins": 4,
-  "losses": 2,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -67,5 +63,8 @@
       "elo_after": 1533.3406,
       "opp_elo": 1518.0415
     }
-  ]
+  ],
+  "wins": 4,
+  "losses": 2,
+  "draws": 0
 }

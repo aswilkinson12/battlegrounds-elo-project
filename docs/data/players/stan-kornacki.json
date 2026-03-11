@@ -2,10 +2,6 @@
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
   "elo": 1587.14,
-  "games": 26,
-  "wins": 17,
-  "losses": 6,
-  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -267,5 +263,8 @@
       "elo_after": 1587.1373,
       "opp_elo": 1554.5232
     }
-  ]
+  ],
+  "wins": 17,
+  "losses": 6,
+  "draws": 3
 }

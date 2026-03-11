@@ -2,10 +2,6 @@
   "player": "Amy Altman",
   "slug": "amy-altman",
   "elo": 1565.17,
-  "games": 16,
-  "wins": 10,
-  "losses": 5,
-  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -167,5 +163,8 @@
       "elo_after": 1565.1704,
       "opp_elo": 1528.5532
     }
-  ]
+  ],
+  "wins": 10,
+  "losses": 5,
+  "draws": 1
 }

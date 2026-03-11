@@ -2,10 +2,6 @@
   "player": "Pan Rasking",
   "slug": "pan-rasking",
   "elo": 1423.25,
-  "games": 14,
-  "wins": 4,
-  "losses": 8,
-  "draws": 2,
   "matches": [
     {
       "week": "26-2-13",
@@ -147,5 +143,8 @@
       "elo_after": 1423.253,
       "opp_elo": 1376.383
     }
-  ]
+  ],
+  "wins": 4,
+  "losses": 8,
+  "draws": 2
 }

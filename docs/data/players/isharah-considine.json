@@ -2,10 +2,6 @@
   "player": "Isharah Considine",
   "slug": "isharah-considine",
   "elo": 1563.69,
-  "games": 16,
-  "wins": 10,
-  "losses": 6,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -167,5 +163,8 @@
       "elo_after": 1563.6914,
       "opp_elo": 1634.6562
     }
-  ]
+  ],
+  "wins": 10,
+  "losses": 6,
+  "draws": 0
 }

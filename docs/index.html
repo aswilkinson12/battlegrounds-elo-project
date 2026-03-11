@@ -109,7 +109,7 @@
               <th data-col="rank" class="rank"># <span class="hint">sort</span></th>
               <th data-col="player">Player <span class="hint">sort</span></th>
               <th data-col="elo" class="elo">Elo <span class="hint">sort</span></th>
-              <th data-col="games">Games <span class="hint">sort</span></th>
+              <th data-col="matches">Matches <span class="hint">sort</span></th>
               <th data-col="wins">W <span class="hint">sort</span></th>
               <th data-col="losses">L <span class="hint">sort</span></th>
               <th data-col="draws">D <span class="hint">sort</span></th>
@@ -203,10 +203,10 @@
       elo.textContent = safeNum(r.elo).toFixed(2);
       tr.appendChild(elo);
 
-      const games = document.createElement("td");
-      games.className = "num";
-      games.textContent = String(safeNum(r.games));
-      tr.appendChild(games);
+      const matches = document.createElement("td");
+      matches.className = "num";
+      matches.textContent = String(safeNum(r.matches));
+      tr.appendChild(matches);
 
       const wins = document.createElement("td");
       wins.className = "num";
@@ -240,7 +240,7 @@
         case "rank": return 0; // rank is derived; sorting by rank doesn't make much sense once filtered
         case "player": return String(r.player).toLowerCase();
         case "elo": return safeNum(r.elo);
-        case "games": return safeNum(r.games);
+        case "matches": return safeNum(r.matches);
         case "wins": return safeNum(r.wins);
         case "losses": return safeNum(r.losses);
         case "draws": return safeNum(r.draws);
@@ -303,11 +303,11 @@
       const data = await res.json();
 
       // Expect array of objects
-      // Minimal expected shape: {player, elo, games, wins, losses, draws}
+      // Minimal expected shape: {player, elo, matches, wins, losses, draws}
       allRows = (Array.isArray(data) ? data : []).map(x => ({
         player: x.player ?? x.Player ?? "",
         elo: x.elo ?? x.Elo ?? 1500,
-        games: x.games ?? x.Games ?? 0,
+        matches: x.matches ?? x.Matches ?? 0,
         wins: x.wins ?? x.Wins ?? 0,
         losses: x.losses ?? x.Losses ?? 0,
         draws: x.draws ?? x.Draws ?? x.ties ?? x.Ties ?? 0,

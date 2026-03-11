@@ -2,10 +2,6 @@
   "player": "Hex Dowd",
   "slug": "hex-dowd",
   "elo": 1461.03,
-  "games": 25,
-  "wins": 10,
-  "losses": 15,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -257,5 +253,8 @@
       "elo_after": 1461.0275,
       "opp_elo": 1502.8953
     }
-  ]
+  ],
+  "wins": 10,
+  "losses": 15,
+  "draws": 0
 }

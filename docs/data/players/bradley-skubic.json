@@ -2,10 +2,6 @@
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
   "elo": 1582.14,
-  "games": 11,
-  "wins": 7,
-  "losses": 1,
-  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -117,5 +113,8 @@
       "elo_after": 1582.1417,
       "opp_elo": 1500.0
     }
-  ]
+  ],
+  "wins": 7,
+  "losses": 1,
+  "draws": 3
 }

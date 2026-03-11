@@ -2,10 +2,6 @@
   "player": "Dani Masom",
   "slug": "dani-masom",
   "elo": 1456.65,
-  "games": 24,
-  "wins": 10,
-  "losses": 14,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -247,5 +243,8 @@
       "elo_after": 1456.6509,
       "opp_elo": 1500.0
     }
-  ]
+  ],
+  "wins": 10,
+  "losses": 14,
+  "draws": 0
 }

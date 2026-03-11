@@ -2,10 +2,6 @@
   "player": "Elias Medrano",
   "slug": "elias-medrano",
   "elo": 1470.63,
-  "games": 6,
-  "wins": 2,
-  "losses": 4,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -67,5 +63,8 @@
       "elo_after": 1470.6264,
       "opp_elo": 1485.5312
     }
-  ]
+  ],
+  "wins": 2,
+  "losses": 4,
+  "draws": 0
 }

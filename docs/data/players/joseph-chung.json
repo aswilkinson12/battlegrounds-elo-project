@@ -2,10 +2,6 @@
   "player": "Joseph Chung",
   "slug": "joseph-chung",
   "elo": 1416.06,
-  "games": 14,
-  "wins": 4,
-  "losses": 10,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -147,5 +143,8 @@
       "elo_after": 1416.0634,
       "opp_elo": 1371.6449
     }
-  ]
+  ],
+  "wins": 4,
+  "losses": 10,
+  "draws": 0
 }

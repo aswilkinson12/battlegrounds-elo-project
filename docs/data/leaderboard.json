@@ -2,7 +2,7 @@
   {
     "player": "Anthony Wilkinson",
     "elo": 1691.74,
-    "games": 26,
+    "matches": 26,
     "wins": 20,
     "losses": 4,
     "draws": 2
@@ -10,7 +10,7 @@
   {
     "player": "David Van Hise",
     "elo": 1648.03,
-    "games": 20,
+    "matches": 20,
     "wins": 15,
     "losses": 5,
     "draws": 0
@@ -18,7 +18,7 @@
   {
     "player": "Stan Kornacki",
     "elo": 1587.14,
-    "games": 26,
+    "matches": 26,
     "wins": 17,
     "losses": 6,
     "draws": 3
@@ -26,7 +26,7 @@
   {
     "player": "Bradley Skubic",
     "elo": 1582.14,
-    "games": 11,
+    "matches": 11,
     "wins": 7,
     "losses": 1,
     "draws": 3
@@ -34,7 +34,7 @@
   {
     "player": "Milo Brown",
     "elo": 1576.64,
-    "games": 16,
+    "matches": 16,
     "wins": 10,
     "losses": 3,
     "draws": 3
@@ -42,7 +42,7 @@
   {
     "player": "Mike Laing",
     "elo": 1572.85,
-    "games": 15,
+    "matches": 15,
     "wins": 10,
     "losses": 5,
     "draws": 0
@@ -50,7 +50,7 @@
   {
     "player": "Amy Altman",
     "elo": 1565.17,
-    "games": 16,
+    "matches": 16,
     "wins": 10,
     "losses": 5,
     "draws": 1
@@ -58,7 +58,7 @@
   {
     "player": "Isharah Considine",
     "elo": 1563.69,
-    "games": 16,
+    "matches": 16,
     "wins": 10,
     "losses": 6,
     "draws": 0
@@ -66,7 +66,7 @@
   {
     "player": "Nathan Choi",
     "elo": 1562.74,
-    "games": 21,
+    "matches": 21,
     "wins": 13,
     "losses": 6,
     "draws": 2
@@ -74,7 +74,7 @@
   {
     "player": "Logan Hesch",
     "elo": 1560.97,
-    "games": 16,
+    "matches": 16,
     "wins": 10,
     "losses": 6,
     "draws": 0
@@ -82,7 +82,7 @@
   {
     "player": "Mike Adams",
     "elo": 1551.05,
-    "games": 26,
+    "matches": 26,
     "wins": 14,
     "losses": 10,
     "draws": 2
@@ -90,7 +90,7 @@
   {
     "player": "Bailey Sarkis",
     "elo": 1550.41,
-    "games": 5,
+    "matches": 5,
     "wins": 4,
     "losses": 1,
     "draws": 0
@@ -98,7 +98,7 @@
   {
     "player": "Nathan Cormier",
     "elo": 1534.52,
-    "games": 21,
+    "matches": 21,
     "wins": 11,
     "losses": 9,
     "draws": 1
@@ -106,7 +106,7 @@
   {
     "player": "Ran Guo",
     "elo": 1533.34,
-    "games": 6,
+    "matches": 6,
     "wins": 4,
     "losses": 2,
     "draws": 0
@@ -114,7 +114,7 @@
   {
     "player": "Becca Blackwood",
     "elo": 1528.55,
-    "games": 15,
+    "matches": 15,
     "wins": 8,
     "losses": 6,
     "draws": 1
@@ -122,7 +122,7 @@
   {
     "player": "Andy Perez",
     "elo": 1518.07,
-    "games": 5,
+    "matches": 5,
     "wins": 3,
     "losses": 2,
     "draws": 0
@@ -130,7 +130,7 @@
   {
     "player": "Stella Burfeind",
     "elo": 1516.73,
-    "games": 20,
+    "matches": 20,
     "wins": 11,
     "losses": 9,
     "draws": 0
@@ -138,7 +138,7 @@
   {
     "player": "John Larochelle",
     "elo": 1512.43,
-    "games": 15,
+    "matches": 15,
     "wins": 7,
     "losses": 6,
     "draws": 2
@@ -146,7 +146,7 @@
   {
     "player": "Ryan MacDonald",
     "elo": 1507.79,
-    "games": 9,
+    "matches": 9,
     "wins": 5,
     "losses": 4,
     "draws": 0
@@ -154,7 +154,7 @@
   {
     "player": "Timofey Tylik",
     "elo": 1507.78,
-    "games": 9,
+    "matches": 9,
     "wins": 4,
     "losses": 4,
     "draws": 1
@@ -162,7 +162,7 @@
   {
     "player": "Sam Feeley",
     "elo": 1500.0,
-    "games": 0,
+    "matches": 0,
     "wins": 0,
     "losses": 0,
     "draws": 0
@@ -170,7 +170,7 @@
   {
     "player": "Raul Bottrell-Rogers",
     "elo": 1499.26,
-    "games": 6,
+    "matches": 6,
     "wins": 3,
     "losses": 3,
     "draws": 0
@@ -178,7 +178,7 @@
   {
     "player": "Veronica Kirtley",
     "elo": 1497.3,
-    "games": 11,
+    "matches": 11,
     "wins": 5,
     "losses": 5,
     "draws": 1
@@ -186,7 +186,7 @@
   {
     "player": "Gina Millott",
     "elo": 1490.66,
-    "games": 11,
+    "matches": 11,
     "wins": 5,
     "losses": 6,
     "draws": 0
@@ -194,7 +194,7 @@
   {
     "player": "Reya Truher",
     "elo": 1484.13,
-    "games": 21,
+    "matches": 21,
     "wins": 10,
     "losses": 11,
     "draws": 0
@@ -202,7 +202,7 @@
   {
     "player": "Patrick Brooks",
     "elo": 1475.84,
-    "games": 5,
+    "matches": 5,
     "wins": 2,
     "losses": 3,
     "draws": 0
@@ -210,7 +210,7 @@
   {
     "player": "Elias Medrano",
     "elo": 1470.63,
-    "games": 6,
+    "matches": 6,
     "wins": 2,
     "losses": 4,
     "draws": 0
@@ -218,7 +218,7 @@
   {
     "player": "Amber Cronin",
     "elo": 1470.62,
-    "games": 10,
+    "matches": 10,
     "wins": 3,
     "losses": 6,
     "draws": 1
@@ -226,7 +226,7 @@
   {
     "player": "Hex Dowd",
     "elo": 1461.03,
-    "games": 25,
+    "matches": 25,
     "wins": 10,
     "losses": 15,
     "draws": 0
@@ -234,7 +234,7 @@
   {
     "player": "Dani Masom",
     "elo": 1456.65,
-    "games": 24,
+    "matches": 24,
     "wins": 10,
     "losses": 14,
     "draws": 0
@@ -242,7 +242,7 @@
   {
     "player": "Jack Henry",
     "elo": 1449.74,
-    "games": 16,
+    "matches": 16,
     "wins": 6,
     "losses": 10,
     "draws": 0
@@ -250,7 +250,7 @@
   {
     "player": "Daniel Hernandez",
     "elo": 1434.72,
-    "games": 19,
+    "matches": 19,
     "wins": 7,
     "losses": 12,
     "draws": 0
@@ -258,7 +258,7 @@
   {
     "player": "Pan Rasking",
     "elo": 1423.25,
-    "games": 14,
+    "matches": 14,
     "wins": 4,
     "losses": 8,
     "draws": 2
@@ -266,7 +266,7 @@
   {
     "player": "Joseph Chung",
     "elo": 1416.06,
-    "games": 14,
+    "matches": 14,
     "wins": 4,
     "losses": 10,
     "draws": 0
@@ -274,7 +274,7 @@
   {
     "player": "Jarrod Haase",
     "elo": 1411.27,
-    "games": 23,
+    "matches": 23,
     "wins": 6,
     "losses": 16,
     "draws": 1
@@ -282,7 +282,7 @@
   {
     "player": "Phil Iwanow",
     "elo": 1411.12,
-    "games": 18,
+    "matches": 18,
     "wins": 4,
     "losses": 12,
     "draws": 2
@@ -290,7 +290,7 @@
   {
     "player": "Evan Johnstone",
     "elo": 1378.63,
-    "games": 26,
+    "matches": 26,
     "wins": 8,
     "losses": 17,
     "draws": 1

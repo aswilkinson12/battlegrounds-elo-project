@@ -2,10 +2,6 @@
   "player": "Ryan MacDonald",
   "slug": "ryan-macdonald",
   "elo": 1507.79,
-  "games": 9,
-  "wins": 5,
-  "losses": 4,
-  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -97,5 +93,8 @@
       "elo_after": 1507.7922,
       "opp_elo": 1500.0
     }
-  ]
+  ],
+  "wins": 5,
+  "losses": 4,
+  "draws": 0
 }
