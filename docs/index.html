@@ -226,12 +226,12 @@
 
       const winrate = document.createElement("td");
       winrate.className = "num";
-      const g = safeNum(r.games);
+      const g = safeNum(r.matches);
       const w = safeNum(r.wins);
       const d = safeNum(r.draws);
       const wr = g > 0 ? (w + 0.5 * d) / g : 0;
       winrate.textContent = (wr * 100).toFixed(1) + "%";
-      tr.appendChild(winrate);
+      tr.appendChild(winrate)
 
       tbody.appendChild(tr);
     });
@@ -255,7 +255,7 @@
         case "losses": return safeNum(r.losses);
         case "draws": return safeNum(r.draws);
         case "winrate": {
-          const g = safeNum(r.games);
+          const g = safeNum(r.matches);
           const w = safeNum(r.wins);
           const d = safeNum(r.draws);
           return g > 0 ? (w + 0.5 * d) / g : -1;
