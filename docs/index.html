@@ -113,6 +113,7 @@
               <th data-col="wins">W <span class="hint">sort</span></th>
               <th data-col="losses">L <span class="hint">sort</span></th>
               <th data-col="draws">D <span class="hint">sort</span></th>
+              <th data-col="winrate" class="num">Winrate <span class="hint">sort</span></th>
             </tr>
           </thead>
           <tbody id="tbody"></tbody>
@@ -223,6 +224,15 @@
       draws.textContent = String(safeNum(r.draws));
       tr.appendChild(draws);
 
+      const winrate = document.createElement("td");
+      winrate.className = "num";
+      const g = safeNum(r.games);
+      const w = safeNum(r.wins);
+      const d = safeNum(r.draws);
+      const wr = g > 0 ? (w + 0.5 * d) / g : 0;
+      winrate.textContent = (wr * 100).toFixed(1) + "%";
+      tr.appendChild(winrate);
+
       tbody.appendChild(tr);
     });
 
@@ -244,6 +254,12 @@
         case "wins": return safeNum(r.wins);
         case "losses": return safeNum(r.losses);
         case "draws": return safeNum(r.draws);
+        case "winrate": {
+          const g = safeNum(r.games);
+          const w = safeNum(r.wins);
+          const d = safeNum(r.draws);
+          return g > 0 ? (w + 0.5 * d) / g : -1;
+        }
         default: return safeNum(r.elo);
       }
     };
