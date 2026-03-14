@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1400.78,
+  "elo": 1400.84,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -130,8 +130,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1473.7102,
-      "elo_after": 1463.209,
-      "opp_elo": 1598.1789
+      "elo_after": 1463.2467,
+      "opp_elo": 1599.1103
     },
     {
       "week": "26-2-27",
@@ -139,9 +139,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1463.209,
-      "elo_after": 1481.8487,
-      "opp_elo": 1521.0593
+      "elo_before": 1463.2467,
+      "elo_after": 1481.8889,
+      "opp_elo": 1521.1517
     },
     {
       "week": "26-3-07",
@@ -149,9 +149,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1481.8487,
-      "elo_after": 1471.8888,
-      "opp_elo": 1619.8323
+      "elo_before": 1481.8889,
+      "elo_after": 1471.9613,
+      "opp_elo": 1620.6886
     },
     {
       "week": "26-3-07",
@@ -159,9 +159,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1471.8888,
-      "elo_after": 1450.9399,
-      "opp_elo": 1360.7873
+      "elo_before": 1471.9613,
+      "elo_after": 1451.0108,
+      "opp_elo": 1360.8229
     },
     {
       "week": "26-3-07",
@@ -169,9 +169,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1450.9399,
-      "elo_after": 1434.3739,
-      "opp_elo": 1438.6434
+      "elo_before": 1451.0108,
+      "elo_after": 1434.4445,
+      "opp_elo": 1438.7068
     },
     {
       "week": "26-3-07",
@@ -179,9 +179,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1434.3739,
-      "elo_after": 1448.3579,
-      "opp_elo": 1390.3637
+      "elo_before": 1434.4445,
+      "elo_after": 1448.4272,
+      "opp_elo": 1390.4063
     },
     {
       "week": "26-3-07",
@@ -189,8 +189,8 @@
       "opponent": "Philip Watson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1448.3579,
-      "elo_after": 1434.7188,
+      "elo_before": 1448.4272,
+      "elo_after": 1434.7849,
       "opp_elo": 1500.0
     },
     {
@@ -199,9 +199,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1434.7188,
-      "elo_after": 1424.459,
-      "opp_elo": 1565.1693
+      "elo_before": 1434.7849,
+      "elo_after": 1424.5251,
+      "opp_elo": 1565.2328
     },
     {
       "week": "26-3-13",
@@ -209,9 +209,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1424.459,
-      "elo_after": 1411.3387,
-      "opp_elo": 1487.6801
+      "elo_before": 1424.5251,
+      "elo_after": 1411.4018,
+      "opp_elo": 1487.6802
     },
     {
       "week": "26-3-13",
@@ -219,9 +219,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1411.3387,
-      "elo_after": 1400.7801,
-      "opp_elo": 1534.3971
+      "elo_before": 1411.4018,
+      "elo_after": 1400.844,
+      "opp_elo": 1534.4792
     }
   ],
   "wins": 7,

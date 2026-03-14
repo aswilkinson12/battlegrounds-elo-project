@@ -70,8 +70,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1499.9647,
-      "elo_after": 1487.6801,
-      "opp_elo": 1582.141
+      "elo_after": 1487.6802,
+      "opp_elo": 1582.1435
     },
     {
       "week": "26-3-13",
@@ -79,9 +79,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1487.6801,
-      "elo_after": 1500.8004,
-      "opp_elo": 1424.459
+      "elo_before": 1487.6802,
+      "elo_after": 1500.8034,
+      "opp_elo": 1424.5251
     },
     {
       "week": "26-3-13",
@@ -89,9 +89,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.8004,
-      "elo_after": 1519.6972,
-      "opp_elo": 1564.4056
+      "elo_before": 1500.8034,
+      "elo_after": 1519.7008,
+      "opp_elo": 1564.4221
     },
     {
       "week": "26-3-13",
@@ -99,9 +99,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.6972,
-      "elo_after": 1504.6818,
-      "opp_elo": 1541.1053
+      "elo_before": 1519.7008,
+      "elo_after": 1504.6867,
+      "opp_elo": 1541.1362
     },
     {
       "week": "26-3-13",
@@ -109,8 +109,8 @@
       "opponent": "James Farley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.6818,
-      "elo_after": 1520.4662,
+      "elo_before": 1504.6867,
+      "elo_after": 1520.4709,
       "opp_elo": 1500.0
     }
   ],

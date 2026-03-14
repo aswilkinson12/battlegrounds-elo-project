@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1588.42,
+  "elo": 1591.6,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -100,8 +100,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1510.1499,
-      "elo_after": 1526.0621,
-      "opp_elo": 1508.2424
+      "elo_after": 1526.0636,
+      "opp_elo": 1508.2761
     },
     {
       "week": "26-2-13",
@@ -109,8 +109,8 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.0621,
-      "elo_after": 1541.8189,
+      "elo_before": 1526.0636,
+      "elo_after": 1541.8203,
       "opp_elo": 1520.7801
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.8189,
-      "elo_after": 1525.5248,
-      "opp_elo": 1535.4322
+      "elo_before": 1541.8203,
+      "elo_after": 1525.5975,
+      "opp_elo": 1536.9807
     },
     {
       "week": "26-2-20",
@@ -129,8 +129,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1525.5248,
-      "elo_after": 1537.233,
+      "elo_before": 1525.5975,
+      "elo_after": 1537.3026,
       "opp_elo": 1429.993
     },
     {
@@ -139,8 +139,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1537.233,
-      "elo_after": 1551.5249,
+      "elo_before": 1537.3026,
+      "elo_after": 1551.5913,
       "opp_elo": 1500.0
     },
     {
@@ -149,8 +149,8 @@
       "opponent": "Jason Weiss",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.5249,
-      "elo_after": 1565.1693,
+      "elo_before": 1551.5913,
+      "elo_after": 1565.2328,
       "opp_elo": 1500.0
     },
     {
@@ -159,9 +159,9 @@
       "opponent": "Becca Blackwood",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1565.1693,
-      "elo_after": 1565.1693,
-      "opp_elo": 1528.5531
+      "elo_before": 1565.2328,
+      "elo_after": 1565.2328,
+      "opp_elo": 1528.582
     },
     {
       "week": "26-3-13",
@@ -169,9 +169,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1565.1693,
-      "elo_after": 1575.4291,
-      "opp_elo": 1434.7188
+      "elo_before": 1565.2328,
+      "elo_after": 1575.4926,
+      "opp_elo": 1434.7849
     },
     {
       "week": "26-3-13",
@@ -179,9 +179,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1575.4291,
-      "elo_after": 1597.0127,
-      "opp_elo": 1701.9908
+      "elo_before": 1575.4926,
+      "elo_after": 1597.0792,
+      "opp_elo": 1702.1274
     },
     {
       "week": "26-3-13",
@@ -189,9 +189,9 @@
       "opponent": "Sam Feeley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1597.0127,
-      "elo_after": 1608.5691,
-      "opp_elo": 1497.9197
+      "elo_before": 1597.0792,
+      "elo_after": 1608.6329,
+      "opp_elo": 1497.9235
     },
     {
       "week": "26-3-13",
@@ -199,9 +199,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1608.5691,
-      "elo_after": 1587.7259,
-      "opp_elo": 1500.0
+      "elo_before": 1608.6329,
+      "elo_after": 1591.055,
+      "opp_elo": 1574.2579
     },
     {
       "week": "26-3-13",
@@ -209,9 +209,9 @@
       "opponent": "Bradley Skubic",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1587.7259,
-      "elo_after": 1588.422,
-      "opp_elo": 1602.8509
+      "elo_before": 1591.055,
+      "elo_after": 1591.5985,
+      "opp_elo": 1602.8613
     }
   ],
   "wins": 13,

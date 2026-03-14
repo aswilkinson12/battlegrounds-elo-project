@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1484.13,
+  "elo": 1484.62,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -80,8 +80,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.5508,
-      "elo_after": 1499.7891,
-      "opp_elo": 1500.0
+      "elo_after": 1500.5254,
+      "opp_elo": 1516.0
     },
     {
       "week": "26-2-13",
@@ -89,8 +89,8 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.7891,
-      "elo_after": 1516.9674,
+      "elo_before": 1500.5254,
+      "elo_after": 1517.6699,
       "opp_elo": 1525.4206
     },
     {
@@ -99,8 +99,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.9674,
-      "elo_after": 1500.1866,
+      "elo_before": 1517.6699,
+      "elo_after": 1500.8569,
       "opp_elo": 1500.0
     },
     {
@@ -109,8 +109,8 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.1866,
-      "elo_after": 1484.3192,
+      "elo_before": 1500.8569,
+      "elo_after": 1484.9586,
       "opp_elo": 1503.0647
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.3192,
-      "elo_after": 1501.0408,
+      "elo_before": 1484.9586,
+      "elo_after": 1501.6508,
       "opp_elo": 1500.0
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.0408,
-      "elo_after": 1515.0715,
-      "opp_elo": 1458.0603
+      "elo_before": 1501.6508,
+      "elo_after": 1515.6556,
+      "opp_elo": 1458.0979
     },
     {
       "week": "26-2-27",
@@ -139,9 +139,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.0715,
-      "elo_after": 1534.9755,
-      "opp_elo": 1601.59
+      "elo_before": 1515.6556,
+      "elo_after": 1535.5343,
+      "opp_elo": 1601.5914
     },
     {
       "week": "26-2-27",
@@ -149,9 +149,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1534.9755,
-      "elo_after": 1522.9276,
-      "opp_elo": 1622.6076
+      "elo_before": 1535.5343,
+      "elo_after": 1523.5384,
+      "opp_elo": 1624.3693
     },
     {
       "week": "26-2-27",
@@ -159,8 +159,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1522.9276,
-      "elo_after": 1505.8733,
+      "elo_before": 1523.5384,
+      "elo_after": 1506.4561,
       "opp_elo": 1500.0
     },
     {
@@ -169,9 +169,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.8733,
-      "elo_after": 1520.0705,
-      "opp_elo": 1466.5586
+      "elo_before": 1506.4561,
+      "elo_after": 1520.6286,
+      "opp_elo": 1466.6
     },
     {
       "week": "26-3-07",
@@ -179,9 +179,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.0705,
-      "elo_after": 1503.9893,
-      "opp_elo": 1518.3081
+      "elo_before": 1520.6286,
+      "elo_after": 1504.5257,
+      "opp_elo": 1518.394
     },
     {
       "week": "26-3-07",
@@ -189,8 +189,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.9893,
-      "elo_after": 1519.8056,
+      "elo_before": 1504.5257,
+      "elo_after": 1520.3173,
       "opp_elo": 1500.0
     },
     {
@@ -199,8 +199,8 @@
       "opponent": "Chris Daniel",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.8056,
-      "elo_after": 1502.8945,
+      "elo_before": 1520.3173,
+      "elo_after": 1503.3827,
       "opp_elo": 1500.0
     },
     {
@@ -209,9 +209,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.8945,
-      "elo_after": 1484.1297,
-      "opp_elo": 1442.2497
+      "elo_before": 1503.3827,
+      "elo_after": 1484.6237,
+      "opp_elo": 1442.8653
     }
   ],
   "wins": 10,

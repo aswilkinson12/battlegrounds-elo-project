@@ -1,7 +1,7 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1516.05,
+  "elo": 1516.19,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -70,8 +70,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1502.7388,
-      "elo_after": 1524.1209,
-      "opp_elo": 1624.3448
+      "elo_after": 1524.1737,
+      "opp_elo": 1625.6381
     },
     {
       "week": "26-2-20",
@@ -79,9 +79,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1524.1209,
-      "elo_after": 1539.4105,
-      "opp_elo": 1508.6834
+      "elo_before": 1524.1737,
+      "elo_after": 1539.4622,
+      "opp_elo": 1508.7141
     },
     {
       "week": "26-2-20",
@@ -89,8 +89,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.4105,
-      "elo_after": 1521.6033,
+      "elo_before": 1539.4622,
+      "elo_after": 1521.6527,
       "opp_elo": 1500.0
     },
     {
@@ -99,9 +99,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1521.6033,
-      "elo_after": 1506.9771,
-      "opp_elo": 1551.5083
+      "elo_before": 1521.6527,
+      "elo_after": 1507.0858,
+      "opp_elo": 1552.8553
     },
     {
       "week": "26-2-20",
@@ -109,8 +109,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1506.9771,
-      "elo_after": 1490.6558,
+      "elo_before": 1507.0858,
+      "elo_after": 1490.7595,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1490.6558,
-      "elo_after": 1508.3942,
-      "opp_elo": 1528.5531
+      "elo_before": 1490.7595,
+      "elo_after": 1508.4944,
+      "opp_elo": 1528.582
     },
     {
       "week": "26-3-13",
@@ -129,9 +129,9 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1508.3942,
-      "elo_after": 1530.8717,
-      "opp_elo": 1657.5949
+      "elo_before": 1508.4944,
+      "elo_after": 1531.0286,
+      "opp_elo": 1659.1663
     },
     {
       "week": "26-3-13",
@@ -139,9 +139,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1530.8717,
-      "elo_after": 1518.2042,
-      "opp_elo": 1604.3088
+      "elo_before": 1531.0286,
+      "elo_after": 1518.3552,
+      "opp_elo": 1604.335
     },
     {
       "week": "26-3-13",
@@ -149,8 +149,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.2042,
-      "elo_after": 1501.3666,
+      "elo_before": 1518.3552,
+      "elo_after": 1501.5107,
       "opp_elo": 1500.0
     },
     {
@@ -159,9 +159,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.3666,
-      "elo_after": 1516.0517,
-      "opp_elo": 1472.7505
+      "elo_before": 1501.5107,
+      "elo_after": 1516.1896,
+      "opp_elo": 1472.7566
     }
   ],
   "wins": 8,

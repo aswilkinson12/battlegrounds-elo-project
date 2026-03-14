@@ -10,8 +10,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.8803,
-      "opp_elo": 1519.1342
+      "elo_after": 1516.8806,
+      "opp_elo": 1519.1409
     },
     {
       "week": "26-3-07",
@@ -19,9 +19,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.8803,
-      "elo_after": 1501.5998,
-      "opp_elo": 1532.5145
+      "elo_before": 1516.8806,
+      "elo_after": 1501.6003,
+      "opp_elo": 1532.5188
     },
     {
       "week": "26-3-07",
@@ -29,8 +29,8 @@
       "opponent": "Philip Watson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.5998,
-      "elo_after": 1517.5261,
+      "elo_before": 1501.6003,
+      "elo_after": 1517.5266,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1517.5261,
-      "elo_after": 1536.0619,
-      "opp_elo": 1573.0589
+      "elo_before": 1517.5266,
+      "elo_after": 1536.0651,
+      "opp_elo": 1573.1194
     },
     {
       "week": "26-3-07",
@@ -49,8 +49,8 @@
       "opponent": "Chris Daniel",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1536.0619,
-      "elo_after": 1550.4071,
+      "elo_before": 1536.0651,
+      "elo_after": 1550.4102,
       "opp_elo": 1500.0
     }
   ],

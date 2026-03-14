@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1526.9,
+  "elo": 1526.97,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -100,8 +100,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1573.0866,
-      "elo_after": 1558.782,
-      "opp_elo": 1610.0402
+      "elo_after": 1558.8436,
+      "opp_elo": 1611.3952
     },
     {
       "week": "26-3-07",
@@ -109,8 +109,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.782,
-      "elo_after": 1572.1005,
+      "elo_before": 1558.8436,
+      "elo_after": 1572.1594,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1572.1005,
-      "elo_after": 1585.2851,
-      "opp_elo": 1510.3225
+      "elo_before": 1572.1594,
+      "elo_after": 1585.3415,
+      "opp_elo": 1510.324
     },
     {
       "week": "26-3-07",
@@ -129,9 +129,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1585.2851,
-      "elo_after": 1573.0589,
-      "opp_elo": 1668.8038
+      "elo_before": 1585.3415,
+      "elo_after": 1573.1194,
+      "opp_elo": 1668.9557
     },
     {
       "week": "26-3-07",
@@ -139,9 +139,9 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0589,
-      "elo_after": 1554.5231,
-      "opp_elo": 1517.5261
+      "elo_before": 1573.1194,
+      "elo_after": 1554.5809,
+      "opp_elo": 1517.5266
     },
     {
       "week": "26-3-07",
@@ -149,9 +149,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1554.5231,
-      "elo_after": 1572.8523,
-      "opp_elo": 1605.4642
+      "elo_before": 1554.5809,
+      "elo_after": 1572.9403,
+      "opp_elo": 1606.1911
     },
     {
       "week": "26-3-13",
@@ -159,9 +159,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1572.8523,
-      "elo_after": 1557.0269,
-      "opp_elo": 1576.644
+      "elo_before": 1572.9403,
+      "elo_after": 1557.112,
+      "opp_elo": 1576.6685
     },
     {
       "week": "26-3-13",
@@ -169,9 +169,9 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.0269,
-      "elo_after": 1534.3971,
-      "opp_elo": 1403.8545
+      "elo_before": 1557.112,
+      "elo_after": 1534.4792,
+      "opp_elo": 1403.8607
     },
     {
       "week": "26-3-13",
@@ -179,9 +179,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1534.3971,
-      "elo_after": 1544.9558,
-      "opp_elo": 1411.3387
+      "elo_before": 1534.4792,
+      "elo_after": 1545.037,
+      "opp_elo": 1411.4018
     },
     {
       "week": "26-3-13",
@@ -189,8 +189,8 @@
       "opponent": "Hazel Green",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1544.9558,
-      "elo_after": 1526.8969,
+      "elo_before": 1545.037,
+      "elo_after": 1526.9745,
       "opp_elo": 1500.0
     }
   ],

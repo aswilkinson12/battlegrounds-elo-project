@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1572.37,
+  "elo": 1572.42,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -90,8 +90,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1530.6231,
-      "elo_after": 1515.2607,
-      "opp_elo": 1544.4743
+      "elo_after": 1515.262,
+      "opp_elo": 1544.5025
     },
     {
       "week": "26-2-27",
@@ -99,8 +99,8 @@
       "opponent": "Josh Kibbe",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.2607,
-      "elo_after": 1530.5583,
+      "elo_before": 1515.262,
+      "elo_after": 1530.5596,
       "opp_elo": 1500.0
     },
     {
@@ -109,9 +109,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1530.5583,
-      "elo_after": 1519.1342,
-      "opp_elo": 1632.7725
+      "elo_before": 1530.5596,
+      "elo_after": 1519.1409,
+      "opp_elo": 1632.9024
     },
     {
       "week": "26-3-07",
@@ -119,8 +119,8 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.1342,
-      "elo_after": 1502.2539,
+      "elo_before": 1519.1409,
+      "elo_after": 1502.2603,
       "opp_elo": 1500.0
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.2539,
-      "elo_after": 1515.972,
-      "opp_elo": 1452.3614
+      "elo_before": 1502.2603,
+      "elo_after": 1515.981,
+      "opp_elo": 1452.4275
     },
     {
       "week": "26-3-07",
@@ -139,9 +139,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.972,
-      "elo_after": 1526.0805,
-      "opp_elo": 1381.7362
+      "elo_before": 1515.981,
+      "elo_after": 1526.0906,
+      "opp_elo": 1381.7733
     },
     {
       "week": "26-3-07",
@@ -149,9 +149,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.0805,
-      "elo_after": 1545.5247,
-      "opp_elo": 1602.0592
+      "elo_before": 1526.0906,
+      "elo_after": 1545.5358,
+      "opp_elo": 1602.0898
     },
     {
       "week": "26-3-07",
@@ -159,9 +159,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.5247,
-      "elo_after": 1560.972,
-      "opp_elo": 1533.5177
+      "elo_before": 1545.5358,
+      "elo_after": 1560.9841,
+      "opp_elo": 1533.5524
     },
     {
       "week": "26-3-13",
@@ -169,9 +169,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1560.972,
-      "elo_after": 1550.7251,
-      "opp_elo": 1691.7439
+      "elo_before": 1560.9841,
+      "elo_after": 1550.7424,
+      "opp_elo": 1691.8857
     },
     {
       "week": "26-3-13",
@@ -179,8 +179,8 @@
       "opponent": "Tom Kessler",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1550.7251,
-      "elo_after": 1564.4056,
+      "elo_before": 1550.7424,
+      "elo_after": 1564.4221,
       "opp_elo": 1500.0
     },
     {
@@ -189,9 +189,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1564.4056,
-      "elo_after": 1545.5087,
-      "opp_elo": 1500.8004
+      "elo_before": 1564.4221,
+      "elo_after": 1545.5247,
+      "opp_elo": 1500.8034
     },
     {
       "week": "26-3-13",
@@ -199,9 +199,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.5087,
-      "elo_after": 1560.124,
-      "opp_elo": 1515.3652
+      "elo_before": 1545.5247,
+      "elo_after": 1560.1431,
+      "opp_elo": 1515.4481
     },
     {
       "week": "26-3-13",
@@ -209,9 +209,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1560.124,
-      "elo_after": 1572.3737,
-      "opp_elo": 1477.1445
+      "elo_before": 1560.1431,
+      "elo_after": 1572.4171,
+      "opp_elo": 1477.7235
     }
   ],
   "wins": 13,

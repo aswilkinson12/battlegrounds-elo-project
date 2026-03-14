@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1486.36,
+  "elo": 1486.37,
   "matches": [
     {
       "week": "26-3-13",
@@ -20,8 +20,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.0,
-      "elo_after": 1497.9197,
-      "opp_elo": 1470.5698
+      "elo_after": 1497.9235,
+      "opp_elo": 1470.6535
     },
     {
       "week": "26-3-13",
@@ -29,9 +29,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1497.9197,
-      "elo_after": 1486.3633,
-      "opp_elo": 1597.0127
+      "elo_before": 1497.9235,
+      "elo_after": 1486.3697,
+      "opp_elo": 1597.0792
     }
   ],
   "wins": 1,
