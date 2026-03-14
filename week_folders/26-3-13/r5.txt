@@ -3,7 +3,7 @@ Round 5
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
 1      Kenton Najdzien              Milo Brown                   13-13 ID
-2      Bradley Skubic               Amy Altman                   10-10   
+2      Bradley Skubic               Amy Altman                   10-10 ID  
 3      Dani Masom                   Anthony Wilkinson            9-12    
 4      Nathan Choi                  Becca Blackwood              9-12    
 5      Devon O’Donnell              Jarrod Haase                12-7    

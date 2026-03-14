@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1602.32,
+  "elo": 1602.86,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -157,10 +157,10 @@
       "week": "26-3-13",
       "round": 5,
       "opponent": "Amy Altman",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1602.8613,
-      "elo_after": 1602.3179,
+      "elo_after": 1602.8613,
       "opp_elo": 1591.055
     }
   ],

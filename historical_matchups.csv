@@ -497,7 +497,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-3-13,4,Jarrod Haase,Phil iwanow,1.0,OK,False
 26-3-13,4,Joseph Chung,Stella Burfeind,0.0,OK,False
 26-3-13,4,Logan Hesch,Nathan Cormier,1.0,OK,False
-26-3-13,5,Amy Altman,Bradley Skubic,0.5,OK,False
+26-3-13,5,Amy Altman,Bradley Skubic,0.5,ID,True
 26-3-13,5,Andy Perez,Nathan Cormier,0.0,OK,False
 26-3-13,5,Anthony Wilkinson,Dani Masom,1.0,OK,False
 26-3-13,5,Becca Blackwood,Nathan Choi,1.0,OK,False
