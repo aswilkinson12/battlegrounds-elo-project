@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1516.73,
+  "elo": 1495.11,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -90,8 +90,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1523.4739,
-      "elo_after": 1538.5493,
-      "opp_elo": 1503.3733
+      "elo_after": 1538.5481,
+      "opp_elo": 1503.3464
     },
     {
       "week": "26-2-13",
@@ -99,8 +99,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.5493,
-      "elo_after": 1520.7813,
+      "elo_before": 1538.5481,
+      "elo_after": 1520.7801,
       "opp_elo": 1500.0
     },
     {
@@ -109,8 +109,8 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.7813,
-      "elo_after": 1505.0244,
+      "elo_before": 1520.7801,
+      "elo_after": 1505.0233,
       "opp_elo": 1526.0621
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.0244,
-      "elo_after": 1518.7779,
-      "opp_elo": 1455.9162
+      "elo_before": 1505.0233,
+      "elo_after": 1518.7757,
+      "opp_elo": 1455.8927
     },
     {
       "week": "26-2-20",
@@ -129,8 +129,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.7779,
-      "elo_after": 1501.914,
+      "elo_before": 1518.7757,
+      "elo_after": 1501.9119,
       "opp_elo": 1500.0
     },
     {
@@ -139,8 +139,8 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.914,
-      "elo_after": 1485.5217,
+      "elo_before": 1501.9119,
+      "elo_after": 1485.5197,
       "opp_elo": 1493.3938
     },
     {
@@ -149,9 +149,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.5217,
-      "elo_after": 1468.2408,
-      "opp_elo": 1457.6482
+      "elo_before": 1485.5197,
+      "elo_after": 1468.2389,
+      "opp_elo": 1457.6471
     },
     {
       "week": "26-3-07",
@@ -159,9 +159,9 @@
       "opponent": "Timofey Tylik",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.2408,
-      "elo_after": 1452.3717,
-      "opp_elo": 1471.083
+      "elo_before": 1468.2389,
+      "elo_after": 1452.3699,
+      "opp_elo": 1471.0829
     },
     {
       "week": "26-3-07",
@@ -169,9 +169,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1452.3717,
-      "elo_after": 1467.0533,
-      "opp_elo": 1423.6781
+      "elo_before": 1452.3699,
+      "elo_after": 1467.0509,
+      "opp_elo": 1423.6628
     },
     {
       "week": "26-3-07",
@@ -179,8 +179,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1467.0533,
-      "elo_after": 1484.566,
+      "elo_before": 1467.0509,
+      "elo_after": 1484.5637,
       "opp_elo": 1500.0
     },
     {
@@ -189,9 +189,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.566,
-      "elo_after": 1496.8562,
-      "opp_elo": 1402.5166
+      "elo_before": 1484.5637,
+      "elo_after": 1496.854,
+      "opp_elo": 1402.5165
     },
     {
       "week": "26-3-07",
@@ -199,12 +199,62 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.8562,
-      "elo_after": 1516.7273,
-      "opp_elo": 1582.6157
+      "elo_before": 1496.854,
+      "elo_after": 1516.7251,
+      "opp_elo": 1582.615
+    },
+    {
+      "week": "26-3-13",
+      "round": 1,
+      "opponent": "James Farley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.7251,
+      "elo_after": 1499.9555,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.9555,
+      "elo_after": 1484.4554,
+      "opp_elo": 1510.8148
+    },
+    {
+      "week": "26-3-13",
+      "round": 3,
+      "opponent": "Andy Perez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.4554,
+      "elo_after": 1468.8094,
+      "opp_elo": 1492.1444
+    },
+    {
+      "week": "26-3-13",
+      "round": 4,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.8094,
+      "elo_after": 1482.5972,
+      "opp_elo": 1420.4616
+    },
+    {
+      "week": "26-3-13",
+      "round": 5,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.5972,
+      "elo_after": 1495.1114,
+      "opp_elo": 1405.6709
     }
   ],
-  "wins": 11,
-  "losses": 9,
+  "wins": 13,
+  "losses": 12,
   "draws": 0
 }

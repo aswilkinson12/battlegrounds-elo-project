@@ -60,8 +60,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1530.026,
-      "elo_after": 1509.8816,
-      "opp_elo": 1437.935
+      "elo_after": 1509.8808,
+      "opp_elo": 1437.9151
     },
     {
       "week": "26-2-27",
@@ -69,8 +69,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1509.8816,
-      "elo_after": 1493.4267,
+      "elo_before": 1509.8808,
+      "elo_after": 1493.4259,
       "opp_elo": 1500.0
     },
     {
@@ -79,9 +79,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1493.4267,
-      "elo_after": 1473.7915,
-      "opp_elo": 1413.0875
+      "elo_before": 1493.4259,
+      "elo_after": 1473.7906,
+      "opp_elo": 1413.0848
     },
     {
       "week": "26-2-27",
@@ -89,9 +89,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1473.7915,
-      "elo_after": 1485.7049,
-      "opp_elo": 1383.0426
+      "elo_before": 1473.7906,
+      "elo_after": 1485.7031,
+      "opp_elo": 1383.0223
     },
     {
       "week": "26-3-07",
@@ -99,9 +99,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.7049,
-      "elo_after": 1471.1877,
-      "opp_elo": 1517.9976
+      "elo_before": 1485.7031,
+      "elo_after": 1471.1861,
+      "opp_elo": 1517.9974
     },
     {
       "week": "26-3-07",
@@ -109,8 +109,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1471.1877,
-      "elo_after": 1456.5116,
+      "elo_before": 1471.1861,
+      "elo_after": 1456.51,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1456.5116,
-      "elo_after": 1438.7062,
-      "opp_elo": 1417.1414
+      "elo_before": 1456.51,
+      "elo_after": 1438.7047,
+      "opp_elo": 1417.1413
     },
     {
       "week": "26-3-07",
@@ -129,8 +129,8 @@
       "opponent": "Philip Watson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1438.7062,
-      "elo_after": 1425.5,
+      "elo_before": 1438.7047,
+      "elo_after": 1425.4985,
       "opp_elo": 1500.0
     },
     {
@@ -139,9 +139,9 @@
       "opponent": "Evan Johnstone",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1425.5,
-      "elo_after": 1423.253,
-      "opp_elo": 1376.383
+      "elo_before": 1425.4985,
+      "elo_after": 1423.2515,
+      "opp_elo": 1376.3797
     }
   ],
   "wins": 4,

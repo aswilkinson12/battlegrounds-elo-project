@@ -21,7 +21,7 @@
       "score": 0.0,
       "elo_before": 1516.8803,
       "elo_after": 1501.5998,
-      "opp_elo": 1532.5148
+      "opp_elo": 1532.5145
     },
     {
       "week": "26-3-07",
@@ -41,7 +41,7 @@
       "score": 1.0,
       "elo_before": 1517.5261,
       "elo_after": 1536.0619,
-      "opp_elo": 1573.059
+      "opp_elo": 1573.0589
     },
     {
       "week": "26-3-07",
@@ -50,7 +50,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1536.0619,
-      "elo_after": 1550.4072,
+      "elo_after": 1550.4071,
       "opp_elo": 1500.0
     }
   ],

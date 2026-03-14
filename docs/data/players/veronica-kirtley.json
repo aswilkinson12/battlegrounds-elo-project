@@ -91,7 +91,7 @@
       "score": 0.0,
       "elo_before": 1515.1717,
       "elo_after": 1497.8451,
-      "opp_elo": 1486.299
+      "opp_elo": 1486.2977
     },
     {
       "week": "26-2-13",
@@ -100,7 +100,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1497.8451,
-      "elo_after": 1513.9444,
+      "elo_after": 1513.9443,
       "opp_elo": 1500.0
     },
     {
@@ -109,7 +109,7 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1513.9444,
+      "elo_before": 1513.9443,
       "elo_after": 1497.3025,
       "opp_elo": 1500.0
     }

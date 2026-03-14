@@ -1,7 +1,7 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1449.74,
+  "elo": 1458.07,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -80,8 +80,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1483.8486,
-      "elo_after": 1499.8823,
-      "opp_elo": 1484.5804
+      "elo_after": 1499.8822,
+      "opp_elo": 1484.5789
     },
     {
       "week": "26-2-13",
@@ -89,8 +89,8 @@
       "opponent": "Thomas Ostroff",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.8823,
-      "elo_after": 1483.8877,
+      "elo_before": 1499.8822,
+      "elo_after": 1483.8876,
       "opp_elo": 1500.0
     },
     {
@@ -99,8 +99,8 @@
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1483.8877,
-      "elo_after": 1468.6292,
+      "elo_before": 1483.8876,
+      "elo_after": 1468.6291,
       "opp_elo": 1500.0
     },
     {
@@ -109,7 +109,7 @@
       "opponent": "Willow Blackthorne",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.6292,
+      "elo_before": 1468.6291,
       "elo_after": 1454.0699,
       "opp_elo": 1500.0
     },
@@ -120,8 +120,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1454.0699,
-      "elo_after": 1470.1526,
-      "opp_elo": 1455.865
+      "elo_after": 1470.1525,
+      "opp_elo": 1455.8636
     },
     {
       "week": "26-2-27",
@@ -129,9 +129,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1470.1526,
-      "elo_after": 1456.938,
-      "opp_elo": 1531.2599
+      "elo_before": 1470.1525,
+      "elo_after": 1456.9379,
+      "opp_elo": 1531.2597
     },
     {
       "week": "26-2-27",
@@ -139,9 +139,9 @@
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1456.938,
-      "elo_after": 1475.6237,
-      "opp_elo": 1515.8138
+      "elo_before": 1456.9379,
+      "elo_after": 1475.6235,
+      "opp_elo": 1515.8126
     },
     {
       "week": "26-2-27",
@@ -149,8 +149,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1475.6237,
-      "elo_after": 1460.7444,
+      "elo_before": 1475.6235,
+      "elo_after": 1460.7443,
       "opp_elo": 1500.0
     },
     {
@@ -159,12 +159,62 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1460.7444,
-      "elo_after": 1449.7423,
-      "opp_elo": 1573.0245
+      "elo_before": 1460.7443,
+      "elo_after": 1449.7422,
+      "opp_elo": 1573.0244
+    },
+    {
+      "week": "26-3-13",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1449.7422,
+      "elo_after": 1437.5706,
+      "opp_elo": 1534.5184
+    },
+    {
+      "week": "26-3-13",
+      "round": 2,
+      "opponent": "Hazel Green",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.5706,
+      "elo_after": 1456.415,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1456.415,
+      "elo_after": 1454.6749,
+      "opp_elo": 1418.4796
+    },
+    {
+      "week": "26-3-13",
+      "round": 4,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.6749,
+      "elo_after": 1472.7505,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 5,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.7505,
+      "elo_after": 1458.0653,
+      "opp_elo": 1501.3666
     }
   ],
-  "wins": 6,
-  "losses": 10,
-  "draws": 0
+  "wins": 8,
+  "losses": 12,
+  "draws": 1
 }

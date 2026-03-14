@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1528.55,
+  "elo": 1573.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -121,7 +121,7 @@
       "score": 0.0,
       "elo_before": 1508.6834,
       "elo_after": 1493.3938,
-      "opp_elo": 1524.121
+      "opp_elo": 1524.1209
     },
     {
       "week": "26-2-20",
@@ -130,8 +130,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1493.3938,
-      "elo_after": 1509.7861,
-      "opp_elo": 1501.914
+      "elo_after": 1509.786,
+      "opp_elo": 1501.9119
     },
     {
       "week": "26-2-20",
@@ -139,9 +139,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1509.7861,
-      "elo_after": 1528.5532,
-      "opp_elo": 1570.483
+      "elo_before": 1509.786,
+      "elo_after": 1528.5531,
+      "opp_elo": 1570.4829
     },
     {
       "week": "26-2-20",
@@ -149,12 +149,62 @@
       "opponent": "Amy Altman",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1528.5532,
-      "elo_after": 1528.5532,
-      "opp_elo": 1565.1704
+      "elo_before": 1528.5531,
+      "elo_after": 1528.5531,
+      "opp_elo": 1565.1693
+    },
+    {
+      "week": "26-3-13",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1528.5531,
+      "elo_after": 1510.8148,
+      "opp_elo": 1490.6558
+    },
+    {
+      "week": "26-3-13",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1510.8148,
+      "elo_after": 1526.3149,
+      "opp_elo": 1499.9555
+    },
+    {
+      "week": "26-3-13",
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.3149,
+      "elo_after": 1541.1053,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 4,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1541.1053,
+      "elo_after": 1556.1207,
+      "opp_elo": 1519.6972
+    },
+    {
+      "week": "26-3-13",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1556.1207,
+      "elo_after": 1573.2962,
+      "opp_elo": 1581.6922
     }
   ],
-  "wins": 8,
-  "losses": 6,
+  "wins": 12,
+  "losses": 7,
   "draws": 1
 }

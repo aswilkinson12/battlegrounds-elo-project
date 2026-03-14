@@ -1,12 +1,12 @@
 {
-  "player": "Elias Medrano",
-  "slug": "elias-medrano",
-  "elo": 1470.02,
+  "player": "Joel Brook",
+  "slug": "joel-brook",
+  "elo": 1531.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 1,
-      "opponent": "Austin Wolf",
+      "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
@@ -16,55 +16,55 @@
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 2,
-      "opponent": "Joel Brook",
-      "result": "L",
-      "score": 0.0,
+      "opponent": "Elias Medrano",
+      "result": "W",
+      "score": 1.0,
       "elo_before": 1484.0,
-      "elo_after": 1468.0,
+      "elo_after": 1500.0,
       "opp_elo": 1484.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 3,
-      "opponent": "Sean Marks",
+      "opponent": "Adipto Sengupta",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1468.0,
-      "elo_after": 1485.4695,
+      "elo_before": 1500.0,
+      "elo_after": 1516.0,
       "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 4,
-      "opponent": "Michael Stopa",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1485.4695,
-      "elo_after": 1502.1383,
+      "opponent": "Sam White",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0,
+      "elo_after": 1499.2637,
       "opp_elo": 1500.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 5,
-      "opponent": "Avi Lessure",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1502.1383,
-      "elo_after": 1486.0398,
-      "opp_elo": 1500.0
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.2637,
+      "elo_after": 1515.2653,
+      "opp_elo": 1499.2976
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
       "round": 6,
-      "opponent": "Hex Dowd",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1486.0398,
-      "elo_after": 1470.0164,
-      "opp_elo": 1485.5312
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.2653,
+      "elo_after": 1531.299,
+      "opp_elo": 1515.9985
     }
   ],
-  "wins": 2,
-  "losses": 4,
+  "wins": 4,
+  "losses": 2,
   "draws": 0
 }

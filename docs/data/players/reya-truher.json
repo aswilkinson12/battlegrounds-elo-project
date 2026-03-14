@@ -111,7 +111,7 @@
       "score": 0.0,
       "elo_before": 1500.1866,
       "elo_after": 1484.3192,
-      "opp_elo": 1503.0648
+      "opp_elo": 1503.0647
     },
     {
       "week": "26-2-27",
@@ -130,8 +130,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1501.0408,
-      "elo_after": 1515.0724,
-      "opp_elo": 1458.0794
+      "elo_after": 1515.0715,
+      "opp_elo": 1458.0603
     },
     {
       "week": "26-2-27",
@@ -139,9 +139,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.0724,
-      "elo_after": 1534.9763,
-      "opp_elo": 1601.5908
+      "elo_before": 1515.0715,
+      "elo_after": 1534.9755,
+      "opp_elo": 1601.59
     },
     {
       "week": "26-2-27",
@@ -149,9 +149,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1534.9763,
-      "elo_after": 1522.9285,
-      "opp_elo": 1622.6084
+      "elo_before": 1534.9755,
+      "elo_after": 1522.9276,
+      "opp_elo": 1622.6076
     },
     {
       "week": "26-2-27",
@@ -159,8 +159,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1522.9285,
-      "elo_after": 1505.8741,
+      "elo_before": 1522.9276,
+      "elo_after": 1505.8733,
       "opp_elo": 1500.0
     },
     {
@@ -169,9 +169,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.8741,
-      "elo_after": 1520.0714,
-      "opp_elo": 1466.5605
+      "elo_before": 1505.8733,
+      "elo_after": 1520.0705,
+      "opp_elo": 1466.5586
     },
     {
       "week": "26-3-07",
@@ -179,9 +179,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.0714,
-      "elo_after": 1503.9902,
-      "opp_elo": 1518.3093
+      "elo_before": 1520.0705,
+      "elo_after": 1503.9893,
+      "opp_elo": 1518.3081
     },
     {
       "week": "26-3-07",
@@ -189,8 +189,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.9902,
-      "elo_after": 1519.8065,
+      "elo_before": 1503.9893,
+      "elo_after": 1519.8056,
       "opp_elo": 1500.0
     },
     {
@@ -199,8 +199,8 @@
       "opponent": "Chris Daniel",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.8065,
-      "elo_after": 1502.8953,
+      "elo_before": 1519.8056,
+      "elo_after": 1502.8945,
       "opp_elo": 1500.0
     },
     {
@@ -209,9 +209,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.8953,
-      "elo_after": 1484.1311,
-      "opp_elo": 1442.2633
+      "elo_before": 1502.8945,
+      "elo_after": 1484.1297,
+      "opp_elo": 1442.2497
     }
   ],
   "wins": 10,
