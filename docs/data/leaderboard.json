@@ -176,6 +176,14 @@
     "draws": 1
   },
   {
+    "player": "Lucas Yang",
+    "elo": 1500.0,
+    "matches": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0
+  },
+  {
     "player": "Veronica Kirtley",
     "elo": 1497.3,
     "matches": 11,
