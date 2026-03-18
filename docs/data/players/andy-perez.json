@@ -1,7 +1,7 @@
 {
   "player": "Andy Perez",
   "slug": "andy-perez",
-  "elo": 1475.88,
+  "elo": 1474.3,
   "matches": [
     {
       "week": "26-3-07",
@@ -10,8 +10,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1511.1036,
-      "opp_elo": 1359.7308
+      "elo_after": 1511.4677,
+      "opp_elo": 1354.2796
     },
     {
       "week": "26-3-07",
@@ -19,9 +19,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1511.1036,
-      "elo_after": 1496.6336,
-      "opp_elo": 1580.1337
+      "elo_before": 1511.4677,
+      "elo_after": 1496.3796,
+      "opp_elo": 1584.0399
     },
     {
       "week": "26-3-07",
@@ -29,9 +29,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.6336,
-      "elo_after": 1520.9237,
-      "opp_elo": 1623.3846
+      "elo_before": 1496.3796,
+      "elo_after": 1522.1999,
+      "opp_elo": 1626.9082
     },
     {
       "week": "26-3-07",
@@ -39,8 +39,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.9237,
-      "elo_after": 1537.841,
+      "elo_before": 1522.1999,
+      "elo_after": 1539.9875,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1537.841,
-      "elo_after": 1520.5151,
-      "opp_elo": 1550.8578
+      "elo_before": 1539.9875,
+      "elo_after": 1521.7254,
+      "opp_elo": 1553.487
     },
     {
       "week": "26-3-13",
@@ -59,9 +59,9 @@
       "opponent": "Phil Iwanow",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1520.5151,
-      "elo_after": 1514.7095,
-      "opp_elo": 1404.3085
+      "elo_before": 1521.7254,
+      "elo_after": 1515.3822,
+      "opp_elo": 1401.1109
     },
     {
       "week": "26-3-13",
@@ -69,9 +69,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.7095,
-      "elo_after": 1490.5692,
-      "opp_elo": 1391.2422
+      "elo_before": 1515.3822,
+      "elo_after": 1489.737,
+      "opp_elo": 1388.5135
     },
     {
       "week": "26-3-13",
@@ -79,9 +79,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1490.5692,
-      "elo_after": 1508.1041,
-      "opp_elo": 1481.5896
+      "elo_before": 1489.737,
+      "elo_after": 1508.2117,
+      "opp_elo": 1480.1299
     },
     {
       "week": "26-3-13",
@@ -89,9 +89,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.1041,
-      "elo_after": 1493.5151,
-      "opp_elo": 1574.7486
+      "elo_before": 1508.2117,
+      "elo_after": 1492.8916,
+      "opp_elo": 1576.3625
     },
     {
       "week": "26-3-13",
@@ -99,9 +99,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1493.5151,
-      "elo_after": 1475.8776,
-      "opp_elo": 1500.5135
+      "elo_before": 1492.8916,
+      "elo_after": 1474.2968,
+      "opp_elo": 1500.3033
     }
   ],
   "wins": 4,

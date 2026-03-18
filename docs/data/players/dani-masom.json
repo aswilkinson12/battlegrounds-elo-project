@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1488.84,
+  "elo": 1489.74,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1482.0,
+      "elo_after": 1481.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,8 +19,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.0,
-      "elo_after": 1500.9317,
+      "elo_before": 1481.0,
+      "elo_after": 1501.038,
       "opp_elo": 1500.0
     },
     {
@@ -29,8 +29,8 @@
       "opponent": "Austin Wolf",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.9317,
-      "elo_after": 1482.8834,
+      "elo_before": 1501.038,
+      "elo_after": 1481.9812,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.8834,
-      "elo_after": 1464.9798,
-      "opp_elo": 1484.7424
+      "elo_before": 1481.9812,
+      "elo_after": 1463.0945,
+      "opp_elo": 1484.0517
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -49,9 +49,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1464.9798,
-      "elo_after": 1483.0686,
-      "opp_elo": 1466.6941
+      "elo_before": 1463.0945,
+      "elo_after": 1482.1984,
+      "opp_elo": 1464.995
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,9 +59,9 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1483.0686,
-      "elo_after": 1500.228,
-      "opp_elo": 1466.8331
+      "elo_before": 1482.1984,
+      "elo_after": 1500.2673,
+      "opp_elo": 1465.1579
     },
     {
       "week": "26-2-13",
@@ -69,9 +69,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.228,
-      "elo_after": 1483.7267,
-      "opp_elo": 1529.2219
+      "elo_before": 1500.2673,
+      "elo_after": 1482.9159,
+      "opp_elo": 1530.49
     },
     {
       "week": "26-2-13",
@@ -79,9 +79,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1483.7267,
-      "elo_after": 1464.8092,
-      "opp_elo": 1466.0017
+      "elo_before": 1482.9159,
+      "elo_after": 1462.8954,
+      "opp_elo": 1464.238
     },
     {
       "week": "26-2-13",
@@ -89,8 +89,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1464.8092,
-      "elo_after": 1484.6261,
+      "elo_before": 1462.8954,
+      "elo_after": 1483.9169,
       "opp_elo": 1500.0
     },
     {
@@ -99,9 +99,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.6261,
-      "elo_after": 1502.7634,
-      "opp_elo": 1487.2757
+      "elo_before": 1483.9169,
+      "elo_after": 1503.0749,
+      "opp_elo": 1486.8059
     },
     {
       "week": "26-2-13",
@@ -109,9 +109,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.7634,
-      "elo_after": 1486.7435,
-      "opp_elo": 1541.1379
+      "elo_before": 1503.0749,
+      "elo_after": 1486.2374,
+      "opp_elo": 1542.7905
     },
     {
       "week": "26-2-20",
@@ -119,8 +119,8 @@
       "opponent": "Ash DerManouelian",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1486.7435,
-      "elo_after": 1469.4299,
+      "elo_before": 1486.2374,
+      "elo_after": 1467.9896,
       "opp_elo": 1500.0
     },
     {
@@ -129,8 +129,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1469.4299,
-      "elo_after": 1453.0096,
+      "elo_before": 1467.9896,
+      "elo_after": 1450.7352,
       "opp_elo": 1500.0
     },
     {
@@ -139,9 +139,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1453.0096,
-      "elo_after": 1472.5186,
-      "opp_elo": 1482.2032
+      "elo_before": 1450.7352,
+      "elo_after": 1471.3566,
+      "opp_elo": 1480.4568
     },
     {
       "week": "26-2-20",
@@ -149,9 +149,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1472.5186,
-      "elo_after": 1494.7929,
-      "opp_elo": 1556.6271
+      "elo_before": 1471.3566,
+      "elo_after": 1495.0487,
+      "opp_elo": 1558.9683
     },
     {
       "week": "26-2-27",
@@ -159,9 +159,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.7929,
-      "elo_after": 1479.9896,
-      "opp_elo": 1557.1579
+      "elo_before": 1495.0487,
+      "elo_after": 1479.5402,
+      "opp_elo": 1559.628
     },
     {
       "week": "26-2-27",
@@ -169,9 +169,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1479.9896,
-      "elo_after": 1466.9463,
-      "opp_elo": 1578.1974
+      "elo_before": 1479.5402,
+      "elo_after": 1465.8761,
+      "opp_elo": 1579.8058
     },
     {
       "week": "26-2-27",
@@ -179,9 +179,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1466.9463,
-      "elo_after": 1480.8648,
-      "opp_elo": 1386.7722
+      "elo_before": 1465.8761,
+      "elo_after": 1480.4036,
+      "opp_elo": 1382.5281
     },
     {
       "week": "26-2-27",
@@ -189,9 +189,9 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.8648,
-      "elo_after": 1463.6682,
-      "opp_elo": 1496.3811
+      "elo_before": 1480.4036,
+      "elo_after": 1462.2547,
+      "opp_elo": 1495.9776
     },
     {
       "week": "26-3-07",
@@ -199,9 +199,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1463.6682,
-      "elo_after": 1447.9481,
-      "opp_elo": 1507.914
+      "elo_before": 1462.2547,
+      "elo_after": 1445.7783,
+      "opp_elo": 1508.6767
     },
     {
       "week": "26-3-07",
@@ -209,9 +209,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1447.9481,
-      "elo_after": 1432.7565,
-      "opp_elo": 1502.602
+      "elo_before": 1445.7783,
+      "elo_after": 1429.8669,
+      "opp_elo": 1502.7623
     },
     {
       "week": "26-3-07",
@@ -219,9 +219,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1432.7565,
-      "elo_after": 1451.4535,
-      "opp_elo": 1446.2168
+      "elo_before": 1429.8669,
+      "elo_after": 1449.6332,
+      "opp_elo": 1443.8871
     },
     {
       "week": "26-3-07",
@@ -229,9 +229,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1451.4535,
-      "elo_after": 1431.8019,
-      "opp_elo": 1419.4844
+      "elo_before": 1449.6332,
+      "elo_after": 1428.8341,
+      "opp_elo": 1416.6361
     },
     {
       "week": "26-3-07",
@@ -239,8 +239,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1431.8019,
-      "elo_after": 1453.2905,
+      "elo_before": 1428.8341,
+      "elo_after": 1451.6724,
       "opp_elo": 1500.0
     },
     {
@@ -249,9 +249,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1453.2905,
-      "elo_after": 1468.8987,
-      "opp_elo": 1406.8504
+      "elo_before": 1451.6724,
+      "elo_after": 1468.134,
+      "opp_elo": 1404.975
     },
     {
       "week": "26-3-13",
@@ -259,9 +259,9 @@
       "opponent": "Sam Feeley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1468.8987,
-      "elo_after": 1489.4258,
-      "opp_elo": 1518.0
+      "elo_before": 1468.134,
+      "elo_after": 1489.8959,
+      "opp_elo": 1519.0
     },
     {
       "week": "26-3-13",
@@ -269,9 +269,9 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.4258,
-      "elo_after": 1477.8669,
-      "opp_elo": 1619.5093
+      "elo_before": 1489.8959,
+      "elo_after": 1477.9325,
+      "opp_elo": 1624.9867
     },
     {
       "week": "26-3-13",
@@ -279,8 +279,8 @@
       "opponent": "James Farley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1477.8669,
-      "elo_after": 1497.0121,
+      "elo_before": 1477.9325,
+      "elo_after": 1498.1377,
       "opp_elo": 1500.0
     },
     {
@@ -289,9 +289,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1497.0121,
-      "elo_after": 1488.8371,
-      "opp_elo": 1709.7918
+      "elo_before": 1498.1377,
+      "elo_after": 1489.7448,
+      "opp_elo": 1717.1325
     }
   ],
   "wins": 13,

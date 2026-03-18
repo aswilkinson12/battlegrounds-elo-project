@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1412.89,
+  "elo": 1407.7,
   "matches": [
     {
       "week": "26-2-13",
@@ -10,8 +10,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1515.3123,
-      "opp_elo": 1447.7311
+      "elo_after": 1516.0129,
+      "opp_elo": 1444.9213
     },
     {
       "week": "26-2-13",
@@ -19,9 +19,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.3123,
-      "elo_after": 1498.2985,
-      "opp_elo": 1534.3681
+      "elo_before": 1516.0129,
+      "elo_after": 1498.1154,
+      "opp_elo": 1536.1956
     },
     {
       "week": "26-2-13",
@@ -29,8 +29,8 @@
       "opponent": "Devon O'Donnell",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1498.2985,
-      "elo_after": 1516.3867,
+      "elo_before": 1498.1154,
+      "elo_after": 1517.2185,
       "opp_elo": 1500.0
     },
     {
@@ -39,8 +39,8 @@
       "opponent": "Gabe Dietz",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.3867,
-      "elo_after": 1533.5384,
+      "elo_before": 1517.2185,
+      "elo_after": 1535.2776,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Mike Adams",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1533.5384,
-      "elo_after": 1533.5384,
-      "opp_elo": 1565.3197
+      "elo_before": 1535.2776,
+      "elo_after": 1535.2776,
+      "opp_elo": 1568.6052
     },
     {
       "week": "26-2-27",
@@ -59,9 +59,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1533.5384,
-      "elo_after": 1510.4219,
-      "opp_elo": 1431.9832
+      "elo_before": 1535.2776,
+      "elo_after": 1510.6453,
+      "opp_elo": 1429.0974
     },
     {
       "week": "26-2-27",
@@ -69,8 +69,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1510.4219,
-      "elo_after": 1491.8821,
+      "elo_before": 1510.6453,
+      "elo_after": 1491.0633,
       "opp_elo": 1500.0
     },
     {
@@ -79,9 +79,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.8821,
-      "elo_after": 1469.4017,
-      "opp_elo": 1403.5469
+      "elo_before": 1491.0633,
+      "elo_after": 1467.1372,
+      "opp_elo": 1398.8807
     },
     {
       "week": "26-2-27",
@@ -89,9 +89,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.4017,
-      "elo_after": 1482.5247,
-      "opp_elo": 1372.8537
+      "elo_before": 1467.1372,
+      "elo_after": 1480.8583,
+      "opp_elo": 1368.0006
     },
     {
       "week": "26-3-07",
@@ -99,9 +99,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.5247,
-      "elo_after": 1466.389,
-      "opp_elo": 1518.6391
+      "elo_before": 1480.8583,
+      "elo_after": 1463.9279,
+      "opp_elo": 1518.8534
     },
     {
       "week": "26-3-07",
@@ -109,8 +109,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1466.389,
-      "elo_after": 1450.1249,
+      "elo_before": 1463.9279,
+      "elo_after": 1446.8935,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1450.1249,
-      "elo_after": 1429.9765,
-      "opp_elo": 1408.4575
+      "elo_before": 1446.8935,
+      "elo_after": 1425.5722,
+      "opp_elo": 1404.2336
     },
     {
       "week": "26-3-07",
@@ -129,8 +129,8 @@
       "opponent": "Philip Watson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1429.9765,
-      "elo_after": 1415.5559,
+      "elo_before": 1425.5722,
+      "elo_after": 1410.5812,
       "opp_elo": 1500.0
     },
     {
@@ -139,9 +139,9 @@
       "opponent": "Evan Johnstone",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1415.5559,
-      "elo_after": 1412.8855,
-      "opp_elo": 1363.6276
+      "elo_before": 1410.5812,
+      "elo_after": 1407.6963,
+      "opp_elo": 1357.4157
     }
   ],
   "wins": 4,

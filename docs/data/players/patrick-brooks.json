@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1472.18,
+  "elo": 1470.32,
   "matches": [
     {
       "week": "26-3-07",
@@ -10,7 +10,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1482.0,
+      "elo_after": 1481.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.0,
-      "elo_after": 1496.3855,
-      "opp_elo": 1411.2712
+      "elo_before": 1481.0,
+      "elo_after": 1496.0346,
+      "opp_elo": 1407.4064
     },
     {
       "week": "26-3-07",
@@ -29,8 +29,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.3855,
-      "elo_after": 1514.5727,
+      "elo_before": 1496.0346,
+      "elo_after": 1515.2514,
       "opp_elo": 1500.0
     },
     {
@@ -39,8 +39,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.5727,
-      "elo_after": 1495.8182,
+      "elo_before": 1515.2514,
+      "elo_after": 1495.4179,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1495.8182,
-      "elo_after": 1472.1803,
-      "opp_elo": 1383.2126
+      "elo_before": 1495.4179,
+      "elo_after": 1470.3226,
+      "opp_elo": 1379.8797
     }
   ],
   "wins": 2,

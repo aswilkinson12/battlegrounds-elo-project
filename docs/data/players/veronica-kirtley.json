@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1496.63,
+  "elo": 1496.27,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1518.0,
+      "elo_after": 1519.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,8 +19,8 @@
       "opponent": "Benjamin Wakefield",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.0,
-      "elo_after": 1499.0683,
+      "elo_before": 1519.0,
+      "elo_after": 1498.962,
       "opp_elo": 1500.0
     },
     {
@@ -29,8 +29,8 @@
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.0683,
-      "elo_after": 1517.1166,
+      "elo_before": 1498.962,
+      "elo_after": 1518.0188,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.1166,
-      "elo_after": 1499.0202,
-      "opp_elo": 1515.2576
+      "elo_before": 1518.0188,
+      "elo_after": 1498.9055,
+      "opp_elo": 1515.9483
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -49,8 +49,8 @@
       "opponent": "Tim Lawson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.0202,
-      "elo_after": 1517.071,
+      "elo_before": 1498.9055,
+      "elo_after": 1517.9654,
       "opp_elo": 1500.0
     },
     {
@@ -59,9 +59,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1517.071,
-      "elo_after": 1535.1604,
-      "opp_elo": 1518.7966
+      "elo_before": 1517.9654,
+      "elo_after": 1537.0701,
+      "opp_elo": 1519.8798
     },
     {
       "week": "26-2-13",
@@ -69,9 +69,9 @@
       "opponent": "Milo Brown",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1535.1604,
-      "elo_after": 1536.8742,
-      "opp_elo": 1568.3401
+      "elo_before": 1537.0701,
+      "elo_after": 1538.9699,
+      "opp_elo": 1571.9278
     },
     {
       "week": "26-2-13",
@@ -79,9 +79,9 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1536.8742,
-      "elo_after": 1516.9394,
-      "opp_elo": 1499.384
+      "elo_before": 1538.9699,
+      "elo_after": 1517.8116,
+      "opp_elo": 1499.3318
     },
     {
       "week": "26-2-13",
@@ -89,9 +89,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.9394,
-      "elo_after": 1497.2852,
-      "opp_elo": 1484.9192
+      "elo_before": 1517.8116,
+      "elo_after": 1496.9824,
+      "opp_elo": 1484.2585
     },
     {
       "week": "26-2-13",
@@ -99,8 +99,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1497.2852,
-      "elo_after": 1515.4258,
+      "elo_before": 1496.9824,
+      "elo_after": 1516.1474,
       "opp_elo": 1500.0
     },
     {
@@ -109,8 +109,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.4258,
-      "elo_after": 1496.6271,
+      "elo_before": 1516.1474,
+      "elo_after": 1496.265,
       "opp_elo": 1500.0
     }
   ],
