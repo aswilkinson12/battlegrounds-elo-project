@@ -63,7 +63,7 @@
     }
     .week-colheads td{
       background: #ffffff;
-      font-weight: 800;
+      font-weight: 600;
       color: #223;
       border-top: 1px solid #eef0f7;
       border-bottom: 1px solid #eef0f7;
@@ -81,7 +81,7 @@
       <h1 id="title">Player</h1>
       <nav>
         <a href="../index.html">Leaderboard</a>
-        <a href="player.html">Player Search</a>
+        <a href="../player.html">Player Search</a>
       </nav>
     </div>
   </header>
@@ -185,10 +185,6 @@
     el.textContent = msg;
   }
 
-  async function getPlayersIndex() {
-    const url = "../data/players_index.json"
-    return await fetch(url);
-  }
 
   const slug = getSlug();
   const select = document.getElementById("player-search");
@@ -226,7 +222,6 @@
       const oppName = String(m.opponent || "").trim();
       const oppSlug = nameToSlug.get(normName(oppName));
 
-      // Only link if opponent has a page AND isn't the current page
       if (oppSlug && oppSlug !== slug) {
         const link = document.createElement("a");
         link.href = `./player.html?p=${encodeURIComponent(oppSlug)}`;
@@ -240,6 +235,7 @@
       } else {
         tdOpp.textContent = oppName;
       }
+
       tr.appendChild(tdOpp);
 
       const tdOppElo = document.createElement("td");
@@ -375,8 +371,10 @@
   }
 
   function setHeaderMode(showWeek) {
-  document.getElementById("theadGrouped").style.display = showWeek ? "none" : "";
-  document.getElementById("theadFiltered").style.display = showWeek ? "" : "none";
+    // showWeek = true  -> filtered mode (show theadFiltered)
+    // showWeek = false -> grouped-by-week mode (hide BOTH thead rows)
+    document.getElementById("theadGrouped").style.display = "none";
+    document.getElementById("theadFiltered").style.display = showWeek ? "" : "none";
   }
 
   function applyFilter() {
@@ -402,27 +400,34 @@
   filter.addEventListener("input", applyFilter);
 
   async function loadPlayersIndex() {
-    let playerList = await getPlayersIndex();
+    const res = await fetch(PLAYERS_INDEX_URL, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status} while fetching ${PLAYERS_INDEX_URL}`);
+
+    const playerList = await res.json(); // <-- IMPORTANT: parse JSON first
+
+    // Build opponent linking map
     nameToSlug = new Map(playerList.map(p => [normName(p.player), String(p.slug)]));
     console.log("Loaded players_index:", nameToSlug.size);
-    if (!playerList.ok) throw new Error(`HTTP ${playerList.status}`);
-    playerList = await playerList.json();
 
-    if (slug == "" || !playerList.map((p) => { p.value}).includes(slug)) {
+    // Reset dropdown options
+    select.innerHTML = "";
+
+    // If no slug or slug not found in index, add placeholder
+    const slugSet = new Set(playerList.map(p => String(p.slug)));
+    if (!slug || !slugSet.has(slug)) {
       const option = document.createElement("option");
-      option.textContent = "--- Select a Player ---"
+      option.textContent = "--- Select a Player ---";
       option.selected = true;
       option.disabled = true;
       select.appendChild(option);
     }
 
+    // Populate dropdown
     playerList.forEach(p => {
       const option = document.createElement("option");
       option.value = p.slug;
       option.textContent = p.player;
-      if (slug === p.slug) {
-        option.selected = true;
-      }
+      if (slug === p.slug) option.selected = true;
       select.appendChild(option);
     });
   }
@@ -434,6 +439,7 @@
   });
 
   async function load() {
+    await loadPlayersIndex();
     if (!slug) {
       showError("Make a selection above to view player records");
       return;
@@ -493,7 +499,6 @@
   }
 
   load();
-  loadPlayersIndex();
 </script>
 </body>
 </html>
