@@ -55,6 +55,12 @@
       color: #556;
       margin-left: 8px;
     }
+    .week-spacer td{
+      border: none !important;
+      padding: 0 !important;
+      height: 12px;
+      background: transparent;
+    }
 
     input {
       width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
@@ -87,7 +93,7 @@
           <div style="font-size:18px;font-weight:800;" id="playerName">Loading…</div>
         </div>
         <div class="meta">
-          <span class="pill" id="eloPill">Elo: —</span>
+          <span class="pill" id="eloPill">Rating: —</span>
           <span class="pill" id="recordPill">W-L-D: —</span>
           <span class="pill" id="gamesPill">Matches: —</span>
         </div>
@@ -277,7 +283,7 @@
       tdH.innerHTML = `
         <div class="week-row">
           <span class="week-left">${wk}</span>
-          <span class="week-right">Start Elo: ${startElo}</span>
+          <span class="week-right">Starting Rating: ${startElo}</span>
         </div>
       `;
       trH.appendChild(tdH);
@@ -302,11 +308,17 @@
       tdF.innerHTML = `
         <div class="week-row">
           <span class="week-left">${recTxt}</span>
-          <span class="week-right">${avgTxt} · End Elo: ${endElo}</span>
+          <span class="week-right">${avgTxt} · New Rating: ${endElo}</span>
         </div>
       `;
       trF.appendChild(tdF);
       tbody.appendChild(trF);
+      const trS = document.createElement("tr");
+      trS.className = "week-spacer";
+      const tdS = document.createElement("td");
+      tdS.colSpan = 8; // match your table column count
+      trS.appendChild(tdS);
+      tbody.appendChild(trS);
     });
 
     matchCount.textContent = `${totalRows} match${totalRows === 1 ? "" : "es"}`;
