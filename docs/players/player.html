@@ -29,6 +29,18 @@
     .loss { color: #b00020; font-weight: 700; }
     .draw { color: #7a5b00; font-weight: 700; }
 
+    .week-header td{
+      background: #f1f3ff;
+      font-weight: 800;
+      color: #223;
+      border-top: 1px solid #e6e8f0;
+    }
+    .week-header .meta {
+      font-weight: 600;
+      color: #556;
+      margin-left: 8px;
+    }
+
     input {
       width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
       border: 1px solid #d7dbea; background: #fff;
@@ -133,9 +145,11 @@
   let nameToSlug = new Map(); // normalized name -> slug
   let allMatches = [];
 
-  function render(matches) {
+  function render(matches, grouped = true) {
     tbody.innerHTML = "";
-    matches.forEach(m => {
+
+    // Helper to append a single match row (your existing row logic)
+    function appendMatchRow(m) {
       const tr = document.createElement("tr");
 
       const tdWeek = document.createElement("td");
@@ -148,28 +162,12 @@
       tr.appendChild(tdRound);
 
       const tdOpp = document.createElement("td");
-      const oppName = String(m.opponent || "").trim();
-      const oppSlug = nameToSlug.get(normName(oppName));
-
-      if (oppSlug && oppSlug !== slug) {
-        const link = document.createElement("a");
-        link.href = `./player.html?p=${encodeURIComponent(oppSlug)}`;
-        link.textContent = oppName;
-        link.style.color = "#111";
-        link.style.fontWeight = "700";
-        link.style.textDecoration = "none";
-        link.addEventListener("mouseenter", () => link.style.textDecoration = "underline");
-        link.addEventListener("mouseleave", () => link.style.textDecoration = "none");
-        tdOpp.appendChild(link);
-      } else {
-        tdOpp.textContent = oppName;
-      }
-
+      tdOpp.textContent = m.opponent;
       tr.appendChild(tdOpp);
-      
+
       const tdOppElo = document.createElement("td");
       tdOppElo.className = "num";
-      tdOppElo.textContent = safeNum(m.opp_elo).toFixed(2);
+      tdOppElo.textContent = safeNum(m.opp_elo, 1500).toFixed(2);
       tr.appendChild(tdOppElo);
 
       const tdRes = document.createElement("td");
@@ -177,7 +175,7 @@
       tdRes.textContent = r;
       if (r === "W") tdRes.className = "win";
       if (r === "L") tdRes.className = "loss";
-      if (r === "D") tdRes.className = "draw";
+      if (r === "D" || r === "ID") tdRes.className = "draw";
       tr.appendChild(tdRes);
 
       const tdPre = document.createElement("td");
@@ -197,19 +195,67 @@
       tr.appendChild(tdDelta);
 
       tbody.appendChild(tr);
+    }
+
+    // If not grouping, render flat
+    if (!grouped) {
+      matches.forEach(appendMatchRow);
+      matchCount.textContent = `${matches.length} match${matches.length === 1 ? "" : "es"}`;
+      return;
+    }
+
+    // Group by week
+    const byWeek = new Map();
+    for (const m of matches) {
+      const wk = String(m.week || "Unknown");
+      if (!byWeek.has(wk)) byWeek.set(wk, []);
+      byWeek.get(wk).push(m);
+    }
+
+    // Keep current ordering of weeks based on matches array (already sorted newest first)
+    const weekOrder = [];
+    for (const m of matches) {
+      const wk = String(m.week || "Unknown");
+      if (!weekOrder.includes(wk)) weekOrder.push(wk);
+    }
+
+    let totalRows = 0;
+
+    weekOrder.forEach(wk => {
+      const list = byWeek.get(wk) || [];
+      if (!list.length) return;
+
+      // Header row spanning all columns
+      const trH = document.createElement("tr");
+      trH.className = "week-header";
+      const tdH = document.createElement("td");
+      tdH.colSpan = 8; // <-- update if your table has a different number of columns
+      tdH.innerHTML = `${wk} <span class="meta">(${list.length} match${list.length === 1 ? "" : "es"})</span>`;
+      trH.appendChild(tdH);
+      tbody.appendChild(trH);
+
+      list.forEach(m => {
+        appendMatchRow(m);
+        totalRows += 1;
+      });
     });
 
-    matchCount.textContent = `${matches.length} match${matches.length === 1 ? "" : "es"}`;
+    matchCount.textContent = `${totalRows} match${totalRows === 1 ? "" : "es"}`;
   }
 
   function applyFilter() {
     const q = filter.value.trim().toLowerCase();
-    if (!q) return render(allMatches);
+    if (!q) {
+      // no filter -> grouped
+      render(allMatches, true);
+      return;
+    }
     const f = allMatches.filter(m =>
       String(m.opponent).toLowerCase().includes(q) ||
       String(m.week).toLowerCase().includes(q)
     );
-    render(f);
+    // filter -> flat list
+    render(f, false);
   }
 
   filter.addEventListener("input", applyFilter);
@@ -267,7 +313,7 @@
       allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];
       // newest first
       allMatches.sort((a,b) => (String(b.week).localeCompare(String(a.week)) || (safeNum(b.round)-safeNum(a.round))));
-      render(allMatches);
+      applyFilter();
       const media = document.getElementById("playerMedia");
 
       // Example: show a GIF for a specific player slug
