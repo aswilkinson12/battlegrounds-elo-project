@@ -74,7 +74,7 @@
       <h1 id="title">Player</h1>
       <nav>
         <a href="../index.html">Leaderboard</a>
-        <a href="player.html">Player Search</a>
+        <a href="../player.html">Player Search</a>
       </nav>
     </div>
   </header>
@@ -191,7 +191,7 @@
 
   let playerData = null;
   function normName(s) {
-    return String(s || "").trim().toLowerCase();
+    return String(s || "").trim().toLowerCase().replace(/\s+/g, " ");
   }
 
   let nameToSlug = new Map(); // normalized name -> slug
@@ -216,7 +216,23 @@
       tr.appendChild(tdRound);
 
       const tdOpp = document.createElement("td");
-      tdOpp.textContent = m.opponent;
+      const oppName = String(m.opponent || "").trim();
+      const oppSlug = nameToSlug.get(normName(oppName));
+
+      // Only link if opponent has a page AND isn't the current page
+      if (oppSlug && oppSlug !== slug) {
+        const link = document.createElement("a");
+        link.href = `./player.html?p=${encodeURIComponent(oppSlug)}`;
+        link.textContent = oppName;
+        link.style.color = "#111";
+        link.style.fontWeight = "700";
+        link.style.textDecoration = "none";
+        link.addEventListener("mouseenter", () => link.style.textDecoration = "underline");
+        link.addEventListener("mouseleave", () => link.style.textDecoration = "none");
+        tdOpp.appendChild(link);
+      } else {
+        tdOpp.textContent = oppName;
+      }
       tr.appendChild(tdOpp);
 
       const tdOppElo = document.createElement("td");
@@ -250,7 +266,7 @@
 
     // If not grouping, render flat
     if (!grouped) {
-      matches.forEach(appendMatchRow, true);
+      matches.forEach(m => appendMatchRow(m, true));
       matchCount.textContent = `${matches.length} match${matches.length === 1 ? "" : "es"}`;
       return;
     }
@@ -314,13 +330,15 @@
       const trF = document.createElement("tr");
       trF.className = "week-footer";
       const tdF = document.createElement("td");
-      tdH.colSpan = 6;
-      tdH.innerHTML = `
+      tdF.colSpan = 6;
+
+      tdF.innerHTML = `
         <div class="week-row">
-          <span class="week-left">${wk}</span>
-          <span class="week-right">Starting Rating: ${startElo}</span>
+          <span class="week-left">${recTxt}</span>
+          <span class="week-right">${avgTxt} · New Rating: ${endElo}</span>
         </div>
       `;
+
       trF.appendChild(tdF);
       tbody.appendChild(trF);
       const trS = document.createElement("tr");
@@ -345,7 +363,7 @@
     if (!q) {
       // No filter: grouped, no Week column
       setHeaderMode(false);
-      renderGroupedByWeek(allMatches);  // your grouped renderer calls appendMatchRow(m, false)
+      render(allMatches, true);
       return;
     }
 
@@ -356,15 +374,14 @@
       String(m.week).toLowerCase().includes(q)
     );
 
-    tbody.innerHTML = "";
-    f.forEach(m => appendMatchRow(m, true));
-    matchCount.textContent = `${f.length} match${f.length === 1 ? "" : "es"}`;
+    render(f, false);
   }
 
   filter.addEventListener("input", applyFilter);
 
   async function loadPlayersIndex() {
     let playerList = await getPlayersIndex();
+    nameToSlug = new Map(playerList.map(p => [normName(p.player), String(p.slug)]));
     if (!playerList.ok) throw new Error(`HTTP ${playerList.status}`);
     playerList = await playerList.json();
 
