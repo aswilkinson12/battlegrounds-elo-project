@@ -111,15 +111,26 @@
       <div style="overflow:auto;">
         <table aria-label="Match history">
           <thead>
-            <tr>
+            <!-- Default (grouped-by-week) header: NO Week, NO Elo Before -->
+            <tr id="theadGrouped">
+              <th class="num">Round</th>
+              <th>Opponent</th>
+              <th class="num">Opp Elo</th>
+              <th>Result</th>
+              <th class="num">Δ</th>
+              <th class="num">New Rating</th>
+            </tr>
+
+            <!-- Filtered header: includes Week -->
+            <tr id="theadFiltered" style="display:none;">
               <th>Week</th>
               <th class="num">Round</th>
               <th>Opponent</th>
               <th class="num">Opp Elo</th>
               <th>Result</th>
-              <th class="num">Elo Before</th>
-              <th class="num">Elo After</th>
-              <th class="num">Δ</th>            </tr>
+              <th class="num">Δ</th>
+              <th class="num">New Rating</th>
+            </tr>
           </thead>
           <tbody id="tbody"></tbody>
         </table>
@@ -190,12 +201,14 @@
     tbody.innerHTML = "";
 
     // Helper to append a single match row (your existing row logic)
-    function appendMatchRow(m) {
+    function appendMatchRow(m, showWeek) {
       const tr = document.createElement("tr");
 
-      const tdWeek = document.createElement("td");
-      tdWeek.textContent = m.week;
-      tr.appendChild(tdWeek);
+      if (showWeek) {
+        const tdWeek = document.createElement("td");
+        tdWeek.textContent = m.week;
+        tr.appendChild(tdWeek);
+      }
 
       const tdRound = document.createElement("td");
       tdRound.className = "num";
@@ -219,28 +232,25 @@
       if (r === "D" || r === "ID") tdRes.className = "draw";
       tr.appendChild(tdRes);
 
-      const tdPre = document.createElement("td");
-      tdPre.className = "num";
-      tdPre.textContent = safeNum(m.elo_before).toFixed(2);
-      tr.appendChild(tdPre);
-
-      const tdPost = document.createElement("td");
-      tdPost.className = "num";
-      tdPost.textContent = safeNum(m.elo_after).toFixed(2);
-      tr.appendChild(tdPost);
-
+      // Δ first
       const tdDelta = document.createElement("td");
       tdDelta.className = "num";
       const d = safeNum(m.elo_after) - safeNum(m.elo_before);
       tdDelta.textContent = (d >= 0 ? "+" : "") + d.toFixed(2);
       tr.appendChild(tdDelta);
 
+      // New Rating (elo_after)
+      const tdNew = document.createElement("td");
+      tdNew.className = "num";
+      tdNew.textContent = safeNum(m.elo_after).toFixed(2);
+      tr.appendChild(tdNew);
+
       tbody.appendChild(tr);
     }
 
     // If not grouping, render flat
     if (!grouped) {
-      matches.forEach(appendMatchRow);
+      matches.forEach(appendMatchRow, true);
       matchCount.textContent = `${matches.length} match${matches.length === 1 ? "" : "es"}`;
       return;
     }
@@ -279,7 +289,7 @@
       const trH = document.createElement("tr");
       trH.className = "week-header";
       const tdH = document.createElement("td");
-      tdH.colSpan = 8; // update if you change columns
+      tdH.colSpan = 6;
       tdH.innerHTML = `
         <div class="week-row">
           <span class="week-left">${wk}</span>
@@ -291,7 +301,7 @@
 
       // Match rows (Round 1 -> 5)
       listAsc.forEach(m => {
-        appendMatchRow(m);
+        appendMatchRow(m, false);
         totalRows += 1;
       });
 
@@ -304,11 +314,11 @@
       const trF = document.createElement("tr");
       trF.className = "week-footer";
       const tdF = document.createElement("td");
-      tdF.colSpan = 8; // update if you change columns
-      tdF.innerHTML = `
+      tdH.colSpan = 6;
+      tdH.innerHTML = `
         <div class="week-row">
-          <span class="week-left">${recTxt}</span>
-          <span class="week-right">${avgTxt} · New Rating: ${endElo}</span>
+          <span class="week-left">${wk}</span>
+          <span class="week-right">Starting Rating: ${startElo}</span>
         </div>
       `;
       trF.appendChild(tdF);
@@ -316,7 +326,7 @@
       const trS = document.createElement("tr");
       trS.className = "week-spacer";
       const tdS = document.createElement("td");
-      tdS.colSpan = 8; // match your table column count
+      tdS.colSpan = 6; // match your table column count
       trS.appendChild(tdS);
       tbody.appendChild(trS);
     });
@@ -324,19 +334,31 @@
     matchCount.textContent = `${totalRows} match${totalRows === 1 ? "" : "es"}`;
   }
 
+  function setHeaderMode(showWeek) {
+  document.getElementById("theadGrouped").style.display = showWeek ? "none" : "";
+  document.getElementById("theadFiltered").style.display = showWeek ? "" : "none";
+  }
+
   function applyFilter() {
     const q = filter.value.trim().toLowerCase();
+
     if (!q) {
-      // no filter -> grouped
-      render(allMatches, true);
+      // No filter: grouped, no Week column
+      setHeaderMode(false);
+      renderGroupedByWeek(allMatches);  // your grouped renderer calls appendMatchRow(m, false)
       return;
     }
+
+    // Filter: flat list, include Week column
+    setHeaderMode(true);
     const f = allMatches.filter(m =>
       String(m.opponent).toLowerCase().includes(q) ||
       String(m.week).toLowerCase().includes(q)
     );
-    // filter -> flat list
-    render(f, false);
+
+    tbody.innerHTML = "";
+    f.forEach(m => appendMatchRow(m, true));
+    matchCount.textContent = `${f.length} match${f.length === 1 ? "" : "es"}`;
   }
 
   filter.addEventListener("input", applyFilter);
