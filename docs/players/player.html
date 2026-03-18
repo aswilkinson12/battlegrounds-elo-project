@@ -35,6 +35,13 @@
       color: #223;
       border-top: 1px solid #e6e8f0;
     }
+    .week-footer td{
+      background: #fafbff;
+      font-weight: 700;
+      color: #334;
+      border-top: 1px solid #eef0f7;
+    }
+    .week-meta { font-weight: 600; color: #556; margin-left: 8px; }
     .week-header .meta {
       font-weight: 600;
       color: #556;
@@ -116,6 +123,26 @@
   function safeNum(x, fallback = 0) {
     const n = Number(x);
     return Number.isFinite(n) ? n : fallback;
+  }
+
+  function avgOppElo(list) {
+    let sum = 0, n = 0;
+    for (const m of list) {
+      const v = safeNum(m.opp_elo, 1500);
+      if (Number.isFinite(v)) { sum += v; n += 1; }
+    }
+    return n ? (sum / n) : null;
+  }
+
+  function recordWLD(list) {
+    let w = 0, l = 0, d = 0;
+    for (const m of list) {
+      const r = String(m.result || "");
+      if (r === "W") w += 1;
+      else if (r === "L") l += 1;
+      else if (r === "D" || r === "ID") d += 1;  // IDs count as draws for record
+    }
+    return { w, l, d };
   }
 
   const PLAYERS_INDEX_URL = "../data/players_index.json";
@@ -212,7 +239,7 @@
       byWeek.get(wk).push(m);
     }
 
-    // Keep current ordering of weeks based on matches array (already sorted newest first)
+    // Keep current week order based on matches array (assumes matches is sorted newest week first)
     const weekOrder = [];
     for (const m of matches) {
       const wk = String(m.week || "Unknown");
@@ -225,19 +252,43 @@
       const list = byWeek.get(wk) || [];
       if (!list.length) return;
 
-      // Header row spanning all columns
+      // IMPORTANT: within-week order should be Round 1 -> 5 (top to bottom)
+      const listAsc = [...list].sort((a, b) => safeNum(a.round) - safeNum(b.round));
+
+      // Starting Elo = elo_before of the first (Round 1) match
+      const startElo = safeNum(listAsc[0].elo_before).toFixed(2);
+
+      // Ending Elo = elo_after of the last (Round 5) match
+      const endElo = safeNum(listAsc[listAsc.length - 1].elo_after).toFixed(2);
+
+      // Header row
       const trH = document.createElement("tr");
       trH.className = "week-header";
       const tdH = document.createElement("td");
-      tdH.colSpan = 8; // <-- update if your table has a different number of columns
-      tdH.innerHTML = `${wk} <span class="meta">(${list.length} match${list.length === 1 ? "" : "es"})</span>`;
+      tdH.colSpan = 8; // update if you change columns
+      tdH.innerHTML = `${wk} <span class="week-meta">Start Elo: ${startElo}</span>`;
       trH.appendChild(tdH);
       tbody.appendChild(trH);
 
-      list.forEach(m => {
+      // Match rows (Round 1 -> 5)
+      listAsc.forEach(m => {
         appendMatchRow(m);
         totalRows += 1;
       });
+
+      // Footer summary row
+      const avgE = avgOppElo(listAsc);
+      const rec = recordWLD(listAsc);
+      const avgTxt = (avgE === null) ? "Avg Opp Elo: —" : `Avg Opp Elo: ${avgE.toFixed(1)}`;
+      const recTxt = `Record: ${rec.w}-${rec.l}-${rec.d}`;
+
+      const trF = document.createElement("tr");
+      trF.className = "week-footer";
+      const tdF = document.createElement("td");
+      tdF.colSpan = 8; // update if you change columns
+      tdF.innerHTML = `<span class="week-meta">${avgTxt} · ${recTxt} · End Elo: ${endElo}</span>`;
+      trF.appendChild(tdF);
+      tbody.appendChild(trF);
     });
 
     matchCount.textContent = `${totalRows} match${totalRows === 1 ? "" : "es"}`;
