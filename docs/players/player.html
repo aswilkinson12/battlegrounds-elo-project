@@ -385,7 +385,7 @@
 
       document.getElementById("title").textContent = playerData.player;
       document.getElementById("playerName").textContent = playerData.player;
-      document.getElementById("eloPill").textContent = `Elo: ${safeNum(playerData.elo).toFixed(2)}`;
+      document.getElementById("eloPill").textContent = `Rating: ${safeNum(playerData.elo).toFixed(2)}`;
       document.getElementById("recordPill").textContent =
         `W-L-D: ${playerData.wins}-${playerData.losses}-${playerData.draws}`;
       const matchCount = Array.isArray(playerData.matches) ? playerData.matches.length : (playerData.games ?? 0);
