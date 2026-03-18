@@ -61,6 +61,13 @@
       height: 12px;
       background: transparent;
     }
+    .week-colheads td{
+      background: #ffffff;
+      font-weight: 800;
+      color: #223;
+      border-top: 1px solid #eef0f7;
+      border-bottom: 1px solid #eef0f7;
+    }
 
     input {
       width: min(420px, 100%); padding: 10px 12px; border-radius: 10px;
@@ -74,7 +81,7 @@
       <h1 id="title">Player</h1>
       <nav>
         <a href="../index.html">Leaderboard</a>
-        <a href="../player.html">Player Search</a>
+        <a href="player.html">Player Search</a>
       </nav>
     </div>
   </header>
@@ -314,6 +321,21 @@
       `;
       trH.appendChild(tdH);
       tbody.appendChild(trH);
+      // Per-week column headers (grouped mode only)
+      const trC = document.createElement("tr");
+      trC.className = "week-colheads";
+
+      // These columns match your grouped header (6 cols)
+      const labels = ["Round", "Opponent", "Opp Elo", "Result", "Δ", "New Rating"];
+
+      labels.forEach((txt, i) => {
+        const td = document.createElement("td");
+        td.textContent = txt;
+        if (txt === "Round" || txt === "Opp Elo" || txt === "Δ" || txt === "New Rating") td.className = "num";
+        trC.appendChild(td);
+      });
+
+      tbody.appendChild(trC);
 
       // Match rows (Round 1 -> 5)
       listAsc.forEach(m => {
@@ -382,6 +404,7 @@
   async function loadPlayersIndex() {
     let playerList = await getPlayersIndex();
     nameToSlug = new Map(playerList.map(p => [normName(p.player), String(p.slug)]));
+    console.log("Loaded players_index:", nameToSlug.size);
     if (!playerList.ok) throw new Error(`HTTP ${playerList.status}`);
     playerList = await playerList.json();
 
