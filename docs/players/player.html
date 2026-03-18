@@ -42,6 +42,14 @@
       border-top: 1px solid #eef0f7;
     }
     .week-meta { font-weight: 600; color: #556; margin-left: 8px; }
+    .week-row{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .week-left{ font-weight: 800; color: #223; }
+    .week-right{ font-weight: 700; color: #556; margin-left: auto; text-align: right; }
     .week-header .meta {
       font-weight: 600;
       color: #556;
@@ -266,7 +274,12 @@
       trH.className = "week-header";
       const tdH = document.createElement("td");
       tdH.colSpan = 8; // update if you change columns
-      tdH.innerHTML = `${wk} <span class="week-meta">Start Elo: ${startElo}</span>`;
+      tdH.innerHTML = `
+        <div class="week-row">
+          <span class="week-left">${wk}</span>
+          <span class="week-right">Start Elo: ${startElo}</span>
+        </div>
+      `;
       trH.appendChild(tdH);
       tbody.appendChild(trH);
 
@@ -286,7 +299,12 @@
       trF.className = "week-footer";
       const tdF = document.createElement("td");
       tdF.colSpan = 8; // update if you change columns
-      tdF.innerHTML = `<span class="week-meta">${avgTxt} · ${recTxt} · End Elo: ${endElo}</span>`;
+      tdF.innerHTML = `
+        <div class="week-row">
+          <span class="week-left">${recTxt}</span>
+          <span class="week-right">${avgTxt} · End Elo: ${endElo}</span>
+        </div>
+      `;
       trF.appendChild(tdF);
       tbody.appendChild(trF);
     });
