@@ -62,7 +62,7 @@
         <div class="meta">
           <span class="pill" id="eloPill">Elo: —</span>
           <span class="pill" id="recordPill">W-L-D: —</span>
-          <span class="pill" id="gamesPill">Games: —</span>
+          <span class="pill" id="matchesPill">Matches: —</span>
         </div>
       </div>
 
@@ -261,7 +261,7 @@
       document.getElementById("eloPill").textContent = `Elo: ${safeNum(playerData.elo).toFixed(2)}`;
       document.getElementById("recordPill").textContent =
         `W-L-D: ${playerData.wins}-${playerData.losses}-${playerData.draws}`;
-      document.getElementById("gamesPill").textContent = `Games: ${playerData.games}`;
+      document.getElementById("matchesPill").textContent = `Matches: ${playerData.matches}`;
 
       allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];
       // newest first

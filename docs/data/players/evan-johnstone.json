@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1378.67,
+  "elo": 1366.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1484.0,
+      "elo_after": 1482.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,8 +19,8 @@
       "opponent": "Jonathon Streker",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1484.0,
-      "elo_after": 1468.7363,
+      "elo_before": 1482.0,
+      "elo_after": 1464.9317,
       "opp_elo": 1500.0
     },
     {
@@ -29,8 +29,8 @@
       "opponent": "Timothy Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1468.7363,
-      "elo_after": 1486.1722,
+      "elo_before": 1464.9317,
+      "elo_after": 1484.7424,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1486.1722,
-      "elo_after": 1502.1045,
-      "opp_elo": 1484.7024
+      "elo_before": 1484.7424,
+      "elo_after": 1502.6461,
+      "opp_elo": 1482.8834
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -49,9 +49,9 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.1045,
-      "elo_after": 1518.0415,
-      "opp_elo": 1500.7363
+      "elo_before": 1502.6461,
+      "elo_after": 1520.5573,
+      "opp_elo": 1500.9317
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,9 +59,9 @@
       "opponent": "Ran Guo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.0415,
-      "elo_after": 1502.0077,
-      "opp_elo": 1517.3068
+      "elo_before": 1520.5573,
+      "elo_after": 1502.5091,
+      "opp_elo": 1519.6282
     },
     {
       "week": "26-2-13",
@@ -69,8 +69,8 @@
       "opponent": "Devon O'Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.0077,
-      "elo_after": 1485.9152,
+      "elo_before": 1502.5091,
+      "elo_after": 1484.3791,
       "opp_elo": 1500.0
     },
     {
@@ -79,8 +79,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1485.9152,
-      "elo_after": 1502.5635,
+      "elo_before": 1484.3791,
+      "elo_after": 1503.1879,
       "opp_elo": 1500.0
     },
     {
@@ -89,9 +89,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.5635,
-      "elo_after": 1484.4127,
-      "opp_elo": 1455.5759
+      "elo_before": 1503.1879,
+      "elo_after": 1482.4786,
+      "opp_elo": 1450.4921
     },
     {
       "week": "26-2-13",
@@ -99,9 +99,9 @@
       "opponent": "Amber Cronin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1484.4127,
-      "elo_after": 1466.1138,
-      "opp_elo": 1434.1457
+      "elo_before": 1482.4786,
+      "elo_after": 1461.6629,
+      "opp_elo": 1427.6818
     },
     {
       "week": "26-2-13",
@@ -109,9 +109,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1466.1138,
-      "elo_after": 1482.3928,
-      "opp_elo": 1472.1717
+      "elo_before": 1461.6629,
+      "elo_after": 1480.0502,
+      "opp_elo": 1469.1384
     },
     {
       "week": "26-2-20",
@@ -119,8 +119,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.3928,
-      "elo_after": 1499.2029,
+      "elo_before": 1480.0502,
+      "elo_after": 1499.0826,
       "opp_elo": 1500.0
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.2029,
-      "elo_after": 1482.5508,
-      "opp_elo": 1485.033
+      "elo_before": 1499.0826,
+      "elo_after": 1480.2679,
+      "opp_elo": 1483.3458
     },
     {
       "week": "26-2-20",
@@ -139,9 +139,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.5508,
-      "elo_after": 1469.9673,
-      "opp_elo": 1557.8994
+      "elo_before": 1480.2679,
+      "elo_after": 1466.5415,
+      "opp_elo": 1564.3619
     },
     {
       "week": "26-2-20",
@@ -149,8 +149,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1469.9673,
-      "elo_after": 1455.3469,
+      "elo_before": 1466.5415,
+      "elo_after": 1450.2696,
       "opp_elo": 1500.0
     },
     {
@@ -159,9 +159,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1455.3469,
-      "elo_after": 1437.7406,
-      "opp_elo": 1420.348
+      "elo_before": 1450.2696,
+      "elo_after": 1430.2953,
+      "opp_elo": 1412.009
     },
     {
       "week": "26-2-27",
@@ -169,9 +169,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1437.7406,
-      "elo_after": 1425.4143,
-      "opp_elo": 1518.963
+      "elo_before": 1430.2953,
+      "elo_after": 1416.9218,
+      "opp_elo": 1521.643
     },
     {
       "week": "26-2-27",
@@ -179,9 +179,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1425.4143,
-      "elo_after": 1413.0903,
-      "opp_elo": 1506.6884
+      "elo_before": 1416.9218,
+      "elo_after": 1403.5469,
+      "opp_elo": 1508.2429
     },
     {
       "week": "26-2-27",
@@ -189,9 +189,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1413.0903,
-      "elo_after": 1432.7254,
-      "opp_elo": 1493.4275
+      "elo_before": 1403.5469,
+      "elo_after": 1426.0273,
+      "opp_elo": 1491.8821
     },
     {
       "week": "26-2-27",
@@ -199,9 +199,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.7254,
-      "elo_after": 1416.6297,
-      "opp_elo": 1430.6457
+      "elo_before": 1426.0273,
+      "elo_after": 1407.9543,
+      "opp_elo": 1424.6182
     },
     {
       "week": "26-2-27",
@@ -209,9 +209,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1416.6297,
-      "elo_after": 1432.2219,
-      "opp_elo": 1407.7722
+      "elo_before": 1407.9543,
+      "elo_after": 1425.468,
+      "opp_elo": 1398.5661
     },
     {
       "week": "26-3-07",
@@ -219,8 +219,8 @@
       "opponent": "Chris Daniel",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.2219,
-      "elo_after": 1419.3042,
+      "elo_before": 1425.468,
+      "elo_after": 1411.2712,
       "opp_elo": 1500.0
     },
     {
@@ -229,9 +229,9 @@
       "opponent": "Patrick Brooks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1419.3042,
-      "elo_after": 1406.2495,
-      "opp_elo": 1484.0
+      "elo_before": 1411.2712,
+      "elo_after": 1396.8858,
+      "opp_elo": 1482.0
     },
     {
       "week": "26-3-07",
@@ -239,9 +239,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1406.2495,
-      "elo_after": 1390.4063,
-      "opp_elo": 1409.6542
+      "elo_before": 1396.8858,
+      "elo_after": 1379.137,
+      "opp_elo": 1401.7357
     },
     {
       "week": "26-3-07",
@@ -249,9 +249,9 @@
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1390.4063,
-      "elo_after": 1376.4236,
-      "opp_elo": 1434.4445
+      "elo_before": 1379.137,
+      "elo_after": 1363.6276,
+      "opp_elo": 1427.5198
     },
     {
       "week": "26-3-07",
@@ -259,9 +259,9 @@
       "opponent": "Pan Rasking",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1376.4236,
-      "elo_after": 1378.6688,
-      "opp_elo": 1425.5017
+      "elo_before": 1363.6276,
+      "elo_after": 1366.298,
+      "opp_elo": 1415.5559
     }
   ],
   "wins": 8,

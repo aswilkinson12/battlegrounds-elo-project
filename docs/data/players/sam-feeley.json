@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1486.37,
+  "elo": 1484.99,
   "matches": [
     {
       "week": "26-3-13",
@@ -10,7 +10,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1497.9235,
-      "opp_elo": 1470.6535
+      "elo_before": 1518.0,
+      "elo_after": 1497.473,
+      "opp_elo": 1468.8987
     },
     {
       "week": "26-3-13",
@@ -29,9 +29,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1497.9235,
-      "elo_after": 1486.3697,
-      "opp_elo": 1597.0792
+      "elo_before": 1497.473,
+      "elo_after": 1484.988,
+      "opp_elo": 1607.4575
     }
   ],
   "wins": 1,

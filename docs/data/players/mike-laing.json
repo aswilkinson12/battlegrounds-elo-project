@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1526.97,
+  "elo": 1527.56,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
+      "elo_before": 1518.0,
       "elo_after": 1500.0,
-      "opp_elo": 1516.0
+      "opp_elo": 1518.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -30,8 +30,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1515.2637,
-      "opp_elo": 1484.0
+      "elo_after": 1517.0683,
+      "opp_elo": 1482.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -39,8 +39,8 @@
       "opponent": "Benjamin Wakefield",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.2637,
-      "elo_after": 1530.5612,
+      "elo_before": 1517.0683,
+      "elo_after": 1534.1847,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1530.5612,
-      "elo_after": 1514.6259,
-      "opp_elo": 1531.9662
+      "elo_before": 1534.1847,
+      "elo_after": 1516.2763,
+      "opp_elo": 1535.9519
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,9 +59,9 @@
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1514.6259,
-      "elo_after": 1530.6908,
-      "opp_elo": 1516.0338
+      "elo_before": 1516.2763,
+      "elo_after": 1534.3681,
+      "opp_elo": 1518.0481
     },
     {
       "week": "26-2-13",
@@ -69,9 +69,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.6908,
-      "elo_after": 1545.9165,
-      "opp_elo": 1513.8658
+      "elo_before": 1534.3681,
+      "elo_after": 1551.3818,
+      "opp_elo": 1515.3123
     },
     {
       "week": "26-2-13",
@@ -79,8 +79,8 @@
       "opponent": "Karl Rookey",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.9165,
-      "elo_after": 1559.8142,
+      "elo_before": 1551.3818,
+      "elo_after": 1566.7391,
       "opp_elo": 1500.0
     },
     {
@@ -89,8 +89,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.8142,
-      "elo_after": 1573.0866,
+      "elo_before": 1566.7391,
+      "elo_after": 1581.3233,
       "opp_elo": 1500.0
     },
     {
@@ -99,9 +99,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.0866,
-      "elo_after": 1558.8436,
-      "opp_elo": 1611.3952
+      "elo_before": 1581.3233,
+      "elo_after": 1565.4869,
+      "opp_elo": 1623.2865
     },
     {
       "week": "26-3-07",
@@ -109,8 +109,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.8436,
-      "elo_after": 1572.1594,
+      "elo_before": 1565.4869,
+      "elo_after": 1580.1337,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1572.1594,
-      "elo_after": 1585.3415,
-      "opp_elo": 1510.324
+      "elo_before": 1580.1337,
+      "elo_after": 1594.6037,
+      "opp_elo": 1511.1036
     },
     {
       "week": "26-3-07",
@@ -129,9 +129,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1585.3415,
-      "elo_after": 1573.1194,
-      "opp_elo": 1668.9557
+      "elo_before": 1594.6037,
+      "elo_after": 1581.1475,
+      "opp_elo": 1684.2441
     },
     {
       "week": "26-3-07",
@@ -139,9 +139,9 @@
       "opponent": "Bailey Sarkis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.1194,
-      "elo_after": 1554.5809,
-      "opp_elo": 1517.5266
+      "elo_before": 1581.1475,
+      "elo_after": 1560.0035,
+      "opp_elo": 1519.8342
     },
     {
       "week": "26-3-07",
@@ -149,9 +149,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1554.5809,
-      "elo_after": 1572.9403,
-      "opp_elo": 1606.1911
+      "elo_before": 1560.0035,
+      "elo_after": 1580.6822,
+      "opp_elo": 1612.0954
     },
     {
       "week": "26-3-13",
@@ -159,9 +159,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1572.9403,
-      "elo_after": 1557.112,
-      "opp_elo": 1576.6685
+      "elo_before": 1580.6822,
+      "elo_after": 1562.7764,
+      "opp_elo": 1582.4996
     },
     {
       "week": "26-3-13",
@@ -169,9 +169,9 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1557.112,
-      "elo_after": 1534.4792,
-      "opp_elo": 1403.8607
+      "elo_before": 1562.7764,
+      "elo_after": 1536.6561,
+      "opp_elo": 1393.8838
     },
     {
       "week": "26-3-13",
@@ -179,9 +179,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1534.4792,
-      "elo_after": 1545.037,
-      "opp_elo": 1411.4018
+      "elo_before": 1536.6561,
+      "elo_after": 1548.0345,
+      "opp_elo": 1402.561
     },
     {
       "week": "26-3-13",
@@ -189,8 +189,8 @@
       "opponent": "Hazel Green",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1545.037,
-      "elo_after": 1526.9745,
+      "elo_before": 1548.0345,
+      "elo_after": 1527.5616,
       "opp_elo": 1500.0
     }
   ],

@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1470.62,
+  "elo": 1469.15,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1484.0,
+      "elo_after": 1482.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,8 +19,8 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1484.0,
-      "elo_after": 1468.7363,
+      "elo_before": 1482.0,
+      "elo_after": 1464.9317,
       "opp_elo": 1500.0
     },
     {
@@ -29,8 +29,8 @@
       "opponent": "Graham Bateman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.7363,
-      "elo_after": 1454.1722,
+      "elo_before": 1464.9317,
+      "elo_after": 1448.7424,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1454.1722,
-      "elo_after": 1438.9404,
-      "opp_elo": 1470.8672
+      "elo_before": 1448.7424,
+      "elo_after": 1431.7191,
+      "opp_elo": 1467.6141
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -49,9 +49,9 @@
       "opponent": "Phil Iwanow",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1438.9404,
-      "elo_after": 1439.637,
-      "opp_elo": 1454.0753
+      "elo_before": 1431.7191,
+      "elo_after": 1432.5933,
+      "opp_elo": 1448.6053
     },
     {
       "week": "26-2-13",
@@ -59,8 +59,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1439.637,
-      "elo_after": 1458.3892,
+      "elo_before": 1432.5933,
+      "elo_after": 1454.0423,
       "opp_elo": 1500.0
     },
     {
@@ -69,9 +69,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1458.3892,
-      "elo_after": 1446.2492,
-      "opp_elo": 1543.8939
+      "elo_before": 1454.0423,
+      "elo_after": 1440.836,
+      "opp_elo": 1548.8542
     },
     {
       "week": "26-2-13",
@@ -79,9 +79,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1446.2492,
-      "elo_after": 1434.1457,
-      "opp_elo": 1532.5964
+      "elo_before": 1440.836,
+      "elo_after": 1427.6818,
+      "opp_elo": 1536.7324
     },
     {
       "week": "26-2-13",
@@ -89,9 +89,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1434.1457,
-      "elo_after": 1452.4446,
-      "opp_elo": 1484.4127
+      "elo_before": 1427.6818,
+      "elo_after": 1448.4974,
+      "opp_elo": 1482.4786
     },
     {
       "week": "26-2-13",
@@ -99,8 +99,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1452.4446,
-      "elo_after": 1470.621,
+      "elo_before": 1448.4974,
+      "elo_after": 1469.1462,
       "opp_elo": 1500.0
     }
   ],

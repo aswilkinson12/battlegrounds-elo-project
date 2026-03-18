@@ -1,7 +1,7 @@
 {
   "player": "Joel Brook",
   "slug": "joel-brook",
-  "elo": 1531.3,
+  "elo": 1535.12,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1484.0,
+      "elo_after": 1482.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Elias Medrano",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.0,
+      "elo_before": 1482.0,
       "elo_after": 1500.0,
-      "opp_elo": 1484.0
+      "opp_elo": 1482.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -30,7 +30,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -39,8 +39,8 @@
       "opponent": "Sam White",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1499.2637,
+      "elo_before": 1518.0,
+      "elo_after": 1499.0683,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.2637,
-      "elo_after": 1515.2653,
-      "opp_elo": 1499.2976
+      "elo_before": 1499.0683,
+      "elo_after": 1517.0708,
+      "opp_elo": 1499.1166
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -59,9 +59,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.2653,
-      "elo_after": 1531.299,
-      "opp_elo": 1515.9985
+      "elo_before": 1517.0708,
+      "elo_after": 1535.1188,
+      "opp_elo": 1517.9976
     }
   ],
   "wins": 4,

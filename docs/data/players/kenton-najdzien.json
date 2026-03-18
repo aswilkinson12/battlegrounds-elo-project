@@ -1,7 +1,7 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1591.84,
+  "elo": 1602.62,
   "matches": [
     {
       "week": "26-2-13",
@@ -10,7 +10,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.0,
-      "elo_after": 1532.0254,
-      "opp_elo": 1516.5508
+      "elo_before": 1518.0,
+      "elo_after": 1536.0347,
+      "opp_elo": 1518.6706
     },
     {
       "week": "26-2-13",
@@ -29,9 +29,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1532.0254,
-      "elo_after": 1518.5071,
-      "opp_elo": 1586.3535
+      "elo_before": 1536.0347,
+      "elo_after": 1521.1066,
+      "opp_elo": 1595.9137
     },
     {
       "week": "26-2-13",
@@ -39,8 +39,8 @@
       "opponent": "Karl Rookey",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.5071,
-      "elo_after": 1533.6556,
+      "elo_before": 1521.1066,
+      "elo_after": 1538.0145,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1533.6556,
-      "elo_after": 1517.044,
-      "opp_elo": 1520.3692
+      "elo_before": 1538.0145,
+      "elo_after": 1519.2636,
+      "opp_elo": 1523.513
     },
     {
       "week": "26-2-27",
@@ -59,9 +59,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.044,
-      "elo_after": 1504.005,
-      "opp_elo": 1582.0911
+      "elo_before": 1519.2636,
+      "elo_after": 1504.9987,
+      "opp_elo": 1592.42
     },
     {
       "week": "26-2-27",
@@ -69,8 +69,8 @@
       "opponent": "Josh Kibbe",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.005,
-      "elo_after": 1519.8206,
+      "elo_before": 1504.9987,
+      "elo_after": 1522.7397,
       "opp_elo": 1500.0
     },
     {
@@ -79,8 +79,8 @@
       "opponent": "Jonathon Streker",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.8206,
-      "elo_after": 1502.9088,
+      "elo_before": 1522.7397,
+      "elo_after": 1503.5633,
       "opp_elo": 1500.0
     },
     {
@@ -89,9 +89,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.9088,
-      "elo_after": 1515.1627,
-      "opp_elo": 1420.0261
+      "elo_before": 1503.5633,
+      "elo_after": 1516.9228,
+      "opp_elo": 1411.9256
     },
     {
       "week": "26-2-27",
@@ -99,9 +99,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1515.1627,
-      "elo_after": 1528.0519,
-      "opp_elo": 1446.7415
+      "elo_before": 1516.9228,
+      "elo_after": 1531.1345,
+      "opp_elo": 1442.6912
     },
     {
       "week": "26-3-13",
@@ -109,8 +109,8 @@
       "opponent": "Hazel Green",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1528.0519,
-      "elo_after": 1542.7629,
+      "elo_before": 1531.1345,
+      "elo_after": 1547.5258,
       "opp_elo": 1500.0
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "James Farley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1542.7629,
-      "elo_after": 1556.8035,
+      "elo_before": 1547.5258,
+      "elo_after": 1563.0788,
       "opp_elo": 1500.0
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1556.8035,
-      "elo_after": 1574.2579,
-      "opp_elo": 1588.4726
+      "elo_before": 1563.0788,
+      "elo_after": 1582.6953,
+      "opp_elo": 1594.3651
     },
     {
       "week": "26-3-13",
@@ -139,9 +139,9 @@
       "opponent": "Amy Altman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1574.2579,
-      "elo_after": 1591.8358,
-      "opp_elo": 1608.6329
+      "elo_before": 1582.6953,
+      "elo_after": 1602.6177,
+      "opp_elo": 1619.9425
     },
     {
       "week": "26-3-13",
@@ -149,9 +149,9 @@
       "opponent": "Milo Brown",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1591.8358,
-      "elo_after": 1591.8358,
-      "opp_elo": 1633.0978
+      "elo_before": 1602.6177,
+      "elo_after": 1602.6177,
+      "opp_elo": 1645.6076
     }
   ],
   "wins": 10,

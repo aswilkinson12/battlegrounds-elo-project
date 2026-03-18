@@ -1,7 +1,7 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1520.47,
+  "elo": 1523.52,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -10,7 +10,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -19,9 +19,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
+      "elo_before": 1518.0,
       "elo_after": 1500.0,
-      "opp_elo": 1516.0
+      "opp_elo": 1518.0
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -30,7 +30,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.0,
+      "elo_after": 1518.0,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.0,
-      "elo_after": 1499.9984,
-      "opp_elo": 1515.9661
+      "elo_before": 1518.0,
+      "elo_after": 1499.9975,
+      "opp_elo": 1517.9517
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -49,8 +49,8 @@
       "opponent": "Benjamin Wakefield",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.9984,
-      "elo_after": 1515.9985,
+      "elo_before": 1499.9975,
+      "elo_after": 1517.9976,
       "opp_elo": 1500.0
     },
     {
@@ -59,9 +59,9 @@
       "opponent": "Joel Brook",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.9985,
-      "elo_after": 1499.9647,
-      "opp_elo": 1515.2653
+      "elo_before": 1517.9976,
+      "elo_after": 1499.9496,
+      "opp_elo": 1517.0708
     },
     {
       "week": "26-3-13",
@@ -69,9 +69,9 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.9647,
-      "elo_after": 1487.6802,
-      "opp_elo": 1582.1435
+      "elo_before": 1499.9496,
+      "elo_after": 1486.5518,
+      "opp_elo": 1590.7966
     },
     {
       "week": "26-3-13",
@@ -79,9 +79,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1487.6802,
-      "elo_after": 1500.8034,
-      "opp_elo": 1424.5251
+      "elo_before": 1486.5518,
+      "elo_after": 1500.9961,
+      "opp_elo": 1417.0053
     },
     {
       "week": "26-3-13",
@@ -89,9 +89,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.8034,
-      "elo_after": 1519.7008,
-      "opp_elo": 1564.4221
+      "elo_before": 1500.9961,
+      "elo_after": 1522.6334,
+      "opp_elo": 1572.1829
     },
     {
       "week": "26-3-13",
@@ -99,9 +99,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.7008,
-      "elo_after": 1504.6867,
-      "opp_elo": 1541.1362
+      "elo_before": 1522.6334,
+      "elo_after": 1505.8206,
+      "opp_elo": 1545.5811
     },
     {
       "week": "26-3-13",
@@ -109,8 +109,8 @@
       "opponent": "James Farley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.6867,
-      "elo_after": 1520.4709,
+      "elo_before": 1505.8206,
+      "elo_after": 1523.519,
       "opp_elo": 1500.0
     }
   ],
