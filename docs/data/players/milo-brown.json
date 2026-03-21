@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1651.64,
+  "elo": 1562.0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -212,9 +212,59 @@
       "elo_before": 1651.6421,
       "elo_after": 1651.6421,
       "opp_elo": 1607.9462
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1651.6421,
+      "elo_after": 1619.6264,
+      "opp_elo": 1360.3007
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1619.6264,
+      "elo_after": 1596.7854,
+      "opp_elo": 1548.4093
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Philip Watson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1596.7854,
+      "elo_after": 1572.6254,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1572.6254,
+      "elo_after": 1545.4686,
+      "opp_elo": 1413.1376
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Brooks Kowal",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.4686,
+      "elo_after": 1561.9962,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 14,
-  "losses": 3,
+  "wins": 15,
+  "losses": 7,
   "draws": 4
 }

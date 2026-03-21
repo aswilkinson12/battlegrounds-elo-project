@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1466.45,
+  "elo": 1530.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -302,9 +302,59 @@
       "elo_before": 1480.6663,
       "elo_after": 1466.4491,
       "opp_elo": 1570.0449
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1466.4491,
+      "elo_after": 1487.2782,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1487.2782,
+      "elo_after": 1511.4483,
+      "opp_elo": 1584.2622
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Sam Feeley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1511.4483,
+      "elo_after": 1528.7785,
+      "opp_elo": 1480.8351
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1528.7785,
+      "elo_after": 1516.0718,
+      "opp_elo": 1648.3681
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.0718,
+      "elo_after": 1530.9418,
+      "opp_elo": 1439.3251
     }
   ],
-  "wins": 12,
-  "losses": 18,
+  "wins": 16,
+  "losses": 19,
   "draws": 0
 }

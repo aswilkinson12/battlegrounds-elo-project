@@ -1,0 +1,21 @@
+Round 5
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      David Van Hise               Anthony Wilkinson            15-12   
+2      Dani Masom                   Tom Kessler                  10-12   
+3      Raul Bottrell-Rogers         Devon O’Donnell              9-12    
+4      Will Bellows                 Evan Johnstone               12-9    
+5      Nathan Choi                  Logan Hesch                  12-9    
+6      Hex Dowd                     Daniel Hernandez             12-7    
+7      Sam Feeley                   Amber Cronin                 9-6     
+8      Thomas Kotcher               Amy Altman                   6-9     
+9      Sean Thornton                Sean Marks                   6-9     
+10     Becca Blackwood              Jonathon Torchia             9-6     
+11     Stella Burfeind              Jarrod Haase                6-9     
+12     Patrick Brooks               Reya Truher                  6-9     
+13     Jack Henry                   Gina Millott                9-3     
+14     Mike Adams                   Jeremy O'Brien               3-6     
+15     Phil iwanow                  Stan Kornacki                3-6     
+16     Philip Watson                Andy Perez                   4-4     
+17     Milo Brown                   Brooks Kowal                 3-0

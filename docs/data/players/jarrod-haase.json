@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1419.66,
+  "elo": 1461.39,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -282,9 +282,59 @@
       "elo_before": 1435.1563,
       "elo_after": 1419.6618,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Sam Feeley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1419.6618,
+      "elo_after": 1404.1575,
+      "opp_elo": 1484.3213
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1404.1575,
+      "elo_after": 1428.2698,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1428.2698,
+      "elo_after": 1413.1376,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1413.1376,
+      "elo_after": 1440.2944,
+      "opp_elo": 1572.6254
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1440.2944,
+      "elo_after": 1461.3889,
+      "opp_elo": 1478.7515
     }
   ],
-  "wins": 8,
-  "losses": 18,
+  "wins": 11,
+  "losses": 20,
   "draws": 2
 }

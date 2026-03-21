@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1381.64,
+  "elo": 1368.97,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -232,9 +232,49 @@
       "elo_before": 1396.2605,
       "elo_after": 1381.6443,
       "opp_elo": 1477.8931
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Jeremy O'Brien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1381.6443,
+      "elo_after": 1368.8775,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1368.8775,
+      "elo_after": 1396.3784,
+      "opp_elo": 1536.1553
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1396.3784,
+      "elo_after": 1379.8003,
+      "opp_elo": 1440.9074
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1379.8003,
+      "elo_after": 1368.968,
+      "opp_elo": 1539.5332
     }
   ],
-  "wins": 5,
-  "losses": 15,
+  "wins": 6,
+  "losses": 18,
   "draws": 3
 }

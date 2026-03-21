@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1360.3,
+  "elo": 1424.33,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,59 @@
       "elo_before": 1357.4157,
       "elo_after": 1360.3007,
       "opp_elo": 1410.5812
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1360.3007,
+      "elo_after": 1392.3164,
+      "opp_elo": 1651.6421
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1392.3164,
+      "elo_after": 1422.3451,
+      "opp_elo": 1622.7183
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1422.3451,
+      "elo_after": 1417.0862,
+      "opp_elo": 1740.0257
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1417.0862,
+      "elo_after": 1440.083,
+      "opp_elo": 1491.278
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1440.083,
+      "elo_after": 1424.3275,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 8,
-  "losses": 17,
+  "wins": 11,
+  "losses": 19,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1525.07,
+  "elo": 1539.81,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -112,9 +112,59 @@
       "elo_before": 1506.4224,
       "elo_after": 1525.0712,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1525.0712,
+      "elo_after": 1542.7025,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1542.7025,
+      "elo_after": 1526.8238,
+      "opp_elo": 1600.3003
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.8238,
+      "elo_after": 1545.6561,
+      "opp_elo": 1523.7563
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.6561,
+      "elo_after": 1562.1736,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1562.1736,
+      "elo_after": 1539.8094,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 6,
-  "losses": 5,
+  "wins": 9,
+  "losses": 7,
   "draws": 0
 }

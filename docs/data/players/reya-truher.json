@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1481.68,
+  "elo": 1477.08,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -212,9 +212,49 @@
       "elo_before": 1504.2903,
       "elo_after": 1481.6787,
       "opp_elo": 1437.4352
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.6787,
+      "elo_after": 1457.6002,
+      "opp_elo": 1386.5019
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.6002,
+      "elo_after": 1440.9074,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1440.9074,
+      "elo_after": 1457.4856,
+      "opp_elo": 1396.3784
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.4856,
+      "elo_after": 1477.0758,
+      "opp_elo": 1468.2813
     }
   ],
-  "wins": 10,
-  "losses": 11,
+  "wins": 12,
+  "losses": 13,
   "draws": 0
 }

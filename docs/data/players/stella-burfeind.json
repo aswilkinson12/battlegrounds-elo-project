@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1492.51,
+  "elo": 1457.66,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -252,9 +252,49 @@
       "elo_before": 1477.8931,
       "elo_after": 1492.5093,
       "opp_elo": 1396.2605
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1492.5093,
+      "elo_after": 1475.0746,
+      "opp_elo": 1521.1981
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1475.0746,
+      "elo_after": 1457.4354,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Jeremy O'Brien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.4354,
+      "elo_after": 1478.7515,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1478.7515,
+      "elo_after": 1457.657,
+      "opp_elo": 1440.2944
     }
   ],
-  "wins": 13,
-  "losses": 12,
+  "wins": 14,
+  "losses": 15,
   "draws": 0
 }

@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1585.9,
+  "elo": 1588.75,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -202,9 +202,59 @@
       "elo_before": 1565.4741,
       "elo_after": 1585.9047,
       "opp_elo": 1591.6827
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "jayson chandler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1585.9047,
+      "elo_after": 1600.3003,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.3003,
+      "elo_after": 1616.179,
+      "opp_elo": 1542.7025
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1616.179,
+      "elo_after": 1597.9416,
+      "opp_elo": 1630.1306
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1597.9416,
+      "elo_after": 1573.723,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.723,
+      "elo_after": 1588.7508,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 12,
-  "losses": 7,
+  "wins": 15,
+  "losses": 9,
   "draws": 1
 }

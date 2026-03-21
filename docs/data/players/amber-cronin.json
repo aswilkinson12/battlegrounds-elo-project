@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1468.56,
+  "elo": 1459.46,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -102,9 +102,59 @@
       "elo_before": 1446.6634,
       "elo_after": 1468.5575,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.5575,
+      "elo_after": 1489.2723,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.2723,
+      "elo_after": 1471.3666,
+      "opp_elo": 1509.3055
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.3666,
+      "elo_after": 1496.7442,
+      "opp_elo": 1592.6897
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1496.7442,
+      "elo_after": 1477.9223,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Sam Feeley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1477.9223,
+      "elo_after": 1459.4648,
+      "opp_elo": 1487.846
     }
   ],
-  "wins": 3,
-  "losses": 6,
+  "wins": 5,
+  "losses": 9,
   "draws": 1
 }

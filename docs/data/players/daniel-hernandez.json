@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1386.5,
+  "elo": 1424.46,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -222,9 +222,49 @@
       "elo_before": 1398.2673,
       "elo_after": 1386.5019,
       "opp_elo": 1537.5745
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1386.5019,
+      "elo_after": 1410.5804,
+      "opp_elo": 1481.6787
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Jeremy O'Brien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1410.5804,
+      "elo_after": 1434.3652,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1434.3652,
+      "elo_after": 1439.3251,
+      "opp_elo": 1527.2111
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1439.3251,
+      "elo_after": 1424.4552,
+      "opp_elo": 1516.0718
     }
   ],
-  "wins": 7,
-  "losses": 15,
-  "draws": 0
+  "wins": 9,
+  "losses": 16,
+  "draws": 1
 }

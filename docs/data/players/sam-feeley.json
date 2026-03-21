@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1484.32,
+  "elo": 1506.3,
   "matches": [
     {
       "week": "26-3-13",
@@ -32,9 +32,59 @@
       "elo_before": 1497.238,
       "elo_after": 1484.3213,
       "opp_elo": 1612.5307
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.3213,
+      "elo_after": 1499.8256,
+      "opp_elo": 1419.6618
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.8256,
+      "elo_after": 1480.8351,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1480.8351,
+      "elo_after": 1463.5049,
+      "opp_elo": 1511.4483
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1463.5049,
+      "elo_after": 1487.846,
+      "opp_elo": 1563.8743
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1487.846,
+      "elo_after": 1506.3034,
+      "opp_elo": 1477.9223
     }
   ],
-  "wins": 1,
-  "losses": 2,
+  "wins": 4,
+  "losses": 4,
   "draws": 0
 }

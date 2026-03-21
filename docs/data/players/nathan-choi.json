@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1571.25,
+  "elo": 1617.56,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,59 @@
       "elo_before": 1591.6827,
       "elo_after": 1571.2521,
       "opp_elo": 1565.4741
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1571.2521,
+      "elo_after": 1548.4093,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1548.4093,
+      "elo_after": 1571.2503,
+      "opp_elo": 1619.6264
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Jeremy O'Brien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.2503,
+      "elo_after": 1586.4076,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1586.4076,
+      "elo_after": 1600.7773,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.7773,
+      "elo_after": 1617.5625,
+      "opp_elo": 1560.0921
     }
   ],
-  "wins": 16,
-  "losses": 8,
+  "wins": 20,
+  "losses": 9,
   "draws": 2
 }

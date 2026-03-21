@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1470.32,
+  "elo": 1448.69,
   "matches": [
     {
       "week": "26-3-07",
@@ -52,9 +52,59 @@
       "elo_before": 1495.4179,
       "elo_after": 1470.3226,
       "opp_elo": 1379.8797
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.3226,
+      "elo_after": 1490.9416,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1490.9416,
+      "elo_after": 1472.4369,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.4369,
+      "elo_after": 1491.278,
+      "opp_elo": 1469.5327
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1491.278,
+      "elo_after": 1468.2813,
+      "opp_elo": 1417.0862
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.2813,
+      "elo_after": 1448.6911,
+      "opp_elo": 1457.4856
     }
   ],
-  "wins": 2,
-  "losses": 3,
+  "wins": 4,
+  "losses": 6,
   "draws": 0
 }

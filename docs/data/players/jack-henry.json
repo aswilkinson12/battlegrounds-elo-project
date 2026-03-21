@@ -1,7 +1,7 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1454.28,
+  "elo": 1492.1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -212,9 +212,59 @@
       "elo_before": 1471.5151,
       "elo_after": 1454.2847,
       "opp_elo": 1503.9677
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1454.2847,
+      "elo_after": 1447.6936,
+      "opp_elo": 1725.5254
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Brooks Kowal",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1447.6936,
+      "elo_after": 1469.5327,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Patrick Brooks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.5327,
+      "elo_after": 1450.6915,
+      "opp_elo": 1472.4369
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1450.6915,
+      "elo_after": 1472.37,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.37,
+      "elo_after": 1492.0962,
+      "opp_elo": 1485.6548
     }
   ],
-  "wins": 8,
-  "losses": 12,
+  "wins": 11,
+  "losses": 14,
   "draws": 1
 }

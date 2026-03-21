@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1584.26,
+  "elo": 1543.31,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -212,9 +212,29 @@
       "elo_before": 1570.0449,
       "elo_after": 1584.2622,
       "opp_elo": 1480.6663
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.2622,
+      "elo_after": 1560.0921,
+      "opp_elo": 1487.2782
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1560.0921,
+      "elo_after": 1543.3069,
+      "opp_elo": 1600.7773
     }
   ],
   "wins": 13,
-  "losses": 8,
+  "losses": 10,
   "draws": 0
 }

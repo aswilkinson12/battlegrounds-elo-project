@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1604.34,
+  "elo": 1595.8,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -212,9 +212,59 @@
       "elo_before": 1604.345,
       "elo_after": 1604.345,
       "opp_elo": 1617.701
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1604.345,
+      "elo_after": 1622.7183,
+      "opp_elo": 1592.8822
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Evan Johnstone",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1622.7183,
+      "elo_after": 1592.6897,
+      "opp_elo": 1392.3164
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1592.6897,
+      "elo_after": 1567.3121,
+      "opp_elo": 1471.3666
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Andy Perez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1567.3121,
+      "elo_after": 1581.1631,
+      "opp_elo": 1470.7447
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1581.1631,
+      "elo_after": 1595.8036,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 13,
-  "losses": 6,
+  "wins": 16,
+  "losses": 8,
   "draws": 2
 }

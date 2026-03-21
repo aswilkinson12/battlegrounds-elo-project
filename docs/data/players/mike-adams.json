@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1558.31,
+  "elo": 1489.29,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,59 @@
       "elo_before": 1558.3147,
       "elo_after": 1558.3147,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1558.3147,
+      "elo_after": 1536.1553,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1536.1553,
+      "elo_after": 1508.6544,
+      "opp_elo": 1368.8775
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1508.6544,
+      "elo_after": 1489.1812,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Brooks Kowal",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1489.1812,
+      "elo_after": 1508.7726,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Jeremy O'Brien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1508.7726,
+      "elo_after": 1489.293,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 14,
-  "losses": 10,
+  "wins": 15,
+  "losses": 14,
   "draws": 2
 }

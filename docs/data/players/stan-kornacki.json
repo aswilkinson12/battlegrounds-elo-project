@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1592.88,
+  "elo": 1550.37,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,59 @@
       "elo_before": 1614.7107,
       "elo_after": 1592.8822,
       "opp_elo": 1562.6009
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1592.8822,
+      "elo_after": 1574.5088,
+      "opp_elo": 1604.345
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Andy Perez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1574.5088,
+      "elo_after": 1587.564,
+      "opp_elo": 1462.0293
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1587.564,
+      "elo_after": 1563.8743,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Sam Feeley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1563.8743,
+      "elo_after": 1539.5332,
+      "opp_elo": 1463.5049
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1539.5332,
+      "elo_after": 1550.3655,
+      "opp_elo": 1379.8003
     }
   ],
-  "wins": 17,
-  "losses": 6,
+  "wins": 19,
+  "losses": 9,
   "draws": 3
 }

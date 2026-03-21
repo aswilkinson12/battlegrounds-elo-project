@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1725.53,
+  "elo": 1728.83,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -312,9 +312,59 @@
       "elo_before": 1717.1325,
       "elo_after": 1725.5254,
       "opp_elo": 1498.1377
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1725.5254,
+      "elo_after": 1732.1164,
+      "opp_elo": 1454.2847
+    },
+    {
+      "week": "26-3-20",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1732.1164,
+      "elo_after": 1740.0257,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 3,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1740.0257,
+      "elo_after": 1745.2846,
+      "opp_elo": 1422.3451
+    },
+    {
+      "week": "26-3-20",
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1745.2846,
+      "elo_after": 1752.7297,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-20",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1752.7297,
+      "elo_after": 1728.8305,
+      "opp_elo": 1661.0748
     }
   ],
-  "wins": 24,
-  "losses": 5,
+  "wins": 28,
+  "losses": 6,
   "draws": 2
 }
