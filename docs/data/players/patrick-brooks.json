@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1448.69,
+  "elo": 1448.66,
   "matches": [
     {
       "week": "26-3-07",
@@ -100,8 +100,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1468.2813,
-      "elo_after": 1448.6911,
-      "opp_elo": 1457.4856
+      "elo_after": 1448.6599,
+      "opp_elo": 1456.9147
     }
   ],
   "wins": 4,

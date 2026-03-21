@@ -16,20 +16,20 @@
     "draws": 0
   },
   {
+    "player": "Nathan Choi",
+    "elo": 1618.8,
+    "matches": 31,
+    "wins": 20,
+    "losses": 9,
+    "draws": 2
+  },
+  {
     "player": "Bradley Skubic",
     "elo": 1617.7,
     "matches": 16,
     "wins": 10,
     "losses": 2,
     "draws": 4
-  },
-  {
-    "player": "Nathan Choi",
-    "elo": 1617.56,
-    "matches": 31,
-    "wins": 20,
-    "losses": 9,
-    "draws": 2
   },
   {
     "player": "Kenton Najdzien",
@@ -64,6 +64,14 @@
     "draws": 0
   },
   {
+    "player": "Logan Hesch",
+    "elo": 1564.86,
+    "matches": 25,
+    "wins": 15,
+    "losses": 10,
+    "draws": 0
+  },
+  {
     "player": "Milo Brown",
     "elo": 1562.0,
     "matches": 26,
@@ -81,19 +89,11 @@
   },
   {
     "player": "Stan Kornacki",
-    "elo": 1550.37,
+    "elo": 1549.92,
     "matches": 31,
     "wins": 19,
     "losses": 9,
     "draws": 3
-  },
-  {
-    "player": "Logan Hesch",
-    "elo": 1543.31,
-    "matches": 23,
-    "wins": 13,
-    "losses": 10,
-    "draws": 0
   },
   {
     "player": "Ran Guo",
@@ -121,7 +121,7 @@
   },
   {
     "player": "Hex Dowd",
-    "elo": 1530.94,
+    "elo": 1530.31,
     "matches": 35,
     "wins": 16,
     "losses": 19,
@@ -225,7 +225,7 @@
   },
   {
     "player": "Reya Truher",
-    "elo": 1477.08,
+    "elo": 1476.54,
     "matches": 25,
     "wins": 12,
     "losses": 13,
@@ -281,19 +281,11 @@
   },
   {
     "player": "Patrick Brooks",
-    "elo": 1448.69,
+    "elo": 1448.66,
     "matches": 10,
     "wins": 4,
     "losses": 6,
     "draws": 0
-  },
-  {
-    "player": "Daniel Hernandez",
-    "elo": 1424.46,
-    "matches": 26,
-    "wins": 9,
-    "losses": 16,
-    "draws": 1
   },
   {
     "player": "Evan Johnstone",
@@ -301,6 +293,14 @@
     "matches": 31,
     "wins": 11,
     "losses": 19,
+    "draws": 1
+  },
+  {
+    "player": "Daniel Hernandez",
+    "elo": 1412.95,
+    "matches": 27,
+    "wins": 9,
+    "losses": 17,
     "draws": 1
   },
   {
@@ -321,10 +321,10 @@
   },
   {
     "player": "Phil Iwanow",
-    "elo": 1368.97,
-    "matches": 27,
+    "elo": 1359.33,
+    "matches": 28,
     "wins": 6,
-    "losses": 18,
+    "losses": 19,
     "draws": 3
   }
 ]

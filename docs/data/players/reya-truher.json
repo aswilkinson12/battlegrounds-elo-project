@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1477.08,
+  "elo": 1476.54,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -240,8 +240,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1440.9074,
-      "elo_after": 1457.4856,
-      "opp_elo": 1396.3784
+      "elo_after": 1456.9147,
+      "opp_elo": 1385.7227
     },
     {
       "week": "26-3-20",
@@ -249,8 +249,8 @@
       "opponent": "Patrick Brooks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1457.4856,
-      "elo_after": 1477.0758,
+      "elo_before": 1456.9147,
+      "elo_after": 1476.5361,
       "opp_elo": 1468.2813
     }
   ],

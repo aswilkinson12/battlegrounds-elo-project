@@ -554,7 +554,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-3-20,3,Jarrod Haase,Thomas Kotcher,0.0,OK,False
 26-3-20,3,Jeremy O'Brien,Nathan Choi,0.0,OK,False
 26-3-20,3,Jonathon Torchia,Mike Adams,1.0,OK,False
-26-3-20,3,Logan Heasch,Phil iwanow,,NeedsReview,False
+26-3-20,3,Logan Hesch,Phil iwanow,1.0,OK,False
 26-3-20,3,Milo Brown,Philip Watson,0.0,OK,False
 26-3-20,3,Sean Marks,Stella Burfeind,1.0,OK,False
 26-3-20,3,Sean Thornton,jayson chandler,1.0,OK,False
@@ -565,7 +565,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID
 26-3-20,4,Becca Blackwood,Will Bellows,0.0,OK,False
 26-3-20,4,Brooks Kowal,Mike Adams,0.0,OK,False
 26-3-20,4,Dani Masom,Jonathon Torchia,1.0,OK,False
-26-3-20,4,Daniel Hernandez,Logan Hesch,,NeedsReview,False
+26-3-20,4,Daniel Hernandez,Logan Hesch,0.0,OK,False
 26-3-20,4,David Van Hise,Hex Dowd,1.0,OK,False
 26-3-20,4,Evan Johnstone,Patrick Brooks,1.0,OK,False
 26-3-20,4,Gina Millott,Sean Thornton,0.0,OK,False

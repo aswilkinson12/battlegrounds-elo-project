@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1617.56,
+  "elo": 1618.8,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -310,8 +310,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1600.7773,
-      "elo_after": 1617.5625,
-      "opp_elo": 1560.0921
+      "elo_after": 1618.7997,
+      "opp_elo": 1582.885
     }
   ],
   "wins": 20,

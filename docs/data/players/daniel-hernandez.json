@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1424.46,
+  "elo": 1412.95,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -255,16 +255,26 @@
     },
     {
       "week": "26-3-20",
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1439.3251,
+      "elo_after": 1427.1879,
+      "opp_elo": 1570.7478
+    },
+    {
+      "week": "26-3-20",
       "round": 5,
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1439.3251,
-      "elo_after": 1424.4552,
+      "elo_before": 1427.1879,
+      "elo_after": 1412.9453,
       "opp_elo": 1516.0718
     }
   ],
   "wins": 9,
-  "losses": 16,
+  "losses": 17,
   "draws": 1
 }
