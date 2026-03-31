@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1447.88,
+  "elo": 1447.85,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -390,8 +390,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1473.2589,
-      "elo_after": 1447.8809,
-      "opp_elo": 1351.9266
+      "elo_after": 1447.8489,
+      "opp_elo": 1351.2668
     }
   ],
   "wins": 16,

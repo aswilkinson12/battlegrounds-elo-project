@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1377.3,
+  "elo": 1376.68,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -320,8 +320,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1363.8397,
-      "elo_after": 1351.9266,
-      "opp_elo": 1500.0
+      "elo_after": 1351.2668,
+      "opp_elo": 1486.1845
     },
     {
       "week": "26-3-27",
@@ -329,8 +329,8 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1351.9266,
-      "elo_after": 1377.3047,
+      "elo_before": 1351.2668,
+      "elo_after": 1376.6768,
       "opp_elo": 1473.2589
     }
   ],

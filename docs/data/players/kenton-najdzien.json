@@ -1,7 +1,7 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1607.61,
+  "elo": 1610.42,
   "matches": [
     {
       "week": "26-2-13",
@@ -190,8 +190,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1653.0694,
-      "elo_after": 1626.2012,
-      "opp_elo": 1500.0
+      "elo_after": 1629.1265,
+      "opp_elo": 1560.5574
     },
     {
       "week": "26-3-27",
@@ -199,9 +199,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1626.2012,
-      "elo_after": 1607.6081,
-      "opp_elo": 1633.6424
+      "elo_before": 1629.1265,
+      "elo_after": 1610.4188,
+      "opp_elo": 1634.4722
     }
   ],
   "wins": 13,

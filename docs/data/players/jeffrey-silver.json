@@ -1,0 +1,60 @@
+{
+  "player": "Jeffrey Silver",
+  "slug": "jeffrey-silver",
+  "elo": 1513.27,
+  "matches": [
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Kevin Thanakit",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1481.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1481.0,
+      "elo_after": 1501.038,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.038,
+      "elo_after": 1486.1845,
+      "opp_elo": 1578.1006
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1486.1845,
+      "elo_after": 1498.7574,
+      "opp_elo": 1363.8397
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1498.7574,
+      "elo_after": 1513.2733,
+      "opp_elo": 1415.1856
+    }
+  ],
+  "wins": 3,
+  "losses": 2,
+  "draws": 0
+}

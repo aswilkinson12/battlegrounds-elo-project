@@ -46,7 +46,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Becca Blackwood,1528.58,14,8,6,0,0.0
 26-3-13,Becca Blackwood,1573.44,19,12,7,0,44.85
 26-3-20,Becca Blackwood,1577.77,24,15,9,0,4.33
-26-3-27,Becca Blackwood,1595.09,28,18,10,0,17.32
+26-3-27,Becca Blackwood,1595.12,28,18,10,0,17.35
 25-12-6_brainstormin_charity_tournament,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-13,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-20,Bradley Skubic,1563.9,4,4,0,0,0.0
@@ -70,7 +70,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Daniel Hernandez,1434.78,19,7,12,0,-47.1
 26-3-13,Daniel Hernandez,1400.84,22,7,15,0,-33.94
 26-3-20,Daniel Hernandez,1420.4,27,9,17,1,19.56
-26-3-27,Daniel Hernandez,1408.26,31,10,20,1,-12.14
+26-3-27,Daniel Hernandez,1408.21,31,10,20,1,-12.19
 25-12-6_brainstormin_charity_tournament,David Van Hise,1484.8,5,2,3,0,0.0
 26-2-13,David Van Hise,1536.98,10,6,4,0,52.18
 26-2-20,David Van Hise,1582.09,15,10,5,0,45.11
@@ -110,7 +110,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Hex Dowd,1461.62,25,10,15,0,27.77
 26-3-13,Hex Dowd,1465.45,30,12,18,0,3.83
 26-3-20,Hex Dowd,1519.83,35,16,19,0,54.38
-26-3-27,Hex Dowd,1451.8,39,16,23,0,-68.02
+26-3-27,Hex Dowd,1451.78,39,16,23,0,-68.04
 25-12-6_brainstormin_charity_tournament,Isharah Considine,1499.97,6,3,3,0,0.0
 26-2-13,Isharah Considine,1518.96,11,6,5,0,18.99
 26-2-20,Isharah Considine,1518.96,11,6,5,0,0.0
@@ -135,6 +135,14 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Jarrod Haase,1423.23,28,8,18,2,11.94
 26-3-20,Jarrod Haase,1457.84,33,11,20,2,34.61
 26-3-27,Jarrod Haase,1457.84,33,11,20,2,0.0
+25-12-6_brainstormin_charity_tournament,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-2-13,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-2-20,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-2-27,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-3-07,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-3-13,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-3-20,Jeffrey Silver,1500.0,0,0,0,0,0.0
+26-3-27,Jeffrey Silver,1511.31,5,3,2,0,11.31
 25-12-6_brainstormin_charity_tournament,Joel Brook,1531.3,6,4,2,0,0.0
 26-2-13,Joel Brook,1531.3,6,4,2,0,0.0
 26-2-20,Joel Brook,1531.3,6,4,2,0,0.0
@@ -174,7 +182,15 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Kenton Najdzien,1528.05,10,6,4,0,0.0
 26-3-13,Kenton Najdzien,1591.84,14,10,4,0,63.78
 26-3-20,Kenton Najdzien,1591.84,14,10,4,0,0.0
-26-3-27,Kenton Najdzien,1594.31,19,13,6,0,2.48
+26-3-27,Kenton Najdzien,1596.38,19,13,6,0,4.54
+25-12-6_brainstormin_charity_tournament,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-2-13,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-2-20,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-2-27,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-3-07,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-3-13,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-3-20,Kevin Thanakit,1500.0,0,0,0,0,0.0
+26-3-27,Kevin Thanakit,1556.92,5,4,1,0,56.92
 25-12-6_brainstormin_charity_tournament,Logan Hesch,1499.3,6,3,3,0,0.0
 26-2-13,Logan Hesch,1499.3,6,3,3,0,0.0
 26-2-20,Logan Hesch,1499.3,6,3,3,0,0.0
@@ -182,7 +198,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Logan Hesch,1560.98,16,10,6,0,41.84
 26-3-13,Logan Hesch,1572.42,21,13,8,0,11.43
 26-3-20,Logan Hesch,1557.61,25,15,10,0,-14.81
-26-3-27,Logan Hesch,1633.09,30,20,10,0,75.49
+26-3-27,Logan Hesch,1636.14,30,20,10,0,78.53
 25-12-6_brainstormin_charity_tournament,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-13,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-20,Lucas Yang,1500.0,0,0,0,0,0.0
@@ -222,7 +238,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Nathan Choi,1562.77,21,13,6,2,-21.25
 26-3-13,Nathan Choi,1566.85,26,16,8,2,4.08
 26-3-20,Nathan Choi,1607.01,31,20,9,2,40.16
-26-3-27,Nathan Choi,1636.61,36,24,10,2,29.6
+26-3-27,Nathan Choi,1637.29,36,24,10,2,30.28
 25-12-6_brainstormin_charity_tournament,Nathan Cormier,1470.2,6,2,4,0,0.0
 26-2-13,Nathan Cormier,1470.2,6,2,4,0,0.0
 26-2-20,Nathan Cormier,1523.78,11,6,5,0,53.58
@@ -254,7 +270,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Phil Iwanow,1411.22,18,4,12,2,19.04
 26-3-13,Phil Iwanow,1393.26,23,5,15,3,-17.96
 26-3-20,Phil Iwanow,1372.48,28,6,19,3,-20.79
-26-3-27,Phil Iwanow,1385.09,33,8,22,3,12.61
+26-3-27,Phil Iwanow,1384.61,33,8,22,3,12.14
 25-12-6_brainstormin_charity_tournament,Ran Guo,1533.34,6,4,2,0,0.0
 26-2-13,Ran Guo,1533.34,6,4,2,0,0.0
 26-2-20,Ran Guo,1533.34,6,4,2,0,0.0
@@ -270,7 +286,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Raul Bottrell-Rogers,1499.96,6,3,3,0,0.0
 26-3-13,Raul Bottrell-Rogers,1520.47,11,6,5,0,20.51
 26-3-20,Raul Bottrell-Rogers,1533.58,16,9,7,0,13.11
-26-3-27,Raul Bottrell-Rogers,1484.17,21,10,11,0,-49.42
+26-3-27,Raul Bottrell-Rogers,1484.19,21,10,11,0,-49.39
 25-12-6_brainstormin_charity_tournament,Reya Truher,1500.58,6,3,3,0,0.0
 26-2-13,Reya Truher,1484.96,11,5,6,0,-15.62
 26-2-20,Reya Truher,1484.96,11,5,6,0,0.0

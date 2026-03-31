@@ -17,7 +17,7 @@
   },
   {
     "player": "Logan Hesch",
-    "elo": 1653.98,
+    "elo": 1658.22,
     "matches": 30,
     "wins": 20,
     "losses": 10,
@@ -25,7 +25,7 @@
   },
   {
     "player": "Nathan Choi",
-    "elo": 1652.24,
+    "elo": 1653.18,
     "matches": 36,
     "wins": 24,
     "losses": 10,
@@ -49,7 +49,7 @@
   },
   {
     "player": "Kenton Najdzien",
-    "elo": 1607.61,
+    "elo": 1610.42,
     "matches": 20,
     "wins": 13,
     "losses": 6,
@@ -57,7 +57,7 @@
   },
   {
     "player": "Becca Blackwood",
-    "elo": 1606.94,
+    "elo": 1606.99,
     "matches": 30,
     "wins": 18,
     "losses": 10,
@@ -70,6 +70,14 @@
     "wins": 20,
     "losses": 18,
     "draws": 1
+  },
+  {
+    "player": "Kevin Thanakit",
+    "elo": 1568.64,
+    "matches": 5,
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
   },
   {
     "player": "Milo Brown",
@@ -126,6 +134,14 @@
     "wins": 7,
     "losses": 6,
     "draws": 2
+  },
+  {
+    "player": "Jeffrey Silver",
+    "elo": 1513.27,
+    "matches": 5,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
   },
   {
     "player": "Nathan Cormier",
@@ -217,7 +233,7 @@
   },
   {
     "player": "Raul Bottrell-Rogers",
-    "elo": 1480.47,
+    "elo": 1480.51,
     "matches": 21,
     "wins": 10,
     "losses": 11,
@@ -225,7 +241,7 @@
   },
   {
     "player": "Reya Truher",
-    "elo": 1474.82,
+    "elo": 1474.83,
     "matches": 30,
     "wins": 14,
     "losses": 16,
@@ -281,7 +297,7 @@
   },
   {
     "player": "Hex Dowd",
-    "elo": 1447.88,
+    "elo": 1447.85,
     "matches": 39,
     "wins": 16,
     "losses": 23,
@@ -305,7 +321,7 @@
   },
   {
     "player": "Daniel Hernandez",
-    "elo": 1400.73,
+    "elo": 1400.67,
     "matches": 31,
     "wins": 10,
     "losses": 20,
@@ -321,7 +337,7 @@
   },
   {
     "player": "Phil Iwanow",
-    "elo": 1377.3,
+    "elo": 1376.68,
     "matches": 33,
     "wins": 8,
     "losses": 22,

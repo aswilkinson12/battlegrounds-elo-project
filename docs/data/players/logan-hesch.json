@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1653.98,
+  "elo": 1658.22,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -300,8 +300,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1642.353,
-      "elo_after": 1653.9765,
-      "opp_elo": 1500.0
+      "elo_after": 1658.2182,
+      "opp_elo": 1584.5003
     }
   ],
   "wins": 20,
