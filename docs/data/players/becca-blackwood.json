@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1607.44,
+  "elo": 1606.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -287,10 +287,10 @@
       "week": "26-3-27",
       "round": 4,
       "opponent": "Amy Altman",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1592.9001,
-      "elo_after": 1593.4294,
+      "elo_after": 1592.9001,
       "opp_elo": 1602.5817
     },
     {
@@ -299,8 +299,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1593.4294,
-      "elo_after": 1607.4398,
+      "elo_before": 1592.9001,
+      "elo_after": 1606.9374,
       "opp_elo": 1500.0
     }
   ],

@@ -7,7 +7,7 @@ Table  Player                       Opponent                     Points
 2      Kenton Najdzien              Kevin Thanakit              9-12    
 3      Stella Burfeind              Devon O’Donnell              6-9     
 4      Nathan Choi                  cory wright                  9-6     
-5      Amy Altman                   Becca Blackwood              7-7     
+5      Amy Altman                   Becca Blackwood              7-7 ID    
 6      Anthony Wilkinson            Dani Masom                   6-9     
 7      Stan Kornacki                Will Bellows                 6-9     
 8      Mike Laing                   Daniel Hernandez             3-6     

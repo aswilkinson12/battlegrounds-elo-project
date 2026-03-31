@@ -14,7 +14,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Amy Altman,1565.23,15,10,5,0,0.0
 26-3-13,Amy Altman,1591.06,19,13,6,0,25.82
 26-3-20,Amy Altman,1586.36,24,16,8,0,-4.7
-26-3-27,Amy Altman,1606.43,29,19,9,1,20.08
+26-3-27,Amy Altman,1606.87,28,19,9,0,20.52
 25-12-6_brainstormin_charity_tournament,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-13,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-20,Andy Perez,1500.0,0,0,0,0,0.0
@@ -46,7 +46,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Becca Blackwood,1528.58,14,8,6,0,0.0
 26-3-13,Becca Blackwood,1573.44,19,12,7,0,44.85
 26-3-20,Becca Blackwood,1577.77,24,15,9,0,4.33
-26-3-27,Becca Blackwood,1595.53,29,18,10,1,17.76
+26-3-27,Becca Blackwood,1595.09,28,18,10,0,17.32
 25-12-6_brainstormin_charity_tournament,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-13,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-20,Bradley Skubic,1563.9,4,4,0,0,0.0
@@ -302,7 +302,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-07,Stan Kornacki,1587.83,24,17,6,1,-32.86
 26-3-13,Stan Kornacki,1587.83,24,17,6,1,0.0
 26-3-20,Stan Kornacki,1552.34,29,19,9,1,-35.5
-26-3-27,Stan Kornacki,1535.83,34,21,12,1,-16.5
+26-3-27,Stan Kornacki,1535.85,34,21,12,1,-16.48
 25-12-6_brainstormin_charity_tournament,Stella Burfeind,1526.58,6,4,2,0,0.0
 26-2-13,Stella Burfeind,1505.02,11,6,5,0,-21.56
 26-2-20,Stella Burfeind,1468.24,15,7,8,0,-36.78
