@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1728.83,
+  "elo": 1661.87,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -362,9 +362,59 @@
       "elo_before": 1752.7297,
       "elo_after": 1728.8305,
       "opp_elo": 1661.0748
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1728.8305,
+      "elo_after": 1736.037,
+      "opp_elo": 1476.5361
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1736.037,
+      "elo_after": 1745.5355,
+      "opp_elo": 1545.1503
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1745.5355,
+      "elo_after": 1718.6125,
+      "opp_elo": 1591.2555
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1718.6125,
+      "elo_after": 1690.3502,
+      "opp_elo": 1533.5114
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1690.3502,
+      "elo_after": 1661.8706,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 28,
-  "losses": 6,
+  "wins": 30,
+  "losses": 9,
   "draws": 2
 }

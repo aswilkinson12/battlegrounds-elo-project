@@ -1,7 +1,7 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1518.9,
+  "elo": 1511.14,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,39 @@
       "elo_before": 1500.3033,
       "elo_after": 1518.8981,
       "opp_elo": 1492.8916
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.8981,
+      "elo_after": 1508.3463,
+      "opp_elo": 1684.9739
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1508.3463,
+      "elo_after": 1526.89,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1526.89,
+      "elo_after": 1511.1356,
+      "opp_elo": 1586.8274
     }
   ],
-  "wins": 13,
-  "losses": 12,
+  "wins": 14,
+  "losses": 14,
   "draws": 1
 }

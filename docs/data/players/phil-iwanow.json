@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1359.33,
+  "elo": 1377.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -282,9 +282,59 @@
       "elo_before": 1369.7154,
       "elo_after": 1359.327,
       "opp_elo": 1539.5332
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Robert Legree",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1359.327,
+      "elo_after": 1385.6254,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1385.6254,
+      "elo_after": 1376.3494,
+      "opp_elo": 1581.9795
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1376.3494,
+      "elo_after": 1363.8397,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Jeffrey Silver",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1363.8397,
+      "elo_after": 1351.9266,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1351.9266,
+      "elo_after": 1377.3047,
+      "opp_elo": 1473.2589
     }
   ],
-  "wins": 6,
-  "losses": 19,
+  "wins": 8,
+  "losses": 22,
   "draws": 3
 }

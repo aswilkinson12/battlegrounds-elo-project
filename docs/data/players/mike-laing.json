@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1527.66,
+  "elo": 1499.15,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -192,9 +192,49 @@
       "elo_before": 1549.3399,
       "elo_after": 1527.6597,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.6597,
+      "elo_after": 1545.1503,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1545.1503,
+      "elo_after": 1535.6518,
+      "opp_elo": 1736.037
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1535.6518,
+      "elo_after": 1525.2359,
+      "opp_elo": 1704.8351
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1525.2359,
+      "elo_after": 1499.15,
+      "opp_elo": 1389.0998
     }
   ],
-  "wins": 11,
-  "losses": 8,
+  "wins": 12,
+  "losses": 11,
   "draws": 0
 }

@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1564.86,
+  "elo": 1653.98,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -252,9 +252,59 @@
       "elo_before": 1582.885,
       "elo_after": 1564.8626,
       "opp_elo": 1600.7773
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1564.8626,
+      "elo_after": 1581.9795,
+      "opp_elo": 1530.3144
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1581.9795,
+      "elo_after": 1591.2555,
+      "opp_elo": 1385.6254
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1591.2555,
+      "elo_after": 1618.1784,
+      "opp_elo": 1745.5355
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1618.1784,
+      "elo_after": 1642.353,
+      "opp_elo": 1715.2511
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Kevin Thanakit",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1642.353,
+      "elo_after": 1653.9765,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 15,
+  "wins": 20,
   "losses": 10,
   "draws": 0
 }

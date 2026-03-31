@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1457.66,
+  "elo": 1491.82,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -292,9 +292,59 @@
       "elo_before": 1478.7515,
       "elo_after": 1457.657,
       "opp_elo": 1440.2944
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.657,
+      "elo_after": 1481.0677,
+      "opp_elo": 1539.8094
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.0677,
+      "elo_after": 1469.5257,
+      "opp_elo": 1625.1786
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.5257,
+      "elo_after": 1489.6831,
+      "opp_elo": 1490.7159
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.6831,
+      "elo_after": 1471.2471,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1471.2471,
+      "elo_after": 1491.8159,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 14,
-  "losses": 15,
+  "wins": 17,
+  "losses": 17,
   "draws": 0
 }

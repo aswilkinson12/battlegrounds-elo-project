@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1575.53,
+  "elo": 1537.02,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -162,9 +162,29 @@
       "elo_before": 1590.8024,
       "elo_after": 1575.5288,
       "opp_elo": 1659.8374
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1575.5288,
+      "elo_after": 1558.2964,
+      "opp_elo": 1607.9462
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1558.2964,
+      "elo_after": 1537.0162,
+      "opp_elo": 1516.3986
     }
   ],
   "wins": 10,
-  "losses": 6,
+  "losses": 8,
   "draws": 0
 }

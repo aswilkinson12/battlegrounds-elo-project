@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1530.31,
+  "elo": 1447.88,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -352,9 +352,49 @@
       "elo_before": 1516.0718,
       "elo_after": 1530.3144,
       "opp_elo": 1427.1879
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1530.3144,
+      "elo_after": 1513.1975,
+      "opp_elo": 1564.8626
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.1975,
+      "elo_after": 1491.8112,
+      "opp_elo": 1469.3296
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1491.8112,
+      "elo_after": 1473.2589,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.2589,
+      "elo_after": 1447.8809,
+      "opp_elo": 1351.9266
     }
   ],
   "wins": 16,
-  "losses": 19,
+  "losses": 23,
   "draws": 0
 }

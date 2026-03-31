@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1618.8,
+  "elo": 1652.24,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -312,9 +312,59 @@
       "elo_before": 1600.7773,
       "elo_after": 1618.7997,
       "opp_elo": 1582.885
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1618.7997,
+      "elo_after": 1631.5449,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Kevin Thanakit",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1631.5449,
+      "elo_after": 1605.6763,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.6763,
+      "elo_after": 1621.0045,
+      "opp_elo": 1537.6788
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "cory wright",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1621.0045,
+      "elo_after": 1633.6424,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1633.6424,
+      "elo_after": 1652.2355,
+      "opp_elo": 1626.2012
     }
   ],
-  "wins": 20,
-  "losses": 9,
+  "wins": 24,
+  "losses": 10,
   "draws": 2
 }

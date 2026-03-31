@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1595.8,
+  "elo": 1618.16,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -262,9 +262,59 @@
       "elo_before": 1581.1631,
       "elo_after": 1595.8036,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1595.8036,
+      "elo_after": 1571.6933,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.6933,
+      "elo_after": 1586.8274,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1586.8274,
+      "elo_after": 1602.5817,
+      "opp_elo": 1526.89
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1602.5817,
+      "elo_after": 1602.0524,
+      "opp_elo": 1592.9001
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1602.0524,
+      "elo_after": 1618.1583,
+      "opp_elo": 1548.7147
     }
   ],
-  "wins": 16,
-  "losses": 8,
-  "draws": 2
+  "wins": 19,
+  "losses": 9,
+  "draws": 3
 }

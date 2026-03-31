@@ -1,7 +1,7 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1539.81,
+  "elo": 1480.47,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -162,9 +162,59 @@
       "elo_before": 1562.1736,
       "elo_after": 1539.8094,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.8094,
+      "elo_after": 1516.3986,
+      "opp_elo": 1457.657
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.3986,
+      "elo_after": 1537.6788,
+      "opp_elo": 1558.2964
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.6788,
+      "elo_after": 1522.3506,
+      "opp_elo": 1605.6763
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1522.3506,
+      "elo_after": 1502.13,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.13,
+      "elo_after": 1480.4699,
+      "opp_elo": 1453.1647
     }
   ],
-  "wins": 9,
-  "losses": 7,
+  "wins": 10,
+  "losses": 11,
   "draws": 0
 }

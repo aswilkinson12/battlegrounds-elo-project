@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1518.86,
+  "elo": 1587.54,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -342,9 +342,59 @@
       "elo_before": 1540.0361,
       "elo_after": 1518.8563,
       "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.8563,
+      "elo_after": 1532.2374,
+      "opp_elo": 1412.9453
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1532.2374,
+      "elo_after": 1515.3504,
+      "opp_elo": 1571.0362
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.3504,
+      "elo_after": 1533.5114,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1533.5114,
+      "elo_after": 1561.7738,
+      "opp_elo": 1718.6125
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1561.7738,
+      "elo_after": 1587.5355,
+      "opp_elo": 1691.0765
     }
   ],
-  "wins": 16,
-  "losses": 17,
+  "wins": 20,
+  "losses": 18,
   "draws": 1
 }

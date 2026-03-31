@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1476.54,
+  "elo": 1474.82,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -252,9 +252,59 @@
       "elo_before": 1456.9147,
       "elo_after": 1476.5361,
       "opp_elo": 1468.2813
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1476.5361,
+      "elo_after": 1469.3296,
+      "opp_elo": 1728.8305
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.3296,
+      "elo_after": 1490.7159,
+      "opp_elo": 1513.1975
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1490.7159,
+      "elo_after": 1470.5585,
+      "opp_elo": 1469.5257
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.5585,
+      "elo_after": 1453.1647,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1453.1647,
+      "elo_after": 1474.8249,
+      "opp_elo": 1502.13
     }
   ],
-  "wins": 12,
-  "losses": 13,
+  "wins": 14,
+  "losses": 16,
   "draws": 0
 }

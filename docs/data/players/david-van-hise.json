@@ -1,7 +1,7 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1684.97,
+  "elo": 1665.31,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -292,9 +292,59 @@
       "elo_before": 1661.0748,
       "elo_after": 1684.9739,
       "opp_elo": 1752.7297
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1684.9739,
+      "elo_after": 1695.5257,
+      "opp_elo": 1518.8981
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1695.5257,
+      "elo_after": 1704.8351,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-27",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1704.8351,
+      "elo_after": 1715.2511,
+      "opp_elo": 1535.6518
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1715.2511,
+      "elo_after": 1691.0765,
+      "opp_elo": 1618.1784
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1691.0765,
+      "elo_after": 1665.3147,
+      "opp_elo": 1561.7738
     }
   ],
-  "wins": 21,
-  "losses": 8,
+  "wins": 24,
+  "losses": 10,
   "draws": 0
 }

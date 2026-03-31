@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1412.95,
+  "elo": 1400.73,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -272,9 +272,49 @@
       "elo_before": 1427.1879,
       "elo_after": 1412.9453,
       "opp_elo": 1516.0718
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1412.9453,
+      "elo_after": 1399.5642,
+      "opp_elo": 1518.8563
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1399.5642,
+      "elo_after": 1389.0998,
+      "opp_elo": 1567.6362
+    },
+    {
+      "week": "26-3-27",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1389.0998,
+      "elo_after": 1415.1856,
+      "opp_elo": 1525.2359
+    },
+    {
+      "week": "26-3-27",
+      "round": 5,
+      "opponent": "Jeffrey Silver",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1415.1856,
+      "elo_after": 1400.7338,
+      "opp_elo": 1500.0
     }
   ],
-  "wins": 9,
-  "losses": 17,
+  "wins": 10,
+  "losses": 20,
   "draws": 1
 }
