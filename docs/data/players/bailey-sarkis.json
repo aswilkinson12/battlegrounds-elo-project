@@ -1,7 +1,7 @@
 {
   "player": "Bailey Sarkis",
   "slug": "bailey-sarkis",
-  "elo": 1560.09,
+  "elo": 1560.07,
   "matches": [
     {
       "week": "26-3-07",
@@ -10,8 +10,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1520.257,
-      "opp_elo": 1523.0193
+      "elo_after": 1520.2545,
+      "opp_elo": 1522.9739
     },
     {
       "week": "26-3-07",
@@ -19,9 +19,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.257,
-      "elo_after": 1502.1055,
-      "opp_elo": 1535.7838
+      "elo_before": 1520.2545,
+      "elo_after": 1502.0817,
+      "opp_elo": 1535.3896
     },
     {
       "week": "26-3-07",
@@ -29,8 +29,8 @@
       "opponent": "Philip Watson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.1055,
-      "elo_after": 1520.9904,
+      "elo_before": 1502.0817,
+      "elo_after": 1520.9679,
       "opp_elo": 1500.0
     },
     {
@@ -39,9 +39,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.9904,
-      "elo_after": 1543.4553,
-      "opp_elo": 1585.0657
+      "elo_before": 1520.9679,
+      "elo_after": 1543.4334,
+      "opp_elo": 1585.0572
     },
     {
       "week": "26-3-07",
@@ -49,8 +49,8 @@
       "opponent": "Chris Daniel",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.4553,
-      "elo_after": 1560.0912,
+      "elo_before": 1543.4334,
+      "elo_after": 1560.0705,
       "opp_elo": 1500.0
     }
   ],

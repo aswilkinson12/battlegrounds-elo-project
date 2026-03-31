@@ -1,7 +1,7 @@
 {
   "player": "Jeffrey Silver",
   "slug": "jeffrey-silver",
-  "elo": 1513.27,
+  "elo": 1509.14,
   "matches": [
     {
       "week": "26-3-27",
@@ -20,8 +20,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.0,
-      "elo_after": 1501.038,
-      "opp_elo": 1500.0
+      "elo_after": 1496.2195,
+      "opp_elo": 1410.935
     },
     {
       "week": "26-3-27",
@@ -29,9 +29,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.038,
-      "elo_after": 1486.1845,
-      "opp_elo": 1578.1006
+      "elo_before": 1496.2195,
+      "elo_after": 1481.6126,
+      "opp_elo": 1578.0307
     },
     {
       "week": "26-3-27",
@@ -39,9 +39,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1486.1845,
-      "elo_after": 1498.7574,
-      "opp_elo": 1363.8397
+      "elo_before": 1481.6126,
+      "elo_after": 1494.4064,
+      "opp_elo": 1363.8094
     },
     {
       "week": "26-3-27",
@@ -49,9 +49,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1498.7574,
-      "elo_after": 1513.2733,
-      "opp_elo": 1415.1856
+      "elo_before": 1494.4064,
+      "elo_after": 1509.1367,
+      "opp_elo": 1414.9751
     }
   ],
   "wins": 3,

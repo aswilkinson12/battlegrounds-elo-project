@@ -80,8 +80,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1550.8105,
-      "elo_after": 1528.1404,
-      "opp_elo": 1482.846
+      "elo_after": 1528.1379,
+      "opp_elo": 1482.7979
     },
     {
       "week": "26-2-13",
@@ -89,8 +89,8 @@
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1528.1404,
-      "elo_after": 1507.6049,
+      "elo_before": 1528.1379,
+      "elo_after": 1507.6025,
       "opp_elo": 1500.0
     }
   ],

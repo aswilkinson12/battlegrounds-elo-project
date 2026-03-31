@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1496.27,
+  "elo": 1494.75,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -91,7 +91,7 @@
       "score": 0.0,
       "elo_before": 1517.8116,
       "elo_after": 1496.9824,
-      "opp_elo": 1484.2585
+      "opp_elo": 1484.2583
     },
     {
       "week": "26-2-13",
@@ -110,8 +110,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1516.1474,
-      "elo_after": 1496.265,
-      "opp_elo": 1500.0
+      "elo_after": 1494.7482,
+      "opp_elo": 1472.0401
     }
   ],
   "wins": 5,

@@ -1,7 +1,7 @@
 {
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
-  "elo": 1510.54,
+  "elo": 1510.46,
   "matches": [
     {
       "week": "26-2-27",
@@ -40,8 +40,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1484.0517,
-      "elo_after": 1466.3447,
-      "opp_elo": 1507.7312
+      "elo_after": 1466.3151,
+      "opp_elo": 1507.1874
     },
     {
       "week": "26-3-07",
@@ -49,9 +49,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1466.3447,
-      "elo_after": 1484.9887,
-      "opp_elo": 1459.8354
+      "elo_before": 1466.3151,
+      "elo_after": 1484.9607,
+      "opp_elo": 1459.835
     },
     {
       "week": "26-3-07",
@@ -59,8 +59,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.9887,
-      "elo_after": 1504.8091,
+      "elo_before": 1484.9607,
+      "elo_after": 1504.7827,
       "opp_elo": 1500.0
     },
     {
@@ -69,9 +69,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.8091,
-      "elo_after": 1488.4779,
-      "opp_elo": 1553.9353
+      "elo_before": 1504.7827,
+      "elo_after": 1488.4329,
+      "opp_elo": 1553.5624
     },
     {
       "week": "26-3-07",
@@ -79,9 +79,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1488.4779,
-      "elo_after": 1510.5442,
-      "opp_elo": 1545.0425
+      "elo_before": 1488.4329,
+      "elo_after": 1510.4623,
+      "opp_elo": 1544.3061
     },
     {
       "week": "26-3-07",
@@ -89,9 +89,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1510.5442,
-      "elo_after": 1510.5442,
-      "opp_elo": 1717.5548
+      "elo_before": 1510.4623,
+      "elo_after": 1510.4623,
+      "opp_elo": 1717.4549
     }
   ],
   "wins": 4,

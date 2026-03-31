@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1459.46,
+  "elo": 1459.43,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -70,8 +70,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1451.9359,
-      "elo_after": 1438.226,
-      "opp_elo": 1551.295
+      "elo_after": 1438.2236,
+      "opp_elo": 1551.2472
     },
     {
       "week": "26-2-13",
@@ -79,9 +79,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1438.226,
-      "elo_after": 1424.5776,
-      "opp_elo": 1538.8036
+      "elo_before": 1438.2236,
+      "elo_after": 1424.5359,
+      "opp_elo": 1538.0209
     },
     {
       "week": "26-2-13",
@@ -89,8 +89,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1424.5776,
-      "elo_after": 1446.6634,
+      "elo_before": 1424.5359,
+      "elo_after": 1446.6239,
       "opp_elo": 1481.5094
     },
     {
@@ -99,8 +99,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1446.6634,
-      "elo_after": 1468.5575,
+      "elo_before": 1446.6239,
+      "elo_after": 1468.5201,
       "opp_elo": 1500.0
     },
     {
@@ -109,8 +109,8 @@
       "opponent": "Will Bellows",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1468.5575,
-      "elo_after": 1489.2723,
+      "elo_before": 1468.5201,
+      "elo_after": 1489.237,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.2723,
-      "elo_after": 1471.3666,
-      "opp_elo": 1509.3055
+      "elo_before": 1489.237,
+      "elo_after": 1471.3316,
+      "opp_elo": 1509.2761
     },
     {
       "week": "26-3-20",
@@ -129,9 +129,9 @@
       "opponent": "Amy Altman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.3666,
-      "elo_after": 1496.7442,
-      "opp_elo": 1592.6897
+      "elo_before": 1471.3316,
+      "elo_after": 1496.71,
+      "opp_elo": 1592.6717
     },
     {
       "week": "26-3-20",
@@ -139,8 +139,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1496.7442,
-      "elo_after": 1477.9223,
+      "elo_before": 1496.71,
+      "elo_after": 1477.8899,
       "opp_elo": 1500.0
     },
     {
@@ -149,9 +149,9 @@
       "opponent": "Sam Feeley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1477.9223,
-      "elo_after": 1459.4648,
-      "opp_elo": 1487.846
+      "elo_before": 1477.8899,
+      "elo_after": 1459.4339,
+      "opp_elo": 1487.8403
     }
   ],
   "wins": 5,

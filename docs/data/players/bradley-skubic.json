@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1617.7,
+  "elo": 1617.66,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -80,8 +80,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1571.7507,
-      "elo_after": 1581.7348,
-      "opp_elo": 1392.5122
+      "elo_after": 1581.7332,
+      "opp_elo": 1392.4729
     },
     {
       "week": "26-2-27",
@@ -89,9 +89,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1581.7348,
-      "elo_after": 1601.0141,
-      "opp_elo": 1586.8427
+      "elo_before": 1581.7332,
+      "elo_after": 1601.0104,
+      "opp_elo": 1586.8041
     },
     {
       "week": "26-2-27",
@@ -99,9 +99,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1601.0141,
-      "elo_after": 1580.3289,
-      "opp_elo": 1570.1172
+      "elo_before": 1601.0104,
+      "elo_after": 1580.3234,
+      "opp_elo": 1570.0789
     },
     {
       "week": "26-2-27",
@@ -109,8 +109,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1580.3289,
-      "elo_after": 1595.0127,
+      "elo_before": 1580.3234,
+      "elo_after": 1595.0074,
       "opp_elo": 1500.0
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1595.0127,
-      "elo_after": 1608.9395,
+      "elo_before": 1595.0074,
+      "elo_after": 1608.9345,
       "opp_elo": 1499.9406
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1608.9395,
-      "elo_after": 1624.9867,
-      "opp_elo": 1554.5037
+      "elo_before": 1608.9345,
+      "elo_after": 1624.9485,
+      "opp_elo": 1553.8755
     },
     {
       "week": "26-3-13",
@@ -139,9 +139,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1624.9867,
-      "elo_after": 1636.9502,
-      "opp_elo": 1489.8959
+      "elo_before": 1624.9485,
+      "elo_after": 1636.9124,
+      "opp_elo": 1489.8685
     },
     {
       "week": "26-3-13",
@@ -149,9 +149,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1636.9502,
-      "elo_after": 1617.701,
-      "opp_elo": 1632.3929
+      "elo_before": 1636.9124,
+      "elo_after": 1617.6627,
+      "opp_elo": 1632.3459
     },
     {
       "week": "26-3-13",
@@ -159,9 +159,9 @@
       "opponent": "Amy Altman",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1617.701,
-      "elo_after": 1617.701,
-      "opp_elo": 1604.345
+      "elo_before": 1617.6627,
+      "elo_after": 1617.6627,
+      "opp_elo": 1604.332
     }
   ],
   "wins": 10,

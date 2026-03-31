@@ -1,7 +1,7 @@
 [
   {
     "player": "David Van Hise",
-    "elo": 1665.31,
+    "elo": 1665.09,
     "matches": 34,
     "wins": 24,
     "losses": 10,
@@ -9,7 +9,7 @@
   },
   {
     "player": "Anthony Wilkinson",
-    "elo": 1661.87,
+    "elo": 1661.55,
     "matches": 41,
     "wins": 30,
     "losses": 9,
@@ -17,7 +17,7 @@
   },
   {
     "player": "Logan Hesch",
-    "elo": 1658.22,
+    "elo": 1658.1,
     "matches": 30,
     "wins": 20,
     "losses": 10,
@@ -25,7 +25,7 @@
   },
   {
     "player": "Nathan Choi",
-    "elo": 1653.18,
+    "elo": 1652.46,
     "matches": 36,
     "wins": 24,
     "losses": 10,
@@ -33,7 +33,7 @@
   },
   {
     "player": "Amy Altman",
-    "elo": 1618.66,
+    "elo": 1618.62,
     "matches": 31,
     "wins": 19,
     "losses": 9,
@@ -41,7 +41,7 @@
   },
   {
     "player": "Bradley Skubic",
-    "elo": 1617.7,
+    "elo": 1617.66,
     "matches": 16,
     "wins": 10,
     "losses": 2,
@@ -49,7 +49,7 @@
   },
   {
     "player": "Kenton Najdzien",
-    "elo": 1610.42,
+    "elo": 1610.31,
     "matches": 20,
     "wins": 13,
     "losses": 6,
@@ -57,7 +57,7 @@
   },
   {
     "player": "Becca Blackwood",
-    "elo": 1606.99,
+    "elo": 1606.69,
     "matches": 30,
     "wins": 18,
     "losses": 10,
@@ -65,7 +65,7 @@
   },
   {
     "player": "Dani Masom",
-    "elo": 1587.54,
+    "elo": 1587.49,
     "matches": 39,
     "wins": 20,
     "losses": 18,
@@ -73,7 +73,7 @@
   },
   {
     "player": "Kevin Thanakit",
-    "elo": 1568.64,
+    "elo": 1568.59,
     "matches": 5,
     "wins": 4,
     "losses": 1,
@@ -81,7 +81,7 @@
   },
   {
     "player": "Milo Brown",
-    "elo": 1562.0,
+    "elo": 1561.9,
     "matches": 26,
     "wins": 15,
     "losses": 7,
@@ -89,7 +89,7 @@
   },
   {
     "player": "Bailey Sarkis",
-    "elo": 1560.09,
+    "elo": 1560.07,
     "matches": 5,
     "wins": 4,
     "losses": 1,
@@ -104,14 +104,6 @@
     "draws": 0
   },
   {
-    "player": "Isharah Considine",
-    "elo": 1537.02,
-    "matches": 18,
-    "wins": 10,
-    "losses": 8,
-    "draws": 0
-  },
-  {
     "player": "Joel Brook",
     "elo": 1537.02,
     "matches": 6,
@@ -120,8 +112,16 @@
     "draws": 0
   },
   {
+    "player": "Isharah Considine",
+    "elo": 1536.98,
+    "matches": 18,
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  {
     "player": "Stan Kornacki",
-    "elo": 1532.64,
+    "elo": 1532.6,
     "matches": 36,
     "wins": 21,
     "losses": 12,
@@ -129,23 +129,15 @@
   },
   {
     "player": "John Larochelle",
-    "elo": 1514.13,
+    "elo": 1514.1,
     "matches": 15,
     "wins": 7,
     "losses": 6,
     "draws": 2
   },
   {
-    "player": "Jeffrey Silver",
-    "elo": 1513.27,
-    "matches": 5,
-    "wins": 3,
-    "losses": 2,
-    "draws": 0
-  },
-  {
     "player": "Nathan Cormier",
-    "elo": 1511.14,
+    "elo": 1510.7,
     "matches": 29,
     "wins": 14,
     "losses": 14,
@@ -153,11 +145,19 @@
   },
   {
     "player": "Timofey Tylik",
-    "elo": 1510.54,
+    "elo": 1510.46,
     "matches": 9,
     "wins": 4,
     "losses": 4,
     "draws": 1
+  },
+  {
+    "player": "Jeffrey Silver",
+    "elo": 1509.14,
+    "matches": 5,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
   },
   {
     "player": "Ryan MacDonald",
@@ -193,7 +193,7 @@
   },
   {
     "player": "Mike Laing",
-    "elo": 1499.15,
+    "elo": 1495.58,
     "matches": 23,
     "wins": 12,
     "losses": 11,
@@ -201,31 +201,31 @@
   },
   {
     "player": "Veronica Kirtley",
-    "elo": 1496.27,
+    "elo": 1494.75,
     "matches": 11,
     "wins": 5,
     "losses": 5,
     "draws": 1
   },
   {
-    "player": "Jack Henry",
-    "elo": 1492.1,
-    "matches": 26,
-    "wins": 11,
-    "losses": 14,
-    "draws": 1
-  },
-  {
     "player": "Stella Burfeind",
-    "elo": 1491.82,
+    "elo": 1491.73,
     "matches": 34,
     "wins": 17,
     "losses": 17,
     "draws": 0
   },
   {
+    "player": "Jack Henry",
+    "elo": 1489.79,
+    "matches": 26,
+    "wins": 11,
+    "losses": 14,
+    "draws": 1
+  },
+  {
     "player": "Mike Adams",
-    "elo": 1489.29,
+    "elo": 1489.03,
     "matches": 31,
     "wins": 15,
     "losses": 14,
@@ -233,7 +233,7 @@
   },
   {
     "player": "Raul Bottrell-Rogers",
-    "elo": 1480.51,
+    "elo": 1480.45,
     "matches": 21,
     "wins": 10,
     "losses": 11,
@@ -241,7 +241,7 @@
   },
   {
     "player": "Reya Truher",
-    "elo": 1474.83,
+    "elo": 1474.78,
     "matches": 30,
     "wins": 14,
     "losses": 16,
@@ -249,7 +249,7 @@
   },
   {
     "player": "Gina Millott",
-    "elo": 1465.93,
+    "elo": 1465.66,
     "matches": 21,
     "wins": 9,
     "losses": 12,
@@ -265,7 +265,7 @@
   },
   {
     "player": "Jarrod Haase",
-    "elo": 1461.39,
+    "elo": 1461.35,
     "matches": 33,
     "wins": 11,
     "losses": 20,
@@ -273,7 +273,7 @@
   },
   {
     "player": "Amber Cronin",
-    "elo": 1459.46,
+    "elo": 1459.43,
     "matches": 15,
     "wins": 5,
     "losses": 9,
@@ -281,7 +281,7 @@
   },
   {
     "player": "Andy Perez",
-    "elo": 1459.24,
+    "elo": 1459.16,
     "matches": 15,
     "wins": 5,
     "losses": 8,
@@ -289,7 +289,7 @@
   },
   {
     "player": "Patrick Brooks",
-    "elo": 1448.66,
+    "elo": 1448.51,
     "matches": 10,
     "wins": 4,
     "losses": 6,
@@ -297,7 +297,7 @@
   },
   {
     "player": "Hex Dowd",
-    "elo": 1447.85,
+    "elo": 1447.81,
     "matches": 39,
     "wins": 16,
     "losses": 23,
@@ -305,7 +305,7 @@
   },
   {
     "player": "Evan Johnstone",
-    "elo": 1424.33,
+    "elo": 1424.21,
     "matches": 31,
     "wins": 11,
     "losses": 19,
@@ -313,7 +313,7 @@
   },
   {
     "player": "Pan Rasking",
-    "elo": 1407.7,
+    "elo": 1406.51,
     "matches": 14,
     "wins": 4,
     "losses": 8,
@@ -321,15 +321,23 @@
   },
   {
     "player": "Daniel Hernandez",
-    "elo": 1400.67,
+    "elo": 1400.24,
     "matches": 31,
     "wins": 10,
     "losses": 20,
     "draws": 1
   },
   {
+    "player": "Terry Eleftherakis",
+    "elo": 1395.72,
+    "matches": 19,
+    "wins": 6,
+    "losses": 13,
+    "draws": 0
+  },
+  {
     "player": "Joseph Chung",
-    "elo": 1394.55,
+    "elo": 1392.49,
     "matches": 18,
     "wins": 5,
     "losses": 13,
@@ -337,7 +345,7 @@
   },
   {
     "player": "Phil Iwanow",
-    "elo": 1376.68,
+    "elo": 1376.44,
     "matches": 33,
     "wins": 8,
     "losses": 22,

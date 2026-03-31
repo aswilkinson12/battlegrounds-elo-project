@@ -1,7 +1,7 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1465.93,
+  "elo": 1465.66,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -70,8 +70,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1503.806,
-      "elo_after": 1530.1618,
-      "opp_elo": 1645.7111
+      "elo_after": 1530.1617,
+      "opp_elo": 1645.7108
     },
     {
       "week": "26-2-20",
@@ -79,9 +79,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.1618,
+      "elo_before": 1530.1617,
       "elo_after": 1548.011,
-      "opp_elo": 1509.0934
+      "opp_elo": 1509.0932
     },
     {
       "week": "26-2-20",
@@ -90,7 +90,7 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1548.011,
-      "elo_after": 1526.4021,
+      "elo_after": 1526.402,
       "opp_elo": 1500.0
     },
     {
@@ -99,9 +99,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1526.4021,
-      "elo_after": 1509.4187,
-      "opp_elo": 1563.4187
+      "elo_before": 1526.402,
+      "elo_after": 1509.4184,
+      "opp_elo": 1563.4127
     },
     {
       "week": "26-2-20",
@@ -109,8 +109,8 @@
       "opponent": "Jason Weiss",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1509.4187,
-      "elo_after": 1489.9038,
+      "elo_before": 1509.4184,
+      "elo_after": 1489.9035,
       "opp_elo": 1500.0
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1489.9038,
-      "elo_after": 1511.2783,
-      "opp_elo": 1533.553
+      "elo_before": 1489.9035,
+      "elo_after": 1511.2763,
+      "opp_elo": 1533.5213
     },
     {
       "week": "26-3-13",
@@ -129,9 +129,9 @@
       "opponent": "David Van Hise",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1511.2783,
-      "elo_after": 1539.0704,
-      "opp_elo": 1685.271
+      "elo_before": 1511.2763,
+      "elo_after": 1539.0668,
+      "opp_elo": 1685.2331
     },
     {
       "week": "26-3-13",
@@ -139,9 +139,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.0704,
-      "elo_after": 1524.2941,
-      "opp_elo": 1617.6166
+      "elo_before": 1539.0668,
+      "elo_after": 1524.2881,
+      "opp_elo": 1617.5672
     },
     {
       "week": "26-3-13",
@@ -149,8 +149,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1524.2941,
-      "elo_after": 1503.9677,
+      "elo_before": 1524.2881,
+      "elo_after": 1503.9621,
       "opp_elo": 1500.0
     },
     {
@@ -159,9 +159,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1503.9677,
-      "elo_after": 1521.1981,
-      "opp_elo": 1471.5151
+      "elo_before": 1503.9621,
+      "elo_after": 1521.0234,
+      "opp_elo": 1468.3878
     },
     {
       "week": "26-3-20",
@@ -169,9 +169,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.1981,
-      "elo_after": 1538.6328,
-      "opp_elo": 1492.5093
+      "elo_before": 1521.0234,
+      "elo_after": 1538.4612,
+      "opp_elo": 1492.3924
     },
     {
       "week": "26-3-20",
@@ -179,9 +179,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.6328,
-      "elo_after": 1523.7563,
-      "opp_elo": 1615.2542
+      "elo_before": 1538.4612,
+      "elo_after": 1523.5917,
+      "opp_elo": 1615.2171
     },
     {
       "week": "26-3-20",
@@ -189,9 +189,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1523.7563,
-      "elo_after": 1504.924,
-      "opp_elo": 1526.8238
+      "elo_before": 1523.5917,
+      "elo_after": 1504.768,
+      "opp_elo": 1526.8146
     },
     {
       "week": "26-3-20",
@@ -199,8 +199,8 @@
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.924,
-      "elo_after": 1485.6548,
+      "elo_before": 1504.768,
+      "elo_after": 1485.5073,
       "opp_elo": 1500.0
     },
     {
@@ -209,9 +209,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1485.6548,
-      "elo_after": 1465.9286,
-      "opp_elo": 1472.37
+      "elo_before": 1485.5073,
+      "elo_after": 1465.6564,
+      "opp_elo": 1469.9387
     }
   ],
   "wins": 9,

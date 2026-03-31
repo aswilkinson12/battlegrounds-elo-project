@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1474.83,
+  "elo": 1474.78,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -110,8 +110,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1501.0733,
-      "elo_after": 1482.2426,
-      "opp_elo": 1504.1695
+      "elo_after": 1482.2403,
+      "opp_elo": 1504.1288
     },
     {
       "week": "26-2-27",
@@ -119,8 +119,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.2426,
-      "elo_after": 1502.2128,
+      "elo_before": 1482.2403,
+      "elo_after": 1502.2107,
       "opp_elo": 1500.0
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.2128,
-      "elo_after": 1518.5785,
-      "opp_elo": 1453.7297
+      "elo_before": 1502.2107,
+      "elo_after": 1518.5763,
+      "opp_elo": 1453.7258
     },
     {
       "week": "26-2-27",
@@ -139,9 +139,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1518.5785,
-      "elo_after": 1542.7721,
-      "opp_elo": 1616.025
+      "elo_before": 1518.5763,
+      "elo_after": 1542.7681,
+      "opp_elo": 1615.9891
     },
     {
       "week": "26-2-27",
@@ -149,9 +149,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1542.7721,
-      "elo_after": 1529.2738,
-      "opp_elo": 1646.3391
+      "elo_before": 1542.7681,
+      "elo_after": 1529.268,
+      "opp_elo": 1646.2974
     },
     {
       "week": "26-2-27",
@@ -159,8 +159,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1529.2738,
-      "elo_after": 1508.6767,
+      "elo_before": 1529.268,
+      "elo_after": 1508.6712,
       "opp_elo": 1500.0
     },
     {
@@ -169,9 +169,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1508.6767,
-      "elo_after": 1525.153,
-      "opp_elo": 1462.2547
+      "elo_before": 1508.6712,
+      "elo_after": 1525.1461,
+      "opp_elo": 1462.223
     },
     {
       "week": "26-3-07",
@@ -179,9 +179,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1525.153,
-      "elo_after": 1505.9612,
-      "opp_elo": 1521.6453
+      "elo_before": 1525.1461,
+      "elo_after": 1505.9099,
+      "opp_elo": 1520.8258
     },
     {
       "week": "26-3-07",
@@ -189,8 +189,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.9612,
-      "elo_after": 1524.6352,
+      "elo_before": 1505.9099,
+      "elo_after": 1524.5867,
       "opp_elo": 1500.0
     },
     {
@@ -199,8 +199,8 @@
       "opponent": "Chris Daniel",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1524.6352,
-      "elo_after": 1504.2903,
+      "elo_before": 1524.5867,
+      "elo_after": 1504.2444,
       "opp_elo": 1500.0
     },
     {
@@ -209,9 +209,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.2903,
-      "elo_after": 1481.6787,
-      "opp_elo": 1437.4352
+      "elo_before": 1504.2444,
+      "elo_after": 1481.6345,
+      "opp_elo": 1437.4221
     },
     {
       "week": "26-3-20",
@@ -219,9 +219,9 @@
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1481.6787,
-      "elo_after": 1457.6002,
-      "opp_elo": 1386.5019
+      "elo_before": 1481.6345,
+      "elo_after": 1457.5565,
+      "opp_elo": 1386.4674
     },
     {
       "week": "26-3-20",
@@ -229,8 +229,8 @@
       "opponent": "Will Bellows",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.6002,
-      "elo_after": 1440.9074,
+      "elo_before": 1457.5565,
+      "elo_after": 1440.8661,
       "opp_elo": 1500.0
     },
     {
@@ -239,9 +239,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1440.9074,
-      "elo_after": 1456.9147,
-      "opp_elo": 1385.7227
+      "elo_before": 1440.8661,
+      "elo_after": 1456.874,
+      "opp_elo": 1385.6931
     },
     {
       "week": "26-3-20",
@@ -249,9 +249,9 @@
       "opponent": "Patrick Brooks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1456.9147,
-      "elo_after": 1476.5361,
-      "opp_elo": 1468.2813
+      "elo_before": 1456.874,
+      "elo_after": 1476.4894,
+      "opp_elo": 1468.1298
     },
     {
       "week": "26-3-27",
@@ -259,9 +259,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1476.5361,
-      "elo_after": 1469.3296,
-      "opp_elo": 1728.8305
+      "elo_before": 1476.4894,
+      "elo_after": 1469.2775,
+      "opp_elo": 1728.624
     },
     {
       "week": "26-3-27",
@@ -269,9 +269,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.3296,
-      "elo_after": 1490.7159,
-      "opp_elo": 1513.1975
+      "elo_before": 1469.2775,
+      "elo_after": 1490.6651,
+      "opp_elo": 1513.1688
     },
     {
       "week": "26-3-27",
@@ -279,9 +279,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1490.7159,
-      "elo_after": 1470.5585,
-      "opp_elo": 1469.5257
+      "elo_before": 1490.6651,
+      "elo_after": 1470.5052,
+      "opp_elo": 1469.4282
     },
     {
       "week": "26-3-27",
@@ -289,8 +289,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1470.5585,
-      "elo_after": 1453.1647,
+      "elo_before": 1470.5052,
+      "elo_after": 1453.1143,
       "opp_elo": 1500.0
     },
     {
@@ -299,9 +299,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1453.1647,
-      "elo_after": 1474.8273,
-      "opp_elo": 1502.1758
+      "elo_before": 1453.1143,
+      "elo_after": 1474.7763,
+      "opp_elo": 1502.1151
     }
   ],
   "wins": 14,

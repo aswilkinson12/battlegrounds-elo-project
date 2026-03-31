@@ -1,0 +1,200 @@
+{
+  "player": "Terry Eleftherakis",
+  "slug": "terry-eleftherakis",
+  "elo": 1395.72,
+  "matches": [
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Timothy Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1481.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.0,
+      "elo_after": 1462.0,
+      "opp_elo": 1481.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1462.0,
+      "elo_after": 1483.0698,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1483.0698,
+      "elo_after": 1464.8848,
+      "opp_elo": 1497.9806
+    },
+    {
+      "week": "26-2-13",
+      "round": 1,
+      "opponent": "Thomas Ostroff",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1464.8848,
+      "elo_after": 1485.7986,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-13",
+      "round": 2,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1485.7986,
+      "elo_after": 1467.5748,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-13",
+      "round": 3,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1467.5748,
+      "elo_after": 1450.3428,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-13",
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1450.3428,
+      "elo_after": 1472.0401,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-2-13",
+      "round": 5,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.0401,
+      "elo_after": 1493.4393,
+      "opp_elo": 1516.1474
+    },
+    {
+      "week": "26-3-07",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1493.4393,
+      "elo_after": 1474.9243,
+      "opp_elo": 1502.3108
+    },
+    {
+      "week": "26-3-07",
+      "round": 2,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1474.9243,
+      "elo_after": 1493.3216,
+      "opp_elo": 1463.899
+    },
+    {
+      "week": "26-3-07",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1493.3216,
+      "elo_after": 1474.6868,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-07",
+      "round": 4,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1474.6868,
+      "elo_after": 1457.0686,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 1,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.0686,
+      "elo_after": 1473.1227,
+      "opp_elo": 1402.7608
+    },
+    {
+      "week": "26-3-13",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.1227,
+      "elo_after": 1459.9098,
+      "opp_elo": 1582.4136
+    },
+    {
+      "week": "26-3-13",
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.9098,
+      "elo_after": 1443.0925,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "26-3-13",
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1443.0925,
+      "elo_after": 1424.4566,
+      "opp_elo": 1449.752
+    },
+    {
+      "week": "26-3-27",
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1424.4566,
+      "elo_after": 1410.935,
+      "opp_elo": 1527.5576
+    },
+    {
+      "week": "26-3-27",
+      "round": 2,
+      "opponent": "Jeffrey Silver",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1410.935,
+      "elo_after": 1395.7154,
+      "opp_elo": 1481.0
+    }
+  ],
+  "wins": 6,
+  "losses": 13,
+  "draws": 0
+}
