@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1506.3,
+  "elo": 1506.32,
   "matches": [
     {
       "week": "26-3-13",
@@ -20,8 +20,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.0,
-      "elo_after": 1497.2365,
-      "opp_elo": 1468.105
+      "elo_after": 1497.2444,
+      "opp_elo": 1468.2529
     },
     {
       "week": "26-3-13",
@@ -29,9 +29,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1497.2365,
-      "elo_after": 1484.3194,
-      "opp_elo": 1612.5212
+      "elo_before": 1497.2444,
+      "elo_after": 1484.3287,
+      "opp_elo": 1612.5582
     },
     {
       "week": "26-3-20",
@@ -39,9 +39,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.3194,
-      "elo_after": 1499.8221,
-      "opp_elo": 1419.6303
+      "elo_before": 1484.3287,
+      "elo_after": 1499.833,
+      "opp_elo": 1419.6698
     },
     {
       "week": "26-3-20",
@@ -49,8 +49,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.8221,
-      "elo_after": 1480.8318,
+      "elo_before": 1499.833,
+      "elo_after": 1480.8421,
       "opp_elo": 1500.0
     },
     {
@@ -59,9 +59,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.8318,
-      "elo_after": 1463.5005,
-      "opp_elo": 1511.4249
+      "elo_before": 1480.8421,
+      "elo_after": 1463.5175,
+      "opp_elo": 1511.5579
     },
     {
       "week": "26-3-20",
@@ -69,9 +69,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1463.5005,
-      "elo_after": 1487.8403,
-      "opp_elo": 1563.8437
+      "elo_before": 1463.5175,
+      "elo_after": 1487.8573,
+      "opp_elo": 1563.8607
     },
     {
       "week": "26-3-20",
@@ -79,9 +79,9 @@
       "opponent": "Amber Cronin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1487.8403,
-      "elo_after": 1506.2963,
-      "opp_elo": 1477.8899
+      "elo_before": 1487.8573,
+      "elo_after": 1506.3164,
+      "opp_elo": 1477.965
     }
   ],
   "wins": 4,

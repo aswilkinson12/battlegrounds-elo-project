@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1532.6,
+  "elo": 1532.63,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -140,8 +140,8 @@
       "result": "D",
       "score": 0.5,
       "elo_before": 1632.0732,
-      "elo_after": 1621.188,
-      "opp_elo": 1405.6016
+      "elo_after": 1621.1881,
+      "opp_elo": 1405.6035
     },
     {
       "week": "26-2-20",
@@ -149,9 +149,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1621.188,
-      "elo_after": 1630.147,
-      "opp_elo": 1416.8865
+      "elo_before": 1621.1881,
+      "elo_after": 1630.1501,
+      "opp_elo": 1416.9633
     },
     {
       "week": "26-2-20",
@@ -159,8 +159,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1630.147,
-      "elo_after": 1604.3449,
+      "elo_before": 1630.1501,
+      "elo_after": 1604.3479,
       "opp_elo": 1500.0
     },
     {
@@ -169,8 +169,8 @@
       "opponent": "Jonathon Streker",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1604.3449,
-      "elo_after": 1579.8043,
+      "elo_before": 1604.3479,
+      "elo_after": 1579.8071,
       "opp_elo": 1500.0
     },
     {
@@ -179,9 +179,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1579.8043,
-      "elo_after": 1593.4668,
-      "opp_elo": 1479.507
+      "elo_before": 1579.8071,
+      "elo_after": 1593.4787,
+      "opp_elo": 1479.6907
     },
     {
       "week": "26-2-27",
@@ -189,9 +189,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1593.4668,
-      "elo_after": 1608.6312,
-      "opp_elo": 1522.3518
+      "elo_before": 1593.4787,
+      "elo_after": 1608.6427,
+      "opp_elo": 1522.3561
     },
     {
       "week": "26-2-27",
@@ -199,9 +199,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1608.6312,
-      "elo_after": 1620.4201,
-      "opp_elo": 1469.827
+      "elo_before": 1608.6427,
+      "elo_after": 1620.4311,
+      "opp_elo": 1469.8272
     },
     {
       "week": "26-2-27",
@@ -209,8 +209,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1620.4201,
-      "elo_after": 1633.0864,
+      "elo_before": 1620.4311,
+      "elo_after": 1633.0969,
       "opp_elo": 1500.0
     },
     {
@@ -219,9 +219,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1633.0864,
-      "elo_after": 1644.247,
-      "opp_elo": 1480.6513
+      "elo_before": 1633.0969,
+      "elo_after": 1644.257,
+      "opp_elo": 1480.6523
     },
     {
       "week": "26-3-07",
@@ -229,9 +229,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1644.247,
-      "elo_after": 1626.8742,
-      "opp_elo": 1674.0762
+      "elo_before": 1644.257,
+      "elo_after": 1626.8886,
+      "opp_elo": 1674.1669
     },
     {
       "week": "26-3-07",
@@ -239,9 +239,9 @@
       "opponent": "Andy Perez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1626.8742,
-      "elo_after": 1601.0555,
-      "opp_elo": 1496.3779
+      "elo_before": 1626.8886,
+      "elo_after": 1601.0693,
+      "opp_elo": 1496.3783
     },
     {
       "week": "26-3-07",
@@ -249,8 +249,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1601.0555,
-      "elo_after": 1614.6799,
+      "elo_before": 1601.0693,
+      "elo_after": 1614.6929,
       "opp_elo": 1500.0
     },
     {
@@ -259,9 +259,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1614.6799,
-      "elo_after": 1592.8525,
-      "opp_elo": 1562.5916
+      "elo_before": 1614.6929,
+      "elo_after": 1592.8652,
+      "opp_elo": 1562.5977
     },
     {
       "week": "26-3-20",
@@ -269,9 +269,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1592.8525,
-      "elo_after": 1574.4801,
-      "opp_elo": 1604.332
+      "elo_before": 1592.8652,
+      "elo_after": 1574.494,
+      "opp_elo": 1604.3684
     },
     {
       "week": "26-3-20",
@@ -279,9 +279,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1574.4801,
-      "elo_after": 1587.5318,
-      "opp_elo": 1461.9302
+      "elo_before": 1574.494,
+      "elo_after": 1587.5496,
+      "opp_elo": 1462.0228
     },
     {
       "week": "26-3-20",
@@ -289,8 +289,8 @@
       "opponent": "Will Bellows",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1587.5318,
-      "elo_after": 1563.8437,
+      "elo_before": 1587.5496,
+      "elo_after": 1563.8607,
       "opp_elo": 1500.0
     },
     {
@@ -299,9 +299,9 @@
       "opponent": "Sam Feeley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1563.8437,
-      "elo_after": 1539.504,
-      "opp_elo": 1463.5005
+      "elo_before": 1563.8607,
+      "elo_after": 1539.5209,
+      "opp_elo": 1463.5175
     },
     {
       "week": "26-3-20",
@@ -309,9 +309,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1539.504,
-      "elo_after": 1549.8923,
-      "opp_elo": 1369.6852
+      "elo_before": 1539.5209,
+      "elo_after": 1549.9124,
+      "opp_elo": 1369.7738
     },
     {
       "week": "26-3-27",
@@ -319,9 +319,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1549.8923,
-      "elo_after": 1571.0045,
-      "opp_elo": 1588.6768
+      "elo_before": 1549.9124,
+      "elo_after": 1571.0276,
+      "opp_elo": 1588.7525
     },
     {
       "week": "26-3-27",
@@ -329,9 +329,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1571.0045,
-      "elo_after": 1587.8918,
-      "opp_elo": 1532.2103
+      "elo_before": 1571.0276,
+      "elo_after": 1587.9189,
+      "opp_elo": 1532.3083
     },
     {
       "week": "26-3-27",
@@ -339,9 +339,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1587.8918,
-      "elo_after": 1571.5406,
-      "opp_elo": 1636.646
+      "elo_before": 1587.9189,
+      "elo_after": 1571.5696,
+      "opp_elo": 1636.7074
     },
     {
       "week": "26-3-27",
@@ -349,8 +349,8 @@
       "opponent": "Will Bellows",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1571.5406,
-      "elo_after": 1548.6827,
+      "elo_before": 1571.5696,
+      "elo_after": 1548.7101,
       "opp_elo": 1500.0
     },
     {
@@ -359,9 +359,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1548.6827,
-      "elo_after": 1532.6045,
-      "opp_elo": 1602.5391
+      "elo_before": 1548.7101,
+      "elo_after": 1532.6324,
+      "opp_elo": 1602.5745
     }
   ],
   "wins": 21,

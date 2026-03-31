@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1536.98,
+  "elo": 1537.02,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -101,7 +101,7 @@
       "score": 0.0,
       "elo_before": 1524.1714,
       "elo_after": 1504.1288,
-      "opp_elo": 1505.0876
+      "opp_elo": 1505.0878
     },
     {
       "week": "26-2-13",
@@ -120,8 +120,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1522.9617,
-      "elo_after": 1536.8199,
-      "opp_elo": 1426.537
+      "elo_after": 1536.8206,
+      "opp_elo": 1426.5506
     },
     {
       "week": "26-2-27",
@@ -129,8 +129,8 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1536.8199,
-      "elo_after": 1551.9484,
+      "elo_before": 1536.8206,
+      "elo_after": 1551.9491,
       "opp_elo": 1465.021
     },
     {
@@ -139,9 +139,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.9484,
-      "elo_after": 1570.0789,
-      "opp_elo": 1536.0373
+      "elo_before": 1551.9491,
+      "elo_after": 1570.1226,
+      "opp_elo": 1536.8259
     },
     {
       "week": "26-2-27",
@@ -149,9 +149,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1570.0789,
-      "elo_after": 1590.766,
-      "opp_elo": 1601.0104
+      "elo_before": 1570.1226,
+      "elo_after": 1590.8112,
+      "opp_elo": 1601.0829
     },
     {
       "week": "26-2-27",
@@ -159,9 +159,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1590.766,
-      "elo_after": 1575.4922,
-      "opp_elo": 1659.7976
+      "elo_before": 1590.8112,
+      "elo_after": 1575.5355,
+      "opp_elo": 1659.8065
     },
     {
       "week": "26-3-27",
@@ -169,9 +169,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1575.4922,
-      "elo_after": 1558.2578,
-      "opp_elo": 1607.8708
+      "elo_before": 1575.5355,
+      "elo_after": 1558.3014,
+      "opp_elo": 1607.9207
     },
     {
       "week": "26-3-27",
@@ -179,9 +179,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1558.2578,
-      "elo_after": 1536.9785,
-      "opp_elo": 1516.3783
+      "elo_before": 1558.3014,
+      "elo_after": 1537.0222,
+      "opp_elo": 1516.422
     }
   ],
   "wins": 10,

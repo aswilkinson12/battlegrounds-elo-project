@@ -1,7 +1,7 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1514.1,
+  "elo": 1514.11,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -101,7 +101,7 @@
       "score": 1.0,
       "elo_before": 1500.3709,
       "elo_after": 1517.714,
-      "opp_elo": 1469.9964
+      "opp_elo": 1469.9963
     },
     {
       "week": "26-2-13",
@@ -120,8 +120,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1517.714,
-      "elo_after": 1499.6441,
-      "opp_elo": 1534.735
+      "elo_after": 1499.6503,
+      "opp_elo": 1534.8492
     },
     {
       "week": "26-2-27",
@@ -129,8 +129,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.6441,
-      "elo_after": 1518.6636,
+      "elo_before": 1499.6503,
+      "elo_after": 1518.6694,
       "opp_elo": 1500.0
     },
     {
@@ -139,8 +139,8 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.6636,
-      "elo_after": 1495.9511,
+      "elo_before": 1518.6694,
+      "elo_after": 1495.9566,
       "opp_elo": 1449.8925
     },
     {
@@ -149,9 +149,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1495.9511,
-      "elo_after": 1514.0997,
-      "opp_elo": 1480.3716
+      "elo_before": 1495.9566,
+      "elo_after": 1514.114,
+      "opp_elo": 1480.5373
     }
   ],
   "wins": 7,

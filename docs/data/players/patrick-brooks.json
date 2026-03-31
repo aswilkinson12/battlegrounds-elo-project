@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1448.51,
+  "elo": 1448.52,
   "matches": [
     {
       "week": "26-3-07",
@@ -20,8 +20,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.0,
-      "elo_after": 1496.0306,
-      "opp_elo": 1407.3315
+      "elo_after": 1496.0315,
+      "opp_elo": 1407.3475
     },
     {
       "week": "26-3-07",
@@ -29,8 +29,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.0306,
-      "elo_after": 1515.2477,
+      "elo_before": 1496.0315,
+      "elo_after": 1515.2485,
       "opp_elo": 1500.0
     },
     {
@@ -39,8 +39,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.2477,
-      "elo_after": 1495.4144,
+      "elo_before": 1515.2485,
+      "elo_after": 1495.4151,
       "opp_elo": 1500.0
     },
     {
@@ -49,9 +49,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1495.4144,
-      "elo_after": 1470.3174,
-      "opp_elo": 1379.8415
+      "elo_before": 1495.4151,
+      "elo_after": 1470.3198,
+      "opp_elo": 1379.8765
     },
     {
       "week": "26-3-20",
@@ -59,8 +59,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.3174,
-      "elo_after": 1490.9367,
+      "elo_before": 1470.3198,
+      "elo_after": 1490.939,
       "opp_elo": 1500.0
     },
     {
@@ -69,8 +69,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1490.9367,
-      "elo_after": 1472.4322,
+      "elo_before": 1490.939,
+      "elo_after": 1472.4344,
       "opp_elo": 1500.0
     },
     {
@@ -79,9 +79,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1472.4322,
-      "elo_after": 1491.1251,
-      "opp_elo": 1466.8155
+      "elo_before": 1472.4344,
+      "elo_after": 1491.1298,
+      "opp_elo": 1466.8641
     },
     {
       "week": "26-3-20",
@@ -89,9 +89,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.1251,
-      "elo_after": 1468.1298,
-      "opp_elo": 1416.961
+      "elo_before": 1491.1298,
+      "elo_after": 1468.1354,
+      "opp_elo": 1416.9832
     },
     {
       "week": "26-3-20",
@@ -99,9 +99,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.1298,
-      "elo_after": 1448.5145,
-      "opp_elo": 1456.874
+      "elo_before": 1468.1354,
+      "elo_after": 1448.5209,
+      "opp_elo": 1456.8934
     }
   ],
   "wins": 4,

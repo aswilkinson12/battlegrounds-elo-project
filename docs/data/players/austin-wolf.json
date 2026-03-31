@@ -1,0 +1,70 @@
+{
+  "player": "Austin Wolf",
+  "slug": "austin-wolf",
+  "elo": 1498.8,
+  "matches": [
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Elias Medrano",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1519.0,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Brian Kennes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.0,
+      "elo_after": 1498.962,
+      "opp_elo": 1500.0
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1498.962,
+      "elo_after": 1518.0755,
+      "opp_elo": 1501.038
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.0755,
+      "elo_after": 1537.1292,
+      "opp_elo": 1519.0568
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.1292,
+      "elo_after": 1518.1231,
+      "opp_elo": 1537.0188
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.1231,
+      "elo_after": 1498.7968,
+      "opp_elo": 1512.1544
+    }
+  ],
+  "wins": 3,
+  "losses": 3,
+  "draws": 0
+}
