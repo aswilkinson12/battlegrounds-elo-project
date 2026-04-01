@@ -171,7 +171,7 @@
     {
       "week": "26-2-20",
       "round": 5,
-      "opponent": "***Bye***",
+      "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
       "elo_before": 1460.4399,
@@ -302,7 +302,7 @@
     {
       "week": "26-3-20",
       "round": 2,
-      "opponent": "***Bye***",
+      "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
       "elo_before": 1475.3318,

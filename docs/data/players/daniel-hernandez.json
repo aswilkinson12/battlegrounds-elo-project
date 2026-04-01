@@ -248,7 +248,7 @@
     {
       "week": "26-3-13",
       "round": 4,
-      "opponent": "***Bye***",
+      "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
       "elo_before": 1386.4789,
@@ -335,7 +335,7 @@
     {
       "week": "26-3-27",
       "round": 3,
-      "opponent": "***Bye***",
+      "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
       "elo_before": 1389.1091,
