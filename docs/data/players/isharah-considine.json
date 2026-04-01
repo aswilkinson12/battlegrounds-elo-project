@@ -11,7 +11,8 @@
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1519.0,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -21,7 +22,8 @@
       "score": 0.0,
       "elo_before": 1519.0,
       "elo_after": 1500.0,
-      "opp_elo": 1519.0
+      "opp_elo": 1519.0,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -31,7 +33,8 @@
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1480.9432,
-      "opp_elo": 1498.962
+      "opp_elo": 1498.962,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,7 +44,8 @@
       "score": 1.0,
       "elo_before": 1480.9432,
       "elo_after": 1499.9494,
-      "opp_elo": 1481.0568
+      "opp_elo": 1481.0568,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -51,7 +55,8 @@
       "score": 1.0,
       "elo_before": 1499.9494,
       "elo_after": 1519.0059,
-      "opp_elo": 1500.9812
+      "opp_elo": 1500.9812,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -61,7 +66,8 @@
       "score": 0.0,
       "elo_before": 1519.0059,
       "elo_after": 1499.9008,
-      "opp_elo": 1517.085
+      "opp_elo": 1517.085,
+      "is_bye": false
     },
     {
       "week": "26-2-13",
@@ -71,7 +77,8 @@
       "score": 0.0,
       "elo_before": 1499.9008,
       "elo_after": 1482.7979,
-      "opp_elo": 1534.7073
+      "opp_elo": 1534.7073,
+      "is_bye": false
     },
     {
       "week": "26-2-13",
@@ -81,7 +88,8 @@
       "score": 1.0,
       "elo_before": 1482.7979,
       "elo_after": 1505.4705,
-      "opp_elo": 1550.8105
+      "opp_elo": 1550.8105,
+      "is_bye": false
     },
     {
       "week": "26-2-13",
@@ -91,7 +99,8 @@
       "score": 1.0,
       "elo_before": 1505.4705,
       "elo_after": 1524.1714,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-2-13",
@@ -101,7 +110,8 @@
       "score": 0.0,
       "elo_before": 1524.1714,
       "elo_after": 1504.1288,
-      "opp_elo": 1505.0878
+      "opp_elo": 1505.0878,
+      "is_bye": false
     },
     {
       "week": "26-2-13",
@@ -111,7 +121,8 @@
       "score": 1.0,
       "elo_before": 1504.1288,
       "elo_after": 1522.9617,
-      "opp_elo": 1501.0733
+      "opp_elo": 1501.0733,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -121,7 +132,8 @@
       "score": 1.0,
       "elo_before": 1522.9617,
       "elo_after": 1536.8206,
-      "opp_elo": 1426.5506
+      "opp_elo": 1426.5506,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -131,7 +143,8 @@
       "score": 1.0,
       "elo_before": 1536.8206,
       "elo_after": 1551.9491,
-      "opp_elo": 1465.021
+      "opp_elo": 1465.021,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -141,7 +154,8 @@
       "score": 1.0,
       "elo_before": 1551.9491,
       "elo_after": 1570.1226,
-      "opp_elo": 1536.8259
+      "opp_elo": 1536.8259,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -151,7 +165,8 @@
       "score": 1.0,
       "elo_before": 1570.1226,
       "elo_after": 1590.8112,
-      "opp_elo": 1601.0829
+      "opp_elo": 1601.0829,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -161,7 +176,8 @@
       "score": 0.0,
       "elo_before": 1590.8112,
       "elo_after": 1575.5355,
-      "opp_elo": 1659.8065
+      "opp_elo": 1659.8065,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -171,7 +187,8 @@
       "score": 0.0,
       "elo_before": 1575.5355,
       "elo_after": 1558.3014,
-      "opp_elo": 1607.9207
+      "opp_elo": 1607.9207,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -181,7 +198,8 @@
       "score": 0.0,
       "elo_before": 1558.3014,
       "elo_after": 1537.0222,
-      "opp_elo": 1516.422
+      "opp_elo": 1516.422,
+      "is_bye": false
     }
   ],
   "wins": 10,

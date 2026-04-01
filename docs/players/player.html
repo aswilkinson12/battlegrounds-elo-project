@@ -160,6 +160,8 @@
   function avgOppElo(list) {
     let sum = 0, n = 0;
     for (const m of list) {
+      if (m.is_bye || String(m.result) === "BYE" || String(m.opponent) === "***Bye***") continue;
+
       const v = safeNum(m.opp_elo, 1500);
       if (Number.isFinite(v)) { sum += v; n += 1; }
     }
@@ -169,10 +171,12 @@
   function recordWLD(list) {
     let w = 0, l = 0, d = 0;
     for (const m of list) {
+      if (m.is_bye || String(m.result) === "BYE" || String(m.opponent) === "***Bye***") continue;
+
       const r = String(m.result || "");
       if (r === "W") w += 1;
       else if (r === "L") l += 1;
-      else if (r === "D" || r === "ID") d += 1;  // IDs count as draws for record
+      else if (r === "D" || r === "ID") d += 1;
     }
     return { w, l, d };
   }
@@ -220,7 +224,8 @@
 
       const tdOpp = document.createElement("td");
       const oppName = String(m.opponent || "").trim();
-      const oppSlug = nameToSlug.get(normName(oppName));
+      const isByeOpp = m.is_bye || oppName === "***Bye***" || String(m.result) === "BYE";
+      const oppSlug = isByeOpp ? null : nameToSlug.get(normName(oppName));
 
       if (oppSlug && oppSlug !== slug) {
         const link = document.createElement("a");
@@ -240,7 +245,10 @@
 
       const tdOppElo = document.createElement("td");
       tdOppElo.className = "num";
-      tdOppElo.textContent = safeNum(m.opp_elo, 1500).toFixed(2);
+
+      const isBye = m.is_bye || String(m.result) === "BYE" || String(m.opponent) === "***Bye***";
+      tdOppElo.textContent = isBye ? "—" : safeNum(m.opp_elo, 1500).toFixed(2);
+
       tr.appendChild(tdOppElo);
 
       const tdRes = document.createElement("td");
@@ -249,6 +257,7 @@
       if (r === "W") tdRes.className = "win";
       if (r === "L") tdRes.className = "loss";
       if (r === "D" || r === "ID") tdRes.className = "draw";
+      if (r === "BYE") tdRes.className = "draw";
       tr.appendChild(tdRes);
 
       // Δ first
@@ -298,11 +307,12 @@
       // IMPORTANT: within-week order should be Round 1 -> 5 (top to bottom)
       const listAsc = [...list].sort((a, b) => safeNum(a.round) - safeNum(b.round));
 
-      // Starting Elo = elo_before of the first (Round 1) match
-      const startElo = safeNum(listAsc[0].elo_before).toFixed(2);
+      const listNonBye = listAsc.filter(m => !m.is_bye && String(m.result) !== "BYE" && String(m.opponent) !== "***Bye***");
 
-      // Ending Elo = elo_after of the last (Round 5) match
-      const endElo = safeNum(listAsc[listAsc.length - 1].elo_after).toFixed(2);
+      const startSrc = listNonBye.length ? listNonBye : listAsc;
+
+      const startElo = safeNum(startSrc[0].elo_before).toFixed(2);
+      const endElo = safeNum(startSrc[startSrc.length - 1].elo_after).toFixed(2);
 
       // Header row
       const trH = document.createElement("tr");
@@ -456,7 +466,9 @@
       document.getElementById("eloPill").textContent = `Rating: ${safeNum(playerData.elo).toFixed(2)}`;
       document.getElementById("recordPill").textContent =
         `W-L-D: ${playerData.wins}-${playerData.losses}-${playerData.draws}`;
-      const matchCount = Array.isArray(playerData.matches) ? playerData.matches.length : (playerData.games ?? 0);
+      const all = Array.isArray(playerData.matches) ? playerData.matches : [];
+      const matchCount = all.filter(m => !m.is_bye && String(m.result) !== "BYE" && String(m.opponent) !== "***Bye***").length;
+      document.getElementById("gamesPill").textContent = `Matches: ${matchCount}`;
       document.getElementById("gamesPill").textContent = `Matches: ${matchCount}`;
 
       allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];

@@ -11,7 +11,8 @@
       "score": 0.0,
       "elo_before": 1500.0,
       "elo_after": 1481.0,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -21,7 +22,8 @@
       "score": 1.0,
       "elo_before": 1481.0,
       "elo_after": 1500.0,
-      "opp_elo": 1481.0
+      "opp_elo": 1481.0,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -31,7 +33,8 @@
       "score": 1.0,
       "elo_before": 1500.0,
       "elo_after": 1519.0568,
-      "opp_elo": 1501.038
+      "opp_elo": 1501.038,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -41,7 +44,8 @@
       "score": 0.0,
       "elo_before": 1519.0568,
       "elo_after": 1500.0031,
-      "opp_elo": 1518.0755
+      "opp_elo": 1518.0755,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -51,7 +55,8 @@
       "score": 1.0,
       "elo_before": 1500.0031,
       "elo_after": 1519.0029,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -61,7 +66,8 @@
       "score": 0.0,
       "elo_before": 1519.0029,
       "elo_after": 1499.8478,
-      "opp_elo": 1516.1657
+      "opp_elo": 1516.1657,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -71,7 +77,8 @@
       "score": 1.0,
       "elo_before": 1499.8478,
       "elo_after": 1518.8561,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -81,7 +88,8 @@
       "score": 1.0,
       "elo_before": 1518.8561,
       "elo_after": 1536.8259,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -91,7 +99,8 @@
       "score": 0.0,
       "elo_before": 1536.8259,
       "elo_after": 1518.6525,
-      "opp_elo": 1551.9491
+      "opp_elo": 1551.9491,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -101,7 +110,8 @@
       "score": 1.0,
       "elo_before": 1518.6525,
       "elo_after": 1536.6334,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-2-27",
@@ -111,7 +121,8 @@
       "score": 0.0,
       "elo_before": 1536.6334,
       "elo_after": 1523.6474,
-      "opp_elo": 1650.5158
+      "opp_elo": 1650.5158,
+      "is_bye": false
     },
     {
       "week": "26-3-07",
@@ -121,7 +132,8 @@
       "score": 0.0,
       "elo_before": 1523.6474,
       "elo_after": 1503.3562,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-3-07",
@@ -131,7 +143,8 @@
       "score": 1.0,
       "elo_before": 1503.3562,
       "elo_after": 1519.2423,
-      "opp_elo": 1445.8968
+      "opp_elo": 1445.8968,
+      "is_bye": false
     },
     {
       "week": "26-3-07",
@@ -141,7 +154,8 @@
       "score": 1.0,
       "elo_before": 1519.2423,
       "elo_after": 1530.4764,
-      "opp_elo": 1368.4251
+      "opp_elo": 1368.4251,
+      "is_bye": false
     },
     {
       "week": "26-3-07",
@@ -151,7 +165,8 @@
       "score": 1.0,
       "elo_before": 1530.4764,
       "elo_after": 1554.0473,
-      "opp_elo": 1615.731
+      "opp_elo": 1615.731,
+      "is_bye": false
     },
     {
       "week": "26-3-07",
@@ -161,7 +176,8 @@
       "score": 1.0,
       "elo_before": 1554.0473,
       "elo_after": 1572.2787,
-      "opp_elo": 1539.9854
+      "opp_elo": 1539.9854,
+      "is_bye": false
     },
     {
       "week": "26-3-13",
@@ -171,7 +187,8 @@
       "score": 0.0,
       "elo_before": 1572.2787,
       "elo_after": 1560.7897,
-      "opp_elo": 1717.5367
+      "opp_elo": 1717.5367,
+      "is_bye": false
     },
     {
       "week": "26-3-13",
@@ -181,7 +198,8 @@
       "score": 1.0,
       "elo_before": 1560.7897,
       "elo_after": 1576.4989,
-      "opp_elo": 1500.0
+      "opp_elo": 1500.0,
+      "is_bye": false
     },
     {
       "week": "26-3-13",
@@ -191,7 +209,8 @@
       "score": 0.0,
       "elo_before": 1576.4989,
       "elo_after": 1553.439,
-      "opp_elo": 1501.099
+      "opp_elo": 1501.099,
+      "is_bye": false
     },
     {
       "week": "26-3-13",
@@ -201,7 +220,8 @@
       "score": 1.0,
       "elo_before": 1553.439,
       "elo_after": 1570.4455,
-      "opp_elo": 1516.8503
+      "opp_elo": 1516.8503,
+      "is_bye": false
     },
     {
       "week": "26-3-13",
@@ -211,7 +231,18 @@
       "score": 1.0,
       "elo_before": 1570.4455,
       "elo_after": 1584.6465,
-      "opp_elo": 1480.7505
+      "opp_elo": 1480.7505,
+      "is_bye": false
+    },
+    {
+      "week": "26-3-20",
+      "round": 1,
+      "opponent": "***Bye***",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1584.6465,
+      "elo_after": 1584.6465,
+      "opp_elo": null
     },
     {
       "week": "26-3-20",
@@ -221,7 +252,8 @@
       "score": 0.0,
       "elo_before": 1584.6465,
       "elo_after": 1560.4618,
-      "opp_elo": 1487.3732
+      "opp_elo": 1487.3732,
+      "is_bye": false
     },
     {
       "week": "26-3-20",
@@ -231,7 +263,8 @@
       "score": 1.0,
       "elo_before": 1560.4618,
       "elo_after": 1571.1033,
-      "opp_elo": 1396.4274
+      "opp_elo": 1396.4274,
+      "is_bye": false
     },
     {
       "week": "26-3-20",
@@ -241,7 +274,8 @@
       "score": 1.0,
       "elo_before": 1571.1033,
       "elo_after": 1583.2229,
-      "opp_elo": 1439.3087
+      "opp_elo": 1439.3087,
+      "is_bye": false
     },
     {
       "week": "26-3-20",
@@ -251,7 +285,8 @@
       "score": 0.0,
       "elo_before": 1583.2229,
       "elo_after": 1565.1604,
-      "opp_elo": 1600.3811
+      "opp_elo": 1600.3811,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -261,7 +296,8 @@
       "score": 1.0,
       "elo_before": 1565.1604,
       "elo_after": 1582.2662,
-      "opp_elo": 1530.4073
+      "opp_elo": 1530.4073,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -271,7 +307,8 @@
       "score": 1.0,
       "elo_before": 1582.2662,
       "elo_after": 1591.5328,
-      "opp_elo": 1385.6782
+      "opp_elo": 1385.6782,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -281,7 +318,8 @@
       "score": 1.0,
       "elo_before": 1591.5328,
       "elo_after": 1618.4306,
-      "opp_elo": 1745.2573
+      "opp_elo": 1745.2573,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -291,7 +329,8 @@
       "score": 1.0,
       "elo_before": 1618.4306,
       "elo_after": 1642.582,
-      "opp_elo": 1715.0438
+      "opp_elo": 1715.0438,
+      "is_bye": false
     },
     {
       "week": "26-3-27",
@@ -301,7 +340,8 @@
       "score": 1.0,
       "elo_before": 1642.582,
       "elo_after": 1658.4341,
-      "opp_elo": 1584.4847
+      "opp_elo": 1584.4847,
+      "is_bye": false
     }
   ],
   "wins": 20,
