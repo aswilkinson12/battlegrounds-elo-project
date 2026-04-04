@@ -732,7 +732,7 @@ Week,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 26-4-04,4,Mike Laing,Stella Burfeind,0.5,OK,False,
 26-4-04,4,Pan Rasking,Winston Wong,1.0,OK,False,
 26-4-04,4,Philip Petronis,***Bye***,,BYE,False,True
-26-4-04,5,Amy Altman,Autumn Rossa,0.5,OK,False,
+26-4-04,5,Amy Altman,Autumn Rossa,0.5,ID,True,
 26-4-04,5,Anthony Wilkinson,Hex Dowd,1.0,OK,False,
 26-4-04,5,Becca Blackwood,Evan Hamlin,0.0,OK,False,
 26-4-04,5,Daniel Hernandez,Taylor Pratt,0.0,OK,False,

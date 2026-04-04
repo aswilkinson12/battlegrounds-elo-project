@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1634.7,
+  "elo": 1642.06,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -392,10 +392,10 @@
       "week": "26-4-04",
       "round": 5,
       "opponent": "Autumn Rossa",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1642.0603,
-      "elo_after": 1634.6973,
+      "elo_after": 1642.0603,
       "opp_elo": 1500.0,
       "is_bye": false
     }
