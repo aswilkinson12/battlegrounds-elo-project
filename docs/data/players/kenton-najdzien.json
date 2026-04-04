@@ -1,7 +1,7 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1610.39,
+  "elo": 1602.58,
   "matches": [
     {
       "week": "26-2-13",
@@ -222,9 +222,64 @@
       "elo_after": 1610.3909,
       "opp_elo": 1634.1829,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1610.3909,
+      "elo_after": 1585.5493,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1585.5493,
+      "elo_after": 1596.6736,
+      "opp_elo": 1432.3156,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1596.6736,
+      "elo_after": 1610.5192,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1610.5192,
+      "elo_after": 1624.6104,
+      "opp_elo": 1518.6746,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1624.6104,
+      "elo_after": 1602.58,
+      "opp_elo": 1568.7195,
+      "is_bye": false
     }
   ],
-  "wins": 13,
-  "losses": 6,
+  "wins": 16,
+  "losses": 8,
   "draws": 1
 }

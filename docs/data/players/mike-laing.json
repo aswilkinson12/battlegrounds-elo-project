@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1495.59,
+  "elo": 1481.79,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -265,9 +265,63 @@
       "elo_after": 1495.5924,
       "opp_elo": 1389.1091,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1495.5924,
+      "elo_after": 1476.8334,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1476.8334,
+      "elo_after": 1476.8334,
+      "opp_elo": null
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1476.8334,
+      "elo_after": 1459.0984,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1459.0984,
+      "elo_after": 1460.6508,
+      "opp_elo": 1487.5493,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1460.6508,
+      "elo_after": 1481.7935,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 12,
-  "losses": 11,
-  "draws": 0
+  "wins": 13,
+  "losses": 13,
+  "draws": 1
 }

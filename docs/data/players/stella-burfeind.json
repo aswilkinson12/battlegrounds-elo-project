@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1491.98,
+  "elo": 1483.95,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -396,9 +396,64 @@
       "elo_after": 1491.9809,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1491.9809,
+      "elo_after": 1516.0806,
+      "opp_elo": 1587.5742,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0806,
+      "elo_after": 1504.7161,
+      "opp_elo": 1664.0449,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1504.7161,
+      "elo_after": 1487.5493,
+      "opp_elo": 1538.3436,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1487.5493,
+      "elo_after": 1485.9969,
+      "opp_elo": 1459.0984,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1485.9969,
+      "elo_after": 1483.9456,
+      "opp_elo": 1448.3403,
+      "is_bye": false
     }
   ],
-  "wins": 17,
-  "losses": 17,
-  "draws": 0
+  "wins": 18,
+  "losses": 19,
+  "draws": 2
 }

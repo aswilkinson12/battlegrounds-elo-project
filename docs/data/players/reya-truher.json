@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1474.82,
+  "elo": 1450.39,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -342,9 +342,64 @@
       "elo_after": 1474.8169,
       "opp_elo": 1502.1798,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1474.8169,
+      "elo_after": 1457.1916,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.1916,
+      "elo_after": 1481.8291,
+      "opp_elo": 1563.4746,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.8291,
+      "elo_after": 1465.4575,
+      "opp_elo": 1530.2033,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.4575,
+      "elo_after": 1448.3403,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1448.3403,
+      "elo_after": 1450.3916,
+      "opp_elo": 1485.9969,
+      "is_bye": false
     }
   ],
-  "wins": 14,
-  "losses": 16,
-  "draws": 0
+  "wins": 15,
+  "losses": 19,
+  "draws": 1
 }

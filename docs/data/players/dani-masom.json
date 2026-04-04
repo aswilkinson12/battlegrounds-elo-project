@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1587.57,
+  "elo": 1493.89,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -441,9 +441,53 @@
       "elo_after": 1587.5742,
       "opp_elo": 1690.8924,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1587.5742,
+      "elo_after": 1563.4746,
+      "opp_elo": 1491.9809,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1563.4746,
+      "elo_after": 1538.8371,
+      "opp_elo": 1457.1916,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Patrick Brooks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1538.8371,
+      "elo_after": 1513.6386,
+      "opp_elo": 1421.1913,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Ken Cox",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.6386,
+      "elo_after": 1493.8932,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
   "wins": 20,
-  "losses": 18,
+  "losses": 22,
   "draws": 1
 }

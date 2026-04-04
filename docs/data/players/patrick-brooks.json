@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1448.52,
+  "elo": 1436.39,
   "matches": [
     {
       "week": "26-3-07",
@@ -112,9 +112,63 @@
       "elo_after": 1448.5209,
       "opp_elo": 1456.8934,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Taylor Pratt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1448.5209,
+      "elo_after": 1432.3156,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1432.3156,
+      "elo_after": 1421.1913,
+      "opp_elo": 1585.5493,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1421.1913,
+      "elo_after": 1446.3898,
+      "opp_elo": 1538.8371,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1446.3898,
+      "elo_after": 1436.3868,
+      "opp_elo": 1625.1822,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1436.3868,
+      "elo_after": 1436.3868,
+      "opp_elo": null
     }
   ],
-  "wins": 4,
-  "losses": 6,
+  "wins": 5,
+  "losses": 9,
   "draws": 0
 }

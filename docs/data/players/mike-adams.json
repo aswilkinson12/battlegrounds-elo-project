@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1489.1,
+  "elo": 1523.33,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -343,9 +343,64 @@
       "elo_after": 1489.0951,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.0951,
+      "elo_after": 1470.6913,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.6913,
+      "elo_after": 1491.2903,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1491.2903,
+      "elo_after": 1518.6746,
+      "opp_elo": 1655.9118,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.6746,
+      "elo_after": 1504.5834,
+      "opp_elo": 1610.5192,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1504.5834,
+      "elo_after": 1523.3328,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 15,
-  "losses": 14,
+  "wins": 18,
+  "losses": 16,
   "draws": 2
 }

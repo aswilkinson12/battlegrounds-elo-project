@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1661.64,
+  "elo": 1645.59,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -453,9 +453,64 @@
       "elo_after": 1661.6406,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Pan Rasking",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1661.6406,
+      "elo_after": 1630.7525,
+      "opp_elo": 1406.518,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1630.7525,
+      "elo_after": 1612.1088,
+      "opp_elo": 1637.268,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1612.1088,
+      "elo_after": 1625.1822,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1625.1822,
+      "elo_after": 1635.1852,
+      "opp_elo": 1446.3898,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1635.1852,
+      "elo_after": 1645.588,
+      "opp_elo": 1465.6978,
+      "is_bye": false
     }
   ],
-  "wins": 30,
-  "losses": 9,
+  "wins": 33,
+  "losses": 11,
   "draws": 2
 }

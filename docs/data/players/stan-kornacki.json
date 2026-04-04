@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1532.63,
+  "elo": 1590.75,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -398,9 +398,64 @@
       "elo_after": 1532.6324,
       "opp_elo": 1602.5745,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Ran Guo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1532.6324,
+      "elo_after": 1552.0274,
+      "opp_elo": 1539.8563,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1552.0274,
+      "elo_after": 1530.2033,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1530.2033,
+      "elo_after": 1546.5748,
+      "opp_elo": 1481.8291,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1546.5748,
+      "elo_after": 1568.7195,
+      "opp_elo": 1604.6125,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1568.7195,
+      "elo_after": 1590.7499,
+      "opp_elo": 1624.6104,
+      "is_bye": false
     }
   ],
-  "wins": 21,
-  "losses": 12,
+  "wins": 25,
+  "losses": 13,
   "draws": 3
 }

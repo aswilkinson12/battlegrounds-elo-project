@@ -1,5 +1,13 @@
 [
   {
+    "player": "Nathan Choi",
+    "elo": 1692.58,
+    "matches": 41,
+    "wins": 28,
+    "losses": 10,
+    "draws": 3
+  },
+  {
     "player": "David Van Hise",
     "elo": 1665.14,
     "matches": 34,
@@ -9,35 +17,19 @@
   },
   {
     "player": "Anthony Wilkinson",
-    "elo": 1661.64,
-    "matches": 41,
-    "wins": 30,
-    "losses": 9,
-    "draws": 2
-  },
-  {
-    "player": "Logan Hesch",
-    "elo": 1658.43,
-    "matches": 30,
-    "wins": 20,
-    "losses": 10,
-    "draws": 0
-  },
-  {
-    "player": "Nathan Choi",
-    "elo": 1652.91,
-    "matches": 36,
-    "wins": 24,
-    "losses": 10,
+    "elo": 1645.59,
+    "matches": 46,
+    "wins": 33,
+    "losses": 11,
     "draws": 2
   },
   {
     "player": "Amy Altman",
-    "elo": 1618.65,
-    "matches": 31,
-    "wins": 19,
-    "losses": 9,
-    "draws": 3
+    "elo": 1634.7,
+    "matches": 36,
+    "wins": 22,
+    "losses": 10,
+    "draws": 4
   },
   {
     "player": "Bradley Skubic",
@@ -48,28 +40,36 @@
     "draws": 4
   },
   {
+    "player": "Logan Hesch",
+    "elo": 1602.8,
+    "matches": 34,
+    "wins": 21,
+    "losses": 13,
+    "draws": 0
+  },
+  {
     "player": "Kenton Najdzien",
-    "elo": 1610.39,
-    "matches": 20,
-    "wins": 13,
-    "losses": 6,
+    "elo": 1602.58,
+    "matches": 25,
+    "wins": 16,
+    "losses": 8,
     "draws": 1
   },
   {
-    "player": "Becca Blackwood",
-    "elo": 1606.75,
-    "matches": 30,
-    "wins": 18,
-    "losses": 10,
-    "draws": 2
+    "player": "Stan Kornacki",
+    "elo": 1590.75,
+    "matches": 41,
+    "wins": 25,
+    "losses": 13,
+    "draws": 3
   },
   {
-    "player": "Dani Masom",
-    "elo": 1587.57,
-    "matches": 39,
-    "wins": 20,
-    "losses": 18,
-    "draws": 1
+    "player": "Ran Guo",
+    "elo": 1585.68,
+    "matches": 11,
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
   },
   {
     "player": "Kevin Thanakit",
@@ -96,12 +96,12 @@
     "draws": 0
   },
   {
-    "player": "Ran Guo",
-    "elo": 1539.86,
-    "matches": 6,
-    "wins": 4,
-    "losses": 2,
-    "draws": 0
+    "player": "Becca Blackwood",
+    "elo": 1559.04,
+    "matches": 35,
+    "wins": 20,
+    "losses": 13,
+    "draws": 2
   },
   {
     "player": "Isharah Considine",
@@ -120,12 +120,12 @@
     "draws": 0
   },
   {
-    "player": "Stan Kornacki",
-    "elo": 1532.63,
+    "player": "Mike Adams",
+    "elo": 1523.33,
     "matches": 36,
-    "wins": 21,
-    "losses": 12,
-    "draws": 3
+    "wins": 18,
+    "losses": 16,
+    "draws": 2
   },
   {
     "player": "John Larochelle",
@@ -134,6 +134,14 @@
     "wins": 7,
     "losses": 6,
     "draws": 2
+  },
+  {
+    "player": "Pan Rasking",
+    "elo": 1510.95,
+    "matches": 19,
+    "wins": 8,
+    "losses": 8,
+    "draws": 3
   },
   {
     "player": "Nathan Cormier",
@@ -200,14 +208,6 @@
     "draws": 0
   },
   {
-    "player": "Mike Laing",
-    "elo": 1495.59,
-    "matches": 23,
-    "wins": 12,
-    "losses": 11,
-    "draws": 0
-  },
-  {
     "player": "Veronica Kirtley",
     "elo": 1494.75,
     "matches": 11,
@@ -216,12 +216,12 @@
     "draws": 1
   },
   {
-    "player": "Stella Burfeind",
-    "elo": 1491.98,
-    "matches": 34,
-    "wins": 17,
-    "losses": 17,
-    "draws": 0
+    "player": "Dani Masom",
+    "elo": 1493.89,
+    "matches": 43,
+    "wins": 20,
+    "losses": 22,
+    "draws": 1
   },
   {
     "player": "Jack Henry",
@@ -232,12 +232,20 @@
     "draws": 1
   },
   {
-    "player": "Mike Adams",
-    "elo": 1489.1,
-    "matches": 31,
-    "wins": 15,
-    "losses": 14,
+    "player": "Stella Burfeind",
+    "elo": 1483.95,
+    "matches": 39,
+    "wins": 18,
+    "losses": 19,
     "draws": 2
+  },
+  {
+    "player": "Mike Laing",
+    "elo": 1481.79,
+    "matches": 27,
+    "wins": 13,
+    "losses": 13,
+    "draws": 1
   },
   {
     "player": "Raul Bottrell-Rogers",
@@ -245,14 +253,6 @@
     "matches": 21,
     "wins": 10,
     "losses": 11,
-    "draws": 0
-  },
-  {
-    "player": "Reya Truher",
-    "elo": 1474.82,
-    "matches": 30,
-    "wins": 14,
-    "losses": 16,
     "draws": 0
   },
   {
@@ -296,19 +296,27 @@
     "draws": 2
   },
   {
-    "player": "Patrick Brooks",
-    "elo": 1448.52,
-    "matches": 10,
-    "wins": 4,
-    "losses": 6,
+    "player": "Hex Dowd",
+    "elo": 1455.3,
+    "matches": 44,
+    "wins": 18,
+    "losses": 26,
     "draws": 0
   },
   {
-    "player": "Hex Dowd",
-    "elo": 1447.93,
-    "matches": 39,
-    "wins": 16,
-    "losses": 23,
+    "player": "Reya Truher",
+    "elo": 1450.39,
+    "matches": 35,
+    "wins": 15,
+    "losses": 19,
+    "draws": 1
+  },
+  {
+    "player": "Patrick Brooks",
+    "elo": 1436.39,
+    "matches": 14,
+    "wins": 5,
+    "losses": 9,
     "draws": 0
   },
   {
@@ -317,22 +325,6 @@
     "matches": 31,
     "wins": 11,
     "losses": 19,
-    "draws": 1
-  },
-  {
-    "player": "Pan Rasking",
-    "elo": 1406.52,
-    "matches": 14,
-    "wins": 4,
-    "losses": 8,
-    "draws": 2
-  },
-  {
-    "player": "Daniel Hernandez",
-    "elo": 1400.29,
-    "matches": 31,
-    "wins": 10,
-    "losses": 20,
     "draws": 1
   },
   {
@@ -350,6 +342,14 @@
     "wins": 5,
     "losses": 13,
     "draws": 0
+  },
+  {
+    "player": "Daniel Hernandez",
+    "elo": 1387.7,
+    "matches": 35,
+    "wins": 11,
+    "losses": 23,
+    "draws": 1
   },
   {
     "player": "Phil Iwanow",

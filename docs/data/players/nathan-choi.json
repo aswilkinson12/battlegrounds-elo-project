@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1652.91,
+  "elo": 1692.58,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -398,9 +398,64 @@
       "elo_after": 1652.9057,
       "opp_elo": 1629.1137,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1652.9057,
+      "elo_after": 1664.0449,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1664.0449,
+      "elo_after": 1675.4094,
+      "opp_elo": 1516.0806,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1675.4094,
+      "elo_after": 1693.1072,
+      "opp_elo": 1651.5598,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1693.1072,
+      "elo_after": 1702.5149,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Pan Rasking",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1702.5149,
+      "elo_after": 1692.585,
+      "opp_elo": 1501.0206,
+      "is_bye": false
     }
   ],
-  "wins": 24,
+  "wins": 28,
   "losses": 10,
-  "draws": 2
+  "draws": 3
 }

@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1447.93,
+  "elo": 1455.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -451,9 +451,64 @@
       "elo_after": 1447.9278,
       "opp_elo": 1351.101,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1447.9278,
+      "elo_after": 1437.055,
+      "opp_elo": 1606.7527,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.055,
+      "elo_after": 1459.4601,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.4601,
+      "elo_after": 1480.6671,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1480.6671,
+      "elo_after": 1465.6978,
+      "opp_elo": 1555.5104,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.6978,
+      "elo_after": 1455.2951,
+      "opp_elo": 1635.1852,
+      "is_bye": false
     }
   ],
-  "wins": 16,
-  "losses": 23,
+  "wins": 18,
+  "losses": 26,
   "draws": 0
 }

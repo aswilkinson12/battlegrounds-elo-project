@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1406.52,
+  "elo": 1510.95,
   "matches": [
     {
       "week": "26-2-13",
@@ -156,9 +156,64 @@
       "elo_after": 1406.518,
       "opp_elo": 1357.3707,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1406.518,
+      "elo_after": 1437.4061,
+      "opp_elo": 1661.6406,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.4061,
+      "elo_after": 1459.7926,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Taylor Pratt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.7926,
+      "elo_after": 1480.9816,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1480.9816,
+      "elo_after": 1501.0206,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1501.0206,
+      "elo_after": 1510.9505,
+      "opp_elo": 1702.5149,
+      "is_bye": false
     }
   ],
-  "wins": 4,
+  "wins": 8,
   "losses": 8,
-  "draws": 2
+  "draws": 3
 }

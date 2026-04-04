@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1400.29,
+  "elo": 1387.7,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -363,9 +363,63 @@
       "elo_after": 1400.2859,
       "opp_elo": 1494.4162,
       "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1400.2859,
+      "elo_after": 1400.2859,
+      "opp_elo": null
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1400.2859,
+      "elo_after": 1424.5939,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1424.5939,
+      "elo_after": 1409.6541,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1409.6541,
+      "elo_after": 1401.4558,
+      "opp_elo": 1633.862,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Taylor Pratt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1401.4558,
+      "elo_after": 1387.7048,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 10,
-  "losses": 20,
+  "wins": 11,
+  "losses": 23,
   "draws": 1
 }
