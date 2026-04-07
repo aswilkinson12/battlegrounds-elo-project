@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1537.02,
+  "elo": 1537.03,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -87,8 +87,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1482.7979,
-      "elo_after": 1505.4705,
-      "opp_elo": 1550.8105,
+      "elo_after": 1505.4706,
+      "opp_elo": 1550.8131,
       "is_bye": false
     },
     {
@@ -97,8 +97,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.4705,
-      "elo_after": 1524.1714,
+      "elo_before": 1505.4706,
+      "elo_after": 1524.1715,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -108,9 +108,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1524.1714,
-      "elo_after": 1504.1288,
-      "opp_elo": 1505.0878,
+      "elo_before": 1524.1715,
+      "elo_after": 1504.1289,
+      "opp_elo": 1505.0874,
       "is_bye": false
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.1288,
-      "elo_after": 1522.9617,
+      "elo_before": 1504.1289,
+      "elo_after": 1522.9618,
       "opp_elo": 1501.0733,
       "is_bye": false
     },
@@ -130,9 +130,9 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1522.9617,
-      "elo_after": 1536.8206,
-      "opp_elo": 1426.5506,
+      "elo_before": 1522.9618,
+      "elo_after": 1536.8225,
+      "opp_elo": 1426.5865,
       "is_bye": false
     },
     {
@@ -141,9 +141,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1536.8206,
-      "elo_after": 1551.9491,
-      "opp_elo": 1465.021,
+      "elo_before": 1536.8225,
+      "elo_after": 1551.9527,
+      "opp_elo": 1465.0554,
       "is_bye": false
     },
     {
@@ -152,8 +152,8 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1551.9491,
-      "elo_after": 1570.1226,
+      "elo_before": 1551.9527,
+      "elo_after": 1570.126,
       "opp_elo": 1536.8259,
       "is_bye": false
     },
@@ -163,9 +163,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1570.1226,
-      "elo_after": 1590.8112,
-      "opp_elo": 1601.0829,
+      "elo_before": 1570.126,
+      "elo_after": 1590.8146,
+      "opp_elo": 1601.0848,
       "is_bye": false
     },
     {
@@ -174,9 +174,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1590.8112,
-      "elo_after": 1575.5355,
-      "opp_elo": 1659.8065,
+      "elo_before": 1590.8146,
+      "elo_after": 1575.5389,
+      "opp_elo": 1659.8111,
       "is_bye": false
     },
     {
@@ -185,9 +185,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1575.5355,
-      "elo_after": 1558.3014,
-      "opp_elo": 1607.9207,
+      "elo_before": 1575.5389,
+      "elo_after": 1558.3061,
+      "opp_elo": 1607.9475,
       "is_bye": false
     },
     {
@@ -196,9 +196,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1558.3014,
-      "elo_after": 1537.0222,
-      "opp_elo": 1516.422,
+      "elo_before": 1558.3061,
+      "elo_after": 1537.0269,
+      "opp_elo": 1516.4266,
       "is_bye": false
     }
   ],

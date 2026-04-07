@@ -66,7 +66,7 @@
       "score": 0.5,
       "elo_before": 1575.8331,
       "elo_after": 1575.8331,
-      "opp_elo": 1571.9816,
+      "opp_elo": 1572.9105,
       "is_bye": false
     },
     {
@@ -87,8 +87,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1571.7507,
-      "elo_after": 1581.7332,
-      "opp_elo": 1392.4748,
+      "elo_after": 1581.7353,
+      "opp_elo": 1392.5236,
       "is_bye": false
     },
     {
@@ -97,9 +97,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1581.7332,
-      "elo_after": 1601.0829,
-      "opp_elo": 1588.1273,
+      "elo_before": 1581.7353,
+      "elo_after": 1601.0848,
+      "opp_elo": 1588.1275,
       "is_bye": false
     },
     {
@@ -108,9 +108,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1601.0829,
-      "elo_after": 1580.3942,
-      "opp_elo": 1570.1226,
+      "elo_before": 1601.0848,
+      "elo_after": 1580.3963,
+      "opp_elo": 1570.126,
       "is_bye": false
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Jonathon Streker",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1580.3942,
-      "elo_after": 1595.0746,
+      "elo_before": 1580.3963,
+      "elo_after": 1595.0765,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -130,9 +130,9 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1595.0746,
-      "elo_after": 1608.9983,
-      "opp_elo": 1499.9406,
+      "elo_before": 1595.0765,
+      "elo_after": 1609.0003,
+      "opp_elo": 1499.9434,
       "is_bye": false
     },
     {
@@ -141,9 +141,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1608.9983,
-      "elo_after": 1625.0117,
-      "opp_elo": 1553.929,
+      "elo_before": 1609.0003,
+      "elo_after": 1625.0148,
+      "opp_elo": 1553.952,
       "is_bye": false
     },
     {
@@ -152,9 +152,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1625.0117,
-      "elo_after": 1636.9793,
-      "opp_elo": 1490.0085,
+      "elo_before": 1625.0148,
+      "elo_after": 1636.9833,
+      "opp_elo": 1490.0301,
       "is_bye": false
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1636.9793,
-      "elo_after": 1617.7264,
-      "opp_elo": 1632.3555,
+      "elo_before": 1636.9833,
+      "elo_after": 1617.7305,
+      "opp_elo": 1632.3607,
       "is_bye": false
     },
     {
@@ -174,9 +174,9 @@
       "opponent": "Amy Altman",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1617.7264,
-      "elo_after": 1617.7264,
-      "opp_elo": 1604.3684,
+      "elo_before": 1617.7305,
+      "elo_after": 1617.7305,
+      "opp_elo": 1604.3753,
       "is_bye": false
     }
   ],

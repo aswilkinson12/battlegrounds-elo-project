@@ -1,7 +1,7 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1395.75,
+  "elo": 1395.76,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -108,8 +108,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1472.0401,
-      "elo_after": 1493.4393,
-      "opp_elo": 1516.1474,
+      "elo_after": 1493.4389,
+      "opp_elo": 1516.1404,
       "is_bye": false
     },
     {
@@ -118,9 +118,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1493.4393,
-      "elo_after": 1474.9246,
-      "opp_elo": 1502.3151,
+      "elo_before": 1493.4389,
+      "elo_after": 1474.9258,
+      "opp_elo": 1502.345,
       "is_bye": false
     },
     {
@@ -129,9 +129,9 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1474.9246,
-      "elo_after": 1493.3223,
-      "opp_elo": 1463.9076,
+      "elo_before": 1474.9258,
+      "elo_after": 1493.3238,
+      "opp_elo": 1463.9135,
       "is_bye": false
     },
     {
@@ -140,8 +140,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1493.3223,
-      "elo_after": 1474.6874,
+      "elo_before": 1493.3238,
+      "elo_after": 1474.6889,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -151,8 +151,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1474.6874,
-      "elo_after": 1457.0692,
+      "elo_before": 1474.6889,
+      "elo_after": 1457.0706,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -162,9 +162,9 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1457.0692,
-      "elo_after": 1473.1234,
-      "opp_elo": 1402.7638,
+      "elo_before": 1457.0706,
+      "elo_after": 1473.1248,
+      "opp_elo": 1402.7665,
       "is_bye": false
     },
     {
@@ -173,9 +173,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1473.1234,
-      "elo_after": 1459.9542,
-      "opp_elo": 1583.2956,
+      "elo_before": 1473.1248,
+      "elo_after": 1459.9558,
+      "opp_elo": 1583.2998,
       "is_bye": false
     },
     {
@@ -184,8 +184,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1459.9542,
-      "elo_after": 1443.1345,
+      "elo_before": 1459.9558,
+      "elo_after": 1443.136,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -195,9 +195,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1443.1345,
-      "elo_after": 1424.4992,
-      "opp_elo": 1449.8051,
+      "elo_before": 1443.136,
+      "elo_after": 1424.5019,
+      "opp_elo": 1449.8273,
       "is_bye": false
     },
     {
@@ -206,9 +206,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1424.4992,
-      "elo_after": 1410.9758,
-      "opp_elo": 1527.564,
+      "elo_before": 1424.5019,
+      "elo_after": 1410.9805,
+      "opp_elo": 1527.608,
       "is_bye": false
     },
     {
@@ -217,8 +217,8 @@
       "opponent": "Jeffrey Silver",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1410.9758,
-      "elo_after": 1395.7541,
+      "elo_before": 1410.9805,
+      "elo_after": 1395.7586,
       "opp_elo": 1481.0,
       "is_bye": false
     }

@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1506.32,
+  "elo": 1506.33,
   "matches": [
     {
       "week": "26-3-13",
@@ -21,8 +21,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.0,
-      "elo_after": 1497.2444,
-      "opp_elo": 1468.2529,
+      "elo_after": 1497.2456,
+      "opp_elo": 1468.2757,
       "is_bye": false
     },
     {
@@ -31,9 +31,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1497.2444,
-      "elo_after": 1484.3287,
-      "opp_elo": 1612.5582,
+      "elo_before": 1497.2456,
+      "elo_after": 1484.3301,
+      "opp_elo": 1612.564,
       "is_bye": false
     },
     {
@@ -42,9 +42,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.3287,
-      "elo_after": 1499.833,
-      "opp_elo": 1419.6698,
+      "elo_before": 1484.3301,
+      "elo_after": 1499.836,
+      "opp_elo": 1419.7005,
       "is_bye": false
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.833,
-      "elo_after": 1480.8421,
+      "elo_before": 1499.836,
+      "elo_after": 1480.845,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -64,9 +64,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.8421,
-      "elo_after": 1463.5175,
-      "opp_elo": 1511.5579,
+      "elo_before": 1480.845,
+      "elo_after": 1463.5218,
+      "opp_elo": 1511.5878,
       "is_bye": false
     },
     {
@@ -75,9 +75,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1463.5175,
-      "elo_after": 1487.8573,
-      "opp_elo": 1563.8607,
+      "elo_before": 1463.5218,
+      "elo_after": 1487.8763,
+      "opp_elo": 1564.1571,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Amber Cronin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1487.8573,
-      "elo_after": 1506.3164,
-      "opp_elo": 1477.965,
+      "elo_before": 1487.8763,
+      "elo_after": 1506.3346,
+      "opp_elo": 1477.9689,
       "is_bye": false
     }
   ],

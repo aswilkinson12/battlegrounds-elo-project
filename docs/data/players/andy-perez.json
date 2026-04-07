@@ -1,7 +1,7 @@
 {
   "player": "Andy Perez",
   "slug": "andy-perez",
-  "elo": 1459.23,
+  "elo": 1459.26,
   "matches": [
     {
       "week": "26-3-07",
@@ -10,8 +10,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1511.4665,
-      "opp_elo": 1354.2543,
+      "elo_after": 1511.4685,
+      "opp_elo": 1354.298,
       "is_bye": false
     },
     {
@@ -20,9 +20,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1511.4665,
-      "elo_after": 1496.3783,
-      "opp_elo": 1584.0357,
+      "elo_before": 1511.4685,
+      "elo_after": 1496.3822,
+      "opp_elo": 1584.0741,
       "is_bye": false
     },
     {
@@ -31,9 +31,9 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.3783,
-      "elo_after": 1522.1977,
-      "opp_elo": 1626.8886,
+      "elo_before": 1496.3822,
+      "elo_after": 1522.2206,
+      "opp_elo": 1627.2908,
       "is_bye": false
     },
     {
@@ -42,8 +42,8 @@
       "opponent": "Robert Legree",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1522.1977,
-      "elo_after": 1539.9854,
+      "elo_before": 1522.2206,
+      "elo_after": 1540.0071,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -53,9 +53,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.9854,
-      "elo_after": 1521.754,
-      "opp_elo": 1554.0473,
+      "elo_before": 1540.0071,
+      "elo_after": 1521.7746,
+      "opp_elo": 1554.0505,
       "is_bye": false
     },
     {
@@ -64,9 +64,9 @@
       "opponent": "Phil Iwanow",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1521.754,
-      "elo_after": 1515.4123,
-      "opp_elo": 1401.1693,
+      "elo_before": 1521.7746,
+      "elo_after": 1515.432,
+      "opp_elo": 1401.1722,
       "is_bye": false
     },
     {
@@ -75,9 +75,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.4123,
-      "elo_after": 1489.7658,
-      "opp_elo": 1388.5172,
+      "elo_before": 1515.432,
+      "elo_after": 1489.7863,
+      "opp_elo": 1388.5526,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1489.7658,
-      "elo_after": 1508.2639,
-      "opp_elo": 1480.5865,
+      "elo_before": 1489.7863,
+      "elo_after": 1508.2836,
+      "opp_elo": 1480.5917,
       "is_bye": false
     },
     {
@@ -97,9 +97,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.2639,
-      "elo_after": 1492.912,
-      "opp_elo": 1575.8118,
+      "elo_before": 1508.2836,
+      "elo_after": 1492.9309,
+      "opp_elo": 1575.8173,
       "is_bye": false
     },
     {
@@ -108,9 +108,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1492.912,
-      "elo_after": 1474.291,
-      "opp_elo": 1499.8438,
+      "elo_before": 1492.9309,
+      "elo_after": 1474.31,
+      "opp_elo": 1499.8637,
       "is_bye": false
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1474.291,
-      "elo_after": 1462.0228,
-      "opp_elo": 1602.9662,
+      "elo_before": 1474.31,
+      "elo_after": 1462.0412,
+      "opp_elo": 1602.9723,
       "is_bye": false
     },
     {
@@ -130,9 +130,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1462.0228,
-      "elo_after": 1448.9672,
-      "opp_elo": 1574.494,
+      "elo_before": 1462.0412,
+      "elo_after": 1449.0009,
+      "opp_elo": 1574.8218,
       "is_bye": false
     },
     {
@@ -141,8 +141,8 @@
       "opponent": "Brooks Kowal",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1448.9672,
-      "elo_after": 1470.7381,
+      "elo_before": 1449.0009,
+      "elo_after": 1470.77,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -152,9 +152,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1470.7381,
-      "elo_after": 1456.8884,
-      "opp_elo": 1567.3302,
+      "elo_before": 1470.77,
+      "elo_after": 1456.9199,
+      "opp_elo": 1567.3545,
       "is_bye": false
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Philip Watson",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1456.8884,
-      "elo_after": 1459.234,
+      "elo_before": 1456.9199,
+      "elo_after": 1459.2638,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,7 +1,7 @@
 {
   "player": "Kevin Thanakit",
   "slug": "kevin-thanakit",
-  "elo": 1568.63,
+  "elo": 1568.64,
   "matches": [
     {
       "week": "26-3-27",
@@ -21,8 +21,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1519.0,
-      "elo_after": 1543.9314,
-      "opp_elo": 1631.2061,
+      "elo_after": 1543.9316,
+      "opp_elo": 1631.2112,
       "is_bye": false
     },
     {
@@ -31,8 +31,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.9314,
-      "elo_after": 1560.5416,
+      "elo_before": 1543.9316,
+      "elo_after": 1560.5419,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -42,9 +42,9 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1560.5416,
-      "elo_after": 1584.4847,
-      "opp_elo": 1653.0567,
+      "elo_before": 1560.5419,
+      "elo_after": 1584.4867,
+      "opp_elo": 1653.0931,
       "is_bye": false
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1584.4847,
-      "elo_after": 1568.6325,
-      "opp_elo": 1642.582,
+      "elo_before": 1584.4867,
+      "elo_after": 1568.6351,
+      "opp_elo": 1642.5929,
       "is_bye": false
     }
   ],

@@ -1,7 +1,7 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1514.11,
+  "elo": 1514.02,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -65,8 +65,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1498.091,
-      "elo_after": 1479.1954,
-      "opp_elo": 1500.0,
+      "elo_after": 1479.0402,
+      "opp_elo": 1497.162,
       "is_bye": false
     },
     {
@@ -75,8 +75,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1479.1954,
-      "elo_after": 1499.3318,
+      "elo_before": 1479.0402,
+      "elo_after": 1499.185,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,8 +86,8 @@
       "opponent": "Veronica Kirtley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.3318,
-      "elo_after": 1520.4901,
+      "elo_before": 1499.185,
+      "elo_after": 1520.3513,
       "opp_elo": 1538.9699,
       "is_bye": false
     },
@@ -97,8 +97,8 @@
       "opponent": "Autumn Garofalo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.4901,
-      "elo_after": 1500.3709,
+      "elo_before": 1520.3513,
+      "elo_after": 1500.2396,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -108,9 +108,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1500.3709,
-      "elo_after": 1517.714,
-      "opp_elo": 1469.9963,
+      "elo_before": 1500.2396,
+      "elo_after": 1517.5924,
+      "opp_elo": 1470.0422,
       "is_bye": false
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Philip Petronis",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1517.714,
-      "elo_after": 1517.714,
+      "elo_before": 1517.5924,
+      "elo_after": 1517.5924,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -130,9 +130,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.714,
-      "elo_after": 1499.6503,
-      "opp_elo": 1534.8492,
+      "elo_before": 1517.5924,
+      "elo_after": 1499.5354,
+      "opp_elo": 1534.8512,
       "is_bye": false
     },
     {
@@ -141,8 +141,8 @@
       "opponent": "Sean Marks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.6503,
-      "elo_after": 1518.6694,
+      "elo_before": 1499.5354,
+      "elo_after": 1518.5608,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -152,9 +152,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.6694,
-      "elo_after": 1495.9566,
-      "opp_elo": 1449.8925,
+      "elo_before": 1518.5608,
+      "elo_after": 1495.8555,
+      "opp_elo": 1449.9252,
       "is_bye": false
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1495.9566,
-      "elo_after": 1514.114,
-      "opp_elo": 1480.5373,
+      "elo_before": 1495.8555,
+      "elo_after": 1514.02,
+      "opp_elo": 1480.5675,
       "is_bye": false
     }
   ],

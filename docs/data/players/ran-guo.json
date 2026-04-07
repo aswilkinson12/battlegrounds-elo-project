@@ -1,7 +1,7 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1585.68,
+  "elo": 1586.35,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -54,8 +54,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1501.904,
-      "elo_after": 1520.7998,
-      "opp_elo": 1500.0,
+      "elo_after": 1521.7282,
+      "opp_elo": 1516.9863,
       "is_bye": false
     },
     {
@@ -64,8 +64,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.7998,
-      "elo_after": 1539.8563,
+      "elo_before": 1521.7282,
+      "elo_after": 1540.7339,
       "opp_elo": 1521.8316,
       "is_bye": false
     },
@@ -75,9 +75,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.8563,
-      "elo_after": 1520.4613,
-      "opp_elo": 1532.6324,
+      "elo_before": 1540.7339,
+      "elo_after": 1521.3023,
+      "opp_elo": 1532.8406,
       "is_bye": false
     },
     {
@@ -86,8 +86,8 @@
       "opponent": "Ken Cox",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1520.4613,
-      "elo_after": 1538.3436,
+      "elo_before": 1521.3023,
+      "elo_after": 1539.1388,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -97,9 +97,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1538.3436,
-      "elo_after": 1555.5104,
-      "opp_elo": 1504.7161,
+      "elo_before": 1539.1388,
+      "elo_after": 1556.2629,
+      "opp_elo": 1504.7241,
       "is_bye": false
     },
     {
@@ -108,9 +108,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1555.5104,
-      "elo_after": 1570.4796,
-      "opp_elo": 1480.6671,
+      "elo_before": 1556.2629,
+      "elo_after": 1571.194,
+      "opp_elo": 1480.6881,
       "is_bye": false
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Jason Flynn",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1570.4796,
-      "elo_after": 1585.6774,
+      "elo_before": 1571.194,
+      "elo_after": 1586.3542,
       "opp_elo": 1500.0,
       "is_bye": false
     }

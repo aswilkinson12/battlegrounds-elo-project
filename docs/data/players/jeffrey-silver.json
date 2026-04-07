@@ -21,8 +21,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.0,
-      "elo_after": 1496.2216,
-      "opp_elo": 1410.9758,
+      "elo_after": 1496.2219,
+      "opp_elo": 1410.9805,
       "is_bye": false
     },
     {
@@ -31,9 +31,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1496.2216,
-      "elo_after": 1481.6183,
-      "opp_elo": 1578.1021,
+      "elo_before": 1496.2219,
+      "elo_after": 1481.6195,
+      "opp_elo": 1578.1203,
       "is_bye": false
     },
     {
@@ -42,9 +42,9 @@
       "opponent": "Phil Iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1481.6183,
-      "elo_after": 1494.4162,
-      "opp_elo": 1363.8989,
+      "elo_before": 1481.6195,
+      "elo_after": 1494.4181,
+      "opp_elo": 1363.9152,
       "is_bye": false
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1494.4162,
-      "elo_after": 1509.1482,
-      "opp_elo": 1415.0179,
+      "elo_before": 1494.4181,
+      "elo_after": 1509.1517,
+      "opp_elo": 1415.049,
       "is_bye": false
     }
   ],

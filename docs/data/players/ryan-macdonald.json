@@ -54,8 +54,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1538.9812,
-      "elo_after": 1557.9246,
-      "opp_elo": 1537.9463,
+      "elo_after": 1557.9276,
+      "opp_elo": 1538.0,
       "is_bye": false
     },
     {
@@ -64,8 +64,8 @@
       "opponent": "Brian Kennes",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1557.9246,
-      "elo_after": 1573.786,
+      "elo_before": 1557.9276,
+      "elo_after": 1573.7888,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -75,8 +75,8 @@
       "opponent": "Thomas Kotcher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1573.786,
-      "elo_after": 1550.8105,
+      "elo_before": 1573.7888,
+      "elo_after": 1550.8131,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,8 +86,8 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1550.8105,
-      "elo_after": 1528.1379,
+      "elo_before": 1550.8131,
+      "elo_after": 1528.1404,
       "opp_elo": 1482.7979,
       "is_bye": false
     },
@@ -97,8 +97,8 @@
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1528.1379,
-      "elo_after": 1507.6025,
+      "elo_before": 1528.1404,
+      "elo_after": 1507.6049,
       "opp_elo": 1500.0,
       "is_bye": false
     }

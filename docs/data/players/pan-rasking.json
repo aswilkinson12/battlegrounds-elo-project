@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1510.95,
+  "elo": 1513.23,
   "matches": [
     {
       "week": "26-2-13",
@@ -65,8 +65,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1535.2772,
-      "elo_after": 1510.6482,
-      "opp_elo": 1429.1636,
+      "elo_after": 1510.6512,
+      "opp_elo": 1429.2229,
       "is_bye": false
     },
     {
@@ -75,8 +75,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1510.6482,
-      "elo_after": 1491.0661,
+      "elo_before": 1510.6512,
+      "elo_after": 1491.0689,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,9 +86,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.0661,
-      "elo_after": 1467.1358,
-      "opp_elo": 1398.8004,
+      "elo_before": 1491.0689,
+      "elo_after": 1467.1401,
+      "opp_elo": 1398.833,
       "is_bye": false
     },
     {
@@ -97,9 +97,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1467.1358,
-      "elo_after": 1480.8556,
-      "opp_elo": 1367.9741,
+      "elo_before": 1467.1401,
+      "elo_after": 1480.862,
+      "opp_elo": 1368.0199,
       "is_bye": false
     },
     {
@@ -108,9 +108,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.8556,
-      "elo_after": 1463.9076,
-      "opp_elo": 1518.5269,
+      "elo_before": 1480.862,
+      "elo_after": 1463.9135,
+      "opp_elo": 1518.5232,
       "is_bye": false
     },
     {
@@ -119,9 +119,9 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1463.9076,
-      "elo_after": 1445.5099,
-      "opp_elo": 1474.9246,
+      "elo_before": 1463.9135,
+      "elo_after": 1445.5155,
+      "opp_elo": 1474.9258,
       "is_bye": false
     },
     {
@@ -130,9 +130,9 @@
       "opponent": "Joseph Chung",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1445.5099,
-      "elo_after": 1424.2615,
-      "opp_elo": 1404.2008,
+      "elo_before": 1445.5155,
+      "elo_after": 1424.2668,
+      "opp_elo": 1404.2012,
       "is_bye": false
     },
     {
@@ -141,8 +141,8 @@
       "opponent": "Philip Watson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1424.2615,
-      "elo_after": 1409.3389,
+      "elo_before": 1424.2668,
+      "elo_after": 1409.344,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -152,9 +152,9 @@
       "opponent": "Evan Johnstone",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1409.3389,
-      "elo_after": 1406.518,
-      "opp_elo": 1357.3707,
+      "elo_before": 1409.344,
+      "elo_after": 1406.5243,
+      "opp_elo": 1357.3998,
       "is_bye": false
     },
     {
@@ -163,9 +163,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1406.518,
-      "elo_after": 1437.4061,
-      "opp_elo": 1661.6406,
+      "elo_before": 1406.5243,
+      "elo_after": 1437.4129,
+      "opp_elo": 1661.6596,
       "is_bye": false
     },
     {
@@ -174,8 +174,8 @@
       "opponent": "Tom Kessler",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1437.4061,
-      "elo_after": 1459.7926,
+      "elo_before": 1437.4129,
+      "elo_after": 1459.799,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -185,8 +185,8 @@
       "opponent": "Taylor Pratt",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1459.7926,
-      "elo_after": 1480.9816,
+      "elo_before": 1459.799,
+      "elo_after": 1480.9877,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -196,9 +196,9 @@
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1480.9816,
-      "elo_after": 1501.0206,
-      "opp_elo": 1500.0,
+      "elo_before": 1480.9877,
+      "elo_after": 1503.3907,
+      "opp_elo": 1543.8937,
       "is_bye": false
     },
     {
@@ -207,9 +207,9 @@
       "opponent": "Nathan Choi",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1501.0206,
-      "elo_after": 1510.9505,
-      "opp_elo": 1702.5149,
+      "elo_before": 1503.3907,
+      "elo_after": 1513.2263,
+      "opp_elo": 1702.5219,
       "is_bye": false
     }
   ],

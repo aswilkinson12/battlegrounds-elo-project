@@ -56,6 +56,10 @@
     "slug": "gina-millott"
   },
   {
+    "player": "Graham Bateman",
+    "slug": "graham-bateman"
+  },
+  {
     "player": "Hex Dowd",
     "slug": "hex-dowd"
   },
@@ -178,5 +182,9 @@
   {
     "player": "Veronica Kirtley",
     "slug": "veronica-kirtley"
+  },
+  {
+    "player": "Winston Wong",
+    "slug": "winston-wong"
   }
 ]

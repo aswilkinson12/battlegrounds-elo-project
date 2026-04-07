@@ -1,0 +1,65 @@
+{
+  "player": "Winston Wong",
+  "slug": "winston-wong",
+  "elo": 1501.32,
+  "matches": [
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Ken Cox",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1500.0,
+      "elo_after": 1500.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1519.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.0,
+      "elo_after": 1543.8937,
+      "opp_elo": 1630.4439,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Pan Rasking",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1543.8937,
+      "elo_after": 1521.4907,
+      "opp_elo": 1480.9877,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.4907,
+      "elo_after": 1501.317,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    }
+  ],
+  "wins": 2,
+  "losses": 2,
+  "draws": 1
+}

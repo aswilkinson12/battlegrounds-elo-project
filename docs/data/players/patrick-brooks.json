@@ -21,8 +21,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.0,
-      "elo_after": 1496.0315,
-      "opp_elo": 1407.3475,
+      "elo_after": 1496.033,
+      "opp_elo": 1407.3763,
       "is_bye": false
     },
     {
@@ -31,8 +31,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.0315,
-      "elo_after": 1515.2485,
+      "elo_before": 1496.033,
+      "elo_after": 1515.2499,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -42,8 +42,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.2485,
-      "elo_after": 1495.4151,
+      "elo_before": 1515.2499,
+      "elo_after": 1495.4165,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -53,9 +53,9 @@
       "opponent": "Jarrod Haase",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1495.4151,
-      "elo_after": 1470.3198,
-      "opp_elo": 1379.8765,
+      "elo_before": 1495.4165,
+      "elo_after": 1470.3229,
+      "opp_elo": 1379.9145,
       "is_bye": false
     },
     {
@@ -64,8 +64,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.3198,
-      "elo_after": 1490.939,
+      "elo_before": 1470.3229,
+      "elo_after": 1490.9419,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -75,8 +75,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1490.939,
-      "elo_after": 1472.4344,
+      "elo_before": 1490.9419,
+      "elo_after": 1472.4372,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,9 +86,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1472.4344,
-      "elo_after": 1491.1298,
-      "opp_elo": 1466.8641,
+      "elo_before": 1472.4372,
+      "elo_after": 1491.1335,
+      "opp_elo": 1466.8842,
       "is_bye": false
     },
     {
@@ -97,9 +97,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.1298,
-      "elo_after": 1468.1354,
-      "opp_elo": 1416.9832,
+      "elo_before": 1491.1335,
+      "elo_after": 1468.1404,
+      "opp_elo": 1417.0102,
       "is_bye": false
     },
     {
@@ -108,9 +108,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1468.1354,
-      "elo_after": 1448.5209,
-      "opp_elo": 1456.8934,
+      "elo_before": 1468.1404,
+      "elo_after": 1448.526,
+      "opp_elo": 1456.9011,
       "is_bye": false
     },
     {
@@ -119,8 +119,8 @@
       "opponent": "Taylor Pratt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1448.5209,
-      "elo_after": 1432.3156,
+      "elo_before": 1448.526,
+      "elo_after": 1432.3205,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -130,9 +130,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1432.3156,
-      "elo_after": 1421.1913,
-      "opp_elo": 1585.5493,
+      "elo_before": 1432.3205,
+      "elo_after": 1421.1973,
+      "opp_elo": 1585.5806,
       "is_bye": false
     },
     {
@@ -141,9 +141,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1421.1913,
-      "elo_after": 1446.3898,
-      "opp_elo": 1538.8371,
+      "elo_before": 1421.1973,
+      "elo_after": 1446.3968,
+      "opp_elo": 1538.8625,
       "is_bye": false
     },
     {
@@ -152,9 +152,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1446.3898,
-      "elo_after": 1436.3868,
-      "opp_elo": 1625.1822,
+      "elo_before": 1446.3968,
+      "elo_after": 1436.3942,
+      "opp_elo": 1625.1995,
       "is_bye": false
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1436.3868,
-      "elo_after": 1436.3868,
+      "elo_before": 1436.3942,
+      "elo_after": 1436.3942,
       "opp_elo": null
     }
   ],

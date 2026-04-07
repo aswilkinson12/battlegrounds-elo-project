@@ -1,0 +1,76 @@
+{
+  "player": "Graham Bateman",
+  "slug": "graham-bateman",
+  "elo": 1516.21,
+  "matches": [
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1519.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.0,
+      "elo_after": 1500.0,
+      "opp_elo": 1519.0,
+      "is_bye": false
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 3,
+      "opponent": "Jonathon Streker",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1500.0,
+      "elo_after": 1500.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 4,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.9863,
+      "opp_elo": 1463.038,
+      "is_bye": false
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 5,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.9863,
+      "elo_after": 1497.162,
+      "opp_elo": 1501.904,
+      "is_bye": false
+    },
+    {
+      "week": "25-12-6_brainstormin_charity_tournament",
+      "round": 6,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.162,
+      "elo_after": 1516.2128,
+      "opp_elo": 1498.091,
+      "is_bye": false
+    }
+  ],
+  "wins": 3,
+  "losses": 2,
+  "draws": 1
+}

@@ -43,8 +43,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1484.0517,
-      "elo_after": 1466.3153,
-      "opp_elo": 1507.1921,
+      "elo_after": 1466.3171,
+      "opp_elo": 1507.2239,
       "is_bye": false
     },
     {
@@ -53,9 +53,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1466.3153,
-      "elo_after": 1484.9941,
-      "opp_elo": 1460.4399,
+      "elo_before": 1466.3171,
+      "elo_after": 1484.9959,
+      "opp_elo": 1460.4439,
       "is_bye": false
     },
     {
@@ -64,8 +64,8 @@
       "opponent": "Ian Marcellana",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.9941,
-      "elo_after": 1504.8142,
+      "elo_before": 1484.9959,
+      "elo_after": 1504.8159,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -75,9 +75,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.8142,
-      "elo_after": 1488.4671,
-      "opp_elo": 1553.6451,
+      "elo_before": 1504.8159,
+      "elo_after": 1488.4686,
+      "opp_elo": 1553.6421,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1488.4671,
-      "elo_after": 1510.4978,
-      "opp_elo": 1544.3637,
+      "elo_before": 1488.4686,
+      "elo_after": 1510.5006,
+      "opp_elo": 1544.3894,
       "is_bye": false
     },
     {
@@ -97,9 +97,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1510.4978,
-      "elo_after": 1510.4978,
-      "opp_elo": 1717.5367,
+      "elo_before": 1510.5006,
+      "elo_after": 1510.5006,
+      "opp_elo": 1717.5595,
       "is_bye": false
     }
   ],

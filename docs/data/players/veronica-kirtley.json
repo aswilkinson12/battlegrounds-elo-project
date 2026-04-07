@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1494.75,
+  "elo": 1494.74,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -87,8 +87,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1538.9699,
-      "elo_after": 1517.8116,
-      "opp_elo": 1499.3318,
+      "elo_after": 1517.8037,
+      "opp_elo": 1499.185,
       "is_bye": false
     },
     {
@@ -97,8 +97,8 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.8116,
-      "elo_after": 1496.9824,
+      "elo_before": 1517.8037,
+      "elo_after": 1496.9749,
       "opp_elo": 1484.2586,
       "is_bye": false
     },
@@ -108,8 +108,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.9824,
-      "elo_after": 1516.1474,
+      "elo_before": 1496.9749,
+      "elo_after": 1516.1404,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -119,8 +119,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.1474,
-      "elo_after": 1494.7482,
+      "elo_before": 1516.1404,
+      "elo_after": 1494.7415,
       "opp_elo": 1472.0401,
       "is_bye": false
     }

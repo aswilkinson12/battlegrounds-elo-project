@@ -108,8 +108,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1424.6298,
-      "elo_after": 1446.7127,
-      "opp_elo": 1481.507,
+      "elo_after": 1446.7151,
+      "opp_elo": 1481.5525,
       "is_bye": false
     },
     {
@@ -118,8 +118,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1446.7127,
-      "elo_after": 1468.6042,
+      "elo_before": 1446.7151,
+      "elo_after": 1468.6064,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -129,8 +129,8 @@
       "opponent": "Will Bellows",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1468.6042,
-      "elo_after": 1489.3164,
+      "elo_before": 1468.6064,
+      "elo_after": 1489.3186,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -140,9 +140,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.3164,
-      "elo_after": 1471.4133,
-      "opp_elo": 1509.3968,
+      "elo_before": 1489.3186,
+      "elo_after": 1471.4164,
+      "opp_elo": 1509.4154,
       "is_bye": false
     },
     {
@@ -151,9 +151,9 @@
       "opponent": "Amy Altman",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.4133,
-      "elo_after": 1496.7894,
-      "opp_elo": 1592.7063,
+      "elo_before": 1471.4164,
+      "elo_after": 1496.7936,
+      "opp_elo": 1592.7317,
       "is_bye": false
     },
     {
@@ -162,8 +162,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1496.7894,
-      "elo_after": 1477.965,
+      "elo_before": 1496.7936,
+      "elo_after": 1477.9689,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -173,9 +173,9 @@
       "opponent": "Sam Feeley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1477.965,
-      "elo_after": 1459.5058,
-      "opp_elo": 1487.8573,
+      "elo_before": 1477.9689,
+      "elo_after": 1459.5106,
+      "opp_elo": 1487.8763,
       "is_bye": false
     }
   ],
