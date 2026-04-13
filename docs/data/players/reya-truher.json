@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1450.41,
+  "elo": 1450.46,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -372,8 +372,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1481.8378,
-      "elo_after": 1465.4782,
-      "opp_elo": 1530.4349,
+      "elo_after": 1465.5291,
+      "opp_elo": 1531.3837,
       "is_bye": false
     },
     {
@@ -382,8 +382,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1465.4782,
-      "elo_after": 1448.3599,
+      "elo_before": 1465.5291,
+      "elo_after": 1448.408,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -393,8 +393,8 @@
       "opponent": "Stella Burfeind",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1448.3599,
-      "elo_after": 1450.4128,
+      "elo_before": 1448.408,
+      "elo_after": 1450.4583,
       "opp_elo": 1486.0468,
       "is_bye": false
     }

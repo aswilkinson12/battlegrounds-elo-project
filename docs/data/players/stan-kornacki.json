@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1591.0,
+  "elo": 1591.8,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -417,8 +417,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1552.2721,
-      "elo_after": 1530.4349,
-      "opp_elo": 1500.0,
+      "elo_after": 1531.3837,
+      "opp_elo": 1517.6257,
       "is_bye": false
     },
     {
@@ -427,8 +427,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.4349,
-      "elo_after": 1546.7945,
+      "elo_before": 1531.3837,
+      "elo_after": 1547.6924,
       "opp_elo": 1481.8378,
       "is_bye": false
     },
@@ -438,8 +438,8 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1546.7945,
-      "elo_after": 1568.9774,
+      "elo_before": 1547.6924,
+      "elo_after": 1569.8275,
       "opp_elo": 1605.5502,
       "is_bye": false
     },
@@ -449,8 +449,8 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1568.9774,
-      "elo_after": 1590.9955,
+      "elo_before": 1569.8275,
+      "elo_after": 1591.8003,
       "opp_elo": 1624.6375,
       "is_bye": false
     }

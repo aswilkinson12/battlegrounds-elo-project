@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1513.23,
+  "elo": 1513.32,
   "matches": [
     {
       "week": "26-2-13",
@@ -208,8 +208,8 @@
       "result": "D",
       "score": 0.5,
       "elo_before": 1503.3907,
-      "elo_after": 1513.2263,
-      "opp_elo": 1702.5219,
+      "elo_after": 1513.3161,
+      "opp_elo": 1704.7723,
       "is_bye": false
     }
   ],

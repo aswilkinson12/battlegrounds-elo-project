@@ -16,7 +16,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Amy Altman,1591.08,19,13,6,0,25.82
 26-3-20,Amy Altman,1586.38,24,16,8,0,-4.69
 26-3-27,Amy Altman,1606.89,28,19,9,0,20.5
-26-4-04,Amy Altman,1627.32,32,22,10,0,20.43
+26-4-04,Amy Altman,1627.37,32,22,10,0,20.48
 25-12-6_brainstormin_charity_tournament,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-13,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-20,Andy Perez,1500.0,0,0,0,0,0.0
@@ -44,6 +44,15 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-20,Austin Wolf,1499.16,6,3,3,0,0.0
 26-3-27,Austin Wolf,1499.16,6,3,3,0,0.0
 26-4-04,Austin Wolf,1499.16,6,3,3,0,0.0
+25-12-6_brainstormin_charity_tournament,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-2-13,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-2-20,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-2-27,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-3-07,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-3-13,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-3-20,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-3-27,Autumn Rossa,1500.0,0,0,0,0,0.0
+26-4-04,Autumn Rossa,1533.63,4,3,1,0,33.63
 25-12-6_brainstormin_charity_tournament,Bailey Sarkis,1500.0,0,0,0,0,0.0
 26-2-13,Bailey Sarkis,1500.0,0,0,0,0,0.0
 26-2-20,Bailey Sarkis,1500.0,0,0,0,0,0.0
@@ -61,7 +70,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Becca Blackwood,1573.44,19,12,7,0,44.85
 26-3-20,Becca Blackwood,1577.77,24,15,9,0,4.33
 26-3-27,Becca Blackwood,1594.98,28,18,10,0,17.21
-26-4-04,Becca Blackwood,1557.86,33,20,13,0,-37.13
+26-4-04,Becca Blackwood,1557.89,33,20,13,0,-37.1
 25-12-6_brainstormin_charity_tournament,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-13,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-20,Bradley Skubic,1563.9,4,4,0,0,0.0
@@ -88,7 +97,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Daniel Hernandez,1400.85,22,7,15,0,-33.94
 26-3-20,Daniel Hernandez,1420.43,27,9,17,1,19.57
 26-3-27,Daniel Hernandez,1407.98,31,10,20,1,-12.44
-26-4-04,Daniel Hernandez,1395.99,35,11,23,1,-11.99
+26-4-04,Daniel Hernandez,1397.3,35,11,23,1,-10.69
 25-12-6_brainstormin_charity_tournament,David Van Hise,1484.8,5,2,3,0,0.0
 26-2-13,David Van Hise,1536.98,10,6,4,0,52.18
 26-2-20,David Van Hise,1582.07,15,10,5,0,45.09
@@ -107,6 +116,15 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-20,Elias Medrano,1470.02,6,2,4,0,0.0
 26-3-27,Elias Medrano,1470.02,6,2,4,0,0.0
 26-4-04,Elias Medrano,1470.02,6,2,4,0,0.0
+25-12-6_brainstormin_charity_tournament,Ethan Ford,1500.0,0,0,0,0,0.0
+26-2-13,Ethan Ford,1500.0,0,0,0,0,0.0
+26-2-20,Ethan Ford,1500.0,0,0,0,0,0.0
+26-2-27,Ethan Ford,1500.0,0,0,0,0,0.0
+26-3-07,Ethan Ford,1500.0,0,0,0,0,0.0
+26-3-13,Ethan Ford,1500.0,0,0,0,0,0.0
+26-3-20,Ethan Ford,1500.0,0,0,0,0,0.0
+26-3-27,Ethan Ford,1500.0,0,0,0,0,0.0
+26-4-04,Ethan Ford,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Evan Johnstone,1502.04,6,3,3,0,0.0
 26-2-13,Evan Johnstone,1482.42,11,5,6,0,-19.62
 26-2-20,Evan Johnstone,1437.73,16,6,10,0,-44.69
@@ -223,7 +241,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Kenton Najdzien,1591.84,14,10,4,0,63.76
 26-3-20,Kenton Najdzien,1591.84,14,10,4,0,0.0
 26-3-27,Kenton Najdzien,1596.39,19,13,6,0,4.55
-26-4-04,Kenton Najdzien,1592.58,24,16,8,0,-3.81
+26-4-04,Kenton Najdzien,1592.6,24,16,8,0,-3.78
 25-12-6_brainstormin_charity_tournament,Kevin Thanakit,1500.0,0,0,0,0,0.0
 26-2-13,Kevin Thanakit,1500.0,0,0,0,0,0.0
 26-2-20,Kevin Thanakit,1500.0,0,0,0,0,0.0
@@ -286,7 +304,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Nathan Choi,1566.53,26,16,8,2,3.05
 26-3-20,Nathan Choi,1606.76,31,20,9,2,40.24
 26-3-27,Nathan Choi,1637.09,36,24,10,2,30.33
-26-4-04,Nathan Choi,1673.2,41,28,10,3,36.11
+26-4-04,Nathan Choi,1674.83,41,28,10,3,37.74
 25-12-6_brainstormin_charity_tournament,Nathan Cormier,1469.59,6,2,4,0,0.0
 26-2-13,Nathan Cormier,1469.59,6,2,4,0,0.0
 26-2-20,Nathan Cormier,1523.3,11,6,5,0,53.71
@@ -304,7 +322,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Pan Rasking,1422.34,13,4,8,1,0.0
 26-3-20,Pan Rasking,1422.34,13,4,8,1,0.0
 26-3-27,Pan Rasking,1422.34,13,4,8,1,0.0
-26-4-04,Pan Rasking,1509.61,18,8,8,2,87.27
+26-4-04,Pan Rasking,1509.67,18,8,8,2,87.33
 25-12-6_brainstormin_charity_tournament,Patrick Brooks,1500.0,0,0,0,0,0.0
 26-2-13,Patrick Brooks,1500.0,0,0,0,0,0.0
 26-2-20,Patrick Brooks,1500.0,0,0,0,0,0.0
@@ -349,7 +367,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Reya Truher,1484.61,21,10,11,0,0.0
 26-3-20,Reya Truher,1480.36,25,12,13,0,-4.25
 26-3-27,Reya Truher,1477.37,30,14,16,0,-2.99
-26-4-04,Reya Truher,1455.67,35,15,19,1,-21.69
+26-4-04,Reya Truher,1455.7,35,15,19,1,-21.66
 25-12-6_brainstormin_charity_tournament,Ryan MacDonald,1562.44,6,5,1,0,0.0
 26-2-13,Ryan MacDonald,1507.79,9,5,4,0,-54.65
 26-2-20,Ryan MacDonald,1507.79,9,5,4,0,0.0
@@ -376,7 +394,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-3-13,Stan Kornacki,1588.11,24,17,6,1,0.0
 26-3-20,Stan Kornacki,1552.56,29,19,9,1,-35.55
 26-3-27,Stan Kornacki,1536.04,34,21,12,1,-16.52
-26-4-04,Stan Kornacki,1583.51,39,25,13,1,47.48
+26-4-04,Stan Kornacki,1584.1,39,25,13,1,48.07
 25-12-6_brainstormin_charity_tournament,Stella Burfeind,1527.29,6,4,2,0,0.0
 26-2-13,Stella Burfeind,1505.58,11,6,5,0,-21.71
 26-2-20,Stella Burfeind,1468.71,15,7,8,0,-36.87

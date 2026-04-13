@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1559.89,
+  "elo": 1559.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -373,8 +373,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1605.5502,
-      "elo_after": 1583.3673,
-      "opp_elo": 1546.7945,
+      "elo_after": 1583.4151,
+      "opp_elo": 1547.6924,
       "is_bye": false
     },
     {
@@ -383,8 +383,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1583.3673,
-      "elo_after": 1559.8938,
+      "elo_before": 1583.4151,
+      "elo_after": 1559.9391,
       "opp_elo": 1500.0,
       "is_bye": false
     }

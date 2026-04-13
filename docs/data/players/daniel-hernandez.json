@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1387.73,
+  "elo": 1389.52,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -392,8 +392,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1424.622,
-      "elo_after": 1409.6807,
-      "opp_elo": 1500.0,
+      "elo_after": 1411.6365,
+      "opp_elo": 1538.5141,
       "is_bye": false
     },
     {
@@ -402,8 +402,8 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1409.6807,
-      "elo_after": 1401.4825,
+      "elo_before": 1411.6365,
+      "elo_after": 1403.3656,
       "opp_elo": 1633.8897,
       "is_bye": false
     },
@@ -413,8 +413,8 @@
       "opponent": "Taylor Pratt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1401.4825,
-      "elo_after": 1387.7301,
+      "elo_before": 1403.3656,
+      "elo_after": 1389.518,
       "opp_elo": 1500.0,
       "is_bye": false
     }

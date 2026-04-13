@@ -1,0 +1,65 @@
+{
+  "player": "Autumn Rossa",
+  "slug": "autumn-rossa",
+  "elo": 1539.84,
+  "matches": [
+    {
+      "week": "26-4-04",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1517.6257,
+      "opp_elo": 1474.8251,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1517.6257,
+      "elo_after": 1538.5141,
+      "opp_elo": 1552.2721,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 3,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.5141,
+      "elo_after": 1551.4997,
+      "opp_elo": 1424.622,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1551.4997,
+      "elo_after": 1539.8419,
+      "opp_elo": 1693.1146,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-04",
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1539.8419,
+      "elo_after": 1539.8419,
+      "opp_elo": 1642.1605,
+      "is_bye": false
+    }
+  ],
+  "wins": 3,
+  "losses": 1,
+  "draws": 1
+}

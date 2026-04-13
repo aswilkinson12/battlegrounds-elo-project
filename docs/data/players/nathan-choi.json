@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1692.69,
+  "elo": 1694.85,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -439,8 +439,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1693.1146,
-      "elo_after": 1702.5219,
-      "opp_elo": 1500.0,
+      "elo_after": 1704.7723,
+      "opp_elo": 1551.4997,
       "is_bye": false
     },
     {
@@ -449,8 +449,8 @@
       "opponent": "Pan Rasking",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1702.5219,
-      "elo_after": 1692.6863,
+      "elo_before": 1704.7723,
+      "elo_after": 1694.8469,
       "opp_elo": 1503.3907,
       "is_bye": false
     }
