@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1588.46,
+  "elo": 1589.6,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -479,12 +479,12 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Reya Truher",
+      "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
       "elo_before": 1584.424,
-      "elo_after": 1596.6434,
-      "opp_elo": 1454.727,
+      "elo_after": 1598.896,
+      "opp_elo": 1500.0,
       "is_bye": false
     },
     {
@@ -493,9 +493,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1596.6434,
-      "elo_after": 1575.247,
-      "opp_elo": 1552.5868,
+      "elo_before": 1598.896,
+      "elo_after": 1576.1953,
+      "opp_elo": 1530.35,
       "is_bye": false
     },
     {
@@ -504,9 +504,9 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1575.247,
-      "elo_after": 1588.4622,
-      "opp_elo": 1466.0029,
+      "elo_before": 1576.1953,
+      "elo_after": 1589.5982,
+      "opp_elo": 1470.7201,
       "is_bye": false
     }
   ],

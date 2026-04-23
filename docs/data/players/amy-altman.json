@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1625.39,
+  "elo": 1627.63,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -424,12 +424,23 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Nathan Choi",
+      "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
       "elo_before": 1668.7481,
-      "elo_after": 1652.2228,
-      "opp_elo": 1714.2601,
+      "elo_after": 1641.183,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Jeffrey Silver",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1641.183,
+      "elo_after": 1654.5636,
+      "opp_elo": 1535.2626,
       "is_bye": false
     },
     {
@@ -438,13 +449,13 @@
       "opponent": "Luke Deratzou",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1652.2228,
-      "elo_after": 1625.393,
+      "elo_before": 1654.5636,
+      "elo_after": 1627.6278,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 24,
+  "wins": 25,
   "losses": 12,
   "draws": 4
 }

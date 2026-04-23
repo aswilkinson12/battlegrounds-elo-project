@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1487.84,
+  "elo": 1458.55,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -368,17 +368,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.1885,
+      "elo_after": 1451.8691,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1451.8691,
+      "elo_after": 1438.1144,
+      "opp_elo": 1550.3409,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1469.1885,
-      "elo_after": 1487.8353,
-      "opp_elo": 1462.7294,
+      "elo_before": 1438.1144,
+      "elo_after": 1458.5543,
+      "opp_elo": 1464.4936,
       "is_bye": false
     }
   ],
   "wins": 14,
-  "losses": 19,
+  "losses": 21,
   "draws": 1
 }

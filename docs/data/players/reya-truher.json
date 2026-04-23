@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1426.62,
+  "elo": 1440.87,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -423,12 +423,23 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Stan Kornacki",
+      "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
       "elo_before": 1454.727,
-      "elo_after": 1442.5075,
-      "opp_elo": 1584.424,
+      "elo_after": 1436.1645,
+      "opp_elo": 1462.7294,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1436.1645,
+      "elo_after": 1457.5656,
+      "opp_elo": 1480.3069,
       "is_bye": false
     },
     {
@@ -437,13 +448,13 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1442.5075,
-      "elo_after": 1426.6232,
+      "elo_before": 1457.5656,
+      "elo_after": 1440.8747,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 16,
+  "wins": 17,
   "losses": 22,
   "draws": 1
 }

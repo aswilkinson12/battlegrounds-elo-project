@@ -1,7 +1,7 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1568.33,
+  "elo": 1560.63,
   "matches": [
     {
       "week": "26-4-03",
@@ -82,17 +82,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1572.2215,
+      "elo_after": 1550.3409,
+      "opp_elo": 1519.1373,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Evan Johnstone",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1550.3409,
+      "elo_after": 1564.0955,
+      "opp_elo": 1451.8691,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Tom Kessler",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1572.2215,
-      "elo_after": 1568.3279,
+      "elo_before": 1564.0955,
+      "elo_after": 1560.6296,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 5,
-  "losses": 1,
+  "wins": 6,
+  "losses": 2,
   "draws": 2
 }

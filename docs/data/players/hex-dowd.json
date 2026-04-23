@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1452.79,
+  "elo": 1457.32,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -531,17 +531,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1466.0029,
+      "elo_after": 1448.9482,
+      "opp_elo": 1501.6995,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1448.9482,
+      "elo_after": 1470.7201,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1466.0029,
-      "elo_after": 1452.7877,
-      "opp_elo": 1575.247,
+      "elo_before": 1470.7201,
+      "elo_after": 1457.3173,
+      "opp_elo": 1576.1953,
       "is_bye": false
     }
   ],
-  "wins": 19,
-  "losses": 28,
+  "wins": 20,
+  "losses": 29,
   "draws": 0
 }

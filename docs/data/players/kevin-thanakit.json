@@ -1,7 +1,7 @@
 {
   "player": "Kevin Thanakit",
   "slug": "kevin-thanakit",
-  "elo": 1592.17,
+  "elo": 1621.51,
   "matches": [
     {
       "week": "26-3-27",
@@ -82,17 +82,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.7364,
+      "elo_after": 1586.8683,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1586.8683,
+      "elo_after": 1601.2143,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1571.7364,
-      "elo_after": 1592.1749,
-      "opp_elo": 1598.0907,
+      "elo_before": 1601.2143,
+      "elo_after": 1621.5103,
+      "opp_elo": 1624.9501,
       "is_bye": false
     }
   ],
-  "wins": 6,
+  "wins": 8,
   "losses": 2,
   "draws": 0
 }

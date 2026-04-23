@@ -1,7 +1,7 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1619.99,
+  "elo": 1639.6,
   "matches": [
     {
       "week": "26-2-13",
@@ -303,12 +303,23 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Evan Hamlin",
+      "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
       "elo_before": 1591.5201,
-      "elo_after": 1605.6278,
-      "opp_elo": 1500.0,
+      "elo_after": 1612.6381,
+      "opp_elo": 1630.4118,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1612.6381,
+      "elo_after": 1626.2476,
+      "opp_elo": 1511.2872,
       "is_bye": false
     },
     {
@@ -317,13 +328,13 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1605.6278,
-      "elo_after": 1619.9933,
-      "opp_elo": 1519.1373,
+      "elo_before": 1626.2476,
+      "elo_after": 1639.6012,
+      "opp_elo": 1519.7852,
       "is_bye": false
     }
   ],
-  "wins": 19,
+  "wins": 20,
   "losses": 9,
   "draws": 1
 }

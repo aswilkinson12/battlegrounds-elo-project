@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1483.88,
+  "elo": 1483.09,
   "matches": [
     {
       "week": "26-4-03",
@@ -82,17 +82,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.2151,
+      "elo_after": 1521.0939,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.0939,
+      "elo_after": 1500.9418,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Jeffrey Silver",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.2151,
-      "elo_after": 1483.8817,
-      "opp_elo": 1514.411,
+      "elo_before": 1500.9418,
+      "elo_after": 1483.0855,
+      "opp_elo": 1521.882,
       "is_bye": false
     }
   ],
-  "wins": 3,
-  "losses": 4,
+  "wins": 4,
+  "losses": 5,
   "draws": 1
 }

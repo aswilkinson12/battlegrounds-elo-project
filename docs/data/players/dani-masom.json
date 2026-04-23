@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1484.95,
+  "elo": 1481.9,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -510,17 +510,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.6995,
+      "elo_after": 1518.7542,
+      "opp_elo": 1466.0029,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Matt Suyer",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.7542,
+      "elo_after": 1498.7296,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Ethan Ford",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.6995,
-      "elo_after": 1484.9518,
-      "opp_elo": 1543.0797,
+      "elo_before": 1498.7296,
+      "elo_after": 1481.8969,
+      "opp_elo": 1538.534,
       "is_bye": false
     }
   ],
-  "wins": 21,
-  "losses": 24,
+  "wins": 22,
+  "losses": 25,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1465.0,
+  "elo": 1447.58,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -417,9 +417,20 @@
       "elo_after": 1465.0026,
       "opp_elo": 1557.3941,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.0026,
+      "elo_after": 1447.5772,
+      "opp_elo": 1493.8618,
+      "is_bye": false
     }
   ],
   "wins": 12,
-  "losses": 21,
+  "losses": 22,
   "draws": 2
 }

@@ -1,7 +1,7 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1442.31,
+  "elo": 1442.14,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -313,17 +313,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.0793,
+      "elo_after": 1480.3069,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1480.3069,
+      "elo_after": 1458.9058,
+      "opp_elo": 1436.1645,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1459.0793,
-      "elo_after": 1442.3069,
+      "elo_before": 1458.9058,
+      "elo_after": 1442.1426,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 11,
-  "losses": 17,
+  "wins": 12,
+  "losses": 18,
   "draws": 1
 }

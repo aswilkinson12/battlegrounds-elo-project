@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1502.84,
+  "elo": 1505.17,
   "matches": [
     {
       "week": "26-2-13",
@@ -236,17 +236,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1476.9955,
+      "elo_after": 1459.2517,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.2517,
+      "elo_after": 1480.4699,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1476.9955,
-      "elo_after": 1502.8398,
-      "opp_elo": 1608.0288,
+      "elo_before": 1480.4699,
+      "elo_after": 1505.1673,
+      "opp_elo": 1587.9546,
       "is_bye": false
     }
   ],
-  "wins": 9,
-  "losses": 10,
+  "wins": 10,
+  "losses": 11,
   "draws": 3
 }

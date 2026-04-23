@@ -222,6 +222,16 @@
       "elo_after": 1496.6876,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1496.6876,
+      "elo_after": 1496.6876,
+      "opp_elo": null
     }
   ],
   "wins": 10,

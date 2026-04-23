@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1700.74,
+  "elo": 1701.03,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -479,12 +479,23 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Amy Altman",
+      "opponent": "Luke Deratzou",
       "result": "W",
       "score": 1.0,
       "elo_before": 1714.2601,
-      "elo_after": 1730.7854,
-      "opp_elo": 1668.7481,
+      "elo_after": 1722.8326,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1722.8326,
+      "elo_after": 1731.0818,
+      "opp_elo": 1500.0,
       "is_bye": false
     },
     {
@@ -493,13 +504,13 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1730.7854,
-      "elo_after": 1700.7428,
+      "elo_before": 1731.0818,
+      "elo_after": 1701.0285,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 31,
+  "wins": 32,
   "losses": 11,
   "draws": 3
 }

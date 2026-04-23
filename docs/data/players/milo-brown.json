@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1577.65,
+  "elo": 1604.65,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -313,17 +313,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1598.0907,
+      "elo_after": 1611.8646,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Dylan Shanes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1611.8646,
+      "elo_after": 1624.9501,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Kevin Thanakit",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1598.0907,
-      "elo_after": 1577.6522,
-      "opp_elo": 1571.7364,
+      "elo_before": 1624.9501,
+      "elo_after": 1604.6541,
+      "opp_elo": 1601.2143,
       "is_bye": false
     }
   ],
-  "wins": 17,
+  "wins": 19,
   "losses": 8,
   "draws": 4
 }

@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1582.18,
+  "elo": 1563.26,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -533,13 +533,24 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1630.4118,
+      "elo_after": 1609.2938,
+      "opp_elo": 1591.5201,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 4,
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1630.4118,
-      "elo_after": 1608.0288,
-      "opp_elo": 1567.8847,
+      "elo_before": 1609.2938,
+      "elo_after": 1587.9546,
+      "opp_elo": 1566.3007,
       "is_bye": false
     },
     {
@@ -548,13 +559,13 @@
       "opponent": "Pan Rasking",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1608.0288,
-      "elo_after": 1582.1846,
-      "opp_elo": 1476.9955,
+      "elo_before": 1587.9546,
+      "elo_after": 1563.2572,
+      "opp_elo": 1480.4699,
       "is_bye": false
     }
   ],
   "wins": 34,
-  "losses": 14,
+  "losses": 15,
   "draws": 2
 }

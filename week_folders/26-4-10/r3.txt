@@ -2,17 +2,25 @@ Round 3
 
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
-1      Amy Altman                   Nathan Choi                  6-9     
-2      Autumn Rossa                 Daniel Hernandez             9-6     
-3      Taylor Pratt                 Pan Rasking                  6-9     
-4      Becca Blackwood              Winston Wong                 6-7     
-5      Mike Laing                   Jason Flynn                  3-6     
-6      Evan Hamlin                  Kenton Najdzien              3-6     
-7      Ran Guo                      Stella Burfeind              6-3     
-8      Devon O’Donnell              Tom Kessler                  6-3     
-9      Stan Kornacki                Reya Truher                  6-3     
-10     Logan Hesch                  Mike Adams                   3-6     
-11     Hex Dowd                     Philip Watson                6-3     
-12     Ken Cox                      Anthony Wilkinson            1-3     
-13     Jonathon Torchia             Philip Petronis              3-0     
-14     Dani Masom                   Patrick Brooks               0-3     
+       Isharah Considine           ***Bye***                    6       
+1      Ethan Ford                   Devon O’Donnell              6-9     
+2      Dylan Shanes                 Evan Johnstone               9-6     
+3      Nathan Choi                  Luke Deratzou                9-6     
+4      Milo Brown                   Jason Flynn                  9-6     
+5      Tom Kessler                  Amy Altman                   9-6     
+6      Autumn Rossa                 Mike Laing                   6-9     
+7      Jonathon Torchia             Winston Wong                 3-6     
+8      Chris Hirt                   Kevin Thanakit              3-6     
+9      Mike Adams                   [REDACTED] [REDACTED]        6-3     
+10     Matt Suyer                   Logan Hesch                  6-3     
+11     Reya Truher                  Gina Millott                3-6     
+12     Jeffrey Silver               Becca Blackwood              6-3     
+13     Stan Kornacki                Evan Hamlin                  6-3     
+14     Anthony Wilkinson            Kenton Najdzien              3-6     
+15     Jarrod Haase                Stella Burfeind              3-6     
+16     Philip Petronis              jayson chandler              6-3     
+17     Nathan Cormier               Sean Marks                   3-6     
+18     Hex Dowd                     Dani Masom                   3-6     
+19     Raul Bottrell-Rogers         Sean Thornton                3-0     
+20     Adam Silvia                  Jack Henry                   0-3     
+21     Pan Rasking                  Thomas Kotcher               0-3     

@@ -1,7 +1,7 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1444.08,
+  "elo": 1444.05,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -258,17 +258,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1462.7294,
+      "elo_after": 1481.2918,
+      "opp_elo": 1454.727,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Ethan Ford",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1481.2918,
+      "elo_after": 1464.4936,
+      "opp_elo": 1521.7358,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1462.7294,
-      "elo_after": 1444.0825,
-      "opp_elo": 1469.1885,
+      "elo_before": 1464.4936,
+      "elo_after": 1444.0538,
+      "opp_elo": 1438.1144,
       "is_bye": false
     }
   ],
-  "wins": 10,
-  "losses": 14,
+  "wins": 11,
+  "losses": 15,
   "draws": 0
 }

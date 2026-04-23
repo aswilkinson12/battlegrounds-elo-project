@@ -1,7 +1,7 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1510.51,
+  "elo": 1490.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -343,9 +343,20 @@
       "elo_after": 1510.513,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1510.513,
+      "elo_after": 1490.9382,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
   "wins": 15,
-  "losses": 15,
+  "losses": 16,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1566.44,
+  "elo": 1563.95,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -412,12 +412,12 @@
     {
       "week": "26-4-10",
       "round": 3,
-      "opponent": "Mike Adams",
+      "opponent": "Matt Suyer",
       "result": "L",
       "score": 0.0,
       "elo_before": 1590.1215,
-      "elo_after": 1567.8847,
-      "opp_elo": 1530.35,
+      "elo_after": 1566.3007,
+      "opp_elo": 1500.0,
       "is_bye": false
     },
     {
@@ -426,9 +426,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1567.8847,
-      "elo_after": 1590.2676,
-      "opp_elo": 1630.4118,
+      "elo_before": 1566.3007,
+      "elo_after": 1587.6399,
+      "opp_elo": 1609.2938,
       "is_bye": false
     },
     {
@@ -437,8 +437,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1590.2676,
-      "elo_after": 1566.4393,
+      "elo_before": 1587.6399,
+      "elo_after": 1563.9463,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,7 +1,7 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1432.62,
+  "elo": 1472.7,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -258,17 +258,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1448.8378,
+      "elo_after": 1470.6156,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.6156,
+      "elo_after": 1491.2187,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1448.8378,
-      "elo_after": 1432.6156,
+      "elo_before": 1491.2187,
+      "elo_after": 1472.6988,
       "opp_elo": 1500.0,
       "is_bye": false
     }
   ],
-  "wins": 10,
+  "wins": 12,
   "losses": 14,
   "draws": 0
 }

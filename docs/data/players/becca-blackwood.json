@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1548.38,
+  "elo": 1527.53,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -409,9 +409,20 @@
       "elo_after": 1548.3773,
       "opp_elo": 1374.6187,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Jeffrey Silver",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1548.3773,
+      "elo_after": 1527.5257,
+      "opp_elo": 1514.411,
+      "is_bye": false
     }
   ],
   "wins": 21,
-  "losses": 14,
+  "losses": 15,
   "draws": 2
 }

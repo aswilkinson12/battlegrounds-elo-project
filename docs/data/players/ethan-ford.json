@@ -1,7 +1,7 @@
 {
   "player": "Ethan Ford",
   "slug": "ethan-ford",
-  "elo": 1559.83,
+  "elo": 1555.37,
   "matches": [
     {
       "week": "26-4-10",
@@ -27,17 +27,39 @@
     },
     {
       "week": "26-4-10",
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1543.0797,
+      "elo_after": 1521.7358,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.7358,
+      "elo_after": 1538.534,
+      "opp_elo": 1481.2918,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
       "round": 5,
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.0797,
-      "elo_after": 1559.8274,
-      "opp_elo": 1501.6995,
+      "elo_before": 1538.534,
+      "elo_after": 1555.3667,
+      "opp_elo": 1498.7296,
       "is_bye": false
     }
   ],
-  "wins": 3,
-  "losses": 0,
+  "wins": 4,
+  "losses": 1,
   "draws": 0
 }
