@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1694.85,
+  "elo": 1700.74,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -400,7 +400,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Philip Petronis",
       "result": "W",
@@ -411,7 +411,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Stella Burfeind",
       "result": "W",
@@ -422,7 +422,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Amy Altman",
       "result": "W",
@@ -433,7 +433,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Autumn Rossa",
       "result": "W",
@@ -444,7 +444,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Pan Rasking",
       "result": "D",
@@ -453,9 +453,53 @@
       "elo_after": 1694.8469,
       "opp_elo": 1503.3907,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1694.8469,
+      "elo_after": 1703.5503,
+      "opp_elo": 1483.9964,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1703.5503,
+      "elo_after": 1714.2601,
+      "opp_elo": 1541.0598,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1714.2601,
+      "elo_after": 1730.7854,
+      "opp_elo": 1668.7481,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1730.7854,
+      "elo_after": 1700.7428,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 28,
-  "losses": 10,
+  "wins": 31,
+  "losses": 11,
   "draws": 3
 }

@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1461.43,
+  "elo": 1465.0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -395,9 +395,31 @@
       "elo_after": 1461.4298,
       "opp_elo": 1478.9878,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1461.4298,
+      "elo_after": 1479.83,
+      "opp_elo": 1450.4583,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1479.83,
+      "elo_after": 1465.0026,
+      "opp_elo": 1557.3941,
+      "is_bye": false
     }
   ],
-  "wins": 11,
-  "losses": 20,
+  "wins": 12,
+  "losses": 21,
   "draws": 2
 }

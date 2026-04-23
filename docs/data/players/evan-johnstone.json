@@ -1,7 +1,7 @@
 {
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
-  "elo": 1424.25,
+  "elo": 1487.84,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -343,9 +343,42 @@
       "elo_after": 1424.2521,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1424.2521,
+      "elo_after": 1447.3301,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1447.3301,
+      "elo_after": 1469.1885,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.1885,
+      "elo_after": 1487.8353,
+      "opp_elo": 1462.7294,
+      "is_bye": false
     }
   ],
-  "wins": 11,
+  "wins": 14,
   "losses": 19,
   "draws": 1
 }

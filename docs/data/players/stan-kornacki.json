@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1591.8,
+  "elo": 1588.46,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -400,7 +400,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Ran Guo",
       "result": "W",
@@ -411,7 +411,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Autumn Rossa",
       "result": "L",
@@ -422,7 +422,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Reya Truher",
       "result": "W",
@@ -433,7 +433,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Becca Blackwood",
       "result": "W",
@@ -444,7 +444,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Kenton Najdzien",
       "result": "W",
@@ -453,9 +453,64 @@
       "elo_after": 1591.8003,
       "opp_elo": 1624.6375,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1591.8003,
+      "elo_after": 1604.9147,
+      "opp_elo": 1480.521,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1604.9147,
+      "elo_after": 1584.424,
+      "opp_elo": 1577.6,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1584.424,
+      "elo_after": 1596.6434,
+      "opp_elo": 1454.727,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1596.6434,
+      "elo_after": 1575.247,
+      "opp_elo": 1552.5868,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1575.247,
+      "elo_after": 1588.4622,
+      "opp_elo": 1466.0029,
+      "is_bye": false
     }
   ],
-  "wins": 25,
-  "losses": 13,
+  "wins": 28,
+  "losses": 15,
   "draws": 3
 }

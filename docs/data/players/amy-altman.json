@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1642.16,
+  "elo": 1625.39,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -345,7 +345,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -356,7 +356,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Evan Hamlin",
       "result": "W",
@@ -367,7 +367,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -378,7 +378,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -389,7 +389,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Autumn Rossa",
       "result": "ID",
@@ -398,9 +398,53 @@
       "elo_after": 1642.1605,
       "opp_elo": 1539.8419,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Kevin Thanakit",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1642.1605,
+      "elo_after": 1657.1987,
+      "opp_elo": 1568.6351,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1657.1987,
+      "elo_after": 1668.7481,
+      "opp_elo": 1513.2489,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1668.7481,
+      "elo_after": 1652.2228,
+      "opp_elo": 1714.2601,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1652.2228,
+      "elo_after": 1625.393,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 22,
-  "losses": 10,
+  "wins": 24,
+  "losses": 12,
   "draws": 4
 }

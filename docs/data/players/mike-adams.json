@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1523.33,
+  "elo": 1570.0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -345,7 +345,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Evan Hamlin",
       "result": "L",
@@ -356,7 +356,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Philip Petronis",
       "result": "W",
@@ -367,7 +367,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -378,7 +378,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Kenton Najdzien",
       "result": "L",
@@ -389,7 +389,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Philip Watson",
       "result": "W",
@@ -398,9 +398,64 @@
       "elo_after": 1523.334,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1523.334,
+      "elo_after": 1541.0598,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.0598,
+      "elo_after": 1530.35,
+      "opp_elo": 1703.5503,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1530.35,
+      "elo_after": 1552.5868,
+      "opp_elo": 1590.1215,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.5868,
+      "elo_after": 1573.9833,
+      "opp_elo": 1596.6434,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Matt Suyer",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1573.9833,
+      "elo_after": 1569.9975,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 18,
-  "losses": 16,
-  "draws": 2
+  "wins": 21,
+  "losses": 17,
+  "draws": 3
 }

@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1513.32,
+  "elo": 1502.84,
   "matches": [
     {
       "week": "26-2-13",
@@ -158,7 +158,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Anthony Wilkinson",
       "result": "W",
@@ -169,7 +169,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Tom Kessler",
       "result": "W",
@@ -180,7 +180,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Taylor Pratt",
       "result": "W",
@@ -191,7 +191,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Winston Wong",
       "result": "W",
@@ -202,7 +202,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Nathan Choi",
       "result": "D",
@@ -211,9 +211,42 @@
       "elo_after": 1513.3161,
       "opp_elo": 1704.7723,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.3161,
+      "elo_after": 1495.7639,
+      "opp_elo": 1539.8419,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1495.7639,
+      "elo_after": 1476.9955,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.9955,
+      "elo_after": 1502.8398,
+      "opp_elo": 1608.0288,
+      "is_bye": false
     }
   ],
-  "wins": 8,
-  "losses": 8,
+  "wins": 9,
+  "losses": 10,
   "draws": 3
 }

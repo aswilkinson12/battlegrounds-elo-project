@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1493.92,
+  "elo": 1484.95,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -443,7 +443,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -454,7 +454,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Reya Truher",
       "result": "L",
@@ -465,7 +465,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Patrick Brooks",
       "result": "L",
@@ -476,7 +476,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Ken Cox",
       "result": "L",
@@ -485,9 +485,42 @@
       "elo_after": 1493.9162,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Sean Thornton",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1493.9162,
+      "elo_after": 1513.2489,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.2489,
+      "elo_after": 1501.6995,
+      "opp_elo": 1657.1987,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Ethan Ford",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.6995,
+      "elo_after": 1484.9518,
+      "opp_elo": 1543.0797,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 22,
+  "wins": 21,
+  "losses": 24,
   "draws": 1
 }

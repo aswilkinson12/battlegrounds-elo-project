@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1645.61,
+  "elo": 1582.18,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -455,7 +455,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Pan Rasking",
       "result": "L",
@@ -466,7 +466,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -477,7 +477,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Ken Cox",
       "result": "W",
@@ -488,7 +488,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Patrick Brooks",
       "result": "W",
@@ -499,7 +499,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Hex Dowd",
       "result": "W",
@@ -508,9 +508,53 @@
       "elo_after": 1645.6066,
       "opp_elo": 1465.757,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1645.6066,
+      "elo_after": 1619.0795,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1619.0795,
+      "elo_after": 1630.4118,
+      "opp_elo": 1470.4116,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1630.4118,
+      "elo_after": 1608.0288,
+      "opp_elo": 1567.8847,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Pan Rasking",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1608.0288,
+      "elo_after": 1582.1846,
+      "opp_elo": 1476.9955,
+      "is_bye": false
     }
   ],
-  "wins": 33,
-  "losses": 11,
+  "wins": 34,
+  "losses": 14,
   "draws": 2
 }

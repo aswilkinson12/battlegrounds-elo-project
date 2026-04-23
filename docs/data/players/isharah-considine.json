@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1537.03,
+  "elo": 1496.69,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -200,9 +200,31 @@
       "elo_after": 1537.0269,
       "opp_elo": 1516.4266,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.0269,
+      "elo_after": 1516.5944,
+      "opp_elo": 1510.783,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.5944,
+      "elo_after": 1496.6876,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
   "wins": 10,
-  "losses": 8,
+  "losses": 10,
   "draws": 0
 }

@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1559.94,
+  "elo": 1548.38,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -334,7 +334,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Hex Dowd",
       "result": "W",
@@ -345,7 +345,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Devon O’Donnell",
       "result": "W",
@@ -356,7 +356,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Winston Wong",
       "result": "L",
@@ -367,7 +367,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -378,7 +378,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Evan Hamlin",
       "result": "L",
@@ -387,9 +387,31 @@
       "elo_after": 1559.9391,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1559.9391,
+      "elo_after": 1537.6934,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.6934,
+      "elo_after": 1548.3773,
+      "opp_elo": 1374.6187,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 13,
+  "wins": 21,
+  "losses": 14,
   "draws": 2
 }

@@ -1,10 +1,10 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1501.32,
+  "elo": 1483.88,
   "matches": [
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Ken Cox",
       "result": "D",
@@ -15,7 +15,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -26,7 +26,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Becca Blackwood",
       "result": "W",
@@ -37,7 +37,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Pan Rasking",
       "result": "L",
@@ -48,7 +48,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -57,9 +57,42 @@
       "elo_after": 1501.317,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "jayson chandler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.317,
+      "elo_after": 1482.2449,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.2449,
+      "elo_after": 1502.2151,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Jeffrey Silver",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.2151,
+      "elo_after": 1483.8817,
+      "opp_elo": 1514.411,
+      "is_bye": false
     }
   ],
-  "wins": 2,
-  "losses": 2,
+  "wins": 3,
+  "losses": 4,
   "draws": 1
 }

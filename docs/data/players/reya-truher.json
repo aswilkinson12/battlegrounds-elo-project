@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1450.46,
+  "elo": 1426.62,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -344,7 +344,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Autumn Rossa",
       "result": "L",
@@ -355,7 +355,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Dani Masom",
       "result": "W",
@@ -366,7 +366,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -377,7 +377,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Jason Flynn",
       "result": "L",
@@ -388,7 +388,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Stella Burfeind",
       "result": "D",
@@ -397,9 +397,53 @@
       "elo_after": 1450.4583,
       "opp_elo": 1486.0468,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1450.4583,
+      "elo_after": 1432.0581,
+      "opp_elo": 1461.4298,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1432.0581,
+      "elo_after": 1454.727,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1454.727,
+      "elo_after": 1442.5075,
+      "opp_elo": 1584.424,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1442.5075,
+      "elo_after": 1426.6232,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 15,
-  "losses": 19,
+  "wins": 16,
+  "losses": 22,
   "draws": 1
 }

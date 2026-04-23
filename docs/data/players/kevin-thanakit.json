@@ -1,7 +1,7 @@
 {
   "player": "Kevin Thanakit",
   "slug": "kevin-thanakit",
-  "elo": 1568.64,
+  "elo": 1592.17,
   "matches": [
     {
       "week": "26-3-27",
@@ -57,9 +57,42 @@
       "elo_after": 1568.6351,
       "opp_elo": 1642.5929,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1568.6351,
+      "elo_after": 1553.5969,
+      "opp_elo": 1642.1605,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Bailey Sarkis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.5969,
+      "elo_after": 1571.7364,
+      "opp_elo": 1537.8511,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.7364,
+      "elo_after": 1592.1749,
+      "opp_elo": 1598.0907,
+      "is_bye": false
     }
   ],
-  "wins": 4,
-  "losses": 1,
+  "wins": 6,
+  "losses": 2,
   "draws": 0
 }

@@ -1,7 +1,7 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1489.85,
+  "elo": 1442.31,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -288,9 +288,42 @@
       "elo_after": 1489.8503,
       "opp_elo": 1485.5511,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.8503,
+      "elo_after": 1470.4116,
+      "opp_elo": 1481.8274,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.4116,
+      "elo_after": 1459.0793,
+      "opp_elo": 1619.0795,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Sean Thornton",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.0793,
+      "elo_after": 1442.3069,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
   "wins": 11,
-  "losses": 14,
+  "losses": 17,
   "draws": 1
 }

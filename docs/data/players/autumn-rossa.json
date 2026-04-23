@@ -1,10 +1,10 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1539.84,
+  "elo": 1568.33,
   "matches": [
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Reya Truher",
       "result": "W",
@@ -15,7 +15,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Stan Kornacki",
       "result": "W",
@@ -26,7 +26,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -37,7 +37,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -48,7 +48,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Amy Altman",
       "result": "ID",
@@ -57,9 +57,42 @@
       "elo_after": 1539.8419,
       "opp_elo": 1642.1605,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1539.8419,
+      "elo_after": 1557.3941,
+      "opp_elo": 1513.3161,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1557.3941,
+      "elo_after": 1572.2215,
+      "opp_elo": 1479.83,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Tom Kessler",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1572.2215,
+      "elo_after": 1568.3279,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 3,
+  "wins": 5,
   "losses": 1,
-  "draws": 1
+  "draws": 2
 }

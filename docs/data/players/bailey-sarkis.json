@@ -1,7 +1,7 @@
 {
   "player": "Bailey Sarkis",
   "slug": "bailey-sarkis",
-  "elo": 1560.11,
+  "elo": 1519.71,
   "matches": [
     {
       "week": "26-3-07",
@@ -57,9 +57,31 @@
       "elo_after": 1560.1057,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1560.1057,
+      "elo_after": 1537.8511,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Kevin Thanakit",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.8511,
+      "elo_after": 1519.7116,
+      "opp_elo": 1553.5969,
+      "is_bye": false
     }
   ],
   "wins": 4,
-  "losses": 1,
+  "losses": 3,
   "draws": 0
 }

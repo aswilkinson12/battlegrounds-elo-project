@@ -1,9 +1,43 @@
 {
   "player": "Ethan Ford",
   "slug": "ethan-ford",
-  "elo": 1500.0,
-  "matches": [],
-  "wins": 0,
+  "elo": 1559.83,
+  "matches": [
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1519.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.0,
+      "elo_after": 1543.0797,
+      "opp_elo": 1614.2012,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.0797,
+      "elo_after": 1559.8274,
+      "opp_elo": 1501.6995,
+      "is_bye": false
+    }
+  ],
+  "wins": 3,
   "losses": 0,
   "draws": 0
 }

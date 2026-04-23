@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1389.52,
+  "elo": 1363.93,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -365,7 +365,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Bye",
       "result": "BYE",
@@ -375,7 +375,7 @@
       "opp_elo": null
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Jason Flynn",
       "result": "W",
@@ -386,7 +386,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Autumn Rossa",
       "result": "L",
@@ -397,7 +397,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Amy Altman",
       "result": "L",
@@ -408,7 +408,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Taylor Pratt",
       "result": "L",
@@ -417,9 +417,31 @@
       "elo_after": 1389.518,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1389.518,
+      "elo_after": 1374.6187,
+      "opp_elo": 1465.7012,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1374.6187,
+      "elo_after": 1363.9348,
+      "opp_elo": 1537.6934,
+      "is_bye": false
     }
   ],
   "wins": 11,
-  "losses": 23,
+  "losses": 25,
   "draws": 1
 }

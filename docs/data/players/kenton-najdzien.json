@@ -1,7 +1,7 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1602.66,
+  "elo": 1619.99,
   "matches": [
     {
       "week": "26-2-13",
@@ -224,7 +224,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 1,
       "opponent": "Jason Flynn",
       "result": "L",
@@ -235,7 +235,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 2,
       "opponent": "Patrick Brooks",
       "result": "W",
@@ -246,7 +246,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 3,
       "opponent": "Evan Hamlin",
       "result": "W",
@@ -257,7 +257,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 4,
       "opponent": "Mike Adams",
       "result": "W",
@@ -268,7 +268,7 @@
       "is_bye": false
     },
     {
-      "week": "26-4-04",
+      "week": "26-4-03",
       "round": 5,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -277,9 +277,53 @@
       "elo_after": 1602.6648,
       "opp_elo": 1569.8275,
       "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 1,
+      "opponent": "Jeffrey Silver",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1602.6648,
+      "elo_after": 1616.6709,
+      "opp_elo": 1509.1517,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 2,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1616.6709,
+      "elo_after": 1591.5201,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1591.5201,
+      "elo_after": 1605.6278,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-10",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.6278,
+      "elo_after": 1619.9933,
+      "opp_elo": 1519.1373,
+      "is_bye": false
     }
   ],
-  "wins": 16,
-  "losses": 8,
+  "wins": 19,
+  "losses": 9,
   "draws": 1
 }
