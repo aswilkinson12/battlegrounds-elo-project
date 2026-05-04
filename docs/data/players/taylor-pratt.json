@@ -1,0 +1,65 @@
+{
+  "player": "Taylor Pratt",
+  "slug": "taylor-pratt",
+  "elo": 1505.96,
+  "matches": [
+    {
+      "week": "26-4-03",
+      "round": 1,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1516.2055,
+      "opp_elo": 1448.526,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-03",
+      "round": 2,
+      "opponent": "Philip Watson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.2055,
+      "elo_after": 1534.3199,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-03",
+      "round": 3,
+      "opponent": "Pan Rasking",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1534.3199,
+      "elo_after": 1511.306,
+      "opp_elo": 1459.799,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-03",
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1511.306,
+      "elo_after": 1491.6879,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-03",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1491.6879,
+      "elo_after": 1505.9593,
+      "opp_elo": 1403.3656,
+      "is_bye": false
+    }
+  ],
+  "wins": 3,
+  "losses": 2,
+  "draws": 0
+}

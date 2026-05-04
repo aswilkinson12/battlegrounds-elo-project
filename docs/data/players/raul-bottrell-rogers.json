@@ -252,8 +252,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1467.4066,
-      "elo_after": 1448.8378,
-      "opp_elo": 1475.293,
+      "elo_after": 1448.8379,
+      "opp_elo": 1475.2957,
       "is_bye": false
     },
     {
@@ -262,8 +262,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1448.8378,
-      "elo_after": 1470.6156,
+      "elo_before": 1448.8379,
+      "elo_after": 1470.6157,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -273,8 +273,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.6156,
-      "elo_after": 1491.2187,
+      "elo_before": 1470.6157,
+      "elo_after": 1491.2188,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -284,8 +284,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.2187,
-      "elo_after": 1472.6988,
+      "elo_before": 1491.2188,
+      "elo_after": 1472.6989,
       "opp_elo": 1500.0,
       "is_bye": false
     }

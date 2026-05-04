@@ -318,8 +318,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1612.6381,
-      "elo_after": 1626.2476,
-      "opp_elo": 1511.2872,
+      "elo_after": 1626.2477,
+      "opp_elo": 1511.2899,
       "is_bye": false
     },
     {
@@ -328,9 +328,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1626.2476,
-      "elo_after": 1639.6012,
-      "opp_elo": 1519.7852,
+      "elo_before": 1626.2477,
+      "elo_after": 1639.6015,
+      "opp_elo": 1519.7884,
       "is_bye": false
     }
   ],

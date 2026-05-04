@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1505.17,
+  "elo": 1506.43,
   "matches": [
     {
       "week": "26-2-13",
@@ -186,8 +186,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1459.799,
-      "elo_after": 1480.9877,
-      "opp_elo": 1500.0,
+      "elo_after": 1482.8129,
+      "opp_elo": 1534.3199,
       "is_bye": false
     },
     {
@@ -196,8 +196,8 @@
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1480.9877,
-      "elo_after": 1503.3907,
+      "elo_before": 1482.8129,
+      "elo_after": 1505.1192,
       "opp_elo": 1543.8937,
       "is_bye": false
     },
@@ -207,8 +207,8 @@
       "opponent": "Nathan Choi",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1503.3907,
-      "elo_after": 1513.3161,
+      "elo_before": 1505.1192,
+      "elo_after": 1514.9757,
       "opp_elo": 1704.7723,
       "is_bye": false
     },
@@ -218,8 +218,8 @@
       "opponent": "Autumn Rossa",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1513.3161,
-      "elo_after": 1495.7639,
+      "elo_before": 1514.9757,
+      "elo_after": 1497.3332,
       "opp_elo": 1539.8419,
       "is_bye": false
     },
@@ -229,8 +229,8 @@
       "opponent": "Chris Hirt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1495.7639,
-      "elo_after": 1476.9955,
+      "elo_before": 1497.3332,
+      "elo_after": 1478.4791,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -240,8 +240,8 @@
       "opponent": "Thomas Kotcher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1476.9955,
-      "elo_after": 1459.2517,
+      "elo_before": 1478.4791,
+      "elo_after": 1460.6545,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -251,8 +251,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1459.2517,
-      "elo_after": 1480.4699,
+      "elo_before": 1460.6545,
+      "elo_after": 1481.797,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -262,8 +262,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1480.4699,
-      "elo_after": 1505.1673,
+      "elo_before": 1481.797,
+      "elo_after": 1506.4282,
       "opp_elo": 1587.9546,
       "is_bye": false
     }

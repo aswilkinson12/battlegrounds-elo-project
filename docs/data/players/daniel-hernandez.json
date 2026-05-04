@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1363.93,
+  "elo": 1363.55,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -414,8 +414,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1403.3656,
-      "elo_after": 1389.518,
-      "opp_elo": 1500.0,
+      "elo_after": 1389.0942,
+      "opp_elo": 1491.6879,
       "is_bye": false
     },
     {
@@ -424,8 +424,8 @@
       "opponent": "Gina Millott",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1389.518,
-      "elo_after": 1374.6187,
+      "elo_before": 1389.0942,
+      "elo_after": 1374.217,
       "opp_elo": 1465.7012,
       "is_bye": false
     },
@@ -435,8 +435,8 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1374.6187,
-      "elo_after": 1363.9348,
+      "elo_before": 1374.217,
+      "elo_after": 1363.5508,
       "opp_elo": 1537.6934,
       "is_bye": false
     }

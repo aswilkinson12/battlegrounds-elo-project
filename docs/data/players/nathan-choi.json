@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1701.03,
+  "elo": 1701.09,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -450,8 +450,8 @@
       "result": "D",
       "score": 0.5,
       "elo_before": 1704.7723,
-      "elo_after": 1694.8469,
-      "opp_elo": 1503.3907,
+      "elo_after": 1694.9158,
+      "opp_elo": 1505.1192,
       "is_bye": false
     },
     {
@@ -460,8 +460,8 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1694.8469,
-      "elo_after": 1703.5503,
+      "elo_before": 1694.9158,
+      "elo_after": 1703.6166,
       "opp_elo": 1483.9964,
       "is_bye": false
     },
@@ -471,8 +471,8 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1703.5503,
-      "elo_after": 1714.2601,
+      "elo_before": 1703.6166,
+      "elo_after": 1714.3234,
       "opp_elo": 1541.0598,
       "is_bye": false
     },
@@ -482,8 +482,8 @@
       "opponent": "Luke Deratzou",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1714.2601,
-      "elo_after": 1722.8326,
+      "elo_before": 1714.3234,
+      "elo_after": 1722.8934,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -493,8 +493,8 @@
       "opponent": "Tom Kessler",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1722.8326,
-      "elo_after": 1731.0818,
+      "elo_before": 1722.8934,
+      "elo_after": 1731.1405,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -504,8 +504,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1731.0818,
-      "elo_after": 1701.0285,
+      "elo_before": 1731.1405,
+      "elo_after": 1701.0851,
       "opp_elo": 1500.0,
       "is_bye": false
     }

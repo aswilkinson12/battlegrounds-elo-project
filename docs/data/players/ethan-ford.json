@@ -43,8 +43,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1521.7358,
-      "elo_after": 1538.534,
-      "opp_elo": 1481.2918,
+      "elo_after": 1538.533,
+      "opp_elo": 1481.2721,
       "is_bye": false
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1538.534,
-      "elo_after": 1555.3667,
+      "elo_before": 1538.533,
+      "elo_after": 1555.3657,
       "opp_elo": 1498.7296,
       "is_bye": false
     }

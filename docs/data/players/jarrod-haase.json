@@ -414,8 +414,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1479.83,
-      "elo_after": 1465.0026,
-      "opp_elo": 1557.3941,
+      "elo_after": 1465.0073,
+      "opp_elo": 1557.4844,
       "is_bye": false
     },
     {
@@ -424,9 +424,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1465.0026,
-      "elo_after": 1447.5772,
-      "opp_elo": 1493.8618,
+      "elo_before": 1465.0073,
+      "elo_after": 1447.5818,
+      "opp_elo": 1493.8643,
       "is_bye": false
     }
   ],

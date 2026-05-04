@@ -1,7 +1,7 @@
 [
   {
     "player": "Nathan Choi",
-    "elo": 1701.03,
+    "elo": 1701.09,
     "matches": 46,
     "wins": 32,
     "losses": 11,
@@ -81,7 +81,7 @@
   },
   {
     "player": "Anthony Wilkinson",
-    "elo": 1563.26,
+    "elo": 1563.32,
     "matches": 51,
     "wins": 34,
     "losses": 15,
@@ -89,7 +89,7 @@
   },
   {
     "player": "Autumn Rossa",
-    "elo": 1560.63,
+    "elo": 1560.7,
     "matches": 10,
     "wins": 6,
     "losses": 2,
@@ -129,7 +129,7 @@
   },
   {
     "player": "Becca Blackwood",
-    "elo": 1527.53,
+    "elo": 1527.51,
     "matches": 38,
     "wins": 21,
     "losses": 15,
@@ -184,6 +184,14 @@
     "draws": 1
   },
   {
+    "player": "Pan Rasking",
+    "elo": 1506.43,
+    "matches": 24,
+    "wins": 10,
+    "losses": 11,
+    "draws": 3
+  },
+  {
     "player": "Sam Feeley",
     "elo": 1506.33,
     "matches": 8,
@@ -192,12 +200,20 @@
     "draws": 0
   },
   {
-    "player": "Pan Rasking",
-    "elo": 1505.17,
-    "matches": 24,
-    "wins": 10,
-    "losses": 11,
-    "draws": 3
+    "player": "Taylor Pratt",
+    "elo": 1505.96,
+    "matches": 5,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  {
+    "player": "James Blanchfield",
+    "elo": 1500.0,
+    "matches": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0
   },
   {
     "player": "Jonathan Ma",
@@ -225,7 +241,7 @@
   },
   {
     "player": "Stella Burfeind",
-    "elo": 1497.8,
+    "elo": 1497.81,
     "matches": 44,
     "wins": 20,
     "losses": 21,
@@ -257,7 +273,7 @@
   },
   {
     "player": "Winston Wong",
-    "elo": 1483.09,
+    "elo": 1483.15,
     "matches": 10,
     "wins": 4,
     "losses": 5,
@@ -305,7 +321,7 @@
   },
   {
     "player": "Evan Johnstone",
-    "elo": 1458.55,
+    "elo": 1458.56,
     "matches": 36,
     "wins": 14,
     "losses": 21,
@@ -329,7 +345,7 @@
   },
   {
     "player": "Gina Millott",
-    "elo": 1444.05,
+    "elo": 1444.04,
     "matches": 26,
     "wins": 11,
     "losses": 15,
@@ -385,7 +401,7 @@
   },
   {
     "player": "Daniel Hernandez",
-    "elo": 1363.93,
+    "elo": 1363.55,
     "matches": 37,
     "wins": 11,
     "losses": 25,

@@ -1,7 +1,7 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1444.05,
+  "elo": 1444.04,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -241,8 +241,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1465.7012,
-      "elo_after": 1480.6006,
-      "opp_elo": 1389.518,
+      "elo_after": 1480.5785,
+      "opp_elo": 1389.0942,
       "is_bye": false
     },
     {
@@ -251,8 +251,8 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.6006,
-      "elo_after": 1462.7294,
+      "elo_before": 1480.5785,
+      "elo_after": 1462.7085,
       "opp_elo": 1501.2661,
       "is_bye": false
     },
@@ -262,8 +262,8 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1462.7294,
-      "elo_after": 1481.2918,
+      "elo_before": 1462.7085,
+      "elo_after": 1481.2721,
       "opp_elo": 1454.727,
       "is_bye": false
     },
@@ -273,8 +273,8 @@
       "opponent": "Ethan Ford",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1481.2918,
-      "elo_after": 1464.4936,
+      "elo_before": 1481.2721,
+      "elo_after": 1464.4749,
       "opp_elo": 1521.7358,
       "is_bye": false
     },
@@ -284,9 +284,9 @@
       "opponent": "Evan Johnstone",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1464.4936,
-      "elo_after": 1444.0538,
-      "opp_elo": 1438.1144,
+      "elo_before": 1464.4749,
+      "elo_after": 1444.0364,
+      "opp_elo": 1438.1185,
       "is_bye": false
     }
   ],

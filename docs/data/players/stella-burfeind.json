@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1497.8,
+  "elo": 1497.81,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -459,8 +459,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1483.9964,
-      "elo_after": 1475.293,
-      "opp_elo": 1694.8469,
+      "elo_after": 1475.2957,
+      "opp_elo": 1694.9158,
       "is_bye": false
     },
     {
@@ -469,8 +469,8 @@
       "opponent": "Raul Bottrell-Rogers",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1475.293,
-      "elo_after": 1493.8618,
+      "elo_before": 1475.2957,
+      "elo_after": 1493.8643,
       "opp_elo": 1467.4066,
       "is_bye": false
     },
@@ -480,9 +480,9 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1493.8618,
-      "elo_after": 1511.2872,
-      "opp_elo": 1465.0026,
+      "elo_before": 1493.8643,
+      "elo_after": 1511.2899,
+      "opp_elo": 1465.0073,
       "is_bye": false
     },
     {
@@ -491,8 +491,8 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1511.2872,
-      "elo_after": 1497.6777,
+      "elo_before": 1511.2899,
+      "elo_after": 1497.6802,
       "opp_elo": 1612.6381,
       "is_bye": false
     },
@@ -502,8 +502,8 @@
       "opponent": "Chris Hirt",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1497.6777,
-      "elo_after": 1497.8047,
+      "elo_before": 1497.6802,
+      "elo_after": 1497.8071,
       "opp_elo": 1500.0,
       "is_bye": false
     }

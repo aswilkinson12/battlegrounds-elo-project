@@ -329,8 +329,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1480.3069,
-      "elo_after": 1458.9058,
-      "opp_elo": 1436.1645,
+      "elo_after": 1458.9057,
+      "opp_elo": 1436.1634,
       "is_bye": false
     },
     {
@@ -339,7 +339,7 @@
       "opponent": "Sean Thornton",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1458.9058,
+      "elo_before": 1458.9057,
       "elo_after": 1442.1426,
       "opp_elo": 1500.0,
       "is_bye": false

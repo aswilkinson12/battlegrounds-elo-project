@@ -87,8 +87,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1514.411,
-      "elo_after": 1535.2626,
-      "opp_elo": 1548.3773,
+      "elo_after": 1535.2616,
+      "opp_elo": 1548.3596,
       "is_bye": false
     },
     {
@@ -97,8 +97,8 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1535.2626,
-      "elo_after": 1521.882,
+      "elo_before": 1535.2616,
+      "elo_after": 1521.8811,
       "opp_elo": 1641.183,
       "is_bye": false
     },
@@ -108,9 +108,9 @@
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.882,
-      "elo_after": 1539.7382,
-      "opp_elo": 1500.9418,
+      "elo_before": 1521.8811,
+      "elo_after": 1539.7413,
+      "opp_elo": 1501.0148,
       "is_bye": false
     }
   ],

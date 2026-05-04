@@ -417,8 +417,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1541.0598,
-      "elo_after": 1530.35,
-      "opp_elo": 1703.5503,
+      "elo_after": 1530.353,
+      "opp_elo": 1703.6166,
       "is_bye": false
     },
     {
@@ -427,8 +427,8 @@
       "opponent": "Stan Kornacki",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1530.35,
-      "elo_after": 1553.0507,
+      "elo_before": 1530.353,
+      "elo_after": 1553.0535,
       "opp_elo": 1598.896,
       "is_bye": false
     },
@@ -438,8 +438,8 @@
       "opponent": "Matt Suyer",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1553.0507,
-      "elo_after": 1550.1719,
+      "elo_before": 1553.0535,
+      "elo_after": 1550.1745,
       "opp_elo": 1500.0,
       "is_bye": false
     }

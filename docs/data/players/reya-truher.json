@@ -427,8 +427,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1454.727,
-      "elo_after": 1436.1645,
-      "opp_elo": 1462.7294,
+      "elo_after": 1436.1634,
+      "opp_elo": 1462.7085,
       "is_bye": false
     },
     {
@@ -437,8 +437,8 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1436.1645,
-      "elo_after": 1457.5656,
+      "elo_before": 1436.1634,
+      "elo_after": 1457.5645,
       "opp_elo": 1480.3069,
       "is_bye": false
     },
@@ -448,8 +448,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1457.5656,
-      "elo_after": 1440.8747,
+      "elo_before": 1457.5645,
+      "elo_after": 1440.8737,
       "opp_elo": 1500.0,
       "is_bye": false
     }

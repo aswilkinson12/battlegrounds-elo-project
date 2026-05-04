@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1483.09,
+  "elo": 1483.15,
   "matches": [
     {
       "week": "26-4-03",
@@ -43,8 +43,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1543.8937,
-      "elo_after": 1521.4907,
-      "opp_elo": 1480.9877,
+      "elo_after": 1521.5874,
+      "opp_elo": 1482.8129,
       "is_bye": false
     },
     {
@@ -53,8 +53,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1521.4907,
-      "elo_after": 1501.317,
+      "elo_before": 1521.5874,
+      "elo_after": 1501.4084,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -64,8 +64,8 @@
       "opponent": "jayson chandler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.317,
-      "elo_after": 1482.2449,
+      "elo_before": 1501.4084,
+      "elo_after": 1482.3314,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -75,8 +75,8 @@
       "opponent": "Adam Silvia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1482.2449,
-      "elo_after": 1502.2151,
+      "elo_before": 1482.3314,
+      "elo_after": 1502.2968,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,8 +86,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.2151,
-      "elo_after": 1521.0939,
+      "elo_before": 1502.2968,
+      "elo_after": 1521.1712,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -97,8 +97,8 @@
       "opponent": "Luke Deratzou",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1521.0939,
-      "elo_after": 1500.9418,
+      "elo_before": 1521.1712,
+      "elo_after": 1501.0148,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -108,9 +108,9 @@
       "opponent": "Jeffrey Silver",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.9418,
-      "elo_after": 1483.0855,
-      "opp_elo": 1521.882,
+      "elo_before": 1501.0148,
+      "elo_after": 1483.1546,
+      "opp_elo": 1521.8811,
       "is_bye": false
     }
   ],

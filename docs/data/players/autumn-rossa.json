@@ -1,7 +1,7 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1560.63,
+  "elo": 1560.7,
   "matches": [
     {
       "week": "26-4-03",
@@ -65,8 +65,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1539.8419,
-      "elo_after": 1557.3941,
-      "opp_elo": 1513.3161,
+      "elo_after": 1557.4844,
+      "opp_elo": 1514.9757,
       "is_bye": false
     },
     {
@@ -75,8 +75,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1557.3941,
-      "elo_after": 1572.2215,
+      "elo_before": 1557.4844,
+      "elo_after": 1572.3071,
       "opp_elo": 1479.83,
       "is_bye": false
     },
@@ -86,9 +86,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1572.2215,
-      "elo_after": 1550.3409,
-      "opp_elo": 1519.1373,
+      "elo_before": 1572.3071,
+      "elo_after": 1550.4218,
+      "opp_elo": 1519.1361,
       "is_bye": false
     },
     {
@@ -97,8 +97,8 @@
       "opponent": "Evan Johnstone",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1550.3409,
-      "elo_after": 1564.0955,
+      "elo_before": 1550.4218,
+      "elo_after": 1564.1724,
       "opp_elo": 1451.8691,
       "is_bye": false
     },
@@ -108,8 +108,8 @@
       "opponent": "Tom Kessler",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1564.0955,
-      "elo_after": 1560.6296,
+      "elo_before": 1564.1724,
+      "elo_after": 1560.7024,
       "opp_elo": 1500.0,
       "is_bye": false
     }

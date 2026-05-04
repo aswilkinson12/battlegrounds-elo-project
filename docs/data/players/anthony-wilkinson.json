@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1563.26,
+  "elo": 1563.32,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -560,8 +560,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1587.9546,
-      "elo_after": 1563.2572,
-      "opp_elo": 1480.4699,
+      "elo_after": 1563.3234,
+      "opp_elo": 1481.797,
       "is_bye": false
     }
   ],

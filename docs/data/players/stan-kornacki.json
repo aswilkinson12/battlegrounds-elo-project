@@ -494,8 +494,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1598.896,
-      "elo_after": 1576.1953,
-      "opp_elo": 1530.35,
+      "elo_after": 1576.1955,
+      "opp_elo": 1530.353,
       "is_bye": false
     },
     {
@@ -504,8 +504,8 @@
       "opponent": "Hex Dowd",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1576.1953,
-      "elo_after": 1589.5982,
+      "elo_before": 1576.1955,
+      "elo_after": 1589.5983,
       "opp_elo": 1470.7201,
       "is_bye": false
     }

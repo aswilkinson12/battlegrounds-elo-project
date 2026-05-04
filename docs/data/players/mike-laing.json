@@ -338,8 +338,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1501.2661,
-      "elo_after": 1519.1373,
-      "opp_elo": 1480.6006,
+      "elo_after": 1519.1361,
+      "opp_elo": 1480.5785,
       "is_bye": false
     },
     {
@@ -348,9 +348,9 @@
       "opponent": "Autumn Rossa",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1519.1373,
-      "elo_after": 1541.0179,
-      "opp_elo": 1572.2215,
+      "elo_before": 1519.1361,
+      "elo_after": 1541.0214,
+      "opp_elo": 1572.3071,
       "is_bye": false
     },
     {
@@ -359,8 +359,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1541.0179,
-      "elo_after": 1519.7852,
+      "elo_before": 1541.0214,
+      "elo_after": 1519.7884,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -370,9 +370,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1519.7852,
-      "elo_after": 1506.4316,
-      "opp_elo": 1626.2476,
+      "elo_before": 1519.7884,
+      "elo_after": 1506.4347,
+      "opp_elo": 1626.2477,
       "is_bye": false
     }
   ],
