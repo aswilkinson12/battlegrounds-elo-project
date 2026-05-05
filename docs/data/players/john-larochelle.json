@@ -1,7 +1,7 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1514.02,
+  "elo": 1470.02,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -167,9 +167,63 @@
       "elo_after": 1514.02,
       "opp_elo": 1480.5675,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1514.02,
+      "elo_after": 1514.02,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1514.02,
+      "elo_after": 1494.3185,
+      "opp_elo": 1501.1875,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1494.3185,
+      "elo_after": 1513.6292,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.6292,
+      "elo_after": 1494.3089,
+      "opp_elo": 1507.7727,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1494.3089,
+      "elo_after": 1470.0182,
+      "opp_elo": 1394.9375,
+      "is_bye": false
     }
   ],
-  "wins": 7,
-  "losses": 6,
+  "wins": 8,
+  "losses": 9,
   "draws": 2
 }

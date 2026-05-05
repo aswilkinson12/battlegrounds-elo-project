@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1563.32,
+  "elo": 1566.86,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -563,9 +563,64 @@
       "elo_after": 1563.3234,
       "opp_elo": 1481.797,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1563.3234,
+      "elo_after": 1540.2138,
+      "opp_elo": 1486.969,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Michael Whalen",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1540.2138,
+      "elo_after": 1557.0244,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1557.0244,
+      "elo_after": 1582.3208,
+      "opp_elo": 1676.6769,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1582.3208,
+      "elo_after": 1558.9588,
+      "opp_elo": 1501.1097,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1558.9588,
+      "elo_after": 1566.8599,
+      "opp_elo": 1326.6137,
+      "is_bye": false
     }
   ],
-  "wins": 34,
-  "losses": 15,
+  "wins": 37,
+  "losses": 17,
   "draws": 2
 }

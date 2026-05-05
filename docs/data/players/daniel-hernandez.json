@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1363.55,
+  "elo": 1318.71,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -439,9 +439,107 @@
       "elo_after": 1363.5508,
       "opp_elo": 1537.6934,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1363.5508,
+      "elo_after": 1352.9059,
+      "opp_elo": 1527.5089,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1352.9059,
+      "elo_after": 1345.9932,
+      "opp_elo": 1614.082,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1345.9932,
+      "elo_after": 1372.9039,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1372.9039,
+      "elo_after": 1360.56,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1360.56,
+      "elo_after": 1355.8692,
+      "opp_elo": 1701.0851,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1355.8692,
+      "elo_after": 1337.3149,
+      "opp_elo": 1364.0206,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1337.3149,
+      "elo_after": 1337.3149,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Ken Cox",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1337.3149,
+      "elo_after": 1326.6137,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1326.6137,
+      "elo_after": 1318.7126,
+      "opp_elo": 1558.9588,
+      "is_bye": false
     }
   ],
-  "wins": 11,
-  "losses": 25,
+  "wins": 12,
+  "losses": 32,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1701.09,
+  "elo": 1631.8,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -508,9 +508,64 @@
       "elo_after": 1701.0851,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1701.0851,
+      "elo_after": 1705.7759,
+      "opp_elo": 1360.56,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1705.7759,
+      "elo_after": 1676.6769,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1676.6769,
+      "elo_after": 1651.3805,
+      "opp_elo": 1557.0244,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1651.3805,
+      "elo_after": 1623.3343,
+      "opp_elo": 1471.4261,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1623.3343,
+      "elo_after": 1631.7981,
+      "opp_elo": 1406.2179,
+      "is_bye": false
     }
   ],
-  "wins": 32,
-  "losses": 11,
+  "wins": 34,
+  "losses": 14,
   "draws": 3
 }

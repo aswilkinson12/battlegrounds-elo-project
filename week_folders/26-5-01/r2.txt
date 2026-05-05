@@ -1,0 +1,15 @@
+Round 2
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Bradley Skubic               Evan Hamlin                  6-3     
+2      John Larochelle             Dani Masom                   3-6     
+3      Ken Cox                      Winston Wong                 3-6     
+4      Sean Marks                   Nathan Choi                  6-3     
+5      Jonathon Torchia             Mike Laing                   6-3     
+6      Taylor Pratt                 Nathan Cormier               6-1     
+7      Mike Adams                   Jarrod Haase                4-0     
+8      Michael Whalen               Anthony Wilkinson            0-3     
+9      Hex Dowd                     Chris Hirt                   3-0     
+10     Daniel Hernandez             Phil iwanow                  0-3     
+11     Pan Rasking                  Terry Eleftherakis           0-3

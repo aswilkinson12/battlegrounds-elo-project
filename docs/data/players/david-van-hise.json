@@ -1,7 +1,7 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1665.15,
+  "elo": 1645.0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -376,9 +376,64 @@
       "elo_after": 1665.1531,
       "opp_elo": 1561.8518,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1665.1531,
+      "elo_after": 1675.0207,
+      "opp_elo": 1483.1546,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1675.0207,
+      "elo_after": 1650.7686,
+      "opp_elo": 1576.4162,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1650.7686,
+      "elo_after": 1662.0049,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1662.0049,
+      "elo_after": 1672.7362,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1672.7362,
+      "elo_after": 1644.9983,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 24,
-  "losses": 10,
+  "wins": 27,
+  "losses": 12,
   "draws": 0
 }

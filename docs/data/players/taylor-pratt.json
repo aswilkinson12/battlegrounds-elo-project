@@ -1,7 +1,7 @@
 {
   "player": "Taylor Pratt",
   "slug": "taylor-pratt",
-  "elo": 1505.96,
+  "elo": 1568.08,
   "matches": [
     {
       "week": "26-4-03",
@@ -57,9 +57,64 @@
       "elo_after": 1505.9593,
       "opp_elo": 1403.3656,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1505.9593,
+      "elo_after": 1519.1271,
+      "opp_elo": 1395.7586,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.1271,
+      "elo_after": 1536.6582,
+      "opp_elo": 1492.2119,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1536.6582,
+      "elo_after": 1553.6609,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.6609,
+      "elo_after": 1571.9631,
+      "opp_elo": 1540.8954,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1571.9631,
+      "elo_after": 1568.083,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 3,
+  "wins": 7,
   "losses": 2,
-  "draws": 0
+  "draws": 1
 }

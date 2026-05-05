@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1550.17,
+  "elo": 1499.74,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -442,9 +442,118 @@
       "elo_after": 1550.1745,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1550.1745,
+      "elo_after": 1553.823,
+      "opp_elo": 1617.7305,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1553.823,
+      "elo_after": 1539.4386,
+      "opp_elo": 1639.9462,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.4386,
+      "elo_after": 1516.2105,
+      "opp_elo": 1460.8064,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1516.2105,
+      "elo_after": 1514.2644,
+      "opp_elo": 1480.4996,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1514.2644,
+      "elo_after": 1514.2644,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1514.2644,
+      "elo_after": 1512.9907,
+      "opp_elo": 1490.9382,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1512.9907,
+      "elo_after": 1527.6104,
+      "opp_elo": 1431.4268,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1527.6104,
+      "elo_after": 1501.1097,
+      "opp_elo": 1382.5749,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.1097,
+      "elo_after": 1524.4717,
+      "opp_elo": 1582.3208,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1524.4717,
+      "elo_after": 1499.7352,
+      "opp_elo": 1416.1997,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 17,
-  "draws": 3
+  "wins": 22,
+  "losses": 21,
+  "draws": 6
 }

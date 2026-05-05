@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1627.63,
+  "elo": 1596.93,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -453,9 +453,64 @@
       "elo_after": 1627.6278,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1627.6278,
+      "elo_after": 1639.9462,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1639.9462,
+      "elo_after": 1654.3306,
+      "opp_elo": 1553.823,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1654.3306,
+      "elo_after": 1649.0457,
+      "opp_elo": 1555.0757,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1649.0457,
+      "elo_after": 1622.3606,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1622.3606,
+      "elo_after": 1596.9328,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 25,
-  "losses": 12,
-  "draws": 4
+  "wins": 27,
+  "losses": 14,
+  "draws": 5
 }

@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1497.81,
+  "elo": 1502.4,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -506,9 +506,64 @@
       "elo_after": 1497.8071,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1497.8071,
+      "elo_after": 1478.927,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1478.927,
+      "elo_after": 1499.078,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.078,
+      "elo_after": 1480.4996,
+      "opp_elo": 1506.7889,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1480.4996,
+      "elo_after": 1482.4456,
+      "opp_elo": 1516.2105,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.4456,
+      "elo_after": 1502.4048,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 21,
-  "draws": 3
+  "wins": 22,
+  "losses": 23,
+  "draws": 4
 }

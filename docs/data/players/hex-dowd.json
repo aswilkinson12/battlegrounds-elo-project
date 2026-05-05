@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1457.32,
+  "elo": 1534.52,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -561,9 +561,119 @@
       "elo_after": 1457.3173,
       "opp_elo": 1576.1955,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.3173,
+      "elo_after": 1478.6398,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1478.6398,
+      "elo_after": 1460.8064,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1460.8064,
+      "elo_after": 1484.0346,
+      "opp_elo": 1539.4386,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.0346,
+      "elo_after": 1465.9071,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1465.9071,
+      "elo_after": 1487.2126,
+      "opp_elo": 1508.2745,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1487.2126,
+      "elo_after": 1467.9219,
+      "opp_elo": 1481.8968,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1467.9219,
+      "elo_after": 1488.6712,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1488.6712,
+      "elo_after": 1507.7727,
+      "opp_elo": 1490.5276,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.7727,
+      "elo_after": 1527.0929,
+      "opp_elo": 1513.6292,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1527.0929,
+      "elo_after": 1534.5193,
+      "opp_elo": 1670.5209,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 29,
-  "draws": 0
+  "wins": 26,
+  "losses": 32,
+  "draws": 1
 }

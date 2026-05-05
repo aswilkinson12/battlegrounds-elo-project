@@ -1,7 +1,7 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1560.7,
+  "elo": 1572.23,
   "matches": [
     {
       "week": "26-4-03",
@@ -112,9 +112,64 @@
       "elo_after": 1560.7024,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.7024,
+      "elo_after": 1576.4162,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1576.4162,
+      "elo_after": 1600.6682,
+      "opp_elo": 1675.0207,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.6682,
+      "elo_after": 1614.3121,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1614.3121,
+      "elo_after": 1596.3676,
+      "opp_elo": 1633.633,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1596.3676,
+      "elo_after": 1572.2287,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 6,
-  "losses": 2,
+  "wins": 9,
+  "losses": 4,
   "draws": 2
 }

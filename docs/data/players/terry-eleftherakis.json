@@ -1,7 +1,7 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1395.76,
+  "elo": 1440.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -221,9 +221,64 @@
       "elo_after": 1395.7586,
       "opp_elo": 1481.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Taylor Pratt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1395.7586,
+      "elo_after": 1382.5908,
+      "opp_elo": 1505.9593,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1382.5908,
+      "elo_after": 1407.5625,
+      "opp_elo": 1495.6148,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1407.5625,
+      "elo_after": 1431.5016,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1431.5016,
+      "elo_after": 1416.1997,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1416.1997,
+      "elo_after": 1440.9362,
+      "opp_elo": 1524.4717,
+      "is_bye": false
     }
   ],
-  "wins": 6,
-  "losses": 13,
+  "wins": 9,
+  "losses": 15,
   "draws": 0
 }

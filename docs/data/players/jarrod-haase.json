@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1447.58,
+  "elo": 1397.75,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -428,9 +428,64 @@
       "elo_after": 1447.5818,
       "opp_elo": 1493.8643,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1447.5818,
+      "elo_after": 1431.4268,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1431.4268,
+      "elo_after": 1416.807,
+      "opp_elo": 1512.9907,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1416.807,
+      "elo_after": 1400.943,
+      "opp_elo": 1474.6809,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Michael Whalen",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1400.943,
+      "elo_after": 1406.2179,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1406.2179,
+      "elo_after": 1397.7541,
+      "opp_elo": 1623.3343,
+      "is_bye": false
     }
   ],
   "wins": 12,
-  "losses": 22,
-  "draws": 2
+  "losses": 26,
+  "draws": 3
 }

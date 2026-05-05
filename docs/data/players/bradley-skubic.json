@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1617.73,
+  "elo": 1663.09,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -178,9 +178,119 @@
       "elo_after": 1617.7305,
       "opp_elo": 1604.3753,
       "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1617.7305,
+      "elo_after": 1614.082,
+      "opp_elo": 1550.1745,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1614.082,
+      "elo_after": 1620.9946,
+      "opp_elo": 1352.9059,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1620.9946,
+      "elo_after": 1633.633,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 4,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1633.633,
+      "elo_after": 1651.5775,
+      "opp_elo": 1614.3121,
+      "is_bye": false
+    },
+    {
+      "week": "26-4-24",
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1651.5775,
+      "elo_after": 1666.5843,
+      "opp_elo": 1577.4534,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Pan Rasking",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1666.5843,
+      "elo_after": 1677.3977,
+      "opp_elo": 1506.4282,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1677.3977,
+      "elo_after": 1687.46,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1687.46,
+      "elo_after": 1659.6516,
+      "opp_elo": 1513.087,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1659.6516,
+      "elo_after": 1670.5209,
+      "opp_elo": 1500.748,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1670.5209,
+      "elo_after": 1663.0945,
+      "opp_elo": 1527.0929,
+      "is_bye": false
     }
   ],
-  "wins": 10,
-  "losses": 2,
-  "draws": 4
+  "wins": 17,
+  "losses": 3,
+  "draws": 6
 }

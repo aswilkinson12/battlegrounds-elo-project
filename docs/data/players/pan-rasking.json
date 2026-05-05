@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1506.43,
+  "elo": 1472.21,
   "matches": [
     {
       "week": "26-2-13",
@@ -266,9 +266,53 @@
       "elo_after": 1506.4282,
       "opp_elo": 1587.9546,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1506.4282,
+      "elo_after": 1495.6148,
+      "opp_elo": 1666.5843,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1495.6148,
+      "elo_after": 1470.6431,
+      "opp_elo": 1382.5908,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Michael Whalen",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.6431,
+      "elo_after": 1491.2447,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1491.2447,
+      "elo_after": 1472.2064,
+      "opp_elo": 1490.5449,
+      "is_bye": false
     }
   ],
-  "wins": 10,
-  "losses": 11,
+  "wins": 11,
+  "losses": 14,
   "draws": 3
 }

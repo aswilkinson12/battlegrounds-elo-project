@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1481.9,
+  "elo": 1471.96,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -540,9 +540,64 @@
       "elo_after": 1481.8968,
       "opp_elo": 1538.533,
       "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1481.8968,
+      "elo_after": 1501.1875,
+      "opp_elo": 1487.2126,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 2,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.1875,
+      "elo_after": 1520.8889,
+      "opp_elo": 1514.02,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.8889,
+      "elo_after": 1500.748,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.748,
+      "elo_after": 1489.8787,
+      "opp_elo": 1659.6516,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-01",
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.8787,
+      "elo_after": 1471.9551,
+      "opp_elo": 1509.5832,
+      "is_bye": false
     }
   ],
-  "wins": 22,
-  "losses": 25,
+  "wins": 24,
+  "losses": 28,
   "draws": 1
 }
