@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1562.45,
+  "elo": 1557.71,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -447,10 +447,10 @@
       "week": "26-4-24",
       "round": 3,
       "opponent": "Amy Altman",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1555.0757,
-      "elo_after": 1560.3606,
+      "elo_after": 1555.0757,
       "opp_elo": 1654.3306,
       "is_bye": false
     },
@@ -460,8 +460,8 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1560.3606,
-      "elo_after": 1577.4534,
+      "elo_before": 1555.0757,
+      "elo_after": 1572.455,
       "opp_elo": 1525.3673,
       "is_bye": false
     },
@@ -471,8 +471,8 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1577.4534,
-      "elo_after": 1562.4466,
+      "elo_before": 1572.455,
+      "elo_after": 1557.7086,
       "opp_elo": 1651.5775,
       "is_bye": false
     }

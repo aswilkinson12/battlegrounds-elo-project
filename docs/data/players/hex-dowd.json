@@ -1,7 +1,7 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1534.52,
+  "elo": 1527.07,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -613,8 +613,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1465.9071,
-      "elo_after": 1487.2126,
-      "opp_elo": 1508.2745,
+      "elo_after": 1487.1971,
+      "opp_elo": 1507.988,
       "is_bye": false
     },
     {
@@ -623,8 +623,8 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1487.2126,
-      "elo_after": 1467.9219,
+      "elo_before": 1487.1971,
+      "elo_after": 1467.9073,
       "opp_elo": 1481.8968,
       "is_bye": false
     },
@@ -634,8 +634,8 @@
       "opponent": "Chris Hirt",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1467.9219,
-      "elo_after": 1488.6712,
+      "elo_before": 1467.9073,
+      "elo_after": 1488.6574,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -645,9 +645,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1488.6712,
-      "elo_after": 1507.7727,
-      "opp_elo": 1490.5276,
+      "elo_before": 1488.6574,
+      "elo_after": 1507.7463,
+      "opp_elo": 1490.2847,
       "is_bye": false
     },
     {
@@ -656,20 +656,20 @@
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1507.7727,
-      "elo_after": 1527.0929,
-      "opp_elo": 1513.6292,
+      "elo_before": 1507.7463,
+      "elo_after": 1527.068,
+      "opp_elo": 1513.6291,
       "is_bye": false
     },
     {
       "week": "26-5-01",
       "round": 5,
       "opponent": "Bradley Skubic",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1527.0929,
-      "elo_after": 1534.5193,
-      "opp_elo": 1670.5209,
+      "elo_before": 1527.068,
+      "elo_after": 1527.068,
+      "opp_elo": 1670.3031,
       "is_bye": false
     }
   ],

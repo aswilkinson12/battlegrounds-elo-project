@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1518.5,
+  "elo": 1518.29,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -415,8 +415,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1525.3673,
-      "elo_after": 1508.2745,
-      "opp_elo": 1560.3606,
+      "elo_after": 1507.988,
+      "opp_elo": 1555.0757,
       "is_bye": false
     },
     {
@@ -425,8 +425,8 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1508.2745,
-      "elo_after": 1486.969,
+      "elo_before": 1507.988,
+      "elo_after": 1486.6979,
       "opp_elo": 1465.9071,
       "is_bye": false
     },
@@ -436,8 +436,8 @@
       "opponent": "Anthony Wilkinson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1486.969,
-      "elo_after": 1510.0786,
+      "elo_before": 1486.6979,
+      "elo_after": 1509.8216,
       "opp_elo": 1563.3234,
       "is_bye": false
     },
@@ -447,8 +447,8 @@
       "opponent": "Jonathon Torchia",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1510.0786,
-      "elo_after": 1490.5276,
+      "elo_before": 1509.8216,
+      "elo_after": 1490.2847,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -458,9 +458,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1490.5276,
-      "elo_after": 1471.4261,
-      "opp_elo": 1488.6712,
+      "elo_before": 1490.2847,
+      "elo_after": 1471.1957,
+      "opp_elo": 1488.6574,
       "is_bye": false
     },
     {
@@ -469,9 +469,9 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1471.4261,
-      "elo_after": 1499.4723,
-      "opp_elo": 1651.3805,
+      "elo_before": 1471.1957,
+      "elo_after": 1499.2516,
+      "opp_elo": 1651.3799,
       "is_bye": false
     },
     {
@@ -480,8 +480,8 @@
       "opponent": "Ken Cox",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1499.4723,
-      "elo_after": 1518.5011,
+      "elo_before": 1499.2516,
+      "elo_after": 1518.2925,
       "opp_elo": 1500.0,
       "is_bye": false
     }

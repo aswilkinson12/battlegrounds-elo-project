@@ -417,8 +417,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1394.9375,
-      "elo_after": 1419.2283,
-      "opp_elo": 1494.3089,
+      "elo_after": 1419.2282,
+      "opp_elo": 1494.3075,
       "is_bye": false
     }
   ],

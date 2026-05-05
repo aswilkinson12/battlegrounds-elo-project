@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1596.93,
+  "elo": 1601.73,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -480,10 +480,10 @@
       "week": "26-4-24",
       "round": 3,
       "opponent": "Becca Blackwood",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1654.3306,
-      "elo_after": 1649.0457,
+      "elo_after": 1654.3306,
       "opp_elo": 1555.0757,
       "is_bye": false
     },
@@ -493,8 +493,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1649.0457,
-      "elo_after": 1622.3606,
+      "elo_before": 1654.3306,
+      "elo_after": 1627.4053,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -504,8 +504,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1622.3606,
-      "elo_after": 1596.9328,
+      "elo_before": 1627.4053,
+      "elo_after": 1601.7343,
       "opp_elo": 1500.0,
       "is_bye": false
     }

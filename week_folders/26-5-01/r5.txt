@@ -5,7 +5,7 @@ Table  Player                       Opponent                     Points
        Michael Whalen               ***Bye***                    7       
 1      Taylor Pratt                 Sean Marks                   13-13   
 2      Winston Wong                 Jonathon Torchia             10-10   
-3      Bradley Skubic               Hex Dowd                     10-10   
+3      Bradley Skubic               Hex Dowd                     10-10 ID   
 4      Nathan Cormier               Dani Masom                   10-6    
 5      Mike Adams                   Terry Eleftherakis           7-9     
 6      Phil iwanow                  John Larochelle             9-6     

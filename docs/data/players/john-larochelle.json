@@ -186,7 +186,7 @@
       "score": 0.0,
       "elo_before": 1514.02,
       "elo_after": 1494.3185,
-      "opp_elo": 1501.1875,
+      "opp_elo": 1501.1867,
       "is_bye": false
     },
     {
@@ -196,7 +196,7 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1494.3185,
-      "elo_after": 1513.6292,
+      "elo_after": 1513.6291,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -206,9 +206,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1513.6292,
-      "elo_after": 1494.3089,
-      "opp_elo": 1507.7727,
+      "elo_before": 1513.6291,
+      "elo_after": 1494.3075,
+      "opp_elo": 1507.7463,
       "is_bye": false
     },
     {
@@ -217,8 +217,8 @@
       "opponent": "Phil Iwanow",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1494.3089,
-      "elo_after": 1470.0182,
+      "elo_before": 1494.3075,
+      "elo_after": 1470.0168,
       "opp_elo": 1394.9375,
       "is_bye": false
     }

@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1631.8,
+  "elo": 1631.79,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -538,8 +538,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1676.6769,
-      "elo_after": 1651.3805,
-      "opp_elo": 1557.0244,
+      "elo_after": 1651.3799,
+      "opp_elo": 1557.011,
       "is_bye": false
     },
     {
@@ -548,9 +548,9 @@
       "opponent": "Mike Laing",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1651.3805,
-      "elo_after": 1623.3343,
-      "opp_elo": 1471.4261,
+      "elo_before": 1651.3799,
+      "elo_after": 1623.3239,
+      "opp_elo": 1471.1957,
       "is_bye": false
     },
     {
@@ -559,8 +559,8 @@
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1623.3343,
-      "elo_after": 1631.7981,
+      "elo_before": 1623.3239,
+      "elo_after": 1631.7881,
       "opp_elo": 1406.2179,
       "is_bye": false
     }

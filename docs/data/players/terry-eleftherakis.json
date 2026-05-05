@@ -240,8 +240,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1382.5908,
-      "elo_after": 1407.5625,
-      "opp_elo": 1495.6148,
+      "elo_after": 1407.5619,
+      "opp_elo": 1495.6032,
       "is_bye": false
     },
     {
@@ -250,8 +250,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1407.5625,
-      "elo_after": 1431.5016,
+      "elo_before": 1407.5619,
+      "elo_after": 1431.501,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -261,8 +261,8 @@
       "opponent": "Jonathon Torchia",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1431.5016,
-      "elo_after": 1416.1997,
+      "elo_before": 1431.501,
+      "elo_after": 1416.1992,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -272,9 +272,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1416.1997,
-      "elo_after": 1440.9362,
-      "opp_elo": 1524.4717,
+      "elo_before": 1416.1992,
+      "elo_after": 1440.9357,
+      "opp_elo": 1524.471,
       "is_bye": false
     }
   ],

@@ -1,7 +1,7 @@
 [
   {
     "player": "Bradley Skubic",
-    "elo": 1663.09,
+    "elo": 1670.3,
     "matches": 26,
     "wins": 17,
     "losses": 3,
@@ -25,7 +25,7 @@
   },
   {
     "player": "Nathan Choi",
-    "elo": 1631.8,
+    "elo": 1631.79,
     "matches": 51,
     "wins": 34,
     "losses": 14,
@@ -49,7 +49,7 @@
   },
   {
     "player": "Amy Altman",
-    "elo": 1596.93,
+    "elo": 1601.73,
     "matches": 46,
     "wins": 27,
     "losses": 14,
@@ -89,7 +89,7 @@
   },
   {
     "player": "Anthony Wilkinson",
-    "elo": 1566.86,
+    "elo": 1566.85,
     "matches": 56,
     "wins": 37,
     "losses": 17,
@@ -105,7 +105,7 @@
   },
   {
     "player": "Becca Blackwood",
-    "elo": 1562.45,
+    "elo": 1557.71,
     "matches": 43,
     "wins": 24,
     "losses": 16,
@@ -136,14 +136,6 @@
     "draws": 0
   },
   {
-    "player": "Hex Dowd",
-    "elo": 1534.52,
-    "matches": 59,
-    "wins": 26,
-    "losses": 32,
-    "draws": 1
-  },
-  {
     "player": "Nathan Cormier",
     "elo": 1527.51,
     "matches": 37,
@@ -152,8 +144,16 @@
     "draws": 2
   },
   {
+    "player": "Hex Dowd",
+    "elo": 1527.07,
+    "matches": 59,
+    "wins": 26,
+    "losses": 32,
+    "draws": 1
+  },
+  {
     "player": "Winston Wong",
-    "elo": 1521.36,
+    "elo": 1521.35,
     "matches": 16,
     "wins": 7,
     "losses": 7,
@@ -169,7 +169,7 @@
   },
   {
     "player": "Mike Laing",
-    "elo": 1518.5,
+    "elo": 1518.29,
     "matches": 42,
     "wins": 21,
     "losses": 20,
@@ -241,7 +241,7 @@
   },
   {
     "player": "Mike Adams",
-    "elo": 1499.74,
+    "elo": 1499.73,
     "matches": 49,
     "wins": 22,
     "losses": 21,
@@ -281,7 +281,7 @@
   },
   {
     "player": "Pan Rasking",
-    "elo": 1472.21,
+    "elo": 1472.2,
     "matches": 28,
     "wins": 11,
     "losses": 14,
@@ -289,7 +289,7 @@
   },
   {
     "player": "Dani Masom",
-    "elo": 1471.96,
+    "elo": 1471.94,
     "matches": 53,
     "wins": 24,
     "losses": 28,

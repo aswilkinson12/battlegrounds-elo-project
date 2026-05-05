@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1663.09,
+  "elo": 1670.3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -230,8 +230,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1651.5775,
-      "elo_after": 1666.5843,
-      "opp_elo": 1577.4534,
+      "elo_after": 1666.3238,
+      "opp_elo": 1572.455,
       "is_bye": false
     },
     {
@@ -240,8 +240,8 @@
       "opponent": "Pan Rasking",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1666.5843,
-      "elo_after": 1677.3977,
+      "elo_before": 1666.3238,
+      "elo_after": 1677.1489,
       "opp_elo": 1506.4282,
       "is_bye": false
     },
@@ -251,8 +251,8 @@
       "opponent": "Evan Hamlin",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1677.3977,
-      "elo_after": 1687.46,
+      "elo_before": 1677.1489,
+      "elo_after": 1687.2217,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -262,8 +262,8 @@
       "opponent": "Winston Wong",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1687.46,
-      "elo_after": 1659.6516,
+      "elo_before": 1687.2217,
+      "elo_after": 1659.4236,
       "opp_elo": 1513.087,
       "is_bye": false
     },
@@ -273,20 +273,20 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1659.6516,
-      "elo_after": 1670.5209,
-      "opp_elo": 1500.748,
+      "elo_before": 1659.4236,
+      "elo_after": 1670.3031,
+      "opp_elo": 1500.7472,
       "is_bye": false
     },
     {
       "week": "26-5-01",
       "round": 5,
       "opponent": "Hex Dowd",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
-      "elo_before": 1670.5209,
-      "elo_after": 1663.0945,
-      "opp_elo": 1527.0929,
+      "elo_before": 1670.3031,
+      "elo_after": 1670.3031,
+      "opp_elo": 1527.068,
       "is_bye": false
     }
   ],

@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1566.86,
+  "elo": 1566.85,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -571,8 +571,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1563.3234,
-      "elo_after": 1540.2138,
-      "opp_elo": 1486.969,
+      "elo_after": 1540.1996,
+      "opp_elo": 1486.6979,
       "is_bye": false
     },
     {
@@ -581,8 +581,8 @@
       "opponent": "Michael Whalen",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1540.2138,
-      "elo_after": 1557.0244,
+      "elo_before": 1540.1996,
+      "elo_after": 1557.011,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -592,8 +592,8 @@
       "opponent": "Nathan Choi",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1557.0244,
-      "elo_after": 1582.3208,
+      "elo_before": 1557.011,
+      "elo_after": 1582.3081,
       "opp_elo": 1676.6769,
       "is_bye": false
     },
@@ -603,8 +603,8 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1582.3208,
-      "elo_after": 1558.9588,
+      "elo_before": 1582.3081,
+      "elo_after": 1558.9467,
       "opp_elo": 1501.1097,
       "is_bye": false
     },
@@ -614,8 +614,8 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1558.9588,
-      "elo_after": 1566.8599,
+      "elo_before": 1558.9467,
+      "elo_after": 1566.8483,
       "opp_elo": 1326.6137,
       "is_bye": false
     }

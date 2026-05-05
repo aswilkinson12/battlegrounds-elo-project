@@ -98,8 +98,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1553.6609,
-      "elo_after": 1571.9631,
-      "opp_elo": 1540.8954,
+      "elo_after": 1571.9625,
+      "opp_elo": 1540.8851,
       "is_bye": false
     },
     {
@@ -108,8 +108,8 @@
       "opponent": "Sean Marks",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1571.9631,
-      "elo_after": 1568.083,
+      "elo_before": 1571.9625,
+      "elo_after": 1568.0825,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -2,7 +2,7 @@ Round 3
 
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
-1      Amy Altman                   Becca Blackwood              7-7     
+1      Amy Altman                   Becca Blackwood              7-7 ID    
 2      Autumn Rossa                 Devon O’Donnell              9-6     
 3      Will Bellows                 Bradley Skubic               6-7     
 4      Jason Flynn                  Philip Petronis              3-6     

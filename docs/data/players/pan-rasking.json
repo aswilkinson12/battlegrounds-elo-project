@@ -1,7 +1,7 @@
 {
   "player": "Pan Rasking",
   "slug": "pan-rasking",
-  "elo": 1472.21,
+  "elo": 1472.2,
   "matches": [
     {
       "week": "26-2-13",
@@ -274,8 +274,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1506.4282,
-      "elo_after": 1495.6148,
-      "opp_elo": 1666.5843,
+      "elo_after": 1495.6032,
+      "opp_elo": 1666.3238,
       "is_bye": false
     },
     {
@@ -284,8 +284,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1495.6148,
-      "elo_after": 1470.6431,
+      "elo_before": 1495.6032,
+      "elo_after": 1470.632,
       "opp_elo": 1382.5908,
       "is_bye": false
     },
@@ -295,8 +295,8 @@
       "opponent": "Michael Whalen",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.6431,
-      "elo_after": 1491.2447,
+      "elo_before": 1470.632,
+      "elo_after": 1491.2342,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -306,8 +306,8 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.2447,
-      "elo_after": 1472.2064,
+      "elo_before": 1491.2342,
+      "elo_after": 1472.1965,
       "opp_elo": 1490.5449,
       "is_bye": false
     }

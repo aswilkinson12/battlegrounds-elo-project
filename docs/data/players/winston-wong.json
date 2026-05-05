@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1521.36,
+  "elo": 1521.35,
   "matches": [
     {
       "week": "26-4-03",
@@ -153,8 +153,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1513.087,
-      "elo_after": 1540.8954,
-      "opp_elo": 1687.46,
+      "elo_after": 1540.8851,
+      "opp_elo": 1687.2217,
       "is_bye": false
     },
     {
@@ -163,8 +163,8 @@
       "opponent": "Taylor Pratt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1540.8954,
-      "elo_after": 1522.5931,
+      "elo_before": 1540.8851,
+      "elo_after": 1522.5835,
       "opp_elo": 1553.6609,
       "is_bye": false
     },
@@ -174,8 +174,8 @@
       "opponent": "Jonathon Torchia",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1522.5931,
-      "elo_after": 1521.3593,
+      "elo_before": 1522.5835,
+      "elo_after": 1521.3502,
       "opp_elo": 1500.0,
       "is_bye": false
     }

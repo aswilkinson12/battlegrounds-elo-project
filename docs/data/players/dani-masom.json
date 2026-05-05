@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1471.96,
+  "elo": 1471.94,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -548,8 +548,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.8968,
-      "elo_after": 1501.1875,
-      "opp_elo": 1487.2126,
+      "elo_after": 1501.1867,
+      "opp_elo": 1487.1971,
       "is_bye": false
     },
     {
@@ -558,8 +558,8 @@
       "opponent": "John Larochelle",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.1875,
-      "elo_after": 1520.8889,
+      "elo_before": 1501.1867,
+      "elo_after": 1520.8881,
       "opp_elo": 1514.02,
       "is_bye": false
     },
@@ -569,8 +569,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.8889,
-      "elo_after": 1500.748,
+      "elo_before": 1520.8881,
+      "elo_after": 1500.7472,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -580,9 +580,9 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1500.748,
-      "elo_after": 1489.8787,
-      "opp_elo": 1659.6516,
+      "elo_before": 1500.7472,
+      "elo_after": 1489.8678,
+      "opp_elo": 1659.4236,
       "is_bye": false
     },
     {
@@ -591,9 +591,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1489.8787,
-      "elo_after": 1471.9551,
-      "opp_elo": 1509.5832,
+      "elo_before": 1489.8678,
+      "elo_after": 1471.9447,
+      "opp_elo": 1509.5826,
       "is_bye": false
     }
   ],
