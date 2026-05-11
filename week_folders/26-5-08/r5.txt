@@ -2,9 +2,9 @@ Round 5
 
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
-1      Ran Guo                      Chris Hirt                   13-13   
-2      Anthony Wilkinson            Mike Adams                   10-10   
-3      Amy Altman                   Isharah Considine           10-10   
+1      Ran Guo                      Chris Hirt                   13-13   ID
+2      Anthony Wilkinson            Mike Adams                   10-10   ID
+3      Amy Altman                   Isharah Considine           10-10   ID
 4      Devon O’Donnell              Nathan Cormier               12-6    
 5      Sean Marks                   robert scannevin            9-6     
 6      Mike Laing                   Bradley Skubic               6-9     

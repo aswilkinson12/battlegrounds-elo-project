@@ -8,6 +8,14 @@
     "draws": 6
   },
   {
+    "player": "Ran Guo",
+    "elo": 1645.71,
+    "matches": 16,
+    "wins": 12,
+    "losses": 3,
+    "draws": 1
+  },
+  {
     "player": "David Van Hise",
     "elo": 1645.0,
     "matches": 39,
@@ -24,16 +32,8 @@
     "draws": 1
   },
   {
-    "player": "Ran Guo",
-    "elo": 1638.17,
-    "matches": 16,
-    "wins": 12,
-    "losses": 3,
-    "draws": 1
-  },
-  {
     "player": "Amy Altman",
-    "elo": 1626.06,
+    "elo": 1630.96,
     "matches": 51,
     "wins": 30,
     "losses": 15,
@@ -57,7 +57,7 @@
   },
   {
     "player": "Anthony Wilkinson",
-    "elo": 1597.07,
+    "elo": 1600.05,
     "matches": 61,
     "wins": 40,
     "losses": 18,
@@ -112,14 +112,6 @@
     "draws": 0
   },
   {
-    "player": "Mike Adams",
-    "elo": 1548.16,
-    "matches": 54,
-    "wins": 25,
-    "losses": 22,
-    "draws": 7
-  },
-  {
     "player": "Becca Blackwood",
     "elo": 1545.26,
     "matches": 48,
@@ -128,12 +120,12 @@
     "draws": 4
   },
   {
-    "player": "Isharah Considine",
-    "elo": 1544.16,
-    "matches": 25,
-    "wins": 13,
-    "losses": 11,
-    "draws": 1
+    "player": "Mike Adams",
+    "elo": 1545.18,
+    "matches": 54,
+    "wins": 25,
+    "losses": 22,
+    "draws": 7
   },
   {
     "player": "Jeffrey Silver",
@@ -142,6 +134,14 @@
     "wins": 6,
     "losses": 4,
     "draws": 0
+  },
+  {
+    "player": "Isharah Considine",
+    "elo": 1539.26,
+    "matches": 25,
+    "wins": 13,
+    "losses": 11,
+    "draws": 1
   },
   {
     "player": "Hex Dowd",

@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1548.16,
+  "elo": 1545.18,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -600,10 +600,10 @@
       "week": "26-5-08",
       "round": 5,
       "opponent": "Anthony Wilkinson",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1545.1826,
-      "elo_after": 1548.1584,
+      "elo_after": 1545.1826,
       "opp_elo": 1600.0501,
       "is_bye": false
     }

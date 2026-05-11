@@ -24,7 +24,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Amy Altman,1617.46,37,25,12,0,-9.91
 26-4-24,Amy Altman,1597.12,41,27,14,0,-20.34
 26-5-01,Amy Altman,1597.12,41,27,14,0,0.0
-26-5-08,Amy Altman,1617.97,46,30,15,1,20.85
+26-5-08,Amy Altman,1621.95,45,30,15,0,24.83
 25-12-6_brainstormin_charity_tournament,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-13,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-20,Andy Perez,1500.0,0,0,0,0,0.0
@@ -50,7 +50,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Anthony Wilkinson,1571.24,50,34,15,1,-69.65
 26-4-24,Anthony Wilkinson,1571.24,50,34,15,1,0.0
 26-5-01,Anthony Wilkinson,1572.73,55,37,17,1,1.49
-26-5-08,Anthony Wilkinson,1596.99,60,40,18,2,24.26
+26-5-08,Anthony Wilkinson,1599.77,59,40,18,1,27.04
 25-12-6_brainstormin_charity_tournament,Austin Wolf,1499.16,6,3,3,0,0.0
 26-2-13,Austin Wolf,1499.16,6,3,3,0,0.0
 26-2-20,Austin Wolf,1499.16,6,3,3,0,0.0
@@ -245,7 +245,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Isharah Considine,1497.79,20,10,10,0,-33.71
 26-4-24,Isharah Considine,1497.79,20,10,10,0,0.0
 26-5-01,Isharah Considine,1497.79,20,10,10,0,0.0
-26-5-08,Isharah Considine,1537.69,25,13,11,1,39.9
+26-5-08,Isharah Considine,1533.71,24,13,11,0,35.92
 25-12-6_brainstormin_charity_tournament,Jack Henry,1499.87,6,3,3,0,0.0
 26-2-13,Jack Henry,1454.09,11,4,7,0,-45.78
 26-2-20,Jack Henry,1454.09,11,4,7,0,0.0
@@ -414,7 +414,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Mike Adams,1542.72,38,20,17,1,22.4
 26-4-24,Mike Adams,1512.41,42,20,19,3,-30.31
 26-5-01,Mike Adams,1501.44,47,22,21,4,-10.96
-26-5-08,Mike Adams,1541.6,52,25,22,5,40.16
+26-5-08,Mike Adams,1538.82,51,25,22,4,37.38
 25-12-6_brainstormin_charity_tournament,Mike Laing,1530.69,6,4,2,0,0.0
 26-2-13,Mike Laing,1558.87,10,7,3,0,28.18
 26-2-20,Mike Laing,1558.87,10,7,3,0,0.0
@@ -518,7 +518,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Ran Guo,1573.87,11,8,3,0,0.0
 26-4-24,Ran Guo,1573.87,11,8,3,0,0.0
 26-5-01,Ran Guo,1573.87,11,8,3,0,0.0
-26-5-08,Ran Guo,1620.18,16,12,3,1,46.31
+26-5-08,Ran Guo,1625.73,15,12,3,0,51.86
 25-12-6_brainstormin_charity_tournament,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-13,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-20,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
