@@ -1,7 +1,7 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1318.71,
+  "elo": 1302.05,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -537,9 +537,64 @@
       "elo_after": 1318.7121,
       "opp_elo": 1558.9467,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1318.7121,
+      "elo_after": 1314.277,
+      "opp_elo": 1670.3031,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Joel Brook",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1314.277,
+      "elo_after": 1343.4014,
+      "opp_elo": 1520.7015,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "robert scannevin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1343.4014,
+      "elo_after": 1332.4289,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1332.4289,
+      "elo_after": 1317.841,
+      "opp_elo": 1414.609,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1317.841,
+      "elo_after": 1302.0516,
+      "opp_elo": 1377.1187,
+      "is_bye": false
     }
   ],
-  "wins": 12,
-  "losses": 32,
+  "wins": 13,
+  "losses": 36,
   "draws": 1
 }

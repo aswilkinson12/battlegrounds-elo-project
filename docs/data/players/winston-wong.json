@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1521.35,
+  "elo": 1498.0,
   "matches": [
     {
       "week": "26-4-03",
@@ -178,9 +178,64 @@
       "elo_after": 1521.3502,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.3502,
+      "elo_after": 1501.1841,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.1841,
+      "elo_after": 1514.0174,
+      "opp_elo": 1384.1892,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1514.0174,
+      "elo_after": 1501.9502,
+      "opp_elo": 1646.9142,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.9502,
+      "elo_after": 1482.8435,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.8435,
+      "elo_after": 1498.0019,
+      "opp_elo": 1411.6139,
+      "is_bye": false
     }
   ],
-  "wins": 7,
-  "losses": 7,
+  "wins": 9,
+  "losses": 10,
   "draws": 2
 }

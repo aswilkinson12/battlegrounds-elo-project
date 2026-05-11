@@ -1,7 +1,7 @@
 {
   "player": "Joel Brook",
   "slug": "joel-brook",
-  "elo": 1537.02,
+  "elo": 1491.58,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -68,9 +68,31 @@
       "elo_after": 1537.0217,
       "opp_elo": 1519.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1537.0217,
+      "elo_after": 1520.7015,
+      "opp_elo": 1586.3542,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.7015,
+      "elo_after": 1491.5771,
+      "opp_elo": 1314.277,
+      "is_bye": false
     }
   ],
   "wins": 4,
-  "losses": 2,
+  "losses": 4,
   "draws": 0
 }

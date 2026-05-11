@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1499.73,
+  "elo": 1548.16,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -551,9 +551,64 @@
       "elo_after": 1499.7345,
       "opp_elo": 1416.1992,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.7345,
+      "elo_after": 1524.3039,
+      "opp_elo": 1604.6541,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1524.3039,
+      "elo_after": 1540.211,
+      "opp_elo": 1467.2393,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1540.211,
+      "elo_after": 1525.3025,
+      "opp_elo": 1616.2175,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1525.3025,
+      "elo_after": 1545.1826,
+      "opp_elo": 1541.4078,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1545.1826,
+      "elo_after": 1548.1584,
+      "opp_elo": 1600.0501,
+      "is_bye": false
     }
   ],
-  "wins": 22,
-  "losses": 21,
-  "draws": 6
+  "wins": 25,
+  "losses": 22,
+  "draws": 7
 }

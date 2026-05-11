@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1670.3,
+  "elo": 1650.17,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -288,9 +288,64 @@
       "elo_after": 1670.3031,
       "opp_elo": 1527.068,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1670.3031,
+      "elo_after": 1674.7382,
+      "opp_elo": 1318.7121,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1674.7382,
+      "elo_after": 1646.9142,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1646.9142,
+      "elo_after": 1658.9814,
+      "opp_elo": 1514.0174,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1658.9814,
+      "elo_after": 1637.2805,
+      "opp_elo": 1609.2566,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1637.2805,
+      "elo_after": 1650.1747,
+      "opp_elo": 1521.5277,
+      "is_bye": false
     }
   ],
-  "wins": 17,
-  "losses": 3,
+  "wins": 20,
+  "losses": 5,
   "draws": 6
 }

@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1419.23,
+  "elo": 1435.63,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -420,9 +420,64 @@
       "elo_after": 1419.2282,
       "opp_elo": 1494.3075,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1419.2282,
+      "elo_after": 1410.5906,
+      "opp_elo": 1631.7881,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1410.5906,
+      "elo_after": 1397.0094,
+      "opp_elo": 1512.5043,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1397.0094,
+      "elo_after": 1414.609,
+      "opp_elo": 1371.3559,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1414.609,
+      "elo_after": 1429.1969,
+      "opp_elo": 1332.4289,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1429.1969,
+      "elo_after": 1435.6313,
+      "opp_elo": 1551.6933,
+      "is_bye": false
     }
   ],
-  "wins": 11,
-  "losses": 24,
-  "draws": 3
+  "wins": 13,
+  "losses": 26,
+  "draws": 4
 }

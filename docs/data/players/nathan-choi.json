@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1631.79,
+  "elo": 1570.46,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -563,9 +563,53 @@
       "elo_after": 1631.7881,
       "opp_elo": 1406.2179,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1631.7881,
+      "elo_after": 1640.4257,
+      "opp_elo": 1419.2282,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1640.4257,
+      "elo_after": 1618.3247,
+      "opp_elo": 1583.2101,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1618.3247,
+      "elo_after": 1592.8987,
+      "opp_elo": 1496.0016,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1592.8987,
+      "elo_after": 1570.4564,
+      "opp_elo": 1529.251,
+      "is_bye": false
     }
   ],
-  "wins": 34,
-  "losses": 14,
+  "wins": 35,
+  "losses": 17,
   "draws": 3
 }

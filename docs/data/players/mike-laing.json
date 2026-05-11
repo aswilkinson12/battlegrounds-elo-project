@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1518.29,
+  "elo": 1508.63,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -484,9 +484,64 @@
       "elo_after": 1518.2925,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.2925,
+      "elo_after": 1501.9307,
+      "opp_elo": 1566.8483,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.9307,
+      "elo_after": 1520.8251,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1520.8251,
+      "elo_after": 1541.4078,
+      "opp_elo": 1549.8337,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.4078,
+      "elo_after": 1521.5277,
+      "opp_elo": 1525.3025,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.5277,
+      "elo_after": 1508.6336,
+      "opp_elo": 1637.2805,
+      "is_bye": false
     }
   ],
-  "wins": 21,
-  "losses": 20,
+  "wins": 23,
+  "losses": 23,
   "draws": 1
 }
