@@ -1,7 +1,7 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1645.71,
+  "elo": 1646.58,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -138,12 +138,12 @@
     {
       "week": "26-5-08",
       "round": 2,
-      "opponent": "robert scannevin",
+      "opponent": "Robert Scannevin",
       "result": "W",
       "score": 1.0,
       "elo_before": 1602.6744,
-      "elo_after": 1616.2175,
-      "opp_elo": 1500.0,
+      "elo_after": 1617.185,
+      "opp_elo": 1519.0,
       "is_bye": false
     },
     {
@@ -152,8 +152,8 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1616.2175,
-      "elo_after": 1631.126,
+      "elo_before": 1617.185,
+      "elo_after": 1632.0431,
       "opp_elo": 1540.211,
       "is_bye": false
     },
@@ -163,8 +163,8 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1631.126,
-      "elo_after": 1645.706,
+      "elo_before": 1632.0431,
+      "elo_after": 1646.5757,
       "opp_elo": 1548.794,
       "is_bye": false
     },
@@ -174,8 +174,8 @@
       "opponent": "Chris Hirt",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1645.706,
-      "elo_after": 1645.706,
+      "elo_before": 1646.5757,
+      "elo_after": 1646.5757,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -141,7 +141,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Daniel Hernandez,1375.04,37,11,25,1,-22.01
 26-4-24,Daniel Hernandez,1370.59,41,12,28,1,-4.45
 26-5-01,Daniel Hernandez,1334.02,45,12,32,1,-36.57
-26-5-08,Daniel Hernandez,1317.6,50,13,36,1,-16.41
+26-5-08,Daniel Hernandez,1317.72,50,13,36,1,-16.3
 25-12-6_brainstormin_charity_tournament,David Van Hise,1484.8,5,2,3,0,0.0
 26-2-13,David Van Hise,1536.98,10,6,4,0,52.18
 26-2-20,David Van Hise,1582.07,15,10,5,0,45.09
@@ -245,7 +245,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Isharah Considine,1497.79,20,10,10,0,-33.71
 26-4-24,Isharah Considine,1497.79,20,10,10,0,0.0
 26-5-01,Isharah Considine,1497.79,20,10,10,0,0.0
-26-5-08,Isharah Considine,1533.71,24,13,11,0,35.92
+26-5-08,Isharah Considine,1534.29,24,13,11,0,36.51
 25-12-6_brainstormin_charity_tournament,Jack Henry,1499.87,6,3,3,0,0.0
 26-2-13,Jack Henry,1454.09,11,4,7,0,-45.78
 26-2-20,Jack Henry,1454.09,11,4,7,0,0.0
@@ -284,7 +284,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Jarrod Haase,1446.59,36,12,22,2,-11.27
 26-4-24,Jarrod Haase,1446.59,36,12,22,2,0.0
 26-5-01,Jarrod Haase,1404.01,41,12,26,3,-42.58
-26-5-08,Jarrod Haase,1398.93,46,14,29,3,-5.08
+26-5-08,Jarrod Haase,1398.94,46,14,29,3,-5.07
 25-12-6_brainstormin_charity_tournament,Jeffrey Silver,1500.0,0,0,0,0,0.0
 26-2-13,Jeffrey Silver,1500.0,0,0,0,0,0.0
 26-2-20,Jeffrey Silver,1500.0,0,0,0,0,0.0
@@ -414,7 +414,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Mike Adams,1542.72,38,20,17,1,22.4
 26-4-24,Mike Adams,1512.41,42,20,19,3,-30.31
 26-5-01,Mike Adams,1501.44,47,22,21,4,-10.96
-26-5-08,Mike Adams,1538.82,51,25,22,4,37.38
+26-5-08,Mike Adams,1538.85,51,25,22,4,37.41
 25-12-6_brainstormin_charity_tournament,Mike Laing,1530.69,6,4,2,0,0.0
 26-2-13,Mike Laing,1558.87,10,7,3,0,28.18
 26-2-20,Mike Laing,1558.87,10,7,3,0,0.0
@@ -466,7 +466,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Nathan Cormier,1492.27,32,15,16,1,-16.54
 26-4-24,Nathan Cormier,1492.27,32,15,16,1,0.0
 26-5-01,Nathan Cormier,1522.84,37,18,17,2,30.57
-26-5-08,Nathan Cormier,1510.82,42,20,20,2,-12.01
+26-5-08,Nathan Cormier,1510.85,42,20,20,2,-11.99
 25-12-6_brainstormin_charity_tournament,Pan Rasking,1500.0,0,0,0,0,0.0
 26-2-13,Pan Rasking,1530.03,4,3,1,0,30.03
 26-2-20,Pan Rasking,1530.03,4,3,1,0,0.0
@@ -505,7 +505,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Phil Iwanow,1384.53,33,8,22,3,0.0
 26-4-24,Phil Iwanow,1384.53,33,8,22,3,0.0
 26-5-01,Phil Iwanow,1419.54,38,11,24,3,35.01
-26-5-08,Phil Iwanow,1433.8,43,13,26,4,14.25
+26-5-08,Phil Iwanow,1433.8,43,13,26,4,14.26
 25-12-6_brainstormin_charity_tournament,Ran Guo,1533.98,6,4,2,0,0.0
 26-2-13,Ran Guo,1533.98,6,4,2,0,0.0
 26-2-20,Ran Guo,1533.98,6,4,2,0,0.0
@@ -518,7 +518,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-10,Ran Guo,1573.87,11,8,3,0,0.0
 26-4-24,Ran Guo,1573.87,11,8,3,0,0.0
 26-5-01,Ran Guo,1573.87,11,8,3,0,0.0
-26-5-08,Ran Guo,1625.73,15,12,3,0,51.86
+26-5-08,Ran Guo,1626.37,15,12,3,0,52.5
 25-12-6_brainstormin_charity_tournament,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-13,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-20,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
@@ -545,6 +545,19 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-4-24,Reya Truher,1446.43,40,17,22,1,0.0
 26-5-01,Reya Truher,1446.43,40,17,22,1,0.0
 26-5-08,Reya Truher,1446.43,40,17,22,1,0.0
+25-12-6_brainstormin_charity_tournament,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-2-13,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-2-20,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-2-27,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-3-07,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-3-13,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-3-20,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-3-27,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-4-03,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-4-10,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-4-24,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-5-01,Robert Scannevin,1500.0,0,0,0,0,0.0
+26-5-08,Robert Scannevin,1481.17,5,2,3,0,-18.83
 25-12-6_brainstormin_charity_tournament,Ryan MacDonald,1562.44,6,5,1,0,0.0
 26-2-13,Ryan MacDonald,1507.79,9,5,4,0,-54.65
 26-2-20,Ryan MacDonald,1507.79,9,5,4,0,0.0

@@ -9,7 +9,7 @@
   },
   {
     "player": "Ran Guo",
-    "elo": 1645.71,
+    "elo": 1646.58,
     "matches": 16,
     "wins": 12,
     "losses": 3,
@@ -121,11 +121,19 @@
   },
   {
     "player": "Mike Adams",
-    "elo": 1545.18,
+    "elo": 1545.23,
     "matches": 54,
     "wins": 25,
     "losses": 22,
     "draws": 7
+  },
+  {
+    "player": "Isharah Considine",
+    "elo": 1540.09,
+    "matches": 25,
+    "wins": 13,
+    "losses": 11,
+    "draws": 1
   },
   {
     "player": "Jeffrey Silver",
@@ -134,14 +142,6 @@
     "wins": 6,
     "losses": 4,
     "draws": 0
-  },
-  {
-    "player": "Isharah Considine",
-    "elo": 1539.26,
-    "matches": 25,
-    "wins": 13,
-    "losses": 11,
-    "draws": 1
   },
   {
     "player": "Hex Dowd",
@@ -169,7 +169,7 @@
   },
   {
     "player": "Nathan Cormier",
-    "elo": 1513.35,
+    "elo": 1513.39,
     "matches": 42,
     "wins": 20,
     "losses": 20,
@@ -185,7 +185,7 @@
   },
   {
     "player": "Mike Laing",
-    "elo": 1508.63,
+    "elo": 1508.64,
     "matches": 47,
     "wins": 23,
     "losses": 23,
@@ -269,6 +269,14 @@
     "matches": 8,
     "wins": 4,
     "losses": 4,
+    "draws": 0
+  },
+  {
+    "player": "Robert Scannevin",
+    "elo": 1477.78,
+    "matches": 5,
+    "wins": 2,
+    "losses": 3,
     "draws": 0
   },
   {
@@ -369,7 +377,7 @@
   },
   {
     "player": "Phil Iwanow",
-    "elo": 1435.63,
+    "elo": 1435.64,
     "matches": 43,
     "wins": 13,
     "losses": 26,
@@ -385,7 +393,7 @@
   },
   {
     "player": "Jarrod Haase",
-    "elo": 1392.91,
+    "elo": 1392.92,
     "matches": 46,
     "wins": 14,
     "losses": 29,
@@ -401,7 +409,7 @@
   },
   {
     "player": "Daniel Hernandez",
-    "elo": 1302.05,
+    "elo": 1302.23,
     "matches": 50,
     "wins": 13,
     "losses": 36,

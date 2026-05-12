@@ -1,7 +1,7 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1539.26,
+  "elo": 1540.09,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -269,12 +269,12 @@
     {
       "week": "26-5-08",
       "round": 4,
-      "opponent": "robert scannevin",
+      "opponent": "Robert Scannevin",
       "result": "W",
       "score": 1.0,
       "elo_before": 1521.4276,
-      "elo_after": 1539.2573,
-      "opp_elo": 1500.0,
+      "elo_after": 1540.0905,
+      "opp_elo": 1515.2614,
       "is_bye": false
     },
     {
@@ -283,8 +283,8 @@
       "opponent": "Amy Altman",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1539.2573,
-      "elo_after": 1539.2573,
+      "elo_before": 1540.0905,
+      "elo_after": 1540.0905,
       "opp_elo": 1630.9574,
       "is_bye": false
     }
