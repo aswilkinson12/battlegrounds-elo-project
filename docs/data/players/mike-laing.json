@@ -1,7 +1,7 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1508.64,
+  "elo": 1541.25,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -539,9 +539,119 @@
       "elo_after": 1508.6362,
       "opp_elo": 1637.2805,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1508.6362,
+      "elo_after": 1527.164,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1527.164,
+      "elo_after": 1512.0301,
+      "opp_elo": 1598.8611,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1512.0301,
+      "elo_after": 1531.0064,
+      "opp_elo": 1511.5952,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1531.0064,
+      "elo_after": 1546.6966,
+      "opp_elo": 1469.8612,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1546.6966,
+      "elo_after": 1524.0491,
+      "opp_elo": 1479.1586,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Ran Guo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1524.0491,
+      "elo_after": 1549.485,
+      "opp_elo": 1646.5757,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1549.485,
+      "elo_after": 1527.797,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.797,
+      "elo_after": 1543.6533,
+      "opp_elo": 1469.7786,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.6533,
+      "elo_after": 1560.2786,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1560.2786,
+      "elo_after": 1541.2515,
+      "opp_elo": 1559.7839,
+      "is_bye": false
     }
   ],
-  "wins": 23,
-  "losses": 23,
+  "wins": 29,
+  "losses": 27,
   "draws": 1
 }

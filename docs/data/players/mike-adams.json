@@ -1,7 +1,7 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1545.23,
+  "elo": 1479.45,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -606,9 +606,52 @@
       "elo_after": 1545.2303,
       "opp_elo": 1600.0501,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1545.2303,
+      "elo_after": 1523.7707,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1523.7707,
+      "elo_after": 1503.4728,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1503.4728,
+      "elo_after": 1479.4548,
+      "opp_elo": 1409.487,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1479.4548,
+      "elo_after": 1479.4548,
+      "opp_elo": null
     }
   ],
   "wins": 25,
-  "losses": 22,
+  "losses": 25,
   "draws": 7
 }

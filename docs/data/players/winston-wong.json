@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1498.0,
+  "elo": 1453.92,
   "matches": [
     {
       "week": "26-4-03",
@@ -233,9 +233,64 @@
       "elo_after": 1498.0019,
       "opp_elo": 1411.6139,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1498.0019,
+      "elo_after": 1479.1112,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1479.1112,
+      "elo_after": 1460.8908,
+      "opp_elo": 1493.3748,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1460.8908,
+      "elo_after": 1448.9508,
+      "opp_elo": 1596.4792,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Roopak Dasararaju",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1448.9508,
+      "elo_after": 1469.7786,
+      "opp_elo": 1482.4773,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.7786,
+      "elo_after": 1453.9222,
+      "opp_elo": 1527.797,
+      "is_bye": false
     }
   ],
-  "wins": 9,
-  "losses": 10,
+  "wins": 10,
+  "losses": 14,
   "draws": 2
 }

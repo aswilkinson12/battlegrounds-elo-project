@@ -1,7 +1,7 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1392.92,
+  "elo": 1379.19,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -538,9 +538,63 @@
       "elo_after": 1392.9182,
       "opp_elo": 1318.0312,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1392.9182,
+      "elo_after": 1383.6554,
+      "opp_elo": 1589.5983,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1383.6554,
+      "elo_after": 1383.6554,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1383.6554,
+      "elo_after": 1408.7902,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1408.7902,
+      "elo_after": 1394.6667,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Amber Cronin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1394.6667,
+      "elo_after": 1379.1886,
+      "opp_elo": 1459.8225,
+      "is_bye": false
     }
   ],
-  "wins": 14,
-  "losses": 29,
+  "wins": 15,
+  "losses": 32,
   "draws": 3
 }

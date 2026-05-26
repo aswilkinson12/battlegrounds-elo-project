@@ -1,7 +1,7 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1572.23,
+  "elo": 1508.42,
   "matches": [
     {
       "week": "26-4-03",
@@ -167,9 +167,42 @@
       "elo_after": 1572.2287,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1572.2287,
+      "elo_after": 1550.4631,
+      "opp_elo": 1521.2945,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Daniel Berenson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1550.4631,
+      "elo_after": 1528.7227,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Simon Kavanagh",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1528.7227,
+      "elo_after": 1508.4157,
+      "opp_elo": 1504.7848,
+      "is_bye": false
     }
   ],
   "wins": 9,
-  "losses": 4,
+  "losses": 7,
   "draws": 2
 }

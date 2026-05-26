@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1494.74,
+  "elo": 1578.81,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -123,9 +123,119 @@
       "elo_after": 1494.7415,
       "opp_elo": 1472.0401,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1494.7415,
+      "elo_after": 1514.7606,
+      "opp_elo": 1513.3939,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1514.7606,
+      "elo_after": 1501.0308,
+      "opp_elo": 1613.7251,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.0308,
+      "elo_after": 1479.1522,
+      "opp_elo": 1447.9825,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1479.1522,
+      "elo_after": 1495.6701,
+      "opp_elo": 1433.5049,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1495.6701,
+      "elo_after": 1521.2945,
+      "opp_elo": 1622.1035,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.2945,
+      "elo_after": 1543.0601,
+      "opp_elo": 1572.2287,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.0601,
+      "elo_after": 1559.7173,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1559.7173,
+      "elo_after": 1537.4833,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.4833,
+      "elo_after": 1559.7839,
+      "opp_elo": 1598.4561,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.7839,
+      "elo_after": 1578.8109,
+      "opp_elo": 1560.2786,
+      "is_bye": false
     }
   ],
-  "wins": 5,
-  "losses": 5,
+  "wins": 12,
+  "losses": 8,
   "draws": 1
 }

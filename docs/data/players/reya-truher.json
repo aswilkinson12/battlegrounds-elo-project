@@ -1,7 +1,7 @@
 {
   "player": "Reya Truher",
   "slug": "reya-truher",
-  "elo": 1440.87,
+  "elo": 1492.22,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -452,9 +452,119 @@
       "elo_after": 1440.8737,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1440.8737,
+      "elo_after": 1452.6702,
+      "opp_elo": 1302.2317,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1452.6702,
+      "elo_after": 1474.2426,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1474.2426,
+      "elo_after": 1456.6486,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1456.6486,
+      "elo_after": 1479.1586,
+      "opp_elo": 1521.5782,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1479.1586,
+      "elo_after": 1501.8062,
+      "opp_elo": 1546.6966,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.8062,
+      "elo_after": 1482.7074,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Shaun OBrien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.7074,
+      "elo_after": 1502.6523,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.6523,
+      "elo_after": 1523.1903,
+      "opp_elo": 1530.8389,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1523.1903,
+      "elo_after": 1510.2558,
+      "opp_elo": 1638.1193,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1510.2558,
+      "elo_after": 1492.2237,
+      "opp_elo": 1527.9714,
+      "is_bye": false
     }
   ],
-  "wins": 17,
-  "losses": 22,
+  "wins": 23,
+  "losses": 26,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1440.94,
+  "elo": 1416.99,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -276,9 +276,63 @@
       "elo_after": 1440.9357,
       "opp_elo": 1524.471,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Ken Cox",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1440.9357,
+      "elo_after": 1425.1349,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.1349,
+      "elo_after": 1409.487,
+      "opp_elo": 1487.0794,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1409.487,
+      "elo_after": 1433.5049,
+      "opp_elo": 1503.4728,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1433.5049,
+      "elo_after": 1416.987,
+      "opp_elo": 1479.1522,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1416.987,
+      "elo_after": 1416.987,
+      "opp_elo": null
     }
   ],
-  "wins": 9,
-  "losses": 15,
+  "wins": 10,
+  "losses": 18,
   "draws": 0
 }

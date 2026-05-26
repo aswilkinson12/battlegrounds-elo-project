@@ -1,7 +1,7 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1570.46,
+  "elo": 1662.28,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -607,9 +607,119 @@
       "elo_after": 1570.4564,
       "opp_elo": 1529.251,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1570.4564,
+      "elo_after": 1585.7818,
+      "opp_elo": 1502.4048,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1585.7818,
+      "elo_after": 1598.1653,
+      "opp_elo": 1459.5106,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1598.1653,
+      "elo_after": 1618.7632,
+      "opp_elo": 1627.4549,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1618.7632,
+      "elo_after": 1638.2123,
+      "opp_elo": 1626.9755,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Chris Hirt",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1638.2123,
+      "elo_after": 1638.2123,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1638.2123,
+      "elo_after": 1650.0289,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1650.0289,
+      "elo_after": 1661.299,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1661.299,
+      "elo_after": 1638.1193,
+      "opp_elo": 1583.5989,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1638.1193,
+      "elo_after": 1651.0539,
+      "opp_elo": 1523.1903,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Daniel Berenson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1651.0539,
+      "elo_after": 1662.2772,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 35,
-  "losses": 17,
-  "draws": 3
+  "wins": 43,
+  "losses": 18,
+  "draws": 4
 }

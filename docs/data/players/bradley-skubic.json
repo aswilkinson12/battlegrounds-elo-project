@@ -1,7 +1,7 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1650.17,
+  "elo": 1597.03,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -343,9 +343,119 @@
       "elo_after": 1650.1748,
       "opp_elo": 1521.5305,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Phil Iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1650.1748,
+      "elo_after": 1620.7368,
+      "opp_elo": 1435.6412,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1620.7368,
+      "elo_after": 1633.3877,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1633.3877,
+      "elo_after": 1643.0771,
+      "opp_elo": 1447.1271,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1643.0771,
+      "elo_after": 1622.1035,
+      "opp_elo": 1606.8569,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1622.1035,
+      "elo_after": 1596.4792,
+      "opp_elo": 1495.6701,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1596.4792,
+      "elo_after": 1608.4191,
+      "opp_elo": 1460.8908,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Simon Kavanagh",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1608.4191,
+      "elo_after": 1622.6343,
+      "opp_elo": 1519.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1622.6343,
+      "elo_after": 1598.4561,
+      "opp_elo": 1525.4911,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1598.4561,
+      "elo_after": 1576.1556,
+      "opp_elo": 1537.4833,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1576.1556,
+      "elo_after": 1597.0314,
+      "opp_elo": 1610.5691,
+      "is_bye": false
     }
   ],
-  "wins": 20,
-  "losses": 5,
+  "wins": 25,
+  "losses": 10,
   "draws": 6
 }

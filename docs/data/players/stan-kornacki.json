@@ -1,7 +1,7 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1589.6,
+  "elo": 1545.45,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -508,9 +508,108 @@
       "elo_after": 1589.5983,
       "opp_elo": 1470.7201,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1589.5983,
+      "elo_after": 1598.8611,
+      "opp_elo": 1392.9182,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1598.8611,
+      "elo_after": 1613.995,
+      "opp_elo": 1527.164,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Dylan Shanes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1613.995,
+      "elo_after": 1626.9755,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1626.9755,
+      "elo_after": 1607.5265,
+      "opp_elo": 1618.7632,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1607.5265,
+      "elo_after": 1607.5265,
+      "opp_elo": 1627.8305,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Phil Iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1607.5265,
+      "elo_after": 1619.6427,
+      "opp_elo": 1475.6627,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1619.6427,
+      "elo_after": 1594.3568,
+      "opp_elo": 1500.2052,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1594.3568,
+      "elo_after": 1570.32,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1570.32,
+      "elo_after": 1545.4462,
+      "opp_elo": 1459.2798,
+      "is_bye": false
     }
   ],
-  "wins": 28,
-  "losses": 15,
-  "draws": 3
+  "wins": 32,
+  "losses": 19,
+  "draws": 4
 }

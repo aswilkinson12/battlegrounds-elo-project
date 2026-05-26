@@ -1,7 +1,7 @@
 {
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
-  "elo": 1435.64,
+  "elo": 1436.19,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -475,9 +475,97 @@
       "elo_after": 1435.6412,
       "opp_elo": 1551.6933,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1435.6412,
+      "elo_after": 1465.0792,
+      "opp_elo": 1650.1748,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.0792,
+      "elo_after": 1447.9825,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1447.9825,
+      "elo_after": 1469.8612,
+      "opp_elo": 1501.0308,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.8612,
+      "elo_after": 1454.1709,
+      "opp_elo": 1531.0064,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.1709,
+      "elo_after": 1475.6627,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1475.6627,
+      "elo_after": 1463.5464,
+      "opp_elo": 1607.5265,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1463.5464,
+      "elo_after": 1452.6185,
+      "opp_elo": 1621.1398,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Ian Brungardt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1452.6185,
+      "elo_after": 1436.1937,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 13,
-  "losses": 26,
+  "wins": 16,
+  "losses": 31,
   "draws": 4
 }

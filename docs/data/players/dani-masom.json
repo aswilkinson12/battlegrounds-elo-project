@@ -1,7 +1,7 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1471.94,
+  "elo": 1504.28,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -595,9 +595,64 @@
       "elo_after": 1471.9447,
       "opp_elo": 1509.5826,
       "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1471.9447,
+      "elo_after": 1456.8956,
+      "opp_elo": 1545.2593,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1456.8956,
+      "elo_after": 1440.2408,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1440.2408,
+      "elo_after": 1459.2798,
+      "opp_elo": 1440.9536,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.2798,
+      "elo_after": 1484.1535,
+      "opp_elo": 1570.32,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Simon Kavanagh",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.1535,
+      "elo_after": 1504.277,
+      "opp_elo": 1504.722,
+      "is_bye": false
     }
   ],
-  "wins": 24,
-  "losses": 28,
+  "wins": 27,
+  "losses": 30,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1600.05,
+  "elo": 1589.69,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -673,9 +673,119 @@
       "elo_after": 1600.0501,
       "opp_elo": 1545.2303,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.0501,
+      "elo_after": 1613.7251,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1613.7251,
+      "elo_after": 1627.4549,
+      "opp_elo": 1514.7606,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1627.4549,
+      "elo_after": 1606.8569,
+      "opp_elo": 1598.1653,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1606.8569,
+      "elo_after": 1627.8305,
+      "opp_elo": 1643.0771,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1627.8305,
+      "elo_after": 1627.8305,
+      "opp_elo": 1607.5265,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1627.8305,
+      "elo_after": 1640.1392,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1640.1392,
+      "elo_after": 1616.8488,
+      "opp_elo": 1560.3085,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Ran Guo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1616.8488,
+      "elo_after": 1636.6805,
+      "opp_elo": 1632.0677,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1636.6805,
+      "elo_after": 1610.5691,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1610.5691,
+      "elo_after": 1589.6933,
+      "opp_elo": 1576.1556,
+      "is_bye": false
     }
   ],
-  "wins": 40,
-  "losses": 18,
-  "draws": 3
+  "wins": 45,
+  "losses": 22,
+  "draws": 4
 }

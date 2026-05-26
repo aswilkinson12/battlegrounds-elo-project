@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1502.4,
+  "elo": 1546.0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -561,9 +561,119 @@
       "elo_after": 1502.4048,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.4048,
+      "elo_after": 1487.0794,
+      "opp_elo": 1570.4564,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1487.0794,
+      "elo_after": 1502.7274,
+      "opp_elo": 1425.1349,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.7274,
+      "elo_after": 1521.5782,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Reya Truher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.5782,
+      "elo_after": 1499.0682,
+      "opp_elo": 1456.6486,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.0682,
+      "elo_after": 1480.1192,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1480.1192,
+      "elo_after": 1500.2052,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.2052,
+      "elo_after": 1525.4911,
+      "opp_elo": 1619.6427,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1525.4911,
+      "elo_after": 1549.6693,
+      "opp_elo": 1622.6343,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Daniel Berenson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1549.6693,
+      "elo_after": 1527.9714,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Reya Truher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.9714,
+      "elo_after": 1546.0034,
+      "opp_elo": 1510.2558,
+      "is_bye": false
     }
   ],
-  "wins": 22,
-  "losses": 23,
+  "wins": 28,
+  "losses": 27,
   "draws": 4
 }

@@ -1,7 +1,7 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1630.96,
+  "elo": 1683.52,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -563,9 +563,64 @@
       "elo_after": 1630.9574,
       "opp_elo": 1540.0905,
       "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Daniel Berenson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1630.9574,
+      "elo_after": 1643.1168,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1643.1168,
+      "elo_after": 1656.8687,
+      "opp_elo": 1544.5908,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1656.8687,
+      "elo_after": 1667.8291,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1667.8291,
+      "elo_after": 1683.5244,
+      "opp_elo": 1606.7786,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Jonathon Torchia",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1683.5244,
+      "elo_after": 1683.5244,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 30,
+  "wins": 34,
   "losses": 15,
-  "draws": 6
+  "draws": 7
 }

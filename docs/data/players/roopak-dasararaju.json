@@ -1,0 +1,65 @@
+{
+  "player": "Roopak Dasararaju",
+  "slug": "roopak-dasararaju",
+  "elo": 1452.15,
+  "matches": [
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1500.0,
+      "elo_after": 1482.4773,
+      "opp_elo": 1527.068,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.4773,
+      "elo_after": 1461.6495,
+      "opp_elo": 1448.9508,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Shaun OBrien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1461.6495,
+      "elo_after": 1482.7383,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Ian Brungardt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.7383,
+      "elo_after": 1464.6815,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1464.6815,
+      "elo_after": 1452.1468,
+      "opp_elo": 1587.8162,
+      "is_bye": false
+    }
+  ],
+  "wins": 1,
+  "losses": 4,
+  "draws": 0
+}

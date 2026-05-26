@@ -1,7 +1,7 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1459.51,
+  "elo": 1421.91,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -177,9 +177,96 @@
       "elo_after": 1459.5106,
       "opp_elo": 1487.8763,
       "is_bye": false
+    },
+    {
+      "week": "26-5-08",
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1459.5106,
+      "elo_after": 1459.5106,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-15",
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.5106,
+      "elo_after": 1447.1271,
+      "opp_elo": 1585.7818,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1447.1271,
+      "elo_after": 1437.4377,
+      "opp_elo": 1633.3877,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1437.4377,
+      "elo_after": 1459.8225,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-15",
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.8225,
+      "elo_after": 1475.3006,
+      "opp_elo": 1394.6667,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1475.3006,
+      "elo_after": 1457.649,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.649,
+      "elo_after": 1440.9536,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1440.9536,
+      "elo_after": 1421.9146,
+      "opp_elo": 1440.2408,
+      "is_bye": false
     }
   ],
-  "wins": 5,
-  "losses": 9,
+  "wins": 7,
+  "losses": 14,
   "draws": 1
 }

@@ -1,7 +1,7 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1545.26,
+  "elo": 1591.08,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -530,9 +530,64 @@
       "elo_after": 1545.2593,
       "opp_elo": 1429.2072,
       "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.2593,
+      "elo_after": 1560.3085,
+      "opp_elo": 1471.9447,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.3085,
+      "elo_after": 1583.5989,
+      "opp_elo": 1640.1392,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1583.5989,
+      "elo_after": 1606.7786,
+      "opp_elo": 1661.299,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1606.7786,
+      "elo_after": 1591.0833,
+      "opp_elo": 1667.8291,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-22",
+      "round": 5,
+      "opponent": "Tom Kessler",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1591.0833,
+      "elo_after": 1591.0833,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ],
-  "wins": 26,
-  "losses": 18,
-  "draws": 4
+  "wins": 29,
+  "losses": 19,
+  "draws": 5
 }
