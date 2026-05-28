@@ -1,0 +1,162 @@
+[
+  {
+    "player": "Devon O’Donnell",
+    "elo": 1776.14,
+    "matches": 40,
+    "wins": 33,
+    "losses": 7,
+    "draws": 0
+  },
+  {
+    "player": "Amy Altman",
+    "elo": 1710.82,
+    "matches": 56,
+    "wins": 34,
+    "losses": 15,
+    "draws": 7
+  },
+  {
+    "player": "Nathan Choi",
+    "elo": 1665.69,
+    "matches": 54,
+    "wins": 36,
+    "losses": 15,
+    "draws": 3
+  },
+  {
+    "player": "David Van Hise",
+    "elo": 1660.04,
+    "matches": 39,
+    "wins": 27,
+    "losses": 12,
+    "draws": 0
+  },
+  {
+    "player": "Kenton Najdzien",
+    "elo": 1643.28,
+    "matches": 30,
+    "wins": 20,
+    "losses": 9,
+    "draws": 1
+  },
+  {
+    "player": "Luke Deratzou",
+    "elo": 1639.6,
+    "matches": 11,
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  {
+    "player": "Kevin Thanakit",
+    "elo": 1621.64,
+    "matches": 10,
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  {
+    "player": "Will Bellows",
+    "elo": 1614.66,
+    "matches": 20,
+    "wins": 14,
+    "losses": 6,
+    "draws": 0
+  },
+  {
+    "player": "Becca Blackwood",
+    "elo": 1602.04,
+    "matches": 53,
+    "wins": 29,
+    "losses": 19,
+    "draws": 5
+  },
+  {
+    "player": "Ran Guo",
+    "elo": 1600.77,
+    "matches": 21,
+    "wins": 14,
+    "losses": 6,
+    "draws": 1
+  },
+  {
+    "player": "Bradley Skubic",
+    "elo": 1595.92,
+    "matches": 41,
+    "wins": 25,
+    "losses": 10,
+    "draws": 6
+  },
+  {
+    "player": "Milo Brown",
+    "elo": 1594.77,
+    "matches": 36,
+    "wins": 22,
+    "losses": 10,
+    "draws": 4
+  },
+  {
+    "player": "Anthony Wilkinson",
+    "elo": 1589.25,
+    "matches": 71,
+    "wins": 45,
+    "losses": 22,
+    "draws": 4
+  },
+  {
+    "player": "Chris Hirt",
+    "elo": 1582.94,
+    "matches": 21,
+    "wins": 10,
+    "losses": 8,
+    "draws": 3
+  },
+  {
+    "player": "Veronica Kirtley",
+    "elo": 1580.51,
+    "matches": 21,
+    "wins": 12,
+    "losses": 8,
+    "draws": 1
+  },
+  {
+    "player": "Sam White",
+    "elo": 1576.0,
+    "matches": 6,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  {
+    "player": "Etai Kurtzman",
+    "elo": 1575.99,
+    "matches": 6,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  {
+    "player": "Taylor Pratt",
+    "elo": 1574.08,
+    "matches": 10,
+    "wins": 7,
+    "losses": 2,
+    "draws": 1
+  },
+  {
+    "player": "mavin liu",
+    "elo": 1574.04,
+    "matches": 6,
+    "wins": 4,
+    "losses": 0,
+    "draws": 2
+  },
+  {
+    "player": "Nathan C",
+    "elo": 1565.92,
+    "matches": 11,
+    "wins": 7,
+    "losses": 3,
+    "draws": 1
+  }
+]
