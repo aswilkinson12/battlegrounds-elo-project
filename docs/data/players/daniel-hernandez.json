@@ -2,6 +2,10 @@
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
   "elo": 1273.26,
+  "matches_count": 53,
+  "wins": 13,
+  "losses": 39,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -683,8 +687,5 @@
       "opp_elo": 1500.0,
       "is_bye": false
     }
-  ],
-  "wins": 13,
-  "losses": 39,
-  "draws": 1
+  ]
 }

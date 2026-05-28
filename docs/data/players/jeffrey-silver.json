@@ -2,6 +2,10 @@
   "player": "Jeffrey Silver",
   "slug": "jeffrey-silver",
   "elo": 1539.74,
+  "matches_count": 10,
+  "wins": 6,
+  "losses": 4,
+  "draws": 0,
   "matches": [
     {
       "week": "26-3-27",
@@ -123,8 +127,5 @@
       "opp_elo": 1501.0148,
       "is_bye": false
     }
-  ],
-  "wins": 6,
-  "losses": 4,
-  "draws": 0
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
   "elo": 1578.81,
+  "matches_count": 21,
+  "wins": 12,
+  "losses": 8,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -255,8 +259,5 @@
       "opp_elo": 1560.2786,
       "is_bye": false
     }
-  ],
-  "wins": 12,
-  "losses": 8,
-  "draws": 1
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Austin Wolf",
   "slug": "austin-wolf",
   "elo": 1498.8,
+  "matches_count": 6,
+  "wins": 3,
+  "losses": 3,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -75,8 +79,5 @@
       "opp_elo": 1512.1544,
       "is_bye": false
     }
-  ],
-  "wins": 3,
-  "losses": 3,
-  "draws": 0
+  ]
 }

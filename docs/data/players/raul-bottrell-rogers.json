@@ -2,6 +2,10 @@
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
   "elo": 1472.7,
+  "matches_count": 26,
+  "wins": 12,
+  "losses": 14,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -315,8 +319,5 @@
       "opp_elo": 1500.0,
       "is_bye": false
     }
-  ],
-  "wins": 12,
-  "losses": 14,
-  "draws": 0
+  ]
 }

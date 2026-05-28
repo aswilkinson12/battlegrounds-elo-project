@@ -2,6 +2,10 @@
   "player": "Mike Laing",
   "slug": "mike-laing",
   "elo": 1541.25,
+  "matches_count": 57,
+  "wins": 29,
+  "losses": 27,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -709,8 +713,5 @@
       "opp_elo": 1559.7839,
       "is_bye": false
     }
-  ],
-  "wins": 29,
-  "losses": 27,
-  "draws": 1
+  ]
 }

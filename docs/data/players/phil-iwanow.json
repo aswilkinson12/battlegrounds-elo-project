@@ -2,6 +2,10 @@
   "player": "Phil Iwanow",
   "slug": "phil-iwanow",
   "elo": 1436.19,
+  "matches_count": 51,
+  "wins": 16,
+  "losses": 31,
+  "draws": 4,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -615,8 +619,5 @@
       "opp_elo": 1500.0,
       "is_bye": false
     }
-  ],
-  "wins": 16,
-  "losses": 31,
-  "draws": 4
+  ]
 }

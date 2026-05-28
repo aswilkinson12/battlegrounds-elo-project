@@ -2,6 +2,10 @@
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
   "elo": 1591.08,
+  "matches_count": 53,
+  "wins": 29,
+  "losses": 19,
+  "draws": 5,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -639,8 +643,5 @@
       "opp_elo": 1500.0,
       "is_bye": false
     }
-  ],
-  "wins": 29,
-  "losses": 19,
-  "draws": 5
+  ]
 }

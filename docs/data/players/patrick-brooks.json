@@ -2,6 +2,10 @@
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
   "elo": 1436.39,
+  "matches_count": 14,
+  "wins": 5,
+  "losses": 9,
+  "draws": 0,
   "matches": [
     {
       "week": "26-3-07",
@@ -182,8 +186,5 @@
       "elo_after": 1436.3942,
       "opp_elo": null
     }
-  ],
-  "wins": 5,
-  "losses": 9,
-  "draws": 0
+  ]
 }

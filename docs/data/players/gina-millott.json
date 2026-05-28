@@ -2,6 +2,10 @@
   "player": "Gina Millott",
   "slug": "gina-millott",
   "elo": 1444.04,
+  "matches_count": 26,
+  "wins": 11,
+  "losses": 15,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -315,8 +319,5 @@
       "opp_elo": 1438.1185,
       "is_bye": false
     }
-  ],
-  "wins": 11,
-  "losses": 15,
-  "draws": 0
+  ]
 }

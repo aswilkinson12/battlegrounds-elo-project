@@ -2,6 +2,10 @@
   "player": "Simon Kavanagh",
   "slug": "simon-kavanagh",
   "elo": 1484.6,
+  "matches_count": 5,
+  "wins": 2,
+  "losses": 3,
+  "draws": 0,
   "matches": [
     {
       "week": "26-5-22",
@@ -63,8 +67,5 @@
       "opp_elo": 1484.1535,
       "is_bye": false
     }
-  ],
-  "wins": 2,
-  "losses": 3,
-  "draws": 0
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
   "elo": 1379.19,
+  "matches_count": 50,
+  "wins": 15,
+  "losses": 32,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -647,8 +651,5 @@
       "opp_elo": 1459.8225,
       "is_bye": false
     }
-  ],
-  "wins": 15,
-  "losses": 32,
-  "draws": 3
+  ]
 }

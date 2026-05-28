@@ -2,6 +2,10 @@
   "player": "Kevin Thanakit",
   "slug": "kevin-thanakit",
   "elo": 1621.51,
+  "matches_count": 10,
+  "wins": 8,
+  "losses": 2,
+  "draws": 0,
   "matches": [
     {
       "week": "26-3-27",
@@ -123,8 +127,5 @@
       "opp_elo": 1624.9501,
       "is_bye": false
     }
-  ],
-  "wins": 8,
-  "losses": 2,
-  "draws": 0
+  ]
 }

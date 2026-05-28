@@ -2,6 +2,10 @@
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
   "elo": 1508.42,
+  "matches_count": 18,
+  "wins": 9,
+  "losses": 7,
+  "draws": 2,
   "matches": [
     {
       "week": "26-4-03",
@@ -219,8 +223,5 @@
       "opp_elo": 1504.7848,
       "is_bye": false
     }
-  ],
-  "wins": 9,
-  "losses": 7,
-  "draws": 2
+  ]
 }

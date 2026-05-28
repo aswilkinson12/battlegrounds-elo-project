@@ -2,6 +2,10 @@
   "player": "Joel Brook",
   "slug": "joel-brook",
   "elo": 1491.58,
+  "matches_count": 8,
+  "wins": 4,
+  "losses": 4,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -99,8 +103,5 @@
       "opp_elo": 1314.277,
       "is_bye": false
     }
-  ],
-  "wins": 4,
-  "losses": 4,
-  "draws": 0
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Sam Feeley",
   "slug": "sam-feeley",
   "elo": 1506.33,
+  "matches_count": 8,
+  "wins": 4,
+  "losses": 4,
+  "draws": 0,
   "matches": [
     {
       "week": "26-3-13",
@@ -99,8 +103,5 @@
       "opp_elo": 1477.9689,
       "is_bye": false
     }
-  ],
-  "wins": 4,
-  "losses": 4,
-  "draws": 0
+  ]
 }

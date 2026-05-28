@@ -2,6 +2,10 @@
   "player": "Evan Johnstone",
   "slug": "evan-johnstone",
   "elo": 1458.56,
+  "matches_count": 36,
+  "wins": 14,
+  "losses": 21,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -435,8 +439,5 @@
       "opp_elo": 1464.4749,
       "is_bye": false
     }
-  ],
-  "wins": 14,
-  "losses": 21,
-  "draws": 1
+  ]
 }

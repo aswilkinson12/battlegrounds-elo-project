@@ -2,6 +2,10 @@
   "player": "David Van Hise",
   "slug": "david-van-hise",
   "elo": 1645.0,
+  "matches_count": 39,
+  "wins": 27,
+  "losses": 12,
+  "draws": 0,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -471,8 +475,5 @@
       "opp_elo": 1500.0,
       "is_bye": false
     }
-  ],
-  "wins": 27,
-  "losses": 12,
-  "draws": 0
+  ]
 }

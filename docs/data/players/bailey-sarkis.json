@@ -2,6 +2,10 @@
   "player": "Bailey Sarkis",
   "slug": "bailey-sarkis",
   "elo": 1519.71,
+  "matches_count": 7,
+  "wins": 4,
+  "losses": 3,
+  "draws": 0,
   "matches": [
     {
       "week": "26-3-07",
@@ -87,8 +91,5 @@
       "opp_elo": 1553.5969,
       "is_bye": false
     }
-  ],
-  "wins": 4,
-  "losses": 3,
-  "draws": 0
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
   "elo": 1510.5,
+  "matches_count": 9,
+  "wins": 4,
+  "losses": 4,
+  "draws": 1,
   "matches": [
     {
       "week": "26-2-27",
@@ -111,8 +115,5 @@
       "opp_elo": 1717.5595,
       "is_bye": false
     }
-  ],
-  "wins": 4,
-  "losses": 4,
-  "draws": 1
+  ]
 }

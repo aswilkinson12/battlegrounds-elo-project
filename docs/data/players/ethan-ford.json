@@ -2,6 +2,10 @@
   "player": "Ethan Ford",
   "slug": "ethan-ford",
   "elo": 1555.37,
+  "matches_count": 5,
+  "wins": 4,
+  "losses": 1,
+  "draws": 0,
   "matches": [
     {
       "week": "26-4-10",
@@ -63,8 +67,5 @@
       "opp_elo": 1498.7296,
       "is_bye": false
     }
-  ],
-  "wins": 4,
-  "losses": 1,
-  "draws": 0
+  ]
 }

@@ -2,6 +2,10 @@
   "player": "Winston Wong",
   "slug": "winston-wong",
   "elo": 1453.92,
+  "matches_count": 26,
+  "wins": 10,
+  "losses": 14,
+  "draws": 2,
   "matches": [
     {
       "week": "26-4-03",
@@ -315,8 +319,5 @@
       "opp_elo": 1527.797,
       "is_bye": false
     }
-  ],
-  "wins": 10,
-  "losses": 14,
-  "draws": 2
+  ]
 }
