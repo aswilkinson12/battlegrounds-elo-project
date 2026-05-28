@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Adam Silvia",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Gina Millott",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Dani Masom",
       "result": "W",

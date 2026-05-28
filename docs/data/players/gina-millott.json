@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Becca Blackwood",
       "result": "L",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Philip Petronis",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Hex Dowd",
       "result": "L",
@@ -38,6 +41,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Colin Hogan",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Amber Cronin",
       "result": "W",
@@ -60,6 +65,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Matt Rosenbloom",
       "result": "W",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 1,
       "opponent": "Stan Kornacki",
       "result": "W",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 2,
       "opponent": "Becca Blackwood",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 3,
       "opponent": "[REDACTED] [REDACTED]",
       "result": "L",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 4,
       "opponent": "David Van Hise",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 5,
       "opponent": "Jason Weiss",
       "result": "L",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Becca Blackwood",
       "result": "W",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "David Van Hise",
       "result": "W",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Milo Brown",
       "result": "L",
@@ -159,6 +173,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -170,6 +185,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 5,
       "opponent": "Jack Henry",
       "result": "W",
@@ -181,6 +197,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Stella Burfeind",
       "result": "W",
@@ -192,6 +209,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "David Van Hise",
       "result": "L",
@@ -203,6 +221,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
@@ -214,6 +233,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Sean Thornton",
       "result": "L",
@@ -225,6 +245,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Jack Henry",
       "result": "L",
@@ -236,6 +257,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -247,6 +269,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Mike Laing",
       "result": "L",
@@ -258,6 +281,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Reya Truher",
       "result": "W",
@@ -269,6 +293,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Ethan Ford",
       "result": "L",
@@ -280,6 +305,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Evan Johnstone",
       "result": "L",

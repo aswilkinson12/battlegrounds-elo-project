@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Timothy Haase",
       "result": "L",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Bye",
       "result": "BYE",
@@ -37,6 +40,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Philip Petronis",
       "result": "W",
@@ -48,6 +52,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Mike Adams",
       "result": "L",
@@ -59,6 +64,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 1,
       "opponent": "Thomas Ostroff",
       "result": "W",
@@ -70,6 +76,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 2,
       "opponent": "Thomas Kotcher",
       "result": "L",
@@ -81,6 +88,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 3,
       "opponent": "Jason Flynn",
       "result": "L",
@@ -92,6 +100,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 4,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -103,6 +112,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 5,
       "opponent": "Veronica Kirtley",
       "result": "W",
@@ -114,6 +124,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -125,6 +136,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Pan Rasking",
       "result": "W",
@@ -136,6 +148,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Sean Marks",
       "result": "L",
@@ -147,6 +160,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Evan Hamlin",
       "result": "L",
@@ -158,6 +172,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Joseph Chung",
       "result": "W",
@@ -169,6 +184,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -180,6 +196,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -191,6 +208,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Jack Henry",
       "result": "L",
@@ -202,6 +220,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 1,
       "opponent": "Mike Laing",
       "result": "L",
@@ -213,6 +232,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 2,
       "opponent": "Jeffrey Silver",
       "result": "L",
@@ -224,6 +244,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 1,
       "opponent": "Taylor Pratt",
       "result": "L",
@@ -235,6 +256,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 2,
       "opponent": "Pan Rasking",
       "result": "W",
@@ -246,6 +268,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 3,
       "opponent": "Evan Hamlin",
       "result": "W",
@@ -257,6 +280,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 4,
       "opponent": "Jonathon Torchia",
       "result": "L",
@@ -268,6 +292,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 5,
       "opponent": "Mike Adams",
       "result": "W",
@@ -279,6 +304,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 1,
       "opponent": "Ken Cox",
       "result": "L",
@@ -290,6 +316,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 2,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -301,6 +328,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 3,
       "opponent": "Mike Adams",
       "result": "W",
@@ -312,6 +340,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 4,
       "opponent": "Veronica Kirtley",
       "result": "L",
@@ -323,6 +352,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 5,
       "opponent": "Bye",
       "result": "BYE",

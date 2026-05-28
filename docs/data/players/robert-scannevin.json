@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 1,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 2,
       "opponent": "Ran Guo",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 3,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 4,
       "opponent": "Isharah Considine",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 5,
       "opponent": "Sean Marks",
       "result": "L",

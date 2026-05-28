@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Luke Deratzou",
       "result": "L",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Bye",
       "result": "BYE",
@@ -26,6 +28,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Mike Laing",
       "result": "L",
@@ -37,6 +40,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Graham Bateman",
       "result": "L",
@@ -48,6 +52,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Gina Millott",
       "result": "L",
@@ -59,6 +64,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Phil Iwanow",
       "result": "D",
@@ -70,6 +76,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 1,
       "opponent": "Willow Blackthorne",
       "result": "W",
@@ -81,6 +88,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 2,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -92,6 +100,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 3,
       "opponent": "Mike Adams",
       "result": "L",
@@ -103,6 +112,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 4,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -114,6 +124,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 5,
       "opponent": "Sean Thornton",
       "result": "W",
@@ -125,6 +136,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Will Bellows",
       "result": "W",
@@ -136,6 +148,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Dani Masom",
       "result": "L",
@@ -147,6 +160,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Amy Altman",
       "result": "W",
@@ -158,6 +172,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Tom Kessler",
       "result": "L",
@@ -169,6 +184,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Sam Feeley",
       "result": "L",
@@ -180,6 +196,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 5,
       "opponent": "Bye",
       "result": "BYE",
@@ -190,6 +207,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 2,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -201,6 +219,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 3,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -212,6 +231,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 4,
       "opponent": "Philip Petronis",
       "result": "W",
@@ -223,6 +243,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 5,
       "opponent": "Jarrod Haase",
       "result": "W",
@@ -234,6 +255,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 1,
       "opponent": "Will Bellows",
       "result": "L",
@@ -245,6 +267,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 2,
       "opponent": "Jason Flynn",
       "result": "L",
@@ -256,6 +279,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 3,
       "opponent": "Dani Masom",
       "result": "L",

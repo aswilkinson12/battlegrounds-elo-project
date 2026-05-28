@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "tyler kaldenberg",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Veronica Kirtley",
       "result": "L",
@@ -38,6 +41,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Nathan Cormier",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -60,6 +65,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Mike Laing",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 1,
       "opponent": "Anthony Wilkinson",
       "result": "L",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 2,
       "opponent": "Ryan MacDonald",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 3,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 4,
       "opponent": "David Van Hise",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 5,
       "opponent": "Reya Truher",
       "result": "W",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 1,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 2,
       "opponent": "Jack Henry",
       "result": "W",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 3,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -159,6 +173,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 4,
       "opponent": "Bradley Skubic",
       "result": "W",
@@ -170,6 +185,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 5,
       "opponent": "David Van Hise",
       "result": "L",
@@ -181,6 +197,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 1,
       "opponent": "Kenton Najdzien",
       "result": "L",
@@ -192,6 +209,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 2,
       "opponent": "Raul Bottrell-Rogers",
       "result": "L",
@@ -203,6 +221,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -214,6 +233,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Philip Petronis",
       "result": "L",
@@ -225,6 +245,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Bye",
       "result": "BYE",
@@ -235,6 +256,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 1,
       "opponent": "Josh Kibbe",
       "result": "W",
@@ -246,6 +268,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 2,
       "opponent": "Sean Marks",
       "result": "L",
@@ -257,6 +280,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 3,
       "opponent": "Nathan Choi",
       "result": "W",
@@ -268,6 +292,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 4,
       "opponent": "Robert Scannevin",
       "result": "W",
@@ -279,6 +304,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 5,
       "opponent": "Amy Altman",
       "result": "ID",

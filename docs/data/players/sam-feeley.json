@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Tom Kessler",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Dani Masom",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Amy Altman",
       "result": "L",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Jarrod Haase",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Tom Kessler",
       "result": "L",
@@ -60,6 +65,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Hex Dowd",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Stan Kornacki",
       "result": "W",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Amber Cronin",
       "result": "W",

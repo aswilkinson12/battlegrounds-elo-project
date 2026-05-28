@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Matt Rosenbloom",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Alexander Gimmi",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Matt Suyer",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Joel Brook",
       "result": "L",
@@ -60,6 +65,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Daniel Hernandez",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 1,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 2,
       "opponent": "Bye",
       "result": "BYE",
@@ -92,6 +100,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 3,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -103,6 +112,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 4,
       "opponent": "John Larochelle",
       "result": "L",
@@ -114,6 +124,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 5,
       "opponent": "Karl Rookey",
       "result": "L",
@@ -125,6 +136,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 1,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -136,6 +148,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 2,
       "opponent": "Amy Altman",
       "result": "L",
@@ -147,6 +160,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 3,
       "opponent": "Stan Kornacki",
       "result": "D",
@@ -158,6 +172,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 4,
       "opponent": "Bye",
       "result": "BYE",
@@ -168,6 +183,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 5,
       "opponent": "Sean Marks",
       "result": "L",
@@ -179,6 +195,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 1,
       "opponent": "Milo Brown",
       "result": "L",
@@ -190,6 +207,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 2,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -201,6 +219,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 3,
       "opponent": "Dani Masom",
       "result": "L",
@@ -212,6 +231,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 4,
       "opponent": "Pan Rasking",
       "result": "L",
@@ -223,6 +243,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 5,
       "opponent": "Bye",
       "result": "BYE",
@@ -233,6 +254,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Andy Perez",
       "result": "L",
@@ -244,6 +266,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -255,6 +278,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -266,6 +290,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Joseph Chung",
       "result": "W",
@@ -277,6 +302,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 5,
       "opponent": "Patrick Brooks",
       "result": "W",
@@ -288,6 +314,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Dani Masom",
       "result": "L",
@@ -299,6 +326,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Andy Perez",
       "result": "W",
@@ -310,6 +338,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Jack Henry",
       "result": "D",
@@ -321,6 +350,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Phil Iwanow",
       "result": "W",
@@ -332,6 +362,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 5,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -343,6 +374,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Sam Feeley",
       "result": "L",
@@ -354,6 +386,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Philip Watson",
       "result": "W",
@@ -365,6 +398,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Thomas Kotcher",
       "result": "L",
@@ -376,6 +410,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Milo Brown",
       "result": "W",
@@ -387,6 +422,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Stella Burfeind",
       "result": "W",
@@ -398,6 +434,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Reya Truher",
       "result": "W",
@@ -409,6 +446,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Autumn Rossa",
       "result": "L",
@@ -420,6 +458,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -431,6 +470,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 1,
       "opponent": "Jonathon Torchia",
       "result": "L",
@@ -442,6 +482,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 2,
       "opponent": "Mike Adams",
       "result": "L",
@@ -453,6 +494,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 3,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -464,6 +506,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 4,
       "opponent": "Michael Whalen",
       "result": "D",
@@ -475,6 +518,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 5,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -486,6 +530,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 1,
       "opponent": "Chris Hirt",
       "result": "L",
@@ -497,6 +542,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 2,
       "opponent": "Winston Wong",
       "result": "L",
@@ -508,6 +554,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 3,
       "opponent": "Phil Iwanow",
       "result": "L",
@@ -519,6 +566,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 4,
       "opponent": "Jack Henry",
       "result": "W",
@@ -530,6 +578,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 5,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -541,6 +590,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 1,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -552,6 +602,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 2,
       "opponent": "Bye",
       "result": "BYE",
@@ -562,6 +613,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 3,
       "opponent": "Philip Petronis",
       "result": "W",
@@ -573,6 +625,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 4,
       "opponent": "Jason Flynn",
       "result": "L",
@@ -584,6 +637,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 5,
       "opponent": "Amber Cronin",
       "result": "L",

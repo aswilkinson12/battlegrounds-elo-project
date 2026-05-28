@@ -292,11 +292,11 @@
     }
 
     // Keep current week order based on matches array (assumes matches is sorted newest week first)
-    const weekOrder = [];
-    for (const m of matches) {
-      const wk = String(m.week || "Unknown");
-      if (!weekOrder.includes(wk)) weekOrder.push(wk);
-    }
+    const weekOrder = [...new Set(
+      matches
+        .sort((a, b) => safeNum(b.week_index) - safeNum(a.week_index))
+        .map(m => String(m.week || "Unknown"))
+    )];
 
     let totalRows = 0;
 
@@ -473,7 +473,10 @@
 
       allMatches = Array.isArray(playerData.matches) ? playerData.matches : [];
       // newest first
-      allMatches.sort((a,b) => (String(b.week).localeCompare(String(a.week)) || (safeNum(b.round)-safeNum(a.round))));
+      allMatches.sort((a, b) =>
+        (safeNum(b.week_index) - safeNum(a.week_index)) ||
+        (safeNum(b.round) - safeNum(a.round))
+      );
       applyFilter();
       const media = document.getElementById("playerMedia");
 

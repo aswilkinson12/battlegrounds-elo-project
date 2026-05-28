@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 1,
       "opponent": "Shaun OBrien",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 2,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 3,
       "opponent": "Autumn Rossa",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 4,
       "opponent": "Tom Kessler",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 5,
       "opponent": "Dani Masom",
       "result": "L",

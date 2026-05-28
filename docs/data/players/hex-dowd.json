@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Alexander Gimmi",
       "result": "L",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Mike Adams",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Gina Millott",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Reya Truher",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Markis Galea",
       "result": "W",
@@ -60,6 +65,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Elias Medrano",
       "result": "W",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 1,
       "opponent": "David Van Hise",
       "result": "W",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 2,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 3,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 4,
       "opponent": "Dani Masom",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-2-13",
+      "week_index": 1,
       "round": 5,
       "opponent": "Evan Johnstone",
       "result": "L",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 1,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 2,
       "opponent": "Sean Marks",
       "result": "L",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 3,
       "opponent": "Bye",
       "result": "BYE",
@@ -158,6 +172,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 4,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -169,6 +184,7 @@
     },
     {
       "week": "26-2-20",
+      "week_index": 2,
       "round": 5,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -180,6 +196,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 1,
       "opponent": "Pan Rasking",
       "result": "W",
@@ -191,6 +208,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 2,
       "opponent": "Reya Truher",
       "result": "L",
@@ -202,6 +220,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 3,
       "opponent": "Evan Hamlin",
       "result": "L",
@@ -213,6 +232,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 4,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -224,6 +244,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 5,
       "opponent": "Kenton Najdzien",
       "result": "L",
@@ -235,6 +256,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -246,6 +268,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -257,6 +280,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Evan Johnstone",
       "result": "W",
@@ -268,6 +292,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Dani Masom",
       "result": "W",
@@ -279,6 +304,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 5,
       "opponent": "Reya Truher",
       "result": "W",
@@ -290,6 +316,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Philip Petronis",
       "result": "L",
@@ -301,6 +328,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Phil Iwanow",
       "result": "W",
@@ -312,6 +340,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "David Van Hise",
       "result": "W",
@@ -323,6 +352,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Anthony Wilkinson",
       "result": "L",
@@ -334,6 +364,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 5,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -345,6 +376,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Sean Thornton",
       "result": "W",
@@ -356,6 +388,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -367,6 +400,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Sam Feeley",
       "result": "W",
@@ -378,6 +412,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "David Van Hise",
       "result": "L",
@@ -389,6 +424,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -400,6 +436,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 1,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -411,6 +448,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 2,
       "opponent": "Reya Truher",
       "result": "L",
@@ -422,6 +460,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 3,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -433,6 +472,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 4,
       "opponent": "Bye",
       "result": "BYE",
@@ -443,6 +483,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 5,
       "opponent": "Phil Iwanow",
       "result": "L",
@@ -454,6 +495,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 1,
       "opponent": "Becca Blackwood",
       "result": "L",
@@ -465,6 +507,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 2,
       "opponent": "Chris Hirt",
       "result": "W",
@@ -476,6 +519,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 3,
       "opponent": "Philip Watson",
       "result": "W",
@@ -487,6 +531,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 4,
       "opponent": "Ran Guo",
       "result": "L",
@@ -498,6 +543,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 5,
       "opponent": "Anthony Wilkinson",
       "result": "L",
@@ -509,6 +555,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -520,6 +567,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Bassel N",
       "result": "W",
@@ -531,6 +579,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Dani Masom",
       "result": "L",
@@ -542,6 +591,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Adam Silvia",
       "result": "W",
@@ -553,6 +603,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -564,6 +615,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 1,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -575,6 +627,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 2,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -586,6 +639,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 3,
       "opponent": "Mike Adams",
       "result": "W",
@@ -597,6 +651,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 4,
       "opponent": "Will Bellows",
       "result": "L",
@@ -608,6 +663,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 5,
       "opponent": "Mike Laing",
       "result": "W",
@@ -619,6 +675,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 1,
       "opponent": "Dani Masom",
       "result": "L",
@@ -630,6 +687,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 2,
       "opponent": "Chris Hirt",
       "result": "W",
@@ -641,6 +699,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 3,
       "opponent": "Mike Laing",
       "result": "W",
@@ -652,6 +711,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 4,
       "opponent": "John Larochelle",
       "result": "W",
@@ -663,6 +723,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 5,
       "opponent": "Bradley Skubic",
       "result": "ID",
@@ -674,6 +735,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 1,
       "opponent": "Roopak Dasararaju",
       "result": "W",
@@ -685,6 +747,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 2,
       "opponent": "Amy Altman",
       "result": "L",
@@ -696,6 +759,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 3,
       "opponent": "Reya Truher",
       "result": "L",
@@ -707,6 +771,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 4,
       "opponent": "Ran Guo",
       "result": "W",
@@ -718,6 +783,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 5,
       "opponent": "Will Bellows",
       "result": "L",

@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Bye",
       "result": "BYE",
@@ -15,6 +16,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Ian Marcellana",
       "result": "L",
@@ -26,6 +28,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "Mike Adams",
       "result": "L",
@@ -37,6 +40,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Ran Guo",
       "result": "L",
@@ -48,6 +52,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Nathan Cormier",
       "result": "W",
@@ -59,6 +64,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Dani Masom",
       "result": "L",
@@ -70,6 +76,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 1,
       "opponent": "Phil Iwanow",
       "result": "L",
@@ -81,6 +88,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 2,
       "opponent": "Daniel Hernandez",
       "result": "L",
@@ -92,6 +100,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 3,
       "opponent": "Josh Kibbe",
       "result": "L",
@@ -103,6 +112,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 4,
       "opponent": "Sean Marks",
       "result": "W",
@@ -114,6 +124,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 5,
       "opponent": "Sean Thornton",
       "result": "W",
@@ -125,6 +136,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Phil Iwanow",
       "result": "L",
@@ -136,6 +148,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Robert Legree",
       "result": "L",
@@ -147,6 +160,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Pan Rasking",
       "result": "W",
@@ -158,6 +172,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Jarrod Haase",
       "result": "L",
@@ -169,6 +184,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Terry Eleftherakis",
       "result": "L",
@@ -180,6 +196,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Mike Laing",
       "result": "W",
@@ -191,6 +208,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Anthony Wilkinson",
       "result": "L",
@@ -202,6 +220,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Stella Burfeind",
       "result": "L",

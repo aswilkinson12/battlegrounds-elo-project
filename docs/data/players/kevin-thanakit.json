@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 1,
       "opponent": "Jeffrey Silver",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 2,
       "opponent": "Nathan Choi",
       "result": "W",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 3,
       "opponent": "cory wright",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 4,
       "opponent": "Kenton Najdzien",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 5,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -60,6 +65,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Amy Altman",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Bailey Sarkis",
       "result": "W",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Chris Hirt",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Jason Flynn",
       "result": "W",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Milo Brown",
       "result": "W",

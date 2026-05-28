@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 1,
       "opponent": "Sean Thornton",
       "result": "L",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 2,
       "opponent": "Evan Hamlin",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 3,
       "opponent": "Sean Marks",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-2-27",
+      "week_index": 3,
       "round": 4,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Stella Burfeind",
       "result": "W",
@@ -60,6 +65,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Ian Marcellana",
       "result": "W",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Mike Adams",
       "result": "L",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Nathan Cormier",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 5,
       "opponent": "Anthony Wilkinson",
       "result": "ID",

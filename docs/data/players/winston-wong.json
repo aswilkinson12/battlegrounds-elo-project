@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 1,
       "opponent": "Ken Cox",
       "result": "D",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 2,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 3,
       "opponent": "Becca Blackwood",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 4,
       "opponent": "Pan Rasking",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-4-03",
+      "week_index": 8,
       "round": 5,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -60,6 +65,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "jayson chandler",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Adam Silvia",
       "result": "W",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Luke Deratzou",
       "result": "L",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Jeffrey Silver",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-4-24",
+      "week_index": 10,
       "round": 1,
       "opponent": "David Van Hise",
       "result": "L",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 1,
       "opponent": "Nicholas Ailes",
       "result": "W",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 2,
       "opponent": "Ken Cox",
       "result": "W",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 3,
       "opponent": "Bradley Skubic",
       "result": "W",
@@ -159,6 +173,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 4,
       "opponent": "Taylor Pratt",
       "result": "L",
@@ -170,6 +185,7 @@
     },
     {
       "week": "26-5-01",
+      "week_index": 11,
       "round": 5,
       "opponent": "Jonathon Torchia",
       "result": "D",
@@ -181,6 +197,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 1,
       "opponent": "Sean Marks",
       "result": "L",
@@ -192,6 +209,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 2,
       "opponent": "Jarrod Haase",
       "result": "W",
@@ -203,6 +221,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 3,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -214,6 +233,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 4,
       "opponent": "Jonathon Torchia",
       "result": "L",
@@ -225,6 +245,7 @@
     },
     {
       "week": "26-5-08",
+      "week_index": 12,
       "round": 5,
       "opponent": "Jack Henry",
       "result": "W",
@@ -236,6 +257,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 1,
       "opponent": "Chris Hirt",
       "result": "L",
@@ -247,6 +269,7 @@
     },
     {
       "week": "26-5-15",
+      "week_index": 13,
       "round": 2,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -258,6 +281,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 1,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -269,6 +293,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 2,
       "opponent": "Roopak Dasararaju",
       "result": "W",
@@ -280,6 +305,7 @@
     },
     {
       "week": "26-5-22",
+      "week_index": 14,
       "round": 3,
       "opponent": "Mike Laing",
       "result": "L",

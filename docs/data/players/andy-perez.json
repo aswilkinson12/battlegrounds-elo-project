@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 1,
       "opponent": "Jarrod Haase",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 2,
       "opponent": "Mike Laing",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 3,
       "opponent": "Stan Kornacki",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 4,
       "opponent": "Robert Legree",
       "result": "W",
@@ -49,6 +53,7 @@
     },
     {
       "week": "26-3-07",
+      "week_index": 4,
       "round": 5,
       "opponent": "Logan Hesch",
       "result": "L",
@@ -60,6 +65,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Phil Iwanow",
       "result": "D",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Jarrod Haase",
       "result": "L",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Stella Burfeind",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 5,
       "opponent": "Nathan Cormier",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "David Van Hise",
       "result": "L",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Brooks Kowal",
       "result": "W",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Amy Altman",
       "result": "L",
@@ -159,6 +173,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Philip Watson",
       "result": "D",

@@ -5,6 +5,7 @@
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 1,
       "opponent": "Cameron Riley",
       "result": "W",
@@ -16,6 +17,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 2,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -27,6 +29,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 3,
       "opponent": "David Van Hise",
       "result": "W",
@@ -38,6 +41,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 4,
       "opponent": "Jack Henry",
       "result": "L",
@@ -49,6 +53,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 5,
       "opponent": "Benjamin Wakefield",
       "result": "W",
@@ -60,6 +65,7 @@
     },
     {
       "week": "25-12-6_brainstormin_charity_tournament",
+      "week_index": 0,
       "round": 6,
       "opponent": "Joel Brook",
       "result": "L",
@@ -71,6 +77,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 1,
       "opponent": "Bradley Skubic",
       "result": "L",
@@ -82,6 +89,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 2,
       "opponent": "Daniel Hernandez",
       "result": "W",
@@ -93,6 +101,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 3,
       "opponent": "Logan Hesch",
       "result": "W",
@@ -104,6 +113,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 4,
       "opponent": "Becca Blackwood",
       "result": "L",
@@ -115,6 +125,7 @@
     },
     {
       "week": "26-3-13",
+      "week_index": 5,
       "round": 5,
       "opponent": "James Farley",
       "result": "W",
@@ -126,6 +137,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 1,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -137,6 +149,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 2,
       "opponent": "Becca Blackwood",
       "result": "L",
@@ -148,6 +161,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 3,
       "opponent": "Gina Millott",
       "result": "W",
@@ -159,6 +173,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 4,
       "opponent": "Thomas Kotcher",
       "result": "W",
@@ -170,6 +185,7 @@
     },
     {
       "week": "26-3-20",
+      "week_index": 6,
       "round": 5,
       "opponent": "Devon O’Donnell",
       "result": "L",
@@ -181,6 +197,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 1,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -192,6 +209,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 2,
       "opponent": "Isharah Considine",
       "result": "W",
@@ -203,6 +221,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 3,
       "opponent": "Nathan Choi",
       "result": "L",
@@ -214,6 +233,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 4,
       "opponent": "Philip Petronis",
       "result": "L",
@@ -225,6 +245,7 @@
     },
     {
       "week": "26-3-27",
+      "week_index": 7,
       "round": 5,
       "opponent": "Reya Truher",
       "result": "L",
@@ -236,6 +257,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 1,
       "opponent": "Stan Kornacki",
       "result": "L",
@@ -247,6 +269,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 2,
       "opponent": "Stella Burfeind",
       "result": "L",
@@ -258,6 +281,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 3,
       "opponent": "Sean Thornton",
       "result": "W",
@@ -269,6 +293,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 4,
       "opponent": "Jonathon Torchia",
       "result": "W",
@@ -280,6 +305,7 @@
     },
     {
       "week": "26-4-10",
+      "week_index": 9,
       "round": 5,
       "opponent": "Philip Petronis",
       "result": "L",
