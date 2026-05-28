@@ -1,13 +1,5 @@
 [
   {
-    "player": "Devon O’Donnell",
-    "elo": 1776.14,
-    "matches": 40,
-    "wins": 33,
-    "losses": 7,
-    "draws": 0
-  },
-  {
     "player": "Amy Altman",
     "elo": 1710.82,
     "matches": 56,
@@ -40,27 +32,11 @@
     "draws": 1
   },
   {
-    "player": "Luke Deratzou",
-    "elo": 1639.6,
-    "matches": 11,
-    "wins": 9,
-    "losses": 2,
-    "draws": 0
-  },
-  {
     "player": "Kevin Thanakit",
     "elo": 1621.64,
     "matches": 10,
     "wins": 8,
     "losses": 2,
-    "draws": 0
-  },
-  {
-    "player": "Will Bellows",
-    "elo": 1614.66,
-    "matches": 20,
-    "wins": 14,
-    "losses": 6,
     "draws": 0
   },
   {
@@ -102,61 +78,5 @@
     "wins": 45,
     "losses": 22,
     "draws": 4
-  },
-  {
-    "player": "Chris Hirt",
-    "elo": 1582.94,
-    "matches": 21,
-    "wins": 10,
-    "losses": 8,
-    "draws": 3
-  },
-  {
-    "player": "Veronica Kirtley",
-    "elo": 1580.51,
-    "matches": 21,
-    "wins": 12,
-    "losses": 8,
-    "draws": 1
-  },
-  {
-    "player": "Sam White",
-    "elo": 1576.0,
-    "matches": 6,
-    "wins": 5,
-    "losses": 1,
-    "draws": 0
-  },
-  {
-    "player": "Etai Kurtzman",
-    "elo": 1575.99,
-    "matches": 6,
-    "wins": 5,
-    "losses": 1,
-    "draws": 0
-  },
-  {
-    "player": "Taylor Pratt",
-    "elo": 1574.08,
-    "matches": 10,
-    "wins": 7,
-    "losses": 2,
-    "draws": 1
-  },
-  {
-    "player": "mavin liu",
-    "elo": 1574.04,
-    "matches": 6,
-    "wins": 4,
-    "losses": 0,
-    "draws": 2
-  },
-  {
-    "player": "Nathan C",
-    "elo": 1565.92,
-    "matches": 11,
-    "wins": 7,
-    "losses": 3,
-    "draws": 1
   }
 ]
