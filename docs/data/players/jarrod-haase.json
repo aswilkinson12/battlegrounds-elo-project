@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1379.19,
-  "matches_count": 50,
+  "elo": 1343.02,
+  "matches_count": 53,
   "wins": 15,
-  "losses": 32,
+  "losses": 35,
   "draws": 3,
   "matches": [
     {
@@ -649,6 +649,53 @@
       "elo_before": 1394.6667,
       "elo_after": 1379.1886,
       "opp_elo": 1459.8225,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1379.1886,
+      "elo_after": 1366.5413,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1366.5413,
+      "elo_after": 1354.5007,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1354.5007,
+      "elo_after": 1354.5007,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 4,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1354.5007,
+      "elo_after": 1343.0229,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

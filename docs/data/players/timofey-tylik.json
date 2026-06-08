@@ -1,11 +1,11 @@
 {
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
-  "elo": 1510.5,
-  "matches_count": 9,
-  "wins": 4,
+  "elo": 1576.24,
+  "matches_count": 14,
+  "wins": 8,
   "losses": 4,
-  "draws": 1,
+  "draws": 2,
   "matches": [
     {
       "week": "26-2-27",
@@ -113,6 +113,66 @@
       "elo_before": 1510.5006,
       "elo_after": 1510.5006,
       "opp_elo": 1717.5595,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Vina Macias",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1510.5006,
+      "elo_after": 1528.9265,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1528.9265,
+      "elo_after": 1545.036,
+      "opp_elo": 1475.6568,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.036,
+      "elo_after": 1560.5149,
+      "opp_elo": 1479.8953,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.5149,
+      "elo_after": 1576.2386,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "David Van Hise",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1576.2386,
+      "elo_after": 1576.2386,
+      "opp_elo": 1695.8554,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1541.25,
-  "matches_count": 57,
-  "wins": 29,
-  "losses": 27,
+  "elo": 1648.27,
+  "matches_count": 66,
+  "wins": 37,
+  "losses": 28,
   "draws": 1,
   "matches": [
     {
@@ -711,6 +711,114 @@
       "elo_before": 1560.2786,
       "elo_after": 1541.2515,
       "opp_elo": 1559.7839,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 1,
+      "opponent": "Dylan Shanes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1541.2515,
+      "elo_after": 1558.0062,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1558.0062,
+      "elo_after": 1573.8632,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.8632,
+      "elo_after": 1595.8023,
+      "opp_elo": 1628.043,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1595.8023,
+      "elo_after": 1611.5751,
+      "opp_elo": 1536.2117,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1611.5751,
+      "elo_after": 1587.3663,
+      "opp_elo": 1513.8282,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Vina Macias",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1587.3663,
+      "elo_after": 1601.6868,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1601.6868,
+      "elo_after": 1615.2795,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1615.2795,
+      "elo_after": 1626.5115,
+      "opp_elo": 1464.4164,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1626.5115,
+      "elo_after": 1648.2742,
+      "opp_elo": 1677.3911,
       "is_bye": false
     }
   ]

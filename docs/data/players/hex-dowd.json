@@ -1,10 +1,10 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1513.83,
-  "matches_count": 64,
-  "wins": 28,
-  "losses": 35,
+  "elo": 1508.14,
+  "matches_count": 69,
+  "wins": 30,
+  "losses": 38,
   "draws": 1,
   "matches": [
     {
@@ -794,6 +794,66 @@
       "score": 0.0,
       "elo_before": 1534.7207,
       "elo_after": 1513.8282,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1513.8282,
+      "elo_after": 1538.0369,
+      "opp_elo": 1611.5751,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.0369,
+      "elo_after": 1554.9651,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1554.9651,
+      "elo_after": 1541.2148,
+      "opp_elo": 1653.5234,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.2148,
+      "elo_after": 1528.7059,
+      "opp_elo": 1664.8822,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1528.7059,
+      "elo_after": 1508.1396,
       "opp_elo": 1500.0,
       "is_bye": false
     }

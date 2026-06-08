@@ -1,10 +1,10 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1683.52,
-  "matches_count": 56,
-  "wins": 34,
-  "losses": 15,
+  "elo": 1672.51,
+  "matches_count": 61,
+  "wins": 37,
+  "losses": 17,
   "draws": 7,
   "matches": [
     {
@@ -677,6 +677,66 @@
       "elo_before": 1683.5244,
       "elo_after": 1683.5244,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Alexandra Polinsky",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1683.5244,
+      "elo_after": 1693.328,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1693.328,
+      "elo_after": 1672.3736,
+      "opp_elo": 1657.4641,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1672.3736,
+      "elo_after": 1684.3178,
+      "opp_elo": 1536.8748,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1684.3178,
+      "elo_after": 1656.0882,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1656.0882,
+      "elo_after": 1672.513,
+      "opp_elo": 1608.7058,
       "is_bye": false
     }
   ]

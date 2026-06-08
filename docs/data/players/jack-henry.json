@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1396.46,
-  "matches_count": 36,
-  "wins": 13,
-  "losses": 22,
+  "elo": 1419.47,
+  "matches_count": 44,
+  "wins": 16,
+  "losses": 27,
   "draws": 1,
   "matches": [
     {
@@ -437,6 +437,113 @@
       "elo_before": 1411.6139,
       "elo_after": 1396.4555,
       "opp_elo": 1482.8435,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 1,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1396.4555,
+      "elo_after": 1382.9561,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1382.9561,
+      "elo_after": 1382.9561,
+      "opp_elo": null
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1382.9561,
+      "elo_after": 1370.1252,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1370.1252,
+      "elo_after": 1356.7718,
+      "opp_elo": 1476.5908,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1356.7718,
+      "elo_after": 1383.5753,
+      "opp_elo": 1508.4157,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1383.5753,
+      "elo_after": 1411.578,
+      "opp_elo": 1562.5023,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1411.578,
+      "elo_after": 1442.3687,
+      "opp_elo": 1663.7898,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1442.3687,
+      "elo_after": 1434.9506,
+      "opp_elo": 1688.4373,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Brian Kennes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1434.9506,
+      "elo_after": 1419.4669,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

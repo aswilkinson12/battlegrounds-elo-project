@@ -1,10 +1,10 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1662.28,
-  "matches_count": 65,
-  "wins": 43,
-  "losses": 18,
+  "elo": 1655.63,
+  "matches_count": 70,
+  "wins": 46,
+  "losses": 20,
   "draws": 4,
   "matches": [
     {
@@ -785,6 +785,66 @@
       "elo_before": 1651.0539,
       "elo_after": 1662.2772,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1662.2772,
+      "elo_after": 1675.1185,
+      "opp_elo": 1545.4462,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1675.1185,
+      "elo_after": 1653.7827,
+      "opp_elo": 1632.1876,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1653.7827,
+      "elo_after": 1664.8822,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1664.8822,
+      "elo_after": 1677.3911,
+      "opp_elo": 1541.2148,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1677.3911,
+      "elo_after": 1655.6284,
+      "opp_elo": 1626.5115,
       "is_bye": false
     }
   ]

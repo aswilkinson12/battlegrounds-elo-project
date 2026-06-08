@@ -1,10 +1,10 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1597.03,
-  "matches_count": 41,
-  "wins": 25,
-  "losses": 10,
+  "elo": 1540.01,
+  "matches_count": 45,
+  "wins": 26,
+  "losses": 13,
   "draws": 6,
   "matches": [
     {
@@ -497,6 +497,54 @@
       "elo_before": 1576.1556,
       "elo_after": 1597.0314,
       "opp_elo": 1610.5691,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Clifford Macdonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1597.0314,
+      "elo_after": 1610.8589,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Anna Murphy",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1610.8589,
+      "elo_after": 1585.9941,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1585.9941,
+      "elo_after": 1562.3851,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Vina Macias",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1562.3851,
+      "elo_after": 1540.0097,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

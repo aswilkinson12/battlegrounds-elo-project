@@ -1,10 +1,10 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1639.6,
-  "matches_count": 30,
-  "wins": 20,
-  "losses": 9,
+  "elo": 1592.28,
+  "matches_count": 35,
+  "wins": 22,
+  "losses": 12,
   "draws": 1,
   "matches": [
     {
@@ -365,6 +365,66 @@
       "elo_before": 1626.2477,
       "elo_after": 1639.6015,
       "opp_elo": 1519.7884,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Kevin Petriello",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1639.6015,
+      "elo_after": 1651.3531,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1651.3531,
+      "elo_after": 1663.7898,
+      "opp_elo": 1526.1891,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1663.7898,
+      "elo_after": 1632.9991,
+      "opp_elo": 1411.578,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1632.9991,
+      "elo_after": 1608.7058,
+      "opp_elo": 1533.5771,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1608.7058,
+      "elo_after": 1592.281,
+      "opp_elo": 1656.0882,
       "is_bye": false
     }
   ]

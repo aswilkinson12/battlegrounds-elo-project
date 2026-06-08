@@ -1,10 +1,10 @@
 {
   "player": "Ryan MacDonald",
   "slug": "ryan-macdonald",
-  "elo": 1507.6,
-  "matches_count": 9,
-  "wins": 5,
-  "losses": 4,
+  "elo": 1496.48,
+  "matches_count": 14,
+  "wins": 7,
+  "losses": 7,
   "draws": 0,
   "matches": [
     {
@@ -113,6 +113,66 @@
       "elo_before": 1528.1404,
       "elo_after": 1507.6049,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.6049,
+      "elo_after": 1526.1891,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1526.1891,
+      "elo_after": 1513.7523,
+      "opp_elo": 1651.3531,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1513.7523,
+      "elo_after": 1533.8856,
+      "opp_elo": 1534.4996,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Anna Murphy",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1533.8856,
+      "elo_after": 1513.0383,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.0383,
+      "elo_after": 1496.4765,
+      "opp_elo": 1557.8705,
       "is_bye": false
     }
   ]

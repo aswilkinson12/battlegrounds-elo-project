@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1492.37,
-  "matches_count": 47,
-  "wins": 22,
-  "losses": 23,
+  "elo": 1489.94,
+  "matches_count": 51,
+  "wins": 24,
+  "losses": 25,
   "draws": 2,
   "matches": [
     {
@@ -569,6 +569,54 @@
       "elo_before": 1512.0226,
       "elo_after": 1492.3654,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1492.3654,
+      "elo_after": 1472.6597,
+      "opp_elo": 1479.4548,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 2,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.6597,
+      "elo_after": 1455.1517,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 3,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1455.1517,
+      "elo_after": 1476.5908,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.5908,
+      "elo_after": 1489.9442,
+      "opp_elo": 1370.1252,
       "is_bye": false
     }
   ]

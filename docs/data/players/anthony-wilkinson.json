@@ -1,10 +1,10 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1589.69,
-  "matches_count": 71,
-  "wins": 45,
-  "losses": 22,
+  "elo": 1553.06,
+  "matches_count": 76,
+  "wins": 47,
+  "losses": 25,
   "draws": 4,
   "matches": [
     {
@@ -857,6 +857,66 @@
       "elo_before": 1610.5691,
       "elo_after": 1589.6933,
       "opp_elo": 1576.1556,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1589.6933,
+      "elo_after": 1565.8944,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1565.8944,
+      "elo_after": 1583.0795,
+      "opp_elo": 1532.6049,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1583.0795,
+      "elo_after": 1559.6208,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.6208,
+      "elo_after": 1576.1599,
+      "opp_elo": 1514.3663,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.1599,
+      "elo_after": 1553.0604,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

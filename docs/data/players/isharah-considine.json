@@ -1,10 +1,10 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1540.09,
-  "matches_count": 25,
-  "wins": 13,
-  "losses": 11,
+  "elo": 1518.79,
+  "matches_count": 30,
+  "wins": 15,
+  "losses": 14,
   "draws": 1,
   "matches": [
     {
@@ -316,6 +316,66 @@
       "elo_before": 1540.0905,
       "elo_after": 1540.0905,
       "opp_elo": 1630.9574,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Anna Murphy",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1540.0905,
+      "elo_after": 1518.9077,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.9077,
+      "elo_after": 1536.8748,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1536.8748,
+      "elo_after": 1524.9305,
+      "opp_elo": 1672.3736,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1524.9305,
+      "elo_after": 1542.5695,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1542.5695,
+      "elo_after": 1518.7864,
+      "opp_elo": 1453.1844,
       "is_bye": false
     }
   ]

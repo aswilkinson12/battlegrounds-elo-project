@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1479.45,
-  "matches_count": 57,
-  "wins": 25,
-  "losses": 25,
+  "elo": 1468.17,
+  "matches_count": 64,
+  "wins": 28,
+  "losses": 29,
   "draws": 7,
   "matches": [
     {
@@ -712,6 +712,90 @@
       "elo_before": 1479.4548,
       "elo_after": 1479.4548,
       "opp_elo": null
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1479.4548,
+      "elo_after": 1499.1605,
+      "opp_elo": 1492.3654,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.1605,
+      "elo_after": 1518.2064,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1518.2064,
+      "elo_after": 1536.2117,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-5-29",
+      "week_index": 15,
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1536.2117,
+      "elo_after": 1520.4389,
+      "opp_elo": 1595.8023,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.4389,
+      "elo_after": 1507.973,
+      "opp_elo": 1644.9983,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1507.973,
+      "elo_after": 1488.5371,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1488.5371,
+      "elo_after": 1468.1698,
+      "opp_elo": 1463.4916,
+      "is_bye": false
     }
   ]
 }

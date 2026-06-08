@@ -1,10 +1,10 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1436.19,
-  "matches_count": 51,
-  "wins": 16,
-  "losses": 31,
+  "elo": 1476.97,
+  "matches_count": 56,
+  "wins": 19,
+  "losses": 33,
   "draws": 4,
   "matches": [
     {
@@ -617,6 +617,66 @@
       "elo_before": 1452.6185,
       "elo_after": 1436.1937,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1436.1937,
+      "elo_after": 1458.6443,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Josh Kibbe",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1458.6443,
+      "elo_after": 1479.8953,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Timofey Tylik",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1479.8953,
+      "elo_after": 1464.4164,
+      "opp_elo": 1545.036,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1464.4164,
+      "elo_after": 1453.1844,
+      "opp_elo": 1615.2795,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1453.1844,
+      "elo_after": 1476.9675,
+      "opp_elo": 1542.5695,
       "is_bye": false
     }
   ]

@@ -1,11 +1,11 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1645.0,
-  "matches_count": 39,
-  "wins": 27,
+  "elo": 1695.86,
+  "matches_count": 44,
+  "wins": 31,
   "losses": 12,
-  "draws": 0,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -473,6 +473,66 @@
       "elo_before": 1672.7362,
       "elo_after": 1644.9983,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1644.9983,
+      "elo_after": 1657.4641,
+      "opp_elo": 1520.4389,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1657.4641,
+      "elo_after": 1678.4185,
+      "opp_elo": 1693.328,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Anna Murphy",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1678.4185,
+      "elo_after": 1688.4373,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1688.4373,
+      "elo_after": 1695.8554,
+      "opp_elo": 1442.3687,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Timofey Tylik",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1695.8554,
+      "elo_after": 1695.8554,
+      "opp_elo": 1576.2386,
       "is_bye": false
     }
   ]

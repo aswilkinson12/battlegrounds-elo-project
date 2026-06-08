@@ -1,10 +1,10 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1504.28,
-  "matches_count": 58,
-  "wins": 27,
-  "losses": 30,
+  "elo": 1465.74,
+  "matches_count": 62,
+  "wins": 28,
+  "losses": 33,
   "draws": 1,
   "matches": [
     {
@@ -712,6 +712,54 @@
       "elo_before": 1484.1535,
       "elo_after": 1504.277,
       "opp_elo": 1504.722,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1504.277,
+      "elo_after": 1482.5424,
+      "opp_elo": 1453.9222,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.5424,
+      "elo_after": 1463.4916,
+      "opp_elo": 1481.6122,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1463.4916,
+      "elo_after": 1483.8588,
+      "opp_elo": 1488.5371,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1483.8588,
+      "elo_after": 1465.7409,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

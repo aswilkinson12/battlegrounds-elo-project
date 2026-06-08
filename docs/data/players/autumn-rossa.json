@@ -1,10 +1,10 @@
 {
   "player": "Autumn Rossa",
   "slug": "autumn-rossa",
-  "elo": 1508.42,
-  "matches_count": 18,
-  "wins": 9,
-  "losses": 7,
+  "elo": 1514.54,
+  "matches_count": 23,
+  "wins": 12,
+  "losses": 9,
   "draws": 2,
   "matches": [
     {
@@ -221,6 +221,66 @@
       "elo_before": 1528.7227,
       "elo_after": 1508.4157,
       "opp_elo": 1504.7848,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1508.4157,
+      "elo_after": 1481.6122,
+      "opp_elo": 1356.7718,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1481.6122,
+      "elo_after": 1500.663,
+      "opp_elo": 1482.5424,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.663,
+      "elo_after": 1517.425,
+      "opp_elo": 1459.5473,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Brian Kennes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1517.425,
+      "elo_after": 1535.4729,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1535.4729,
+      "elo_after": 1514.5397,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

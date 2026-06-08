@@ -1,10 +1,10 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1421.91,
-  "matches_count": 22,
-  "wins": 7,
-  "losses": 14,
+  "elo": 1456.19,
+  "matches_count": 27,
+  "wins": 10,
+  "losses": 16,
   "draws": 1,
   "matches": [
     {
@@ -291,6 +291,66 @@
       "elo_before": 1440.9536,
       "elo_after": 1421.9146,
       "opp_elo": 1440.2408,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Josh Kibbe",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1421.9146,
+      "elo_after": 1445.1144,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1445.1144,
+      "elo_after": 1467.0912,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1467.0912,
+      "elo_after": 1449.8855,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1449.8855,
+      "elo_after": 1433.6072,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-5",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1433.6072,
+      "elo_after": 1456.1944,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]
