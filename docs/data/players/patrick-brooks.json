@@ -1,7 +1,7 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1499.41,
+  "elo": 1499.37,
   "matches_count": 19,
   "wins": 8,
   "losses": 10,
@@ -239,10 +239,10 @@
       "week_index": 18,
       "round": 5,
       "opponent": "Neal Jiwnani",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1499.3711,
-      "elo_after": 1499.4055,
+      "elo_after": 1499.3711,
       "opp_elo": 1500.0,
       "is_bye": false
     }

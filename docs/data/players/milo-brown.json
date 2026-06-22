@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1648.64,
+  "elo": 1654.13,
   "matches_count": 55,
   "wins": 34,
   "losses": 14,
@@ -660,10 +660,10 @@
       "week_index": 18,
       "round": 5,
       "opponent": "Logan Hesch",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1654.128,
-      "elo_after": 1648.6398,
+      "elo_after": 1654.128,
       "opp_elo": 1550.8312,
       "is_bye": false
     }

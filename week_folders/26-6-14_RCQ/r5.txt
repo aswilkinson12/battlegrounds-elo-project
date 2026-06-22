@@ -5,10 +5,10 @@ Table  Player                       Opponent                     Points
        Jarrod Haase                ***Bye***                    6       
 1      Michael Stopa                Sam White                    11-11   
 2      Sean Marks                   Devon O’Donnell              11-11   
-3      Patrick Brooks               Neal Jiwnani                 10-10   
-4      Taylor Pratt                 Dylan Shanes                 10-10   
+3      Patrick Brooks               Neal Jiwnani                 10-10 ID  
+4      Taylor Pratt                 Dylan Shanes                 10-10 ID  
 5      Chris Hirt                   Brian Kennes                 9-6     
-6      Logan Hesch                  Milo Brown                   7-7     
+6      Logan Hesch                  Milo Brown                   7-7 ID    
 7      Ran Guo                      Timofey Tylik                9-6     
 8      Hex Dowd                     Andrew Gallien               6-9     
 9      Nathan Choi                  Nathan Cormier               9-6     

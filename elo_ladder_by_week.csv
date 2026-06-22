@@ -568,7 +568,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-29,Logan Hesch,1561.21,39,23,16,0,0.0
 26-6-05,Logan Hesch,1561.21,39,23,16,0,0.0
 26-6-12,Logan Hesch,1561.21,39,23,16,0,0.0
-26-6-14_RCQ,Logan Hesch,1554.82,44,25,18,1,-6.39
+26-6-14_RCQ,Logan Hesch,1550.57,43,25,18,0,-10.64
 25-12-6_brainstormin_charity_tournament,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-13,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-20,Lucas Yang,1500.0,0,0,0,0,0.0
@@ -644,7 +644,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-29,Milo Brown,1610.64,37,25,11,1,16.1
 26-6-05,Milo Brown,1660.75,41,29,11,1,50.11
 26-6-12,Milo Brown,1677.27,45,32,12,1,16.52
-26-6-14_RCQ,Milo Brown,1640.93,50,34,14,2,-36.34
+26-6-14_RCQ,Milo Brown,1645.18,49,34,14,1,-32.09
 25-12-6_brainstormin_charity_tournament,Nathan Choi,1529.14,6,4,2,0,0.0
 26-2-13,Nathan Choi,1553.1,11,7,3,1,23.97
 26-2-20,Nathan Choi,1553.1,11,7,3,1,0.0
@@ -720,7 +720,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-29,Patrick Brooks,1444.74,14,5,9,0,0.0
 26-6-05,Patrick Brooks,1444.74,14,5,9,0,0.0
 26-6-12,Patrick Brooks,1444.74,14,5,9,0,0.0
-26-6-14_RCQ,Patrick Brooks,1496.0,19,8,10,1,51.26
+26-6-14_RCQ,Patrick Brooks,1495.81,18,8,10,0,51.07
 25-12-6_brainstormin_charity_tournament,Phil iwanow,1453.38,6,1,4,1,0.0
 26-2-13,Phil iwanow,1426.27,8,1,6,1,-27.11
 26-2-20,Phil iwanow,1426.27,8,1,6,1,0.0
@@ -948,7 +948,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-29,Taylor Pratt,1559.71,10,7,2,1,0.0
 26-6-05,Taylor Pratt,1559.71,10,7,2,1,0.0
 26-6-12,Taylor Pratt,1559.71,10,7,2,1,0.0
-26-6-14_RCQ,Taylor Pratt,1574.4,15,10,3,2,14.69
+26-6-14_RCQ,Taylor Pratt,1577.93,14,10,3,1,18.22
 25-12-6_brainstormin_charity_tournament,Terry Eleftherakis,1470.07,4,1,3,0,0.0
 26-2-13,Terry Eleftherakis,1493.04,9,4,5,0,22.97
 26-2-20,Terry Eleftherakis,1493.04,9,4,5,0,0.0

@@ -1,7 +1,7 @@
 {
   "player": "Taylor Pratt",
   "slug": "taylor-pratt",
-  "elo": 1583.35,
+  "elo": 1588.06,
   "matches_count": 15,
   "wins": 10,
   "losses": 3,
@@ -180,10 +180,10 @@
       "week_index": 18,
       "round": 5,
       "opponent": "Dylan Shanes",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1588.0613,
-      "elo_after": 1583.3461,
+      "elo_after": 1588.0613,
       "opp_elo": 1500.0,
       "is_bye": false
     }

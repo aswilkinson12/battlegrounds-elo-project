@@ -33,7 +33,7 @@
   },
   {
     "player": "Milo Brown",
-    "elo": 1648.64,
+    "elo": 1654.13,
     "matches": 55,
     "wins": 34,
     "losses": 14,
@@ -57,7 +57,7 @@
   },
   {
     "player": "Taylor Pratt",
-    "elo": 1583.35,
+    "elo": 1588.06,
     "matches": 15,
     "wins": 10,
     "losses": 3,
@@ -112,20 +112,20 @@
     "draws": 2
   },
   {
-    "player": "Logan Hesch",
-    "elo": 1556.32,
-    "matches": 44,
-    "wins": 25,
-    "losses": 18,
-    "draws": 1
-  },
-  {
     "player": "Ethan Ford",
     "elo": 1555.37,
     "matches": 5,
     "wins": 4,
     "losses": 1,
     "draws": 0
+  },
+  {
+    "player": "Logan Hesch",
+    "elo": 1550.83,
+    "matches": 44,
+    "wins": 25,
+    "losses": 18,
+    "draws": 1
   },
   {
     "player": "Jeffrey Silver",
@@ -225,7 +225,7 @@
   },
   {
     "player": "Patrick Brooks",
-    "elo": 1499.41,
+    "elo": 1499.37,
     "matches": 19,
     "wins": 8,
     "losses": 10,
