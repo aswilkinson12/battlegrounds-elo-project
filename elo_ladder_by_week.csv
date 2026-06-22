@@ -16,7 +16,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Amber Cronin,1430.15,22,7,14,1,-44.95
 26-5-29,Amber Cronin,1430.15,22,7,14,1,0.0
 26-6-12,Amber Cronin,1430.15,22,7,14,1,0.0
-26-6-13_RCQ,Amber Cronin,1405.54,27,8,18,1,-24.61
+26-6-14_RCQ,Amber Cronin,1405.54,27,8,18,1,-24.61
 26-6-5,Amber Cronin,1438.44,32,11,20,1,32.9
 25-12-6_brainstormin_charity_tournament,Amy Altman,1528.68,6,4,2,0,0.0
 26-2-13,Amy Altman,1541.85,11,7,4,0,13.16
@@ -35,7 +35,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Amy Altman,1667.2,49,34,15,0,45.25
 26-5-29,Amy Altman,1667.2,49,34,15,0,0.0
 26-6-12,Amy Altman,1667.2,49,34,15,0,0.0
-26-6-13_RCQ,Amy Altman,1667.2,49,34,15,0,0.0
+26-6-14_RCQ,Amy Altman,1667.2,49,34,15,0,0.0
 26-6-5,Amy Altman,1659.53,54,37,17,0,-7.66
 25-12-6_brainstormin_charity_tournament,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-13,Andy Perez,1500.0,0,0,0,0,0.0
@@ -54,7 +54,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Andy Perez,1464.32,15,5,8,2,0.0
 26-5-29,Andy Perez,1464.32,15,5,8,2,0.0
 26-6-12,Andy Perez,1464.32,15,5,8,2,0.0
-26-6-13_RCQ,Andy Perez,1464.32,15,5,8,2,0.0
+26-6-14_RCQ,Andy Perez,1464.32,15,5,8,2,0.0
 26-6-5,Andy Perez,1464.32,15,5,8,2,0.0
 25-12-6_brainstormin_charity_tournament,Anthony Wilkinson,1529.68,6,4,2,0,0.0
 26-2-13,Anthony Wilkinson,1586.06,11,8,2,1,56.38
@@ -73,7 +73,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Anthony Wilkinson,1591.09,68,45,22,1,-31.97
 26-5-29,Anthony Wilkinson,1591.09,68,45,22,1,0.0
 26-6-12,Anthony Wilkinson,1598.93,73,48,24,1,7.83
-26-6-13_RCQ,Anthony Wilkinson,1530.71,78,49,28,1,-68.22
+26-6-14_RCQ,Anthony Wilkinson,1530.71,78,49,28,1,-68.22
 26-6-5,Anthony Wilkinson,1511.63,83,51,31,1,-19.08
 25-12-6_brainstormin_charity_tournament,Austin Wolf,1499.16,6,3,3,0,0.0
 26-2-13,Austin Wolf,1499.16,6,3,3,0,0.0
@@ -92,7 +92,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Austin Wolf,1499.16,6,3,3,0,0.0
 26-5-29,Austin Wolf,1499.16,6,3,3,0,0.0
 26-6-12,Austin Wolf,1499.16,6,3,3,0,0.0
-26-6-13_RCQ,Austin Wolf,1499.16,6,3,3,0,0.0
+26-6-14_RCQ,Austin Wolf,1499.16,6,3,3,0,0.0
 26-6-5,Austin Wolf,1499.16,6,3,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Autumn Rossa,1500.0,0,0,0,0,0.0
 26-2-13,Autumn Rossa,1500.0,0,0,0,0,0.0
@@ -111,7 +111,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Autumn Rossa,1510.3,17,9,7,1,-53.25
 26-5-29,Autumn Rossa,1510.3,17,9,7,1,0.0
 26-6-12,Autumn Rossa,1510.3,17,9,7,1,0.0
-26-6-13_RCQ,Autumn Rossa,1510.3,17,9,7,1,0.0
+26-6-14_RCQ,Autumn Rossa,1510.3,17,9,7,1,0.0
 26-6-5,Autumn Rossa,1515.2,22,12,9,1,4.9
 25-12-6_brainstormin_charity_tournament,Bailey Sarkis,1500.0,0,0,0,0,0.0
 26-2-13,Bailey Sarkis,1500.0,0,0,0,0,0.0
@@ -130,7 +130,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Bailey Sarkis,1516.67,7,4,3,0,0.0
 26-5-29,Bailey Sarkis,1516.67,7,4,3,0,0.0
 26-6-12,Bailey Sarkis,1516.67,7,4,3,0,0.0
-26-6-13_RCQ,Bailey Sarkis,1516.67,7,4,3,0,0.0
+26-6-14_RCQ,Bailey Sarkis,1516.67,7,4,3,0,0.0
 26-6-5,Bailey Sarkis,1516.67,7,4,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Becca Blackwood,1527.12,6,4,2,0,0.0
 26-2-13,Becca Blackwood,1492.36,10,5,5,0,-34.76
@@ -149,7 +149,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Becca Blackwood,1583.6,49,29,19,1,38.22
 26-5-29,Becca Blackwood,1583.6,49,29,19,1,0.0
 26-6-12,Becca Blackwood,1583.6,49,29,19,1,0.0
-26-6-13_RCQ,Becca Blackwood,1583.6,49,29,19,1,0.0
+26-6-14_RCQ,Becca Blackwood,1583.6,49,29,19,1,0.0
 26-6-5,Becca Blackwood,1583.6,49,29,19,1,0.0
 25-12-6_brainstormin_charity_tournament,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-13,Bradley Skubic,1563.9,4,4,0,0,0.0
@@ -168,7 +168,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Bradley Skubic,1594.94,37,25,10,2,0.48
 26-5-29,Bradley Skubic,1594.94,37,25,10,2,0.0
 26-6-12,Bradley Skubic,1613.73,41,28,11,2,18.79
-26-6-13_RCQ,Bradley Skubic,1613.73,41,28,11,2,0.0
+26-6-14_RCQ,Bradley Skubic,1613.73,41,28,11,2,0.0
 26-6-5,Bradley Skubic,1562.81,45,29,14,2,-50.91
 25-12-6_brainstormin_charity_tournament,Dani Masom,1500.13,6,3,3,0,0.0
 26-2-13,Dani Masom,1487.87,11,5,6,0,-12.26
@@ -187,7 +187,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Dani Masom,1501.35,58,27,30,1,26.48
 26-5-29,Dani Masom,1501.35,58,27,30,1,0.0
 26-6-12,Dani Masom,1501.35,58,27,30,1,0.0
-26-6-13_RCQ,Dani Masom,1501.35,58,27,30,1,0.0
+26-6-14_RCQ,Dani Masom,1501.35,58,27,30,1,0.0
 26-6-5,Dani Masom,1467.78,62,28,33,1,-33.57
 25-12-6_brainstormin_charity_tournament,Daniel Hernandez,1500.61,6,3,3,0,0.0
 26-2-13,Daniel Hernandez,1455.86,9,3,6,0,-44.74
@@ -206,7 +206,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Daniel Hernandez,1291.78,53,13,39,1,0.0
 26-5-29,Daniel Hernandez,1291.78,53,13,39,1,0.0
 26-6-12,Daniel Hernandez,1291.78,53,13,39,1,0.0
-26-6-13_RCQ,Daniel Hernandez,1291.78,53,13,39,1,0.0
+26-6-14_RCQ,Daniel Hernandez,1291.78,53,13,39,1,0.0
 26-6-5,Daniel Hernandez,1291.78,53,13,39,1,0.0
 25-12-6_brainstormin_charity_tournament,David Van Hise,1484.8,5,2,3,0,0.0
 26-2-13,David Van Hise,1536.98,10,6,4,0,52.18
@@ -225,7 +225,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,David Van Hise,1634.25,39,27,12,0,0.0
 26-5-29,David Van Hise,1634.25,39,27,12,0,0.0
 26-6-12,David Van Hise,1634.25,39,27,12,0,0.0
-26-6-13_RCQ,David Van Hise,1634.25,39,27,12,0,0.0
+26-6-14_RCQ,David Van Hise,1634.25,39,27,12,0,0.0
 26-6-5,David Van Hise,1676.35,43,31,12,0,42.1
 25-12-6_brainstormin_charity_tournament,Elias Medrano,1470.02,6,2,4,0,0.0
 26-2-13,Elias Medrano,1470.02,6,2,4,0,0.0
@@ -244,7 +244,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Elias Medrano,1470.02,6,2,4,0,0.0
 26-5-29,Elias Medrano,1470.02,6,2,4,0,0.0
 26-6-12,Elias Medrano,1470.02,6,2,4,0,0.0
-26-6-13_RCQ,Elias Medrano,1470.02,6,2,4,0,0.0
+26-6-14_RCQ,Elias Medrano,1470.02,6,2,4,0,0.0
 26-6-5,Elias Medrano,1470.02,6,2,4,0,0.0
 25-12-6_brainstormin_charity_tournament,Ethan Ford,1500.0,0,0,0,0,0.0
 26-2-13,Ethan Ford,1500.0,0,0,0,0,0.0
@@ -263,7 +263,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Ethan Ford,1547.06,5,4,1,0,0.0
 26-5-29,Ethan Ford,1547.06,5,4,1,0,0.0
 26-6-12,Ethan Ford,1547.06,5,4,1,0,0.0
-26-6-13_RCQ,Ethan Ford,1547.06,5,4,1,0,0.0
+26-6-14_RCQ,Ethan Ford,1547.06,5,4,1,0,0.0
 26-6-5,Ethan Ford,1547.06,5,4,1,0,0.0
 25-12-6_brainstormin_charity_tournament,Evan Johnstone,1502.04,6,3,3,0,0.0
 26-2-13,Evan Johnstone,1482.42,11,5,6,0,-19.62
@@ -282,7 +282,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Evan Johnstone,1457.99,36,14,21,1,0.0
 26-5-29,Evan Johnstone,1457.99,36,14,21,1,0.0
 26-6-12,Evan Johnstone,1457.99,36,14,21,1,0.0
-26-6-13_RCQ,Evan Johnstone,1457.99,36,14,21,1,0.0
+26-6-14_RCQ,Evan Johnstone,1457.99,36,14,21,1,0.0
 26-6-5,Evan Johnstone,1457.99,36,14,21,1,0.0
 25-12-6_brainstormin_charity_tournament,Gina Millott,1502.74,6,3,3,0,0.0
 26-2-13,Gina Millott,1502.74,6,3,3,0,0.0
@@ -301,7 +301,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Gina Millott,1451.28,26,11,15,0,0.0
 26-5-29,Gina Millott,1451.28,26,11,15,0,0.0
 26-6-12,Gina Millott,1451.28,26,11,15,0,0.0
-26-6-13_RCQ,Gina Millott,1451.28,26,11,15,0,0.0
+26-6-14_RCQ,Gina Millott,1451.28,26,11,15,0,0.0
 26-6-5,Gina Millott,1451.28,26,11,15,0,0.0
 25-12-6_brainstormin_charity_tournament,Graham Bateman,1513.99,6,3,2,1,0.0
 26-2-13,Graham Bateman,1513.99,6,3,2,1,0.0
@@ -320,7 +320,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Graham Bateman,1513.99,6,3,2,1,0.0
 26-5-29,Graham Bateman,1513.99,6,3,2,1,0.0
 26-6-12,Graham Bateman,1513.99,6,3,2,1,0.0
-26-6-13_RCQ,Graham Bateman,1513.99,6,3,2,1,0.0
+26-6-14_RCQ,Graham Bateman,1513.99,6,3,2,1,0.0
 26-6-5,Graham Bateman,1513.99,6,3,2,1,0.0
 25-12-6_brainstormin_charity_tournament,Hex Dowd,1501.55,6,3,3,0,0.0
 26-2-13,Hex Dowd,1455.95,11,4,7,0,-45.61
@@ -339,7 +339,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Hex Dowd,1507.16,63,28,35,0,-10.21
 26-5-29,Hex Dowd,1507.16,63,28,35,0,0.0
 26-6-12,Hex Dowd,1507.16,63,28,35,0,0.0
-26-6-13_RCQ,Hex Dowd,1491.66,68,30,38,0,-15.5
+26-6-14_RCQ,Hex Dowd,1491.66,68,30,38,0,-15.5
 26-6-5,Hex Dowd,1491.66,73,32,41,0,-0.0
 25-12-6_brainstormin_charity_tournament,Isharah Considine,1499.94,6,3,3,0,0.0
 26-2-13,Isharah Considine,1518.94,11,6,5,0,19.0
@@ -358,7 +358,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Isharah Considine,1534.29,24,13,11,0,0.0
 26-5-29,Isharah Considine,1534.29,24,13,11,0,0.0
 26-6-12,Isharah Considine,1567.37,28,16,12,0,33.07
-26-6-13_RCQ,Isharah Considine,1567.37,28,16,12,0,0.0
+26-6-14_RCQ,Isharah Considine,1567.37,28,16,12,0,0.0
 26-6-5,Isharah Considine,1542.38,33,18,15,0,-24.99
 25-12-6_brainstormin_charity_tournament,Jack Henry,1499.87,6,3,3,0,0.0
 26-2-13,Jack Henry,1454.09,11,4,7,0,-45.78
@@ -377,7 +377,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Jack Henry,1408.34,36,13,22,1,0.0
 26-5-29,Jack Henry,1373.36,39,13,25,1,-34.98
 26-6-12,Jack Henry,1382.79,44,15,28,1,9.43
-26-6-13_RCQ,Jack Henry,1354.37,49,16,32,1,-28.43
+26-6-14_RCQ,Jack Henry,1354.37,49,16,32,1,-28.43
 26-6-5,Jack Henry,1406.69,54,19,34,1,52.32
 25-12-6_brainstormin_charity_tournament,James Blanchfield,1500.0,0,0,0,0,0.0
 26-2-13,James Blanchfield,1500.0,0,0,0,0,0.0
@@ -396,7 +396,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,James Blanchfield,1500.0,0,0,0,0,0.0
 26-5-29,James Blanchfield,1500.0,0,0,0,0,0.0
 26-6-12,James Blanchfield,1500.0,0,0,0,0,0.0
-26-6-13_RCQ,James Blanchfield,1500.0,0,0,0,0,0.0
+26-6-14_RCQ,James Blanchfield,1500.0,0,0,0,0,0.0
 26-6-5,James Blanchfield,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Jarrod Haase,1467.36,6,2,4,0,0.0
 26-2-13,Jarrod Haase,1444.85,10,3,7,0,-22.51
@@ -415,7 +415,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Jarrod Haase,1386.42,50,15,32,3,0.0
 26-5-29,Jarrod Haase,1354.89,53,15,35,3,-31.52
 26-6-12,Jarrod Haase,1319.04,57,15,39,3,-35.85
-26-6-13_RCQ,Jarrod Haase,1281.63,61,15,43,3,-37.41
+26-6-14_RCQ,Jarrod Haase,1281.63,61,15,43,3,-37.41
 26-6-5,Jarrod Haase,1281.63,61,15,43,3,0.0
 25-12-6_brainstormin_charity_tournament,Jeffrey Silver,1500.0,0,0,0,0,0.0
 26-2-13,Jeffrey Silver,1500.0,0,0,0,0,0.0
@@ -434,7 +434,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Jeffrey Silver,1533.49,10,6,4,0,0.0
 26-5-29,Jeffrey Silver,1533.49,10,6,4,0,0.0
 26-6-12,Jeffrey Silver,1533.49,10,6,4,0,0.0
-26-6-13_RCQ,Jeffrey Silver,1533.49,10,6,4,0,0.0
+26-6-14_RCQ,Jeffrey Silver,1533.49,10,6,4,0,0.0
 26-6-5,Jeffrey Silver,1533.49,10,6,4,0,0.0
 25-12-6_brainstormin_charity_tournament,Joel Brook,1531.3,6,4,2,0,0.0
 26-2-13,Joel Brook,1531.3,6,4,2,0,0.0
@@ -453,7 +453,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Joel Brook,1493.36,8,4,4,0,0.0
 26-5-29,Joel Brook,1493.36,8,4,4,0,0.0
 26-6-12,Joel Brook,1493.36,8,4,4,0,0.0
-26-6-13_RCQ,Joel Brook,1493.36,8,4,4,0,0.0
+26-6-14_RCQ,Joel Brook,1493.36,8,4,4,0,0.0
 26-6-5,Joel Brook,1493.36,8,4,4,0,0.0
 25-12-6_brainstormin_charity_tournament,John Larochelle,1482.6,6,2,3,1,0.0
 26-2-13,John Larochelle,1514.93,10,5,4,1,32.34
@@ -472,7 +472,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,John Larochelle,1475.15,18,8,9,1,0.0
 26-5-29,John Larochelle,1475.15,18,8,9,1,0.0
 26-6-12,John Larochelle,1475.15,18,8,9,1,0.0
-26-6-13_RCQ,John Larochelle,1475.15,18,8,9,1,0.0
+26-6-14_RCQ,John Larochelle,1475.15,18,8,9,1,0.0
 26-6-5,John Larochelle,1475.15,18,8,9,1,0.0
 25-12-6_brainstormin_charity_tournament,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-2-13,Jonathan Ma,1500.0,0,0,0,0,0.0
@@ -491,7 +491,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-5-29,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-6-12,Jonathan Ma,1500.0,0,0,0,0,0.0
-26-6-13_RCQ,Jonathan Ma,1500.0,0,0,0,0,0.0
+26-6-14_RCQ,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-6-5,Jonathan Ma,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Joseph Chung,1454.88,5,1,4,0,0.0
 26-2-13,Joseph Chung,1454.88,5,1,4,0,0.0
@@ -510,7 +510,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Joseph Chung,1405.16,18,5,13,0,0.0
 26-5-29,Joseph Chung,1405.16,18,5,13,0,0.0
 26-6-12,Joseph Chung,1405.16,18,5,13,0,0.0
-26-6-13_RCQ,Joseph Chung,1405.16,18,5,13,0,0.0
+26-6-14_RCQ,Joseph Chung,1405.16,18,5,13,0,0.0
 26-6-5,Joseph Chung,1405.16,18,5,13,0,0.0
 25-12-6_brainstormin_charity_tournament,Kenton Najdzien,1500.0,0,0,0,0,0.0
 26-2-13,Kenton Najdzien,1517.07,5,3,2,0,17.07
@@ -529,7 +529,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Kenton Najdzien,1625.55,29,20,9,0,0.0
 26-5-29,Kenton Najdzien,1625.55,29,20,9,0,0.0
 26-6-12,Kenton Najdzien,1589.93,34,22,12,0,-35.62
-26-6-13_RCQ,Kenton Najdzien,1589.93,34,22,12,0,0.0
+26-6-14_RCQ,Kenton Najdzien,1589.93,34,22,12,0,0.0
 26-6-5,Kenton Najdzien,1559.01,39,24,15,0,-30.92
 25-12-6_brainstormin_charity_tournament,Kevin Thanakit,1500.0,0,0,0,0,0.0
 26-2-13,Kevin Thanakit,1500.0,0,0,0,0,0.0
@@ -548,7 +548,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Kevin Thanakit,1602.83,10,8,2,0,0.0
 26-5-29,Kevin Thanakit,1602.83,10,8,2,0,0.0
 26-6-12,Kevin Thanakit,1602.83,10,8,2,0,0.0
-26-6-13_RCQ,Kevin Thanakit,1602.83,10,8,2,0,0.0
+26-6-14_RCQ,Kevin Thanakit,1602.83,10,8,2,0,0.0
 26-6-5,Kevin Thanakit,1602.83,10,8,2,0,0.0
 25-12-6_brainstormin_charity_tournament,Logan Hesch,1499.91,6,3,3,0,0.0
 26-2-13,Logan Hesch,1499.91,6,3,3,0,0.0
@@ -567,7 +567,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Logan Hesch,1561.21,39,23,16,0,0.0
 26-5-29,Logan Hesch,1561.21,39,23,16,0,0.0
 26-6-12,Logan Hesch,1561.21,39,23,16,0,0.0
-26-6-13_RCQ,Logan Hesch,1553.45,44,25,18,1,-7.76
+26-6-14_RCQ,Logan Hesch,1553.45,44,25,18,1,-7.76
 26-6-5,Logan Hesch,1553.45,44,25,18,1,0.0
 25-12-6_brainstormin_charity_tournament,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-13,Lucas Yang,1500.0,0,0,0,0,0.0
@@ -586,7 +586,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Lucas Yang,1500.0,0,0,0,0,0.0
 26-5-29,Lucas Yang,1500.0,0,0,0,0,0.0
 26-6-12,Lucas Yang,1500.0,0,0,0,0,0.0
-26-6-13_RCQ,Lucas Yang,1500.0,0,0,0,0,0.0
+26-6-14_RCQ,Lucas Yang,1500.0,0,0,0,0,0.0
 26-6-5,Lucas Yang,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Mike Adams,1530.05,6,4,2,0,0.0
 26-2-13,Mike Adams,1558.21,10,7,3,0,28.15
@@ -605,7 +605,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Mike Adams,1484.22,54,25,25,4,0.0
 26-5-29,Mike Adams,1518.15,58,28,26,4,33.93
 26-6-12,Mike Adams,1477.77,63,29,30,4,-40.38
-26-6-13_RCQ,Mike Adams,1477.77,63,29,30,4,0.0
+26-6-14_RCQ,Mike Adams,1477.77,63,29,30,4,0.0
 26-6-5,Mike Adams,1438.6,66,29,33,4,-39.17
 25-12-6_brainstormin_charity_tournament,Mike Laing,1530.69,6,4,2,0,0.0
 26-2-13,Mike Laing,1558.87,10,7,3,0,28.18
@@ -624,7 +624,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Mike Laing,1535.53,57,29,27,1,14.78
 26-5-29,Mike Laing,1595.78,61,33,27,1,60.25
 26-6-12,Mike Laing,1626.31,66,37,28,1,30.52
-26-6-13_RCQ,Mike Laing,1626.31,66,37,28,1,0.0
+26-6-14_RCQ,Mike Laing,1626.31,66,37,28,1,0.0
 26-6-5,Mike Laing,1652.41,71,41,29,1,26.11
 25-12-6_brainstormin_charity_tournament,Milo Brown,1561.1,4,4,0,0,0.0
 26-2-13,Milo Brown,1580.76,9,7,1,1,19.65
@@ -643,7 +643,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Milo Brown,1594.54,33,22,10,1,0.0
 26-5-29,Milo Brown,1610.64,37,25,11,1,16.1
 26-6-12,Milo Brown,1638.57,41,28,12,1,27.93
-26-6-13_RCQ,Milo Brown,1609.06,46,30,14,2,-29.51
+26-6-14_RCQ,Milo Brown,1609.06,46,30,14,2,-29.51
 26-6-5,Milo Brown,1659.05,50,34,14,2,49.99
 25-12-6_brainstormin_charity_tournament,Nathan Choi,1529.14,6,4,2,0,0.0
 26-2-13,Nathan Choi,1553.1,11,7,3,1,23.97
@@ -662,7 +662,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Nathan Choi,1653.79,64,43,18,3,21.01
 26-5-29,Nathan Choi,1653.79,64,43,18,3,0.0
 26-6-12,Nathan Choi,1673.81,69,47,19,3,20.01
-26-6-13_RCQ,Nathan Choi,1657.63,74,50,21,3,-16.17
+26-6-14_RCQ,Nathan Choi,1657.63,74,50,21,3,-16.17
 26-6-5,Nathan Choi,1652.2,79,53,23,3,-5.43
 25-12-6_brainstormin_charity_tournament,Nathan Cormier,1469.59,6,2,4,0,0.0
 26-2-13,Nathan Cormier,1469.59,6,2,4,0,0.0
@@ -681,7 +681,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Nathan Cormier,1493.48,47,22,23,2,0.0
 26-5-29,Nathan Cormier,1491.59,51,24,25,2,-1.89
 26-6-12,Nathan Cormier,1547.76,56,28,26,2,56.17
-26-6-13_RCQ,Nathan Cormier,1532.32,61,30,29,2,-15.43
+26-6-14_RCQ,Nathan Cormier,1532.32,61,30,29,2,-15.43
 26-6-5,Nathan Cormier,1532.32,61,30,29,2,0.0
 25-12-6_brainstormin_charity_tournament,Pan Rasking,1500.0,0,0,0,0,0.0
 26-2-13,Pan Rasking,1530.03,4,3,1,0,30.03
@@ -700,7 +700,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Pan Rasking,1474.71,27,11,14,2,0.0
 26-5-29,Pan Rasking,1474.71,27,11,14,2,0.0
 26-6-12,Pan Rasking,1474.71,27,11,14,2,0.0
-26-6-13_RCQ,Pan Rasking,1474.71,27,11,14,2,0.0
+26-6-14_RCQ,Pan Rasking,1474.71,27,11,14,2,0.0
 26-6-5,Pan Rasking,1474.71,27,11,14,2,0.0
 25-12-6_brainstormin_charity_tournament,Patrick Brooks,1500.0,0,0,0,0,0.0
 26-2-13,Patrick Brooks,1500.0,0,0,0,0,0.0
@@ -719,7 +719,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Patrick Brooks,1444.74,14,5,9,0,0.0
 26-5-29,Patrick Brooks,1444.74,14,5,9,0,0.0
 26-6-12,Patrick Brooks,1444.74,14,5,9,0,0.0
-26-6-13_RCQ,Patrick Brooks,1493.23,19,8,10,1,48.49
+26-6-14_RCQ,Patrick Brooks,1493.23,19,8,10,1,48.49
 26-6-5,Patrick Brooks,1493.23,19,8,10,1,0.0
 25-12-6_brainstormin_charity_tournament,Phil iwanow,1453.38,6,1,4,1,0.0
 26-2-13,Phil iwanow,1426.27,8,1,6,1,-27.11
@@ -738,7 +738,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Phil iwanow,1434.57,51,16,31,4,-33.4
 26-5-29,Phil iwanow,1434.57,51,16,31,4,0.0
 26-6-12,Phil iwanow,1423.07,55,17,34,4,-11.49
-26-6-13_RCQ,Phil iwanow,1416.48,60,19,37,4,-6.59
+26-6-14_RCQ,Phil iwanow,1416.48,60,19,37,4,-6.59
 26-6-5,Phil iwanow,1455.47,65,22,39,4,39.0
 25-12-6_brainstormin_charity_tournament,Ran Guo,1533.98,6,4,2,0,0.0
 26-2-13,Ran Guo,1533.98,6,4,2,0,0.0
@@ -757,7 +757,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Ran Guo,1590.03,20,14,6,0,-36.34
 26-5-29,Ran Guo,1590.03,20,14,6,0,0.0
 26-6-12,Ran Guo,1552.75,24,15,9,0,-37.28
-26-6-13_RCQ,Ran Guo,1557.75,29,18,11,0,5.01
+26-6-14_RCQ,Ran Guo,1557.75,29,18,11,0,5.01
 26-6-5,Ran Guo,1557.75,29,18,11,0,0.0
 25-12-6_brainstormin_charity_tournament,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-13,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
@@ -776,7 +776,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
 26-5-29,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
 26-6-12,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
-26-6-13_RCQ,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
+26-6-14_RCQ,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
 26-6-5,Raul Bottrell-Rogers,1476.36,26,12,14,0,0.0
 25-12-6_brainstormin_charity_tournament,Reya Truher,1500.58,6,3,3,0,0.0
 26-2-13,Reya Truher,1484.96,11,5,6,0,-15.62
@@ -795,7 +795,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Reya Truher,1489.34,50,23,26,1,-7.92
 26-5-29,Reya Truher,1489.34,50,23,26,1,0.0
 26-6-12,Reya Truher,1489.34,50,23,26,1,0.0
-26-6-13_RCQ,Reya Truher,1489.34,50,23,26,1,0.0
+26-6-14_RCQ,Reya Truher,1489.34,50,23,26,1,0.0
 26-6-5,Reya Truher,1489.34,50,23,26,1,0.0
 25-12-6_brainstormin_charity_tournament,Robert Scannevin,1500.0,0,0,0,0,0.0
 26-2-13,Robert Scannevin,1500.0,0,0,0,0,0.0
@@ -814,7 +814,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Robert Scannevin,1481.17,5,2,3,0,0.0
 26-5-29,Robert Scannevin,1481.17,5,2,3,0,0.0
 26-6-12,Robert Scannevin,1481.17,5,2,3,0,0.0
-26-6-13_RCQ,Robert Scannevin,1481.17,5,2,3,0,0.0
+26-6-14_RCQ,Robert Scannevin,1481.17,5,2,3,0,0.0
 26-6-5,Robert Scannevin,1481.17,5,2,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Roopak Dasararaju,1500.0,0,0,0,0,0.0
 26-2-13,Roopak Dasararaju,1500.0,0,0,0,0,0.0
@@ -833,7 +833,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Roopak Dasararaju,1458.53,5,1,4,0,-41.47
 26-5-29,Roopak Dasararaju,1458.53,5,1,4,0,0.0
 26-6-12,Roopak Dasararaju,1498.99,9,4,5,0,40.46
-26-6-13_RCQ,Roopak Dasararaju,1498.99,9,4,5,0,0.0
+26-6-14_RCQ,Roopak Dasararaju,1498.99,9,4,5,0,0.0
 26-6-5,Roopak Dasararaju,1498.99,9,4,5,0,0.0
 25-12-6_brainstormin_charity_tournament,Ryan MacDonald,1562.44,6,5,1,0,0.0
 26-2-13,Ryan MacDonald,1507.79,9,5,4,0,-54.65
@@ -852,7 +852,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Ryan MacDonald,1507.79,9,5,4,0,0.0
 26-5-29,Ryan MacDonald,1507.79,9,5,4,0,0.0
 26-6-12,Ryan MacDonald,1524.65,14,8,6,0,16.85
-26-6-13_RCQ,Ryan MacDonald,1521.09,18,10,8,0,-3.56
+26-6-14_RCQ,Ryan MacDonald,1521.09,18,10,8,0,-3.56
 26-6-5,Ryan MacDonald,1507.02,23,12,11,0,-14.07
 25-12-6_brainstormin_charity_tournament,Sam Feeley,1500.0,0,0,0,0,0.0
 26-2-13,Sam Feeley,1500.0,0,0,0,0,0.0
@@ -871,7 +871,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Sam Feeley,1504.21,8,4,4,0,0.0
 26-5-29,Sam Feeley,1504.21,8,4,4,0,0.0
 26-6-12,Sam Feeley,1480.94,13,6,7,0,-23.28
-26-6-13_RCQ,Sam Feeley,1480.94,13,6,7,0,0.0
+26-6-14_RCQ,Sam Feeley,1480.94,13,6,7,0,0.0
 26-6-5,Sam Feeley,1480.94,13,6,7,0,0.0
 25-12-6_brainstormin_charity_tournament,Simon Kavanagh,1500.0,0,0,0,0,0.0
 26-2-13,Simon Kavanagh,1500.0,0,0,0,0,0.0
@@ -890,7 +890,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Simon Kavanagh,1487.2,5,2,3,0,-12.8
 26-5-29,Simon Kavanagh,1487.2,5,2,3,0,0.0
 26-6-12,Simon Kavanagh,1487.2,5,2,3,0,0.0
-26-6-13_RCQ,Simon Kavanagh,1487.2,5,2,3,0,0.0
+26-6-14_RCQ,Simon Kavanagh,1487.2,5,2,3,0,0.0
 26-6-5,Simon Kavanagh,1487.2,5,2,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Stan Kornacki,1561.8,4,4,0,0,0.0
 26-2-13,Stan Kornacki,1626.17,9,9,0,0,64.37
@@ -909,7 +909,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Stan Kornacki,1548.44,52,32,19,1,-51.49
 26-5-29,Stan Kornacki,1548.44,52,32,19,1,0.0
 26-6-12,Stan Kornacki,1548.44,52,32,19,1,0.0
-26-6-13_RCQ,Stan Kornacki,1548.44,52,32,19,1,0.0
+26-6-14_RCQ,Stan Kornacki,1548.44,52,32,19,1,0.0
 26-6-5,Stan Kornacki,1568.3,57,35,21,1,19.86
 25-12-6_brainstormin_charity_tournament,Stella Burfeind,1527.29,6,4,2,0,0.0
 26-2-13,Stella Burfeind,1505.58,11,6,5,0,-21.71
@@ -928,7 +928,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Stella Burfeind,1537.36,59,28,27,4,55.51
 26-5-29,Stella Burfeind,1537.36,59,28,27,4,0.0
 26-6-12,Stella Burfeind,1537.36,59,28,27,4,0.0
-26-6-13_RCQ,Stella Burfeind,1537.36,59,28,27,4,0.0
+26-6-14_RCQ,Stella Burfeind,1537.36,59,28,27,4,0.0
 26-6-5,Stella Burfeind,1496.03,63,29,30,4,-41.33
 25-12-6_brainstormin_charity_tournament,Taylor Pratt,1500.0,0,0,0,0,0.0
 26-2-13,Taylor Pratt,1500.0,0,0,0,0,0.0
@@ -947,7 +947,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Taylor Pratt,1559.71,10,7,2,1,0.0
 26-5-29,Taylor Pratt,1559.71,10,7,2,1,0.0
 26-6-12,Taylor Pratt,1559.71,10,7,2,1,0.0
-26-6-13_RCQ,Taylor Pratt,1573.13,15,10,3,2,13.42
+26-6-14_RCQ,Taylor Pratt,1573.13,15,10,3,2,13.42
 26-6-5,Taylor Pratt,1573.13,15,10,3,2,0.0
 25-12-6_brainstormin_charity_tournament,Terry Eleftherakis,1470.07,4,1,3,0,0.0
 26-2-13,Terry Eleftherakis,1493.04,9,4,5,0,22.97
@@ -966,7 +966,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Terry Eleftherakis,1424.09,28,10,18,0,0.0
 26-5-29,Terry Eleftherakis,1424.09,28,10,18,0,0.0
 26-6-12,Terry Eleftherakis,1424.09,28,10,18,0,0.0
-26-6-13_RCQ,Terry Eleftherakis,1424.09,28,10,18,0,0.0
+26-6-14_RCQ,Terry Eleftherakis,1424.09,28,10,18,0,0.0
 26-6-5,Terry Eleftherakis,1424.09,28,10,18,0,0.0
 25-12-6_brainstormin_charity_tournament,Timofey Tylik,1500.0,0,0,0,0,0.0
 26-2-13,Timofey Tylik,1500.0,0,0,0,0,0.0
@@ -985,7 +985,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Timofey Tylik,1507.75,8,4,4,0,0.0
 26-5-29,Timofey Tylik,1507.75,8,4,4,0,0.0
 26-6-12,Timofey Tylik,1507.75,8,4,4,0,0.0
-26-6-13_RCQ,Timofey Tylik,1484.93,13,6,7,0,-22.83
+26-6-14_RCQ,Timofey Tylik,1484.93,13,6,7,0,-22.83
 26-6-5,Timofey Tylik,1544.35,17,10,7,0,59.42
 25-12-6_brainstormin_charity_tournament,Veronica Kirtley,1531.33,6,4,2,0,0.0
 26-2-13,Veronica Kirtley,1496.17,11,5,5,1,-35.16
@@ -1004,7 +1004,7 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Veronica Kirtley,1566.99,21,12,8,1,49.1
 26-5-29,Veronica Kirtley,1566.99,21,12,8,1,0.0
 26-6-12,Veronica Kirtley,1566.99,21,12,8,1,0.0
-26-6-13_RCQ,Veronica Kirtley,1566.99,21,12,8,1,0.0
+26-6-14_RCQ,Veronica Kirtley,1566.99,21,12,8,1,0.0
 26-6-5,Veronica Kirtley,1566.99,21,12,8,1,0.0
 25-12-6_brainstormin_charity_tournament,Winston Wong,1500.0,0,0,0,0,0.0
 26-2-13,Winston Wong,1500.0,0,0,0,0,0.0
@@ -1023,5 +1023,5 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-5-22,Winston Wong,1459.61,26,10,14,2,-6.73
 26-5-29,Winston Wong,1459.61,26,10,14,2,0.0
 26-6-12,Winston Wong,1459.61,26,10,14,2,0.0
-26-6-13_RCQ,Winston Wong,1459.61,26,10,14,2,0.0
+26-6-14_RCQ,Winston Wong,1459.61,26,10,14,2,0.0
 26-6-5,Winston Wong,1448.5,29,11,16,2,-11.11
