@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1343.02,
-  "matches_count": 53,
+  "elo": 1260.77,
+  "matches_count": 61,
   "wins": 15,
-  "losses": 35,
+  "losses": 43,
   "draws": 3,
   "matches": [
     {
@@ -697,6 +697,124 @@
       "elo_after": 1343.0229,
       "opp_elo": 1500.0,
       "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1343.0229,
+      "elo_after": 1332.0673,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1332.0673,
+      "elo_after": 1322.3795,
+      "opp_elo": 1518.367,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Sam Feeley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1322.3795,
+      "elo_after": 1312.6093,
+      "opp_elo": 1506.6995,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1312.6093,
+      "elo_after": 1312.6093,
+      "opp_elo": null
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Josh Kibbe",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1312.6093,
+      "elo_after": 1302.9667,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "K De",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1302.9667,
+      "elo_after": 1293.7181,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Ford DelVecchio",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1293.7181,
+      "elo_after": 1284.837,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1284.837,
+      "elo_after": 1276.299,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1276.299,
+      "elo_after": 1260.7731,
+      "opp_elo": 1340.5498,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1260.7731,
+      "elo_after": 1260.7731,
+      "opp_elo": null
     }
   ]
 }

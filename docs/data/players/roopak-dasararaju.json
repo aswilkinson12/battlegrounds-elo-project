@@ -1,11 +1,11 @@
 {
   "player": "Roopak Dasararaju",
   "slug": "roopak-dasararaju",
-  "elo": 1452.15,
-  "matches_count": 5,
-  "wins": 1,
-  "losses": 4,
-  "draws": 0,
+  "elo": 1500.9,
+  "matches_count": 10,
+  "wins": 4,
+  "losses": 5,
+  "draws": 1,
   "matches": [
     {
       "week": "26-5-22",
@@ -65,6 +65,66 @@
       "elo_before": 1464.6815,
       "elo_after": 1452.1468,
       "opp_elo": 1587.8162,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1452.1468,
+      "elo_after": 1478.6406,
+      "opp_elo": 1597.0314,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1478.6406,
+      "elo_after": 1492.5482,
+      "opp_elo": 1383.1889,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Ran Guo",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1492.5482,
+      "elo_after": 1517.9977,
+      "opp_elo": 1615.3557,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1517.9977,
+      "elo_after": 1500.9023,
+      "opp_elo": 1552.944,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1500.9023,
+      "elo_after": 1500.9023,
+      "opp_elo": 1579.0758,
       "is_bye": false
     }
   ]

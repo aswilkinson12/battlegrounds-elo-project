@@ -1,11 +1,11 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1436.39,
-  "matches_count": 14,
-  "wins": 5,
-  "losses": 9,
-  "draws": 0,
+  "elo": 1495.89,
+  "matches_count": 19,
+  "wins": 8,
+  "losses": 10,
+  "draws": 1,
   "matches": [
     {
       "week": "26-3-07",
@@ -185,6 +185,66 @@
       "elo_before": 1436.3942,
       "elo_after": 1436.3942,
       "opp_elo": null
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "Timofey Tylik",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1436.3942,
+      "elo_after": 1459.3865,
+      "opp_elo": 1510.5006,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Sam White",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.3865,
+      "elo_after": 1442.5974,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1442.5974,
+      "elo_after": 1472.6861,
+      "opp_elo": 1674.6594,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1472.6861,
+      "elo_after": 1495.6478,
+      "opp_elo": 1546.2079,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Neal Jiwnani",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1495.6478,
+      "elo_after": 1495.8858,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ]
 }

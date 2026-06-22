@@ -1,10 +1,10 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1600.35,
-  "matches_count": 21,
-  "wins": 14,
-  "losses": 6,
+  "elo": 1560.57,
+  "matches_count": 30,
+  "wins": 18,
+  "losses": 11,
   "draws": 1,
   "matches": [
     {
@@ -257,6 +257,125 @@
       "elo_before": 1587.8162,
       "elo_after": 1600.3508,
       "opp_elo": 1464.6815,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1600.3508,
+      "elo_after": 1600.3508,
+      "opp_elo": null
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1600.3508,
+      "elo_after": 1615.3557,
+      "opp_elo": 1526.1891,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Roopak Dasararaju",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1615.3557,
+      "elo_after": 1589.9062,
+      "opp_elo": 1492.5482,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1589.9062,
+      "elo_after": 1573.396,
+      "opp_elo": 1635.6981,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.396,
+      "elo_after": 1554.8696,
+      "opp_elo": 1582.0585,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "Beau Berger",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.8696,
+      "elo_after": 1570.8937,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1570.8937,
+      "elo_after": 1548.0697,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Neal Jiwnani",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1548.0697,
+      "elo_after": 1526.4576,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.4576,
+      "elo_after": 1544.0135,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Timofey Tylik",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1544.0135,
+      "elo_after": 1560.5671,
+      "opp_elo": 1499.0282,
       "is_bye": false
     }
   ]

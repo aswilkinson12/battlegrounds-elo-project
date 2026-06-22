@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1489.94,
-  "matches_count": 51,
-  "wins": 24,
-  "losses": 25,
+  "elo": 1536.72,
+  "matches_count": 61,
+  "wins": 30,
+  "losses": 29,
   "draws": 2,
   "matches": [
     {
@@ -617,6 +617,126 @@
       "elo_before": 1476.5908,
       "elo_after": 1489.9442,
       "opp_elo": 1370.1252,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 1,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1489.9442,
+      "elo_after": 1511.6677,
+      "opp_elo": 1540.0905,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1511.6677,
+      "elo_after": 1535.9003,
+      "opp_elo": 1609.8883,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1535.9003,
+      "elo_after": 1552.944,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 4,
+      "opponent": "Roopak Dasararaju",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.944,
+      "elo_after": 1570.0394,
+      "opp_elo": 1517.9977,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-12",
+      "week_index": 16,
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1570.0394,
+      "elo_after": 1556.447,
+      "opp_elo": 1671.7318,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1556.447,
+      "elo_after": 1573.8828,
+      "opp_elo": 1527.7794,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.8828,
+      "elo_after": 1555.1893,
+      "opp_elo": 1579.4883,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Andrew Gallien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1555.1893,
+      "elo_after": 1533.1964,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "K De",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1533.1964,
+      "elo_after": 1550.3865,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1550.3865,
+      "elo_after": 1536.7213,
+      "opp_elo": 1650.6318,
       "is_bye": false
     }
   ]

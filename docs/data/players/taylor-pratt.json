@@ -1,11 +1,11 @@
 {
   "player": "Taylor Pratt",
   "slug": "taylor-pratt",
-  "elo": 1568.08,
-  "matches_count": 10,
-  "wins": 7,
-  "losses": 2,
-  "draws": 1,
+  "elo": 1581.64,
+  "matches_count": 15,
+  "wins": 10,
+  "losses": 3,
+  "draws": 2,
   "matches": [
     {
       "week": "26-4-03",
@@ -124,6 +124,66 @@
       "score": 0.5,
       "elo_before": 1571.9625,
       "elo_after": 1568.0825,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "Michael Stopa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1568.0825,
+      "elo_after": 1545.4062,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.4062,
+      "elo_after": 1555.0843,
+      "opp_elo": 1358.8723,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Ford DelVecchio",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1555.0843,
+      "elo_after": 1571.0969,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "Brian Kennes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.0969,
+      "elo_after": 1586.2623,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Dylan Shanes",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1586.2623,
+      "elo_after": 1581.6395,
       "opp_elo": 1500.0,
       "is_bye": false
     }

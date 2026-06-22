@@ -1,7 +1,7 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1442.79,
+  "elo": 1441.39,
   "matches_count": 29,
   "wins": 11,
   "losses": 16,
@@ -321,7 +321,7 @@
     },
     {
       "week": "26-6-5",
-      "week_index": 16,
+      "week_index": 18,
       "round": 1,
       "opponent": "Dani Masom",
       "result": "W",
@@ -333,26 +333,26 @@
     },
     {
       "week": "26-6-5",
-      "week_index": 16,
+      "week_index": 18,
       "round": 2,
       "opponent": "Timofey Tylik",
       "result": "L",
       "score": 0.0,
       "elo_before": 1475.6568,
-      "elo_after": 1459.5473,
-      "opp_elo": 1528.9265,
+      "elo_after": 1458.1182,
+      "opp_elo": 1502.4322,
       "is_bye": false
     },
     {
       "week": "26-6-5",
-      "week_index": 16,
+      "week_index": 18,
       "round": 3,
       "opponent": "Autumn Rossa",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1459.5473,
-      "elo_after": 1442.7854,
-      "opp_elo": 1500.663,
+      "elo_before": 1458.1182,
+      "elo_after": 1441.3938,
+      "opp_elo": 1499.9303,
       "is_bye": false
     }
   ]

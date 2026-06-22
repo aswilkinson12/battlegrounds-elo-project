@@ -1,11 +1,11 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1563.95,
-  "matches_count": 39,
-  "wins": 23,
-  "losses": 16,
-  "draws": 0,
+  "elo": 1554.59,
+  "matches_count": 44,
+  "wins": 25,
+  "losses": 18,
+  "draws": 1,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -484,6 +484,66 @@
       "elo_before": 1587.6399,
       "elo_after": 1563.9463,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 1,
+      "opponent": "Ford DelVecchio",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1563.9463,
+      "elo_after": 1579.4883,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1579.4883,
+      "elo_after": 1598.1818,
+      "opp_elo": 1573.8828,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1598.1818,
+      "elo_after": 1573.9511,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 4,
+      "opponent": "Neal Jiwnani",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.9511,
+      "elo_after": 1550.9669,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-13_RCQ",
+      "week_index": 17,
+      "round": 5,
+      "opponent": "Milo Brown",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1550.9669,
+      "elo_after": 1554.5927,
+      "opp_elo": 1618.0914,
       "is_bye": false
     }
   ]

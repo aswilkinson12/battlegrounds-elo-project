@@ -1,0 +1,19 @@
+Round 1
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Anthony Wilkinson            Late Registration            0-3     
+2      Jack Henry                   Sam White                    0-3     
+3      Nathan Cormier               Ryan MacDonald               3-0     
+4      K De                         Jarrod Haase                3-0     
+5      Michael Stopa                Taylor Pratt                 3-0     
+6      Chester Li                   Amber Cronin                 3-0     
+7      Hex Dowd                     Milo Brown                   0-3     
+8      Andrew Gallien               Ken Cox                      3-0     
+9      Phil iwanow                  Dylan Shanes                 0-3     
+10      Nathan Choi                  Sean Marks                   0-3     
+11     Patrick Brooks               Timofey Tylik                3-0     
+12     Chris Hirt                   Neal Jiwnani                 3-0     
+13     Ran Guo                      Beau Berger                  3-0     
+14     Ford DelVecchio              Logan Hesch                  0-3     
+15     Devon O’Donnell              Brian Kennes                 3-0  
