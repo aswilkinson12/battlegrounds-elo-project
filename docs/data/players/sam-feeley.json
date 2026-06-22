@@ -1,7 +1,7 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1477.69,
+  "elo": 1476.94,
   "matches_count": 13,
   "wins": 6,
   "losses": 7,
@@ -105,7 +105,7 @@
     },
     {
       "week": "26-6-12",
-      "week_index": 16,
+      "week_index": 17,
       "round": 1,
       "opponent": "Sean Marks",
       "result": "L",
@@ -117,7 +117,7 @@
     },
     {
       "week": "26-6-12",
-      "week_index": 16,
+      "week_index": 17,
       "round": 2,
       "opponent": "Josh Kibbe",
       "result": "W",
@@ -129,38 +129,38 @@
     },
     {
       "week": "26-6-12",
-      "week_index": 16,
+      "week_index": 17,
       "round": 3,
       "opponent": "Jarrod Haase",
       "result": "W",
       "score": 1.0,
       "elo_before": 1506.6995,
-      "elo_after": 1516.4697,
-      "opp_elo": 1322.3795,
+      "elo_after": 1516.4338,
+      "opp_elo": 1321.5186,
       "is_bye": false
     },
     {
       "week": "26-6-12",
-      "week_index": 16,
+      "week_index": 17,
       "round": 4,
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.4697,
-      "elo_after": 1502.1951,
-      "opp_elo": 1604.7281,
+      "elo_before": 1516.4338,
+      "elo_after": 1499.5079,
+      "opp_elo": 1554.5132,
       "is_bye": false
     },
     {
       "week": "26-6-12",
-      "week_index": 16,
+      "week_index": 17,
       "round": 5,
       "opponent": "Phil iwanow",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.1951,
-      "elo_after": 1477.6923,
-      "opp_elo": 1398.6069,
+      "elo_before": 1499.5079,
+      "elo_after": 1476.9404,
+      "opp_elo": 1433.4888,
       "is_bye": false
     }
   ]

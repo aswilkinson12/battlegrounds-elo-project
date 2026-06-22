@@ -1,43 +1,43 @@
 [
   {
     "player": "David Van Hise",
-    "elo": 1710.23,
+    "elo": 1711.8,
     "matches": 44,
     "wins": 31,
     "losses": 12,
     "draws": 1
   },
   {
-    "player": "Mike Laing",
-    "elo": 1705.22,
-    "matches": 71,
-    "wins": 41,
-    "losses": 29,
-    "draws": 1
-  },
-  {
     "player": "Amy Altman",
-    "elo": 1698.04,
+    "elo": 1700.81,
     "matches": 61,
     "wins": 37,
     "losses": 17,
     "draws": 7
   },
   {
-    "player": "Milo Brown",
-    "elo": 1688.75,
-    "matches": 55,
-    "wins": 34,
-    "losses": 14,
-    "draws": 7
+    "player": "Mike Laing",
+    "elo": 1700.28,
+    "matches": 71,
+    "wins": 41,
+    "losses": 29,
+    "draws": 1
   },
   {
     "player": "Nathan Choi",
-    "elo": 1664.49,
+    "elo": 1669.82,
     "matches": 69,
     "wins": 46,
     "losses": 20,
     "draws": 3
+  },
+  {
+    "player": "Milo Brown",
+    "elo": 1662.66,
+    "matches": 55,
+    "wins": 34,
+    "losses": 14,
+    "draws": 7
   },
   {
     "player": "Kevin Thanakit",
@@ -57,7 +57,7 @@
   },
   {
     "player": "Taylor Pratt",
-    "elo": 1590.05,
+    "elo": 1594.88,
     "matches": 15,
     "wins": 10,
     "losses": 3,
@@ -73,7 +73,7 @@
   },
   {
     "player": "Stan Kornacki",
-    "elo": 1574.66,
+    "elo": 1579.46,
     "matches": 60,
     "wins": 35,
     "losses": 21,

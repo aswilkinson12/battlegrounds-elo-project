@@ -1,7 +1,7 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1494.58,
+  "elo": 1497.83,
   "matches_count": 63,
   "wins": 29,
   "losses": 30,
@@ -738,8 +738,8 @@
       "is_bye": false
     },
     {
-      "week": "26-6-5",
-      "week_index": 18,
+      "week": "26-6-05",
+      "week_index": 16,
       "round": 1,
       "opponent": "Evan Hamlin",
       "result": "W",
@@ -750,39 +750,39 @@
       "is_bye": false
     },
     {
-      "week": "26-6-5",
-      "week_index": 18,
+      "week": "26-6-05",
+      "week_index": 16,
       "round": 2,
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
       "elo_before": 1562.5023,
-      "elo_after": 1533.8101,
-      "opp_elo": 1366.9359,
+      "elo_after": 1534.4996,
+      "opp_elo": 1383.5753,
       "is_bye": false
     },
     {
-      "week": "26-6-5",
-      "week_index": 18,
+      "week": "26-6-05",
+      "week_index": 16,
       "round": 3,
       "opponent": "Ryan MacDonald",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1533.8101,
-      "elo_after": 1514.3637,
-      "opp_elo": 1525.6468,
+      "elo_before": 1534.4996,
+      "elo_after": 1514.3663,
+      "opp_elo": 1513.7523,
       "is_bye": false
     },
     {
-      "week": "26-6-5",
-      "week_index": 18,
+      "week": "26-6-05",
+      "week_index": 16,
       "round": 4,
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.3637,
-      "elo_after": 1494.58,
-      "opp_elo": 1500.0246,
+      "elo_before": 1514.3663,
+      "elo_after": 1497.8272,
+      "opp_elo": 1559.6208,
       "is_bye": false
     }
   ]
