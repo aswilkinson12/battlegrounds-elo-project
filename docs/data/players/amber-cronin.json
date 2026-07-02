@@ -1,10 +1,10 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1425.02,
-  "matches_count": 32,
+  "elo": 1383.77,
+  "matches_count": 35,
   "wins": 11,
-  "losses": 20,
+  "losses": 23,
   "draws": 1,
   "matches": [
     {
@@ -411,6 +411,42 @@
       "elo_before": 1399.4081,
       "elo_after": 1425.0219,
       "opp_elo": 1525.6232,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Thomas Kotcher",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.0219,
+      "elo_after": 1410.0597,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1410.0597,
+      "elo_after": 1391.9792,
+      "opp_elo": 1426.8862,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1391.9792,
+      "elo_after": 1383.7678,
+      "opp_elo": 1615.8332,
       "is_bye": false
     }
   ]

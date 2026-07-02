@@ -1,10 +1,10 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1662.02,
-  "matches_count": 80,
-  "wins": 53,
-  "losses": 23,
+  "elo": 1603.82,
+  "matches_count": 85,
+  "wins": 55,
+  "losses": 26,
   "draws": 4,
   "matches": [
     {
@@ -965,6 +965,66 @@
       "elo_before": 1648.3609,
       "elo_after": 1662.0228,
       "opp_elo": 1548.0502,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1662.0228,
+      "elo_after": 1672.7533,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Alexandra Polinsky",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1672.7533,
+      "elo_after": 1683.0146,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1683.0146,
+      "elo_after": 1655.8069,
+      "opp_elo": 1522.3845,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1655.8069,
+      "elo_after": 1629.5949,
+      "opp_elo": 1516.983,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1629.5949,
+      "elo_after": 1603.8192,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

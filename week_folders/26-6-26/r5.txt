@@ -1,0 +1,17 @@
+Round 5
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Thomas Kotcher               Dani Masom                   13-13 ID  
+2      Stan Kornacki                Tom Kessler                  10-10 ID  
+3      Timofey Tylik                David Van Hise               10-10 ID  
+4      Devon O’Donnell              Alexandra Polinsky           10-10 ID  
+5      Anthony Wilkinson            Kenton Najdzien              10-10 ID  
+6      Nathan Choi                  Sean Marks                   6-9     
+7      Milo Brown                   Ran Guo                      6-9     
+8      Jeremy O'Brien               Jarrod Haase                9-6     
+9      Mike Laing                   Philip Petronis              6-9     
+10     Jack Henry                   Winston Wong                 9-6     
+11     Bradley Skubic               Alex Parker                  5-4     
+12     Nathan Cormier               John Larochelle             3-6     
+13     Phil iwanow                  Jackson D’Elia               6-0 

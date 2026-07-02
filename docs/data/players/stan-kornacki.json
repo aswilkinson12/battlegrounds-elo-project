@@ -1,11 +1,11 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1574.43,
-  "matches_count": 60,
-  "wins": 35,
-  "losses": 21,
-  "draws": 4,
+  "elo": 1604.88,
+  "matches_count": 65,
+  "wins": 38,
+  "losses": 22,
+  "draws": 5,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -725,6 +725,66 @@
       "elo_before": 1557.8705,
       "elo_after": 1574.4323,
       "opp_elo": 1513.0383,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1574.4323,
+      "elo_after": 1599.8147,
+      "opp_elo": 1695.8554,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Jeremy O'Brien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1599.8147,
+      "elo_after": 1613.5016,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1613.5016,
+      "elo_after": 1628.103,
+      "opp_elo": 1531.5845,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1628.103,
+      "elo_after": 1604.8812,
+      "opp_elo": 1549.5922,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Tom Kessler",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1604.8812,
+      "elo_after": 1604.8812,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

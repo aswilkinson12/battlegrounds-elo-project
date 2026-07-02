@@ -1,10 +1,10 @@
 {
   "player": "Mike Laing",
   "slug": "mike-laing",
-  "elo": 1669.1,
-  "matches_count": 71,
-  "wins": 41,
-  "losses": 29,
+  "elo": 1610.43,
+  "matches_count": 76,
+  "wins": 43,
+  "losses": 32,
   "draws": 1,
   "matches": [
     {
@@ -878,6 +878,66 @@
       "score": 1.0,
       "elo_before": 1658.1987,
       "elo_after": 1669.0995,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1669.0995,
+      "elo_after": 1640.0957,
+      "opp_elo": 1465.7409,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1640.0957,
+      "elo_after": 1615.8332,
+      "opp_elo": 1541.2845,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1615.8332,
+      "elo_after": 1624.0445,
+      "opp_elo": 1391.9792,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Alex Parker",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1624.0445,
+      "elo_after": 1636.5352,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1636.5352,
+      "elo_after": 1610.4306,
       "opp_elo": 1500.0,
       "is_bye": false
     }

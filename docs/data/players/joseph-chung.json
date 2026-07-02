@@ -1,10 +1,10 @@
 {
   "player": "Joseph Chung",
   "slug": "joseph-chung",
-  "elo": 1392.53,
-  "matches_count": 18,
-  "wins": 5,
-  "losses": 13,
+  "elo": 1381.05,
+  "matches_count": 22,
+  "wins": 6,
+  "losses": 16,
   "draws": 0,
   "matches": [
     {
@@ -232,6 +232,54 @@
       "elo_before": 1408.6259,
       "elo_after": 1392.527,
       "opp_elo": 1462.0944,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1392.527,
+      "elo_after": 1379.2242,
+      "opp_elo": 1500.0093,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1379.2242,
+      "elo_after": 1366.5752,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1366.5752,
+      "elo_after": 1354.533,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1354.533,
+      "elo_after": 1381.0537,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

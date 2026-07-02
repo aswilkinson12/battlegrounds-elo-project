@@ -1,10 +1,10 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1497.83,
-  "matches_count": 63,
-  "wins": 29,
-  "losses": 30,
+  "elo": 1505.64,
+  "matches_count": 67,
+  "wins": 31,
+  "losses": 32,
   "draws": 4,
   "matches": [
     {
@@ -783,6 +783,54 @@
       "elo_before": 1514.3663,
       "elo_after": 1497.8272,
       "opp_elo": 1559.6208,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Alex Parker",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1497.8272,
+      "elo_after": 1478.946,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1478.946,
+      "elo_after": 1469.4738,
+      "opp_elo": 1670.473,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1469.4738,
+      "elo_after": 1490.1389,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1490.1389,
+      "elo_after": 1505.6436,
+      "opp_elo": 1425.4875,
       "is_bye": false
     }
   ]

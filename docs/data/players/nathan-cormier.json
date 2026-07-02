@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1534.39,
-  "matches_count": 61,
-  "wins": 30,
-  "losses": 29,
+  "elo": 1461.02,
+  "matches_count": 66,
+  "wins": 31,
+  "losses": 33,
   "draws": 2,
   "matches": [
     {
@@ -737,6 +737,66 @@
       "elo_before": 1548.0502,
       "elo_after": 1534.3884,
       "opp_elo": 1648.3609,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1534.3884,
+      "elo_after": 1502.9495,
+      "opp_elo": 1262.1941,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.9495,
+      "elo_after": 1525.4441,
+      "opp_elo": 1567.5865,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1525.4441,
+      "elo_after": 1508.0327,
+      "opp_elo": 1554.5617,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1508.0327,
+      "elo_after": 1482.1275,
+      "opp_elo": 1375.7172,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "John Larochelle",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.1275,
+      "elo_after": 1461.0227,
+      "opp_elo": 1443.481,
       "is_bye": false
     }
   ]

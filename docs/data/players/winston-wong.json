@@ -1,10 +1,10 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1442.79,
-  "matches_count": 29,
-  "wins": 11,
-  "losses": 16,
+  "elo": 1416.82,
+  "matches_count": 34,
+  "wins": 13,
+  "losses": 19,
   "draws": 2,
   "matches": [
     {
@@ -353,6 +353,66 @@
       "elo_before": 1459.5473,
       "elo_after": 1442.7854,
       "opp_elo": 1500.663,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Jeremy O'Brien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1442.7854,
+      "elo_after": 1426.8862,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1426.8862,
+      "elo_after": 1444.9668,
+      "opp_elo": 1410.0597,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1444.9668,
+      "elo_after": 1417.7778,
+      "opp_elo": 1284.7551,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1417.7778,
+      "elo_after": 1437.791,
+      "opp_elo": 1436.3229,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1437.791,
+      "elo_after": 1416.8201,
+      "opp_elo": 1401.6224,
       "is_bye": false
     }
   ]

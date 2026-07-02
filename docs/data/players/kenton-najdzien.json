@@ -1,11 +1,11 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1559.85,
-  "matches_count": 40,
-  "wins": 24,
-  "losses": 15,
-  "draws": 1,
+  "elo": 1578.92,
+  "matches_count": 45,
+  "wins": 27,
+  "losses": 16,
+  "draws": 2,
   "matches": [
     {
       "week": "26-2-13",
@@ -485,6 +485,66 @@
       "elo_before": 1583.526,
       "elo_after": 1559.8515,
       "opp_elo": 1496.2576,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1559.8515,
+      "elo_after": 1537.6105,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.6105,
+      "elo_after": 1554.5617,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.5617,
+      "elo_after": 1571.9731,
+      "opp_elo": 1525.4441,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.9731,
+      "elo_after": 1578.9231,
+      "opp_elo": 1311.9441,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1578.9231,
+      "elo_after": 1578.9231,
+      "opp_elo": 1543.195,
       "is_bye": false
     }
   ]

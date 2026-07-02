@@ -1,11 +1,11 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1465.74,
-  "matches_count": 62,
-  "wins": 28,
+  "elo": 1572.81,
+  "matches_count": 67,
+  "wins": 32,
   "losses": 33,
-  "draws": 1,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -759,6 +759,66 @@
       "score": 0.0,
       "elo_before": 1483.8588,
       "elo_after": 1465.7409,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1465.7409,
+      "elo_after": 1494.7447,
+      "opp_elo": 1669.0995,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1494.7447,
+      "elo_after": 1522.3845,
+      "opp_elo": 1665.2119,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1522.3845,
+      "elo_after": 1549.5922,
+      "opp_elo": 1683.0146,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1549.5922,
+      "elo_after": 1572.814,
+      "opp_elo": 1628.103,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Thomas Kotcher",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1572.814,
+      "elo_after": 1572.814,
       "opp_elo": 1500.0,
       "is_bye": false
     }

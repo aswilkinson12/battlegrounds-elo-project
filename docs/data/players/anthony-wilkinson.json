@@ -1,11 +1,11 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1500.01,
-  "matches_count": 86,
-  "wins": 51,
-  "losses": 31,
-  "draws": 4,
+  "elo": 1543.2,
+  "matches_count": 91,
+  "wins": 54,
+  "losses": 32,
+  "draws": 5,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1037,6 +1037,66 @@
       "elo_before": 1525.6232,
       "elo_after": 1500.0093,
       "opp_elo": 1399.4081,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Joseph Chung",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0093,
+      "elo_after": 1513.3121,
+      "opp_elo": 1392.527,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1513.3121,
+      "elo_after": 1531.5845,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1531.5845,
+      "elo_after": 1516.983,
+      "opp_elo": 1613.5016,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.983,
+      "elo_after": 1543.195,
+      "opp_elo": 1655.8069,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1543.195,
+      "elo_after": 1543.195,
+      "opp_elo": 1578.9231,
       "is_bye": false
     }
   ]

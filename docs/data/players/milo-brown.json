@@ -1,10 +1,10 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1654.13,
-  "matches_count": 55,
-  "wins": 34,
-  "losses": 14,
+  "elo": 1608.29,
+  "matches_count": 60,
+  "wins": 36,
+  "losses": 17,
   "draws": 7,
   "matches": [
     {
@@ -665,6 +665,66 @@
       "elo_before": 1654.128,
       "elo_after": 1654.128,
       "opp_elo": 1550.8312,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1654.128,
+      "elo_after": 1665.2119,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1665.2119,
+      "elo_after": 1637.5721,
+      "opp_elo": 1494.7447,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1637.5721,
+      "elo_after": 1620.8779,
+      "opp_elo": 1679.9452,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1620.8779,
+      "elo_after": 1631.3944,
+      "opp_elo": 1453.9975,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1631.3944,
+      "elo_after": 1608.2929,
+      "opp_elo": 1555.1947,
       "is_bye": false
     }
   ]

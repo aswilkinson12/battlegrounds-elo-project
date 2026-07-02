@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1377.34,
-  "matches_count": 54,
-  "wins": 19,
-  "losses": 34,
+  "elo": 1422.59,
+  "matches_count": 59,
+  "wins": 22,
+  "losses": 36,
   "draws": 1,
   "matches": [
     {
@@ -664,6 +664,66 @@
       "elo_before": 1394.4654,
       "elo_after": 1377.3436,
       "opp_elo": 1428.9222,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1377.3436,
+      "elo_after": 1364.7858,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1364.7858,
+      "elo_after": 1348.9402,
+      "opp_elo": 1423.0066,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1348.9402,
+      "elo_after": 1375.7172,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1375.7172,
+      "elo_after": 1401.6224,
+      "opp_elo": 1508.0327,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1401.6224,
+      "elo_after": 1422.5932,
+      "opp_elo": 1437.791,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1262.19,
-  "matches_count": 61,
-  "wins": 15,
-  "losses": 43,
+  "elo": 1295.66,
+  "matches_count": 66,
+  "wins": 17,
+  "losses": 46,
   "draws": 3,
   "matches": [
     {
@@ -815,6 +815,66 @@
       "elo_before": 1262.1941,
       "elo_after": 1262.1941,
       "opp_elo": null
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1262.1941,
+      "elo_after": 1293.6329,
+      "opp_elo": 1534.3884,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1293.6329,
+      "elo_after": 1284.7551,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1284.7551,
+      "elo_after": 1311.9441,
+      "opp_elo": 1444.9668,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1311.9441,
+      "elo_after": 1304.9941,
+      "opp_elo": 1571.9731,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Jeremy O'Brien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1304.9941,
+      "elo_after": 1295.6636,
+      "opp_elo": 1500.0,
+      "is_bye": false
     }
   ]
 }

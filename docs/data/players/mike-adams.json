@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1436.74,
-  "matches_count": 69,
-  "wins": 29,
-  "losses": 33,
+  "elo": 1409.98,
+  "matches_count": 73,
+  "wins": 30,
+  "losses": 36,
   "draws": 7,
   "matches": [
     {
@@ -855,6 +855,54 @@
       "elo_before": 1453.1931,
       "elo_after": 1436.7375,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Timofey Tylik",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1436.7375,
+      "elo_after": 1423.0066,
+      "opp_elo": 1535.679,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1423.0066,
+      "elo_after": 1438.8521,
+      "opp_elo": 1364.7858,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1438.8521,
+      "elo_after": 1425.4875,
+      "opp_elo": 1545.0919,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.4875,
+      "elo_after": 1409.9828,
+      "opp_elo": 1490.1389,
       "is_bye": false
     }
   ]

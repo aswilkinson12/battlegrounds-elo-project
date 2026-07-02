@@ -1,0 +1,20 @@
+Round 1
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Sean Marks                   Philip Petronis              3-0     
+2      Jackson D’Elia               Nathan Choi                  0-3     
+3      John Larochelle             Phil iwanow                  0-3     
+4      Devon O’Donnell              Kenton Najdzien              3-0     
+5      Ran Guo                      Tom Kessler                  0-3     
+6      Jarrod Haase                Nathan Cormier               3-0     
+7      Mike Laing                   Dani Masom                   0-3     
+8      Bradley Skubic               Jonathon Torchia             1-1     
+9      Timofey Tylik                Mike Adams                   3-0     
+10     Joseph Chung                 Anthony Wilkinson            0-3     
+11     Amber Cronin                 Thomas Kotcher               0-3     
+12     Winston Wong                 Jeremy O'Brien               0-3     
+13     Milo Brown                   Ken Cox                      3-0     
+14     Alexandra Polinsky           Jack Henry                   3-0     
+15     David Van Hise               Stan Kornacki                0-3     
+16     Stella Burfeind              Alex Parker                  0-3

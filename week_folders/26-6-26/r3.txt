@@ -1,0 +1,20 @@
+Round 3
+
+Table  Player                       Opponent                     Points  
+-------------------------------------------------------------------------------
+1      Tom Kessler                  Thomas Kotcher               6-9     
+2      Nathan Choi                  Dani Masom                   6-9     
+3      Devon O’Donnell              Timofey Tylik                6-9     
+4      Stan Kornacki                Anthony Wilkinson            9-6     
+5      Philip Petronis              John Larochelle             6-3     
+6      Nathan Cormier               Kenton Najdzien              3-6     
+7      Ran Guo                      Phil iwanow                  6-3     
+8      David Van Hise               Milo Brown                   6-3     
+9      Jeremy O'Brien               Alexandra Polinsky           3-6     
+10     Winston Wong                 Jarrod Haase                3-6     
+11     Alex Parker                  Sean Marks                   3-6     
+12     Mike Adams                   Bradley Skubic               3-4     
+13     Jonathon Torchia             Jack Henry                   1-3     
+14     Stella Burfeind              Jackson D’Elia               3-0     
+15     Ken Cox                      Joseph Chung                 3-0     
+16     Amber Cronin                 Mike Laing                   0-3

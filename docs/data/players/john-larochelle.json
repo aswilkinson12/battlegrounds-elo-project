@@ -1,10 +1,10 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1470.02,
-  "matches_count": 19,
-  "wins": 8,
-  "losses": 9,
+  "elo": 1464.59,
+  "matches_count": 24,
+  "wins": 10,
+  "losses": 12,
   "draws": 2,
   "matches": [
     {
@@ -244,6 +244,66 @@
       "elo_before": 1494.3075,
       "elo_after": 1470.0168,
       "opp_elo": 1394.9375,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1470.0168,
+      "elo_after": 1449.7079,
+      "opp_elo": 1446.0441,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1449.7079,
+      "elo_after": 1471.4391,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1471.4391,
+      "elo_after": 1453.9975,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1453.9975,
+      "elo_after": 1443.481,
+      "opp_elo": 1620.8779,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1443.481,
+      "elo_after": 1464.5858,
+      "opp_elo": 1482.1275,
       "is_bye": false
     }
   ]

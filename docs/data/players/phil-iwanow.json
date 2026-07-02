@@ -1,10 +1,10 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1446.04,
-  "matches_count": 65,
-  "wins": 22,
-  "losses": 39,
+  "elo": 1439.8,
+  "matches_count": 70,
+  "wins": 24,
+  "losses": 42,
   "draws": 4,
   "matches": [
     {
@@ -796,6 +796,66 @@
       "elo_before": 1428.9222,
       "elo_after": 1446.0441,
       "opp_elo": 1394.4654,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "John Larochelle",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1446.0441,
+      "elo_after": 1466.353,
+      "opp_elo": 1470.0168,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1466.353,
+      "elo_after": 1449.1873,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1449.1873,
+      "elo_after": 1436.3229,
+      "opp_elo": 1565.547,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1436.3229,
+      "elo_after": 1416.3097,
+      "opp_elo": 1417.7778,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1416.3097,
+      "elo_after": 1439.7999,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

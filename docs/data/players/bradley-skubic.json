@@ -1,11 +1,11 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1571.44,
-  "matches_count": 50,
-  "wins": 29,
-  "losses": 14,
-  "draws": 7,
+  "elo": 1544.1,
+  "matches_count": 55,
+  "wins": 30,
+  "losses": 16,
+  "draws": 9,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -605,6 +605,66 @@
       "elo_before": 1571.4391,
       "elo_after": 1571.4391,
       "opp_elo": 1694.9629,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1571.4391,
+      "elo_after": 1567.5865,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1567.5865,
+      "elo_after": 1545.0919,
+      "opp_elo": 1502.9495,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.0919,
+      "elo_after": 1558.4566,
+      "opp_elo": 1438.8521,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1558.4566,
+      "elo_after": 1546.6386,
+      "opp_elo": 1696.6394,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 5,
+      "opponent": "Alex Parker",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1546.6386,
+      "elo_after": 1544.1033,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]
