@@ -1,10 +1,10 @@
 {
   "player": "Ran Guo",
   "slug": "ran-guo",
-  "elo": 1578.3,
-  "matches_count": 35,
-  "wins": 21,
-  "losses": 13,
+  "elo": 1588.43,
+  "matches_count": 33,
+  "wins": 20,
+  "losses": 12,
   "draws": 1,
   "matches": [
     {
@@ -405,37 +405,13 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Phil iwanow",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1565.547,
-      "elo_after": 1578.4114,
-      "opp_elo": 1449.1873,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Devon O’Donnell",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1578.4114,
-      "elo_after": 1555.1947,
-      "opp_elo": 1500.0,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1555.1947,
-      "elo_after": 1578.2962,
-      "opp_elo": 1631.3944,
+      "elo_before": 1565.547,
+      "elo_after": 1588.4303,
+      "opp_elo": 1637.5721,
       "is_bye": false
     }
   ]

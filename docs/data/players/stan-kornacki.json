@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1604.88,
-  "matches_count": 65,
-  "wins": 38,
-  "losses": 22,
+  "elo": 1584.93,
+  "matches_count": 68,
+  "wins": 39,
+  "losses": 24,
   "draws": 5,
   "matches": [
     {
@@ -754,36 +754,72 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Anthony Wilkinson",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1613.5016,
-      "elo_after": 1628.103,
-      "opp_elo": 1531.5845,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Dani Masom",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1628.103,
-      "elo_after": 1604.8812,
-      "opp_elo": 1549.5922,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Tom Kessler",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1604.8812,
-      "elo_after": 1604.8812,
+      "elo_before": 1613.5016,
+      "elo_after": 1613.5016,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 1,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1613.5016,
+      "elo_after": 1629.3089,
+      "opp_elo": 1554.5617,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1629.3089,
+      "elo_after": 1612.8753,
+      "opp_elo": 1676.5258,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1612.8753,
+      "elo_after": 1625.9109,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1625.9109,
+      "elo_after": 1609.7397,
+      "opp_elo": 1678.025,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1609.7397,
+      "elo_after": 1584.9303,
       "opp_elo": 1500.0,
       "is_bye": false
     }

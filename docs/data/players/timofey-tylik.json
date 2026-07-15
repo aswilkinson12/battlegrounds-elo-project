@@ -1,10 +1,10 @@
 {
   "player": "Timofey Tylik",
   "slug": "timofey-tylik",
-  "elo": 1557.81,
-  "matches_count": 24,
-  "wins": 13,
-  "losses": 8,
+  "elo": 1565.73,
+  "matches_count": 22,
+  "wins": 12,
+  "losses": 7,
   "draws": 3,
   "matches": [
     {
@@ -262,37 +262,13 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Devon O’Donnell",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1565.7259,
-      "elo_after": 1581.1739,
-      "opp_elo": 1500.0,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Thomas Kotcher",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1581.1739,
-      "elo_after": 1557.8138,
-      "opp_elo": 1500.0,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "David Van Hise",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1557.8138,
-      "elo_after": 1557.8138,
-      "opp_elo": 1708.4574,
+      "elo_before": 1565.7259,
+      "elo_after": 1565.7259,
+      "opp_elo": 1679.9452,
       "is_bye": false
     }
   ]

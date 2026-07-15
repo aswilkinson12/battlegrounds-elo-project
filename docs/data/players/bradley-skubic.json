@@ -1,10 +1,10 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1544.1,
-  "matches_count": 55,
-  "wins": 30,
-  "losses": 16,
+  "elo": 1556.22,
+  "matches_count": 58,
+  "wins": 32,
+  "losses": 17,
   "draws": 9,
   "matches": [
     {
@@ -634,36 +634,72 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Mike Adams",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1545.0919,
-      "elo_after": 1558.4566,
-      "opp_elo": 1438.8521,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "David Van Hise",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1558.4566,
-      "elo_after": 1546.6386,
-      "opp_elo": 1696.6394,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Alex Parker",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1546.6386,
-      "elo_after": 1544.1033,
+      "elo_before": 1545.0919,
+      "elo_after": 1542.6398,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Kevin Petriello",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1542.6398,
+      "elo_after": 1559.3196,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "damion reilly",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1559.3196,
+      "elo_after": 1537.1068,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Jeremy O'Brien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.1068,
+      "elo_after": 1554.0852,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "David Van Hise",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.0852,
+      "elo_after": 1579.493,
+      "opp_elo": 1676.0307,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1579.493,
+      "elo_after": 1556.2201,
       "opp_elo": 1500.0,
       "is_bye": false
     }

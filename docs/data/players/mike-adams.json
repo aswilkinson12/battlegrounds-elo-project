@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1409.98,
-  "matches_count": 73,
+  "elo": 1381.68,
+  "matches_count": 75,
   "wins": 30,
-  "losses": 36,
+  "losses": 38,
   "draws": 7,
   "matches": [
     {
@@ -882,27 +882,62 @@
       "is_bye": false
     },
     {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 3,
-      "opponent": "Bradley Skubic",
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 1,
+      "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
       "elo_before": 1438.8521,
-      "elo_after": 1425.4875,
-      "opp_elo": 1545.0919,
+      "elo_after": 1425.3097,
+      "opp_elo": 1541.5395,
       "is_bye": false
     },
     {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Stella Burfeind",
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 2,
+      "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1425.4875,
-      "elo_after": 1409.9828,
-      "opp_elo": 1490.1389,
+      "elo_before": 1425.3097,
+      "elo_after": 1410.3325,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1410.3325,
+      "elo_after": 1410.3325,
+      "opp_elo": null
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 4,
+      "opponent": "Jackson D’Elia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1410.3325,
+      "elo_after": 1396.1301,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 5,
+      "opponent": "Roopak Dasararaju",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1396.1301,
+      "elo_after": 1381.6766,
+      "opp_elo": 1480.9127,
       "is_bye": false
     }
   ]

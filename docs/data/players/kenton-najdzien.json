@@ -1,10 +1,10 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1578.92,
-  "matches_count": 45,
-  "wins": 27,
-  "losses": 16,
+  "elo": 1609.57,
+  "matches_count": 48,
+  "wins": 29,
+  "losses": 17,
   "draws": 2,
   "matches": [
     {
@@ -514,37 +514,73 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Nathan Cormier",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1554.5617,
-      "elo_after": 1571.9731,
-      "opp_elo": 1525.4441,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Jarrod Haase",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1571.9731,
-      "elo_after": 1578.9231,
-      "opp_elo": 1311.9441,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Anthony Wilkinson",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1578.9231,
-      "elo_after": 1578.9231,
-      "opp_elo": 1543.195,
+      "elo_before": 1554.5617,
+      "elo_after": 1554.5617,
+      "opp_elo": 1531.5845,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1554.5617,
+      "elo_after": 1538.7543,
+      "opp_elo": 1613.5016,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.7543,
+      "elo_after": 1552.3741,
+      "opp_elo": 1437.6081,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 3,
+      "opponent": "Isharah Considine",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.3741,
+      "elo_after": 1571.3701,
+      "opp_elo": 1552.2992,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1571.3701,
+      "elo_after": 1584.7781,
+      "opp_elo": 1465.9997,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1584.7781,
+      "elo_after": 1609.5715,
+      "opp_elo": 1694.1963,
       "is_bye": false
     }
   ]

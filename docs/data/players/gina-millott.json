@@ -1,10 +1,10 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1444.04,
-  "matches_count": 26,
+  "elo": 1383.71,
+  "matches_count": 30,
   "wins": 11,
-  "losses": 15,
+  "losses": 19,
   "draws": 0,
   "matches": [
     {
@@ -318,6 +318,65 @@
       "elo_after": 1444.0364,
       "opp_elo": 1438.1185,
       "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Brian Kennes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1444.0364,
+      "elo_after": 1428.0706,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Kevin Petriello",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1428.0706,
+      "elo_after": 1412.9489,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1412.9489,
+      "elo_after": 1397.2453,
+      "opp_elo": 1473.8423,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Jackson D’Elia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1397.2453,
+      "elo_after": 1383.7063,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1383.7063,
+      "elo_after": 1383.7063,
+      "opp_elo": null
     }
   ]
 }

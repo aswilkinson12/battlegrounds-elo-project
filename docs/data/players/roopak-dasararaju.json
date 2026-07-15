@@ -1,10 +1,10 @@
 {
   "player": "Roopak Dasararaju",
   "slug": "roopak-dasararaju",
-  "elo": 1501.19,
-  "matches_count": 10,
-  "wins": 4,
-  "losses": 5,
+  "elo": 1495.37,
+  "matches_count": 16,
+  "wins": 7,
+  "losses": 8,
   "draws": 1,
   "matches": [
     {
@@ -125,6 +125,78 @@
       "elo_before": 1501.1859,
       "elo_after": 1501.1859,
       "opp_elo": 1559.5836,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1501.1859,
+      "elo_after": 1518.4564,
+      "opp_elo": 1469.4738,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.4564,
+      "elo_after": 1507.8212,
+      "opp_elo": 1682.6335,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1507.8212,
+      "elo_after": 1524.243,
+      "opp_elo": 1460.3833,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1524.243,
+      "elo_after": 1499.9077,
+      "opp_elo": 1423.9883,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 4,
+      "opponent": "Ian Brungardt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.9077,
+      "elo_after": 1480.9127,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1480.9127,
+      "elo_after": 1495.3661,
+      "opp_elo": 1396.1301,
       "is_bye": false
     }
   ]

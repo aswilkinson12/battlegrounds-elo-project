@@ -1,10 +1,10 @@
 {
   "player": "David Van Hise",
   "slug": "david-van-hise",
-  "elo": 1708.46,
-  "matches_count": 49,
-  "wins": 34,
-  "losses": 13,
+  "elo": 1650.62,
+  "matches_count": 50,
+  "wins": 33,
+  "losses": 15,
   "draws": 2,
   "matches": [
     {
@@ -562,37 +562,60 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Milo Brown",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1679.9452,
-      "elo_after": 1696.6394,
-      "opp_elo": 1637.5721,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Bradley Skubic",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1696.6394,
-      "elo_after": 1708.4574,
-      "opp_elo": 1558.4566,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Timofey Tylik",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1708.4574,
-      "elo_after": 1708.4574,
-      "opp_elo": 1557.8138,
+      "elo_before": 1679.9452,
+      "elo_after": 1679.9452,
+      "opp_elo": 1565.7259,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1679.9452,
+      "elo_after": 1679.9452,
+      "opp_elo": null
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1679.9452,
+      "elo_after": 1698.1858,
+      "opp_elo": 1666.0505,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1698.1858,
+      "elo_after": 1676.0307,
+      "opp_elo": 1639.9532,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1676.0307,
+      "elo_after": 1650.623,
+      "opp_elo": 1554.0852,
       "is_bye": false
     }
   ]

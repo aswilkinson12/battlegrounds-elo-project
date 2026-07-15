@@ -1,10 +1,10 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1383.77,
-  "matches_count": 35,
+  "elo": 1391.98,
+  "matches_count": 34,
   "wins": 11,
-  "losses": 23,
+  "losses": 22,
   "draws": 1,
   "matches": [
     {
@@ -435,18 +435,6 @@
       "elo_before": 1410.0597,
       "elo_after": 1391.9792,
       "opp_elo": 1426.8862,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 3,
-      "opponent": "Mike Laing",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1391.9792,
-      "elo_after": 1383.7678,
-      "opp_elo": 1615.8332,
       "is_bye": false
     }
   ]

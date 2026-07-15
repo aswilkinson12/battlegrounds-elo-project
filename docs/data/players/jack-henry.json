@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1422.59,
-  "matches_count": 59,
+  "elo": 1388.31,
+  "matches_count": 62,
   "wins": 22,
-  "losses": 36,
+  "losses": 39,
   "draws": 1,
   "matches": [
     {
@@ -693,37 +693,73 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Jonathon Torchia",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1348.9402,
-      "elo_after": 1375.7172,
-      "opp_elo": 1500.0,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Nathan Cormier",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1375.7172,
-      "elo_after": 1401.6224,
-      "opp_elo": 1508.0327,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1401.6224,
-      "elo_after": 1422.5932,
-      "opp_elo": 1437.791,
+      "elo_before": 1348.9402,
+      "elo_after": 1373.0618,
+      "opp_elo": 1444.9668,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1373.0618,
+      "elo_after": 1360.7104,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1360.7104,
+      "elo_after": 1390.2592,
+      "opp_elo": 1578.1602,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1390.2592,
+      "elo_after": 1377.6083,
+      "opp_elo": 1510.9946,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1377.6083,
+      "elo_after": 1362.1447,
+      "opp_elo": 1443.0392,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1362.1447,
+      "elo_after": 1388.3113,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Isharah Considine",
   "slug": "isharah-considine",
-  "elo": 1559.58,
-  "matches_count": 35,
-  "wins": 18,
-  "losses": 15,
+  "elo": 1533.3,
+  "matches_count": 38,
+  "wins": 19,
+  "losses": 17,
   "draws": 2,
   "matches": [
     {
@@ -436,6 +436,42 @@
       "elo_before": 1559.5836,
       "elo_after": 1559.5836,
       "opp_elo": 1501.1859,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 1,
+      "opponent": "Josh Kibbe",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.5836,
+      "elo_after": 1575.3568,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1575.3568,
+      "elo_after": 1552.2992,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-10",
+      "week_index": 21,
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1552.2992,
+      "elo_after": 1533.3033,
+      "opp_elo": 1552.3741,
       "is_bye": false
     }
   ]

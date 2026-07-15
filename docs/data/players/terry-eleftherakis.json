@@ -1,10 +1,10 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1416.99,
-  "matches_count": 28,
-  "wins": 10,
-  "losses": 18,
+  "elo": 1372.53,
+  "matches_count": 33,
+  "wins": 11,
+  "losses": 22,
   "draws": 0,
   "matches": [
     {
@@ -364,6 +364,66 @@
       "elo_before": 1416.987,
       "elo_after": 1416.987,
       "opp_elo": null
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "damion reilly",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1416.987,
+      "elo_after": 1402.4422,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1402.4422,
+      "elo_after": 1426.6413,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1426.6413,
+      "elo_after": 1411.5945,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1411.5945,
+      "elo_after": 1397.7497,
+      "opp_elo": 1508.2836,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1397.7497,
+      "elo_after": 1372.5285,
+      "opp_elo": 1279.6398,
+      "is_bye": false
     }
   ]
 }

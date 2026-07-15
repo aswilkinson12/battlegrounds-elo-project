@@ -1,10 +1,10 @@
 {
   "player": "John Larochelle",
   "slug": "john-larochelle",
-  "elo": 1464.59,
-  "matches_count": 24,
+  "elo": 1493.37,
+  "matches_count": 22,
   "wins": 10,
-  "losses": 12,
+  "losses": 10,
   "draws": 2,
   "matches": [
     {
@@ -273,37 +273,13 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Philip Petronis",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1471.4391,
-      "elo_after": 1453.9975,
-      "opp_elo": 1500.0,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Milo Brown",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1453.9975,
-      "elo_after": 1443.481,
-      "opp_elo": 1620.8779,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1443.481,
-      "elo_after": 1464.5858,
-      "opp_elo": 1482.1275,
+      "elo_before": 1471.4391,
+      "elo_after": 1493.3689,
+      "opp_elo": 1525.4441,
       "is_bye": false
     }
   ]

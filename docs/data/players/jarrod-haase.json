@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1295.66,
-  "matches_count": 66,
-  "wins": 17,
-  "losses": 46,
+  "elo": 1304.86,
+  "matches_count": 69,
+  "wins": 18,
+  "losses": 48,
   "draws": 3,
   "matches": [
     {
@@ -843,37 +843,73 @@
     {
       "week": "26-6-26",
       "week_index": 19,
-      "round": 3,
-      "opponent": "Winston Wong",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1284.7551,
-      "elo_after": 1311.9441,
-      "opp_elo": 1444.9668,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 4,
-      "opponent": "Kenton Najdzien",
-      "result": "L",
-      "score": 0.0,
-      "elo_before": 1311.9441,
-      "elo_after": 1304.9941,
-      "opp_elo": 1571.9731,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
       "round": 5,
       "opponent": "Jeremy O'Brien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1304.9941,
-      "elo_after": 1295.6636,
+      "elo_before": 1284.7551,
+      "elo_after": 1276.2202,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Jackson D’Elia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1276.2202,
+      "elo_after": 1306.0061,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1306.0061,
+      "elo_after": 1297.3345,
+      "opp_elo": 1517.681,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Kevin Petriello",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1297.3345,
+      "elo_after": 1288.3109,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1288.3109,
+      "elo_after": 1279.6398,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1279.6398,
+      "elo_after": 1304.861,
+      "opp_elo": 1397.7497,
       "is_bye": false
     }
   ]
