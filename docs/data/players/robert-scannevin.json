@@ -27,8 +27,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.0,
-      "elo_after": 1504.4894,
-      "opp_elo": 1602.6744,
+      "elo_after": 1504.489,
+      "opp_elo": 1602.6666,
       "is_bye": false
     },
     {
@@ -38,9 +38,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.4894,
-      "elo_after": 1515.2614,
-      "opp_elo": 1343.4014,
+      "elo_before": 1504.489,
+      "elo_after": 1515.2591,
+      "opp_elo": 1343.3577,
       "is_bye": false
     },
     {
@@ -50,9 +50,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1515.2614,
-      "elo_after": 1496.5986,
-      "opp_elo": 1521.4276,
+      "elo_before": 1515.2591,
+      "elo_after": 1496.595,
+      "opp_elo": 1521.4021,
       "is_bye": false
     },
     {
@@ -62,8 +62,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1496.5986,
-      "elo_after": 1477.7846,
+      "elo_before": 1496.595,
+      "elo_after": 1477.7812,
       "opp_elo": 1500.0,
       "is_bye": false
     }

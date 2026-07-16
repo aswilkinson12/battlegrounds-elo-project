@@ -1,7 +1,7 @@
 {
   "player": "Joel Brook",
   "slug": "joel-brook",
-  "elo": 1491.58,
+  "elo": 1491.57,
   "matches_count": 8,
   "wins": 4,
   "losses": 4,
@@ -87,8 +87,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1537.0217,
-      "elo_after": 1520.7015,
-      "opp_elo": 1586.3542,
+      "elo_after": 1520.7011,
+      "opp_elo": 1586.346,
       "is_bye": false
     },
     {
@@ -98,9 +98,9 @@
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.7015,
-      "elo_after": 1491.5771,
-      "opp_elo": 1314.277,
+      "elo_before": 1520.7011,
+      "elo_after": 1491.5749,
+      "opp_elo": 1314.2315,
       "is_bye": false
     }
   ]

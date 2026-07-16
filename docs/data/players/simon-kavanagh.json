@@ -27,8 +27,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.0,
-      "elo_after": 1504.7848,
-      "opp_elo": 1608.4191,
+      "elo_after": 1504.7839,
+      "opp_elo": 1608.4004,
       "is_bye": false
     },
     {
@@ -38,9 +38,9 @@
       "opponent": "Autumn Rossa",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.7848,
-      "elo_after": 1525.0918,
-      "opp_elo": 1528.7227,
+      "elo_before": 1504.7839,
+      "elo_after": 1525.09,
+      "opp_elo": 1528.7053,
       "is_bye": false
     },
     {
@@ -50,8 +50,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1525.0918,
-      "elo_after": 1504.722,
+      "elo_before": 1525.09,
+      "elo_after": 1504.7203,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -62,9 +62,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.722,
-      "elo_after": 1484.5985,
-      "opp_elo": 1484.1535,
+      "elo_before": 1504.7203,
+      "elo_after": 1484.5953,
+      "opp_elo": 1484.1244,
       "is_bye": false
     }
   ]

@@ -1,9 +1,9 @@
 {
   "player": "Roopak Dasararaju",
   "slug": "roopak-dasararaju",
-  "elo": 1495.37,
-  "matches_count": 16,
-  "wins": 7,
+  "elo": 1480.2,
+  "matches_count": 15,
+  "wins": 6,
   "losses": 8,
   "draws": 1,
   "matches": [
@@ -15,8 +15,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1500.0,
-      "elo_after": 1482.4773,
-      "opp_elo": 1527.068,
+      "elo_after": 1482.4752,
+      "opp_elo": 1527.03,
       "is_bye": false
     },
     {
@@ -26,9 +26,9 @@
       "opponent": "Winston Wong",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.4773,
-      "elo_after": 1461.6495,
-      "opp_elo": 1448.9508,
+      "elo_before": 1482.4752,
+      "elo_after": 1461.647,
+      "opp_elo": 1448.9409,
       "is_bye": false
     },
     {
@@ -38,8 +38,8 @@
       "opponent": "Shaun OBrien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1461.6495,
-      "elo_after": 1482.7383,
+      "elo_before": 1461.647,
+      "elo_after": 1482.7359,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -50,8 +50,8 @@
       "opponent": "Ian Brungardt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1482.7383,
-      "elo_after": 1464.6815,
+      "elo_before": 1482.7359,
+      "elo_after": 1464.6792,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -62,9 +62,9 @@
       "opponent": "Ran Guo",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1464.6815,
-      "elo_after": 1452.1468,
-      "opp_elo": 1587.8162,
+      "elo_before": 1464.6792,
+      "elo_after": 1452.1439,
+      "opp_elo": 1587.7991,
       "is_bye": false
     },
     {
@@ -74,9 +74,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1452.1468,
-      "elo_after": 1475.8518,
-      "opp_elo": 1540.0097,
+      "elo_before": 1452.1439,
+      "elo_after": 1475.8482,
+      "opp_elo": 1539.9936,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1475.8518,
-      "elo_after": 1493.0495,
-      "opp_elo": 1442.7938,
+      "elo_before": 1475.8482,
+      "elo_after": 1493.0441,
+      "opp_elo": 1442.7591,
       "is_bye": false
     },
     {
@@ -98,9 +98,9 @@
       "opponent": "Ran Guo",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1493.0495,
-      "elo_after": 1518.4482,
-      "opp_elo": 1614.8095,
+      "elo_before": 1493.0441,
+      "elo_after": 1518.4424,
+      "opp_elo": 1614.7937,
       "is_bye": false
     },
     {
@@ -110,9 +110,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.4482,
-      "elo_after": 1501.1859,
-      "opp_elo": 1550.3116,
+      "elo_before": 1518.4424,
+      "elo_after": 1501.1793,
+      "opp_elo": 1550.2916,
       "is_bye": false
     },
     {
@@ -122,21 +122,9 @@
       "opponent": "Isharah Considine",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1501.1859,
-      "elo_after": 1501.1859,
-      "opp_elo": 1559.5836,
-      "is_bye": false
-    },
-    {
-      "week": "26-6-26",
-      "week_index": 19,
-      "round": 3,
-      "opponent": "Stella Burfeind",
-      "result": "W",
-      "score": 1.0,
-      "elo_before": 1501.1859,
-      "elo_after": 1518.4564,
-      "opp_elo": 1469.4738,
+      "elo_before": 1501.1793,
+      "elo_after": 1501.1793,
+      "opp_elo": 1559.5593,
       "is_bye": false
     },
     {
@@ -146,9 +134,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1518.4564,
-      "elo_after": 1507.8212,
-      "opp_elo": 1682.6335,
+      "elo_before": 1501.1793,
+      "elo_after": 1489.6496,
+      "opp_elo": 1645.5573,
       "is_bye": false
     },
     {
@@ -158,9 +146,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1507.8212,
-      "elo_after": 1524.243,
-      "opp_elo": 1460.3833,
+      "elo_before": 1489.6496,
+      "elo_after": 1509.1818,
+      "opp_elo": 1499.3838,
       "is_bye": false
     },
     {
@@ -170,9 +158,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1524.243,
-      "elo_after": 1499.9077,
-      "opp_elo": 1423.9883,
+      "elo_before": 1509.1818,
+      "elo_after": 1484.3246,
+      "opp_elo": 1398.4759,
       "is_bye": false
     },
     {
@@ -182,8 +170,8 @@
       "opponent": "Ian Brungardt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1499.9077,
-      "elo_after": 1480.9127,
+      "elo_before": 1484.3246,
+      "elo_after": 1466.1813,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -194,9 +182,9 @@
       "opponent": "Mike Adams",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1480.9127,
-      "elo_after": 1495.3661,
-      "opp_elo": 1396.1301,
+      "elo_before": 1466.1813,
+      "elo_after": 1480.1951,
+      "opp_elo": 1372.8189,
       "is_bye": false
     }
   ]

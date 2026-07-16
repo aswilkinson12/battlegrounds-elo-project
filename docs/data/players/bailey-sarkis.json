@@ -15,8 +15,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1520.2912,
-      "opp_elo": 1523.6476,
+      "elo_after": 1520.2936,
+      "opp_elo": 1523.6906,
       "is_bye": false
     },
     {
@@ -26,9 +26,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.2912,
-      "elo_after": 1502.1208,
-      "opp_elo": 1535.4717,
+      "elo_before": 1520.2936,
+      "elo_after": 1502.1227,
+      "opp_elo": 1535.4646,
       "is_bye": false
     },
     {
@@ -38,8 +38,8 @@
       "opponent": "Philip Watson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1502.1208,
-      "elo_after": 1521.0049,
+      "elo_before": 1502.1227,
+      "elo_after": 1521.0066,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -50,9 +50,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.0049,
-      "elo_after": 1543.4706,
-      "opp_elo": 1585.0974,
+      "elo_before": 1521.0066,
+      "elo_after": 1543.4722,
+      "opp_elo": 1585.0954,
       "is_bye": false
     },
     {
@@ -62,8 +62,8 @@
       "opponent": "Chris Daniel",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.4706,
-      "elo_after": 1560.1057,
+      "elo_before": 1543.4722,
+      "elo_after": 1560.1072,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -74,8 +74,8 @@
       "opponent": "Evan Hamlin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1560.1057,
-      "elo_after": 1537.8511,
+      "elo_before": 1560.1072,
+      "elo_after": 1537.8525,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -86,9 +86,9 @@
       "opponent": "Kevin Thanakit",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1537.8511,
-      "elo_after": 1519.7116,
-      "opp_elo": 1553.5969,
+      "elo_before": 1537.8525,
+      "elo_after": 1519.7127,
+      "opp_elo": 1553.5919,
       "is_bye": false
     }
   ]

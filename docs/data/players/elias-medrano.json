@@ -1,7 +1,7 @@
 {
   "player": "Elias Medrano",
   "slug": "elias-medrano",
-  "elo": 1464.8,
+  "elo": 1464.79,
   "matches_count": 6,
   "wins": 2,
   "losses": 4,
@@ -75,8 +75,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1483.8312,
-      "elo_after": 1464.7951,
-      "opp_elo": 1483.1714,
+      "elo_after": 1464.7923,
+      "opp_elo": 1483.1206,
       "is_bye": false
     }
   ]

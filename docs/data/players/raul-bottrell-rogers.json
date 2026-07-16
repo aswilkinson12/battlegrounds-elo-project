@@ -1,7 +1,7 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1472.7,
+  "elo": 1472.66,
   "matches_count": 26,
   "wins": 12,
   "losses": 14,
@@ -87,8 +87,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1499.9434,
-      "elo_after": 1486.0197,
-      "opp_elo": 1595.0765,
+      "elo_after": 1486.0195,
+      "opp_elo": 1595.0731,
       "is_bye": false
     },
     {
@@ -98,9 +98,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1486.0197,
-      "elo_after": 1501.1036,
-      "opp_elo": 1413.3696,
+      "elo_before": 1486.0195,
+      "elo_after": 1501.103,
+      "opp_elo": 1413.3611,
       "is_bye": false
     },
     {
@@ -110,9 +110,9 @@
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1501.1036,
-      "elo_after": 1524.1634,
-      "opp_elo": 1576.5037,
+      "elo_before": 1501.103,
+      "elo_after": 1524.1642,
+      "opp_elo": 1576.5296,
       "is_bye": false
     },
     {
@@ -122,9 +122,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1524.1634,
-      "elo_after": 1506.4541,
-      "opp_elo": 1547.8006,
+      "elo_before": 1524.1642,
+      "elo_after": 1506.4494,
+      "opp_elo": 1547.7018,
       "is_bye": false
     },
     {
@@ -134,8 +134,8 @@
       "opponent": "James Farley",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1506.4541,
-      "elo_after": 1525.1012,
+      "elo_before": 1506.4494,
+      "elo_after": 1525.0968,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -146,8 +146,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1525.1012,
-      "elo_after": 1542.7308,
+      "elo_before": 1525.0968,
+      "elo_after": 1542.7267,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -158,9 +158,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1542.7308,
-      "elo_after": 1526.8509,
-      "opp_elo": 1600.306,
+      "elo_before": 1542.7267,
+      "elo_after": 1526.8425,
+      "opp_elo": 1600.2208,
       "is_bye": false
     },
     {
@@ -170,9 +170,9 @@
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1526.8509,
-      "elo_after": 1545.6753,
-      "opp_elo": 1523.6387,
+      "elo_before": 1526.8425,
+      "elo_after": 1545.6397,
+      "opp_elo": 1523.1347,
       "is_bye": false
     },
     {
@@ -182,8 +182,8 @@
       "opponent": "Thomas Kotcher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.6753,
-      "elo_after": 1562.1917,
+      "elo_before": 1545.6397,
+      "elo_after": 1562.1581,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -194,8 +194,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1562.1917,
-      "elo_after": 1539.8266,
+      "elo_before": 1562.1581,
+      "elo_after": 1539.7947,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -206,9 +206,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1539.8266,
-      "elo_after": 1516.4266,
-      "opp_elo": 1457.8821,
+      "elo_before": 1539.7947,
+      "elo_after": 1516.3927,
+      "opp_elo": 1457.8113,
       "is_bye": false
     },
     {
@@ -218,9 +218,9 @@
       "opponent": "Isharah Considine",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.4266,
-      "elo_after": 1537.7058,
-      "opp_elo": 1558.3061,
+      "elo_before": 1516.3927,
+      "elo_after": 1537.6721,
+      "opp_elo": 1558.2757,
       "is_bye": false
     },
     {
@@ -230,9 +230,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1537.7058,
-      "elo_after": 1522.4079,
-      "opp_elo": 1606.2796,
+      "elo_before": 1537.6721,
+      "elo_after": 1522.3747,
+      "opp_elo": 1606.2558,
       "is_bye": false
     },
     {
@@ -242,8 +242,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1522.4079,
-      "elo_after": 1502.1842,
+      "elo_before": 1522.3747,
+      "elo_after": 1502.1528,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -254,9 +254,9 @@
       "opponent": "Reya Truher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1502.1842,
-      "elo_after": 1480.521,
-      "opp_elo": 1453.1619,
+      "elo_before": 1502.1528,
+      "elo_after": 1480.4773,
+      "opp_elo": 1452.8998,
       "is_bye": false
     },
     {
@@ -266,9 +266,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1480.521,
-      "elo_after": 1467.4066,
-      "opp_elo": 1591.8003,
+      "elo_before": 1480.4773,
+      "elo_after": 1467.3629,
+      "opp_elo": 1591.758,
       "is_bye": false
     },
     {
@@ -278,9 +278,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1467.4066,
-      "elo_after": 1448.8379,
-      "opp_elo": 1475.2957,
+      "elo_before": 1467.3629,
+      "elo_after": 1448.793,
+      "opp_elo": 1475.2288,
       "is_bye": false
     },
     {
@@ -290,8 +290,8 @@
       "opponent": "Sean Thornton",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1448.8379,
-      "elo_after": 1470.6157,
+      "elo_before": 1448.793,
+      "elo_after": 1470.5732,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -302,8 +302,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1470.6157,
-      "elo_after": 1491.2188,
+      "elo_before": 1470.5732,
+      "elo_after": 1491.1786,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -314,8 +314,8 @@
       "opponent": "Philip Petronis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1491.2188,
-      "elo_after": 1472.6989,
+      "elo_before": 1491.1786,
+      "elo_after": 1472.6609,
       "opp_elo": 1500.0,
       "is_bye": false
     }

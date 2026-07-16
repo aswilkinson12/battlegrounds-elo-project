@@ -15,8 +15,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1500.0,
-      "elo_after": 1516.2055,
-      "opp_elo": 1448.526,
+      "elo_after": 1516.2043,
+      "opp_elo": 1448.503,
       "is_bye": false
     },
     {
@@ -26,8 +26,8 @@
       "opponent": "Philip Watson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1516.2055,
-      "elo_after": 1534.3199,
+      "elo_before": 1516.2043,
+      "elo_after": 1534.3187,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -38,9 +38,9 @@
       "opponent": "Pan Rasking",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1534.3199,
-      "elo_after": 1511.306,
-      "opp_elo": 1459.799,
+      "elo_before": 1534.3187,
+      "elo_after": 1511.3034,
+      "opp_elo": 1459.7712,
       "is_bye": false
     },
     {
@@ -50,8 +50,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1511.306,
-      "elo_after": 1491.6879,
+      "elo_before": 1511.3034,
+      "elo_after": 1491.6855,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -62,9 +62,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1491.6879,
-      "elo_after": 1505.9593,
-      "opp_elo": 1403.3656,
+      "elo_before": 1491.6855,
+      "elo_after": 1505.9558,
+      "opp_elo": 1403.341,
       "is_bye": false
     },
     {
@@ -74,9 +74,9 @@
       "opponent": "Terry Eleftherakis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1505.9593,
-      "elo_after": 1519.1271,
-      "opp_elo": 1395.7586,
+      "elo_before": 1505.9558,
+      "elo_after": 1519.1234,
+      "opp_elo": 1395.7523,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1519.1271,
-      "elo_after": 1536.6582,
-      "opp_elo": 1492.2119,
+      "elo_before": 1519.1234,
+      "elo_after": 1536.6536,
+      "opp_elo": 1492.1923,
       "is_bye": false
     },
     {
@@ -98,8 +98,8 @@
       "opponent": "Jonathon Torchia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1536.6582,
-      "elo_after": 1553.6609,
+      "elo_before": 1536.6536,
+      "elo_after": 1553.6566,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -110,9 +110,9 @@
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.6609,
-      "elo_after": 1571.9625,
-      "opp_elo": 1540.8851,
+      "elo_before": 1553.6566,
+      "elo_after": 1571.9581,
+      "opp_elo": 1540.8784,
       "is_bye": false
     },
     {
@@ -122,8 +122,8 @@
       "opponent": "Sean Marks",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1571.9625,
-      "elo_after": 1568.0825,
+      "elo_before": 1571.9581,
+      "elo_after": 1568.0783,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -134,8 +134,8 @@
       "opponent": "Michael Stopa",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1568.0825,
-      "elo_after": 1545.4062,
+      "elo_before": 1568.0783,
+      "elo_after": 1545.4022,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -146,9 +146,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1545.4062,
-      "elo_after": 1557.0896,
-      "opp_elo": 1404.342,
+      "elo_before": 1545.4022,
+      "elo_after": 1557.0846,
+      "opp_elo": 1404.3151,
       "is_bye": false
     },
     {
@@ -158,8 +158,8 @@
       "opponent": "Ford DelVecchio",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1557.0896,
-      "elo_after": 1572.9954,
+      "elo_before": 1557.0846,
+      "elo_after": 1572.9906,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -170,8 +170,8 @@
       "opponent": "Brian Kennes",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1572.9954,
-      "elo_after": 1588.0613,
+      "elo_before": 1572.9906,
+      "elo_after": 1588.0567,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -182,8 +182,8 @@
       "opponent": "Dylan Shanes",
       "result": "ID",
       "score": 0.5,
-      "elo_before": 1588.0613,
-      "elo_after": 1588.0613,
+      "elo_before": 1588.0567,
+      "elo_after": 1588.0567,
       "opp_elo": 1500.0,
       "is_bye": false
     }

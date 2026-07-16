@@ -1,10 +1,10 @@
 [
   {
     "player": "Milo Brown",
-    "elo": 1731.35,
-    "matches": 68,
-    "wins": 43,
-    "losses": 16,
+    "elo": 1734.66,
+    "matches": 70,
+    "wins": 44,
+    "losses": 17,
     "draws": 9
   },
   {
@@ -16,28 +16,36 @@
     "draws": 7
   },
   {
-    "player": "Nathan Choi",
-    "elo": 1681.3,
-    "matches": 82,
-    "wins": 55,
-    "losses": 24,
-    "draws": 3
-  },
-  {
     "player": "David Van Hise",
-    "elo": 1664.88,
-    "matches": 50,
-    "wins": 33,
+    "elo": 1685.88,
+    "matches": 52,
+    "wins": 35,
     "losses": 15,
     "draws": 2
   },
   {
+    "player": "Nathan Choi",
+    "elo": 1649.64,
+    "matches": 84,
+    "wins": 55,
+    "losses": 26,
+    "draws": 3
+  },
+  {
     "player": "Kenton Najdzien",
-    "elo": 1622.56,
-    "matches": 48,
-    "wins": 29,
+    "elo": 1638.64,
+    "matches": 50,
+    "wins": 31,
     "losses": 17,
     "draws": 2
+  },
+  {
+    "player": "Dani Masom",
+    "elo": 1635.9,
+    "matches": 77,
+    "wins": 39,
+    "losses": 35,
+    "draws": 3
   },
   {
     "player": "Kevin Thanakit",
@@ -48,14 +56,6 @@
     "draws": 0
   },
   {
-    "player": "Dani Masom",
-    "elo": 1606.0,
-    "matches": 75,
-    "wins": 37,
-    "losses": 35,
-    "draws": 3
-  },
-  {
     "player": "Becca Blackwood",
     "elo": 1602.04,
     "matches": 53,
@@ -64,19 +64,19 @@
     "draws": 5
   },
   {
-    "player": "Stan Kornacki",
-    "elo": 1599.79,
-    "matches": 68,
-    "wins": 39,
-    "losses": 24,
-    "draws": 5
+    "player": "Ran Guo",
+    "elo": 1595.25,
+    "matches": 35,
+    "wins": 21,
+    "losses": 13,
+    "draws": 1
   },
   {
-    "player": "Ran Guo",
-    "elo": 1594.95,
-    "matches": 33,
-    "wins": 20,
-    "losses": 12,
-    "draws": 1
+    "player": "Taylor Pratt",
+    "elo": 1593.76,
+    "matches": 15,
+    "wins": 10,
+    "losses": 3,
+    "draws": 2
   }
 ]

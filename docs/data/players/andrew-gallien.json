@@ -1,0 +1,131 @@
+{
+  "player": "Andrew Gallien",
+  "slug": "andrew-gallien",
+  "elo": 1562.28,
+  "matches_count": 10,
+  "wins": 6,
+  "losses": 3,
+  "draws": 1,
+  "matches": [
+    {
+      "week": "26-6-14_RCQ",
+      "week_index": 18,
+      "round": 1,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0,
+      "elo_after": 1519.0,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-14_RCQ",
+      "week_index": 18,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.0,
+      "elo_after": 1498.962,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-14_RCQ",
+      "week_index": 18,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1498.962,
+      "elo_after": 1520.8701,
+      "opp_elo": 1552.5607,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-14_RCQ",
+      "week_index": 18,
+      "round": 4,
+      "opponent": "Ran Guo",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1520.8701,
+      "elo_after": 1502.1811,
+      "opp_elo": 1526.5573,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-14_RCQ",
+      "week_index": 18,
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.1811,
+      "elo_after": 1521.7456,
+      "opp_elo": 1512.5077,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 1,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.7456,
+      "elo_after": 1539.558,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1539.558,
+      "elo_after": 1559.6817,
+      "opp_elo": 1560.1295,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.6817,
+      "elo_after": 1576.9283,
+      "opp_elo": 1527.5288,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.9283,
+      "elo_after": 1562.2785,
+      "opp_elo": 1657.9117,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-03",
+      "week_index": 20,
+      "round": 5,
+      "opponent": "damion reilly",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1562.2785,
+      "elo_after": 1562.2785,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    }
+  ]
+}

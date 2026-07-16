@@ -1,7 +1,7 @@
 {
   "player": "Kevin Thanakit",
   "slug": "kevin-thanakit",
-  "elo": 1621.51,
+  "elo": 1621.5,
   "matches_count": 10,
   "wins": 8,
   "losses": 2,
@@ -27,8 +27,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1519.0,
-      "elo_after": 1543.9316,
-      "opp_elo": 1631.2112,
+      "elo_after": 1543.9304,
+      "opp_elo": 1631.1862,
       "is_bye": false
     },
     {
@@ -38,8 +38,8 @@
       "opponent": "cory wright",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.9316,
-      "elo_after": 1560.5419,
+      "elo_before": 1543.9304,
+      "elo_after": 1560.5407,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -50,9 +50,9 @@
       "opponent": "Kenton Najdzien",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1560.5419,
-      "elo_after": 1584.4867,
-      "opp_elo": 1653.0931,
+      "elo_before": 1560.5407,
+      "elo_after": 1584.483,
+      "opp_elo": 1653.0421,
       "is_bye": false
     },
     {
@@ -62,9 +62,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1584.4867,
-      "elo_after": 1568.6351,
-      "opp_elo": 1642.5929,
+      "elo_before": 1584.483,
+      "elo_after": 1568.6304,
+      "opp_elo": 1642.5706,
       "is_bye": false
     },
     {
@@ -74,9 +74,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1568.6351,
-      "elo_after": 1553.5969,
-      "opp_elo": 1642.1605,
+      "elo_before": 1568.6304,
+      "elo_after": 1553.5919,
+      "opp_elo": 1642.1488,
       "is_bye": false
     },
     {
@@ -86,9 +86,9 @@
       "opponent": "Bailey Sarkis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1553.5969,
-      "elo_after": 1571.7364,
-      "opp_elo": 1537.8511,
+      "elo_before": 1553.5919,
+      "elo_after": 1571.7317,
+      "opp_elo": 1537.8525,
       "is_bye": false
     },
     {
@@ -98,8 +98,8 @@
       "opponent": "Chris Hirt",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1571.7364,
-      "elo_after": 1586.8683,
+      "elo_before": 1571.7317,
+      "elo_after": 1586.8638,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -110,8 +110,8 @@
       "opponent": "Jason Flynn",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1586.8683,
-      "elo_after": 1601.2143,
+      "elo_before": 1586.8638,
+      "elo_after": 1601.2101,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -122,9 +122,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1601.2143,
-      "elo_after": 1621.5103,
-      "opp_elo": 1624.9501,
+      "elo_before": 1601.2101,
+      "elo_after": 1621.5042,
+      "opp_elo": 1624.9106,
       "is_bye": false
     }
   ]

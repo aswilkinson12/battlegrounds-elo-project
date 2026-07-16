@@ -1,7 +1,7 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1578.81,
+  "elo": 1578.78,
   "matches_count": 21,
   "wins": 12,
   "losses": 8,
@@ -75,8 +75,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1517.9654,
-      "elo_after": 1537.0701,
-      "opp_elo": 1519.8798,
+      "elo_after": 1537.0221,
+      "opp_elo": 1519.0029,
       "is_bye": false
     },
     {
@@ -86,8 +86,8 @@
       "opponent": "Milo Brown",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1537.0701,
-      "elo_after": 1538.9699,
+      "elo_before": 1537.0221,
+      "elo_after": 1538.9246,
       "opp_elo": 1571.9278,
       "is_bye": false
     },
@@ -98,8 +98,8 @@
       "opponent": "John Larochelle",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1538.9699,
-      "elo_after": 1517.8037,
+      "elo_before": 1538.9246,
+      "elo_after": 1517.7608,
       "opp_elo": 1499.185,
       "is_bye": false
     },
@@ -110,9 +110,9 @@
       "opponent": "David Van Hise",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1517.8037,
-      "elo_after": 1496.9749,
-      "opp_elo": 1484.2586,
+      "elo_before": 1517.7608,
+      "elo_after": 1496.9341,
+      "opp_elo": 1484.2537,
       "is_bye": false
     },
     {
@@ -122,8 +122,8 @@
       "opponent": "Willow Blackthorne",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1496.9749,
-      "elo_after": 1516.1404,
+      "elo_before": 1496.9341,
+      "elo_after": 1516.1017,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -134,8 +134,8 @@
       "opponent": "Terry Eleftherakis",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1516.1404,
-      "elo_after": 1494.7415,
+      "elo_before": 1516.1017,
+      "elo_after": 1494.705,
       "opp_elo": 1472.0401,
       "is_bye": false
     },
@@ -146,9 +146,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1494.7415,
-      "elo_after": 1514.7606,
-      "opp_elo": 1513.3939,
+      "elo_before": 1494.705,
+      "elo_after": 1514.7247,
+      "opp_elo": 1513.3685,
       "is_bye": false
     },
     {
@@ -158,9 +158,9 @@
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1514.7606,
-      "elo_after": 1501.0308,
-      "opp_elo": 1613.7251,
+      "elo_before": 1514.7247,
+      "elo_after": 1500.9957,
+      "opp_elo": 1613.704,
       "is_bye": false
     },
     {
@@ -170,9 +170,9 @@
       "opponent": "Phil iwanow",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1501.0308,
-      "elo_after": 1479.1522,
-      "opp_elo": 1447.9825,
+      "elo_before": 1500.9957,
+      "elo_after": 1479.1116,
+      "opp_elo": 1447.8464,
       "is_bye": false
     },
     {
@@ -182,9 +182,9 @@
       "opponent": "Terry Eleftherakis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1479.1522,
-      "elo_after": 1495.6701,
-      "opp_elo": 1433.5049,
+      "elo_before": 1479.1116,
+      "elo_after": 1495.6312,
+      "opp_elo": 1433.4952,
       "is_bye": false
     },
     {
@@ -194,9 +194,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1495.6701,
-      "elo_after": 1521.2945,
-      "opp_elo": 1622.1035,
+      "elo_before": 1495.6312,
+      "elo_after": 1521.2565,
+      "opp_elo": 1622.0852,
       "is_bye": false
     },
     {
@@ -206,9 +206,9 @@
       "opponent": "Autumn Rossa",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.2945,
-      "elo_after": 1543.0601,
-      "opp_elo": 1572.2287,
+      "elo_before": 1521.2565,
+      "elo_after": 1543.0233,
+      "opp_elo": 1572.2114,
       "is_bye": false
     },
     {
@@ -218,8 +218,8 @@
       "opponent": "Will Bellows",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1543.0601,
-      "elo_after": 1559.7173,
+      "elo_before": 1543.0233,
+      "elo_after": 1559.6824,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -230,8 +230,8 @@
       "opponent": "Jonathon Torchia",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1559.7173,
-      "elo_after": 1537.4833,
+      "elo_before": 1559.6824,
+      "elo_after": 1537.4503,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -242,9 +242,9 @@
       "opponent": "Bradley Skubic",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1537.4833,
-      "elo_after": 1559.7839,
-      "opp_elo": 1598.4561,
+      "elo_before": 1537.4503,
+      "elo_after": 1559.7516,
+      "opp_elo": 1598.4371,
       "is_bye": false
     },
     {
@@ -254,9 +254,9 @@
       "opponent": "Mike Laing",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1559.7839,
-      "elo_after": 1578.8109,
-      "opp_elo": 1560.2786,
+      "elo_before": 1559.7516,
+      "elo_after": 1578.7788,
+      "opp_elo": 1560.2474,
       "is_bye": false
     }
   ]

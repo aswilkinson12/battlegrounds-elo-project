@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1304.86,
-  "matches_count": 69,
-  "wins": 18,
-  "losses": 48,
+  "elo": 1320.68,
+  "matches_count": 71,
+  "wins": 19,
+  "losses": 49,
   "draws": 3,
   "matches": [
     {
@@ -122,8 +122,8 @@
       "result": "L",
       "score": 0.0,
       "elo_before": 1470.0422,
-      "elo_after": 1452.6894,
-      "opp_elo": 1500.2396,
+      "elo_after": 1452.6893,
+      "opp_elo": 1500.2373,
       "is_bye": false
     },
     {
@@ -133,8 +133,8 @@
       "opponent": "Karl Rookey",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1452.6894,
-      "elo_after": 1436.2608,
+      "elo_before": 1452.6893,
+      "elo_after": 1436.2607,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -145,8 +145,8 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1436.2608,
-      "elo_after": 1418.7889,
+      "elo_before": 1436.2607,
+      "elo_after": 1418.7888,
       "opp_elo": 1464.2648,
       "is_bye": false
     },
@@ -157,9 +157,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1418.7889,
-      "elo_after": 1405.6345,
-      "opp_elo": 1529.2589,
+      "elo_before": 1418.7888,
+      "elo_after": 1405.6342,
+      "opp_elo": 1529.2563,
       "is_bye": false
     },
     {
@@ -169,9 +169,9 @@
       "opponent": "Stan Kornacki",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1405.6345,
-      "elo_after": 1416.5422,
-      "opp_elo": 1632.7198,
+      "elo_before": 1405.6342,
+      "elo_after": 1416.5403,
+      "opp_elo": 1632.6749,
       "is_bye": false
     },
     {
@@ -181,8 +181,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1416.5422,
-      "elo_after": 1416.5422,
+      "elo_before": 1416.5403,
+      "elo_after": 1416.5403,
       "opp_elo": null
     },
     {
@@ -192,8 +192,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1416.5422,
-      "elo_after": 1402.0204,
+      "elo_before": 1416.5403,
+      "elo_after": 1402.0186,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -204,9 +204,9 @@
       "opponent": "Milo Brown",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1402.0204,
-      "elo_after": 1392.5236,
-      "opp_elo": 1592.9461,
+      "elo_before": 1402.0186,
+      "elo_after": 1392.5218,
+      "opp_elo": 1592.9442,
       "is_bye": false
     },
     {
@@ -216,8 +216,8 @@
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1392.5236,
-      "elo_after": 1382.539,
+      "elo_before": 1392.5218,
+      "elo_after": 1382.5373,
       "opp_elo": 1571.7507,
       "is_bye": false
     },
@@ -228,9 +228,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1382.539,
-      "elo_after": 1368.0199,
-      "opp_elo": 1466.0484,
+      "elo_before": 1382.5373,
+      "elo_after": 1368.0167,
+      "opp_elo": 1466.0178,
       "is_bye": false
     },
     {
@@ -240,9 +240,9 @@
       "opponent": "Pan Rasking",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1368.0199,
-      "elo_after": 1354.298,
-      "opp_elo": 1467.1401,
+      "elo_before": 1368.0167,
+      "elo_after": 1354.2932,
+      "opp_elo": 1467.1065,
       "is_bye": false
     },
     {
@@ -252,8 +252,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1354.298,
-      "elo_after": 1354.298,
+      "elo_before": 1354.2932,
+      "elo_after": 1354.2932,
       "opp_elo": null
     },
     {
@@ -263,8 +263,8 @@
       "opponent": "Andy Perez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1354.298,
-      "elo_after": 1342.8295,
+      "elo_before": 1354.2932,
+      "elo_after": 1342.8249,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -275,9 +275,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1342.8295,
-      "elo_after": 1368.467,
-      "opp_elo": 1469.5378,
+      "elo_before": 1342.8249,
+      "elo_after": 1368.4624,
+      "opp_elo": 1469.5325,
       "is_bye": false
     },
     {
@@ -287,9 +287,9 @@
       "opponent": "Logan Hesch",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1368.467,
-      "elo_after": 1357.231,
-      "opp_elo": 1519.2436,
+      "elo_before": 1368.4624,
+      "elo_after": 1357.2283,
+      "opp_elo": 1519.2794,
       "is_bye": false
     },
     {
@@ -299,9 +299,9 @@
       "opponent": "Joseph Chung",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1357.231,
-      "elo_after": 1379.9145,
-      "opp_elo": 1425.4499,
+      "elo_before": 1357.2283,
+      "elo_after": 1379.9088,
+      "opp_elo": 1425.3919,
       "is_bye": false
     },
     {
@@ -311,9 +311,9 @@
       "opponent": "Patrick Brooks",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1379.9145,
-      "elo_after": 1405.008,
-      "opp_elo": 1495.4165,
+      "elo_before": 1379.9088,
+      "elo_after": 1405.0026,
+      "opp_elo": 1495.4146,
       "is_bye": false
     },
     {
@@ -323,9 +323,9 @@
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1405.008,
-      "elo_after": 1388.5526,
-      "opp_elo": 1451.8203,
+      "elo_before": 1405.0026,
+      "elo_after": 1388.5452,
+      "opp_elo": 1451.7774,
       "is_bye": false
     },
     {
@@ -335,9 +335,9 @@
       "opponent": "Andy Perez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1388.5526,
-      "elo_after": 1414.1984,
-      "opp_elo": 1515.432,
+      "elo_before": 1388.5452,
+      "elo_after": 1414.1902,
+      "opp_elo": 1515.4106,
       "is_bye": false
     },
     {
@@ -347,9 +347,9 @@
       "opponent": "Jack Henry",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1414.1984,
-      "elo_after": 1416.251,
-      "opp_elo": 1451.88,
+      "elo_before": 1414.1902,
+      "elo_after": 1416.2431,
+      "opp_elo": 1451.8757,
       "is_bye": false
     },
     {
@@ -359,9 +359,9 @@
       "opponent": "Phil iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1416.251,
-      "elo_after": 1435.1972,
-      "opp_elo": 1415.267,
+      "elo_before": 1416.2431,
+      "elo_after": 1435.1688,
+      "opp_elo": 1414.8846,
       "is_bye": false
     },
     {
@@ -371,8 +371,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1435.1972,
-      "elo_after": 1419.7005,
+      "elo_before": 1435.1688,
+      "elo_after": 1419.6736,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -383,9 +383,9 @@
       "opponent": "Sam Feeley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1419.7005,
-      "elo_after": 1404.1946,
-      "opp_elo": 1484.3301,
+      "elo_before": 1419.6736,
+      "elo_after": 1404.169,
+      "opp_elo": 1484.3279,
       "is_bye": false
     },
     {
@@ -395,8 +395,8 @@
       "opponent": "Philip Watson",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1404.1946,
-      "elo_after": 1428.305,
+      "elo_before": 1404.169,
+      "elo_after": 1428.2807,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -407,8 +407,8 @@
       "opponent": "Thomas Kotcher",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1428.305,
-      "elo_after": 1413.171,
+      "elo_before": 1428.2807,
+      "elo_after": 1413.148,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -419,9 +419,9 @@
       "opponent": "Milo Brown",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1413.171,
-      "elo_after": 1440.3241,
-      "opp_elo": 1572.5755,
+      "elo_before": 1413.148,
+      "elo_after": 1440.2999,
+      "opp_elo": 1572.5254,
       "is_bye": false
     },
     {
@@ -431,9 +431,9 @@
       "opponent": "Stella Burfeind",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1440.3241,
-      "elo_after": 1461.4298,
-      "opp_elo": 1478.9878,
+      "elo_before": 1440.2999,
+      "elo_after": 1461.4029,
+      "opp_elo": 1478.9144,
       "is_bye": false
     },
     {
@@ -443,9 +443,9 @@
       "opponent": "Reya Truher",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1461.4298,
-      "elo_after": 1479.83,
-      "opp_elo": 1450.4583,
+      "elo_before": 1461.4029,
+      "elo_after": 1479.7939,
+      "opp_elo": 1450.2622,
       "is_bye": false
     },
     {
@@ -455,9 +455,9 @@
       "opponent": "Autumn Rossa",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1479.83,
-      "elo_after": 1465.0073,
-      "opp_elo": 1557.4844,
+      "elo_before": 1479.7939,
+      "elo_after": 1464.9722,
+      "opp_elo": 1557.4683,
       "is_bye": false
     },
     {
@@ -467,9 +467,9 @@
       "opponent": "Stella Burfeind",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1465.0073,
-      "elo_after": 1447.5818,
-      "opp_elo": 1493.8643,
+      "elo_before": 1464.9722,
+      "elo_after": 1447.545,
+      "opp_elo": 1493.7987,
       "is_bye": false
     },
     {
@@ -479,8 +479,8 @@
       "opponent": "Jonathon Torchia",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1447.5818,
-      "elo_after": 1431.4268,
+      "elo_before": 1447.545,
+      "elo_after": 1431.392,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -491,9 +491,9 @@
       "opponent": "Mike Adams",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1431.4268,
-      "elo_after": 1416.807,
-      "opp_elo": 1512.9907,
+      "elo_before": 1431.392,
+      "elo_after": 1416.7731,
+      "opp_elo": 1512.9719,
       "is_bye": false
     },
     {
@@ -503,9 +503,9 @@
       "opponent": "Nathan Cormier",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1416.807,
-      "elo_after": 1400.943,
-      "opp_elo": 1474.6809,
+      "elo_before": 1416.7731,
+      "elo_after": 1400.9099,
+      "opp_elo": 1474.6621,
       "is_bye": false
     },
     {
@@ -515,8 +515,8 @@
       "opponent": "Michael Whalen",
       "result": "D",
       "score": 0.5,
-      "elo_before": 1400.943,
-      "elo_after": 1406.2179,
+      "elo_before": 1400.9099,
+      "elo_after": 1406.1864,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -527,9 +527,9 @@
       "opponent": "Nathan Choi",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1406.2179,
-      "elo_after": 1397.7537,
-      "opp_elo": 1623.3239,
+      "elo_before": 1406.1864,
+      "elo_after": 1397.7226,
+      "opp_elo": 1623.3013,
       "is_bye": false
     },
     {
@@ -539,8 +539,8 @@
       "opponent": "Chris Hirt",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1397.7537,
-      "elo_after": 1384.1892,
+      "elo_before": 1397.7226,
+      "elo_after": 1384.1596,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -551,9 +551,9 @@
       "opponent": "Winston Wong",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1384.1892,
-      "elo_after": 1371.3559,
-      "opp_elo": 1501.1841,
+      "elo_before": 1384.1596,
+      "elo_after": 1371.3275,
+      "opp_elo": 1501.1782,
       "is_bye": false
     },
     {
@@ -563,9 +563,9 @@
       "opponent": "Phil iwanow",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1371.3559,
-      "elo_after": 1353.7562,
-      "opp_elo": 1397.0094,
+      "elo_before": 1371.3275,
+      "elo_after": 1353.7202,
+      "opp_elo": 1396.841,
       "is_bye": false
     },
     {
@@ -575,9 +575,9 @@
       "opponent": "Jack Henry",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1353.7562,
-      "elo_after": 1377.1187,
-      "opp_elo": 1434.9764,
+      "elo_before": 1353.7202,
+      "elo_after": 1377.0821,
+      "opp_elo": 1434.9293,
       "is_bye": false
     },
     {
@@ -587,9 +587,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1377.1187,
-      "elo_after": 1392.9182,
-      "opp_elo": 1318.0312,
+      "elo_before": 1377.0821,
+      "elo_after": 1392.881,
+      "opp_elo": 1317.9832,
       "is_bye": false
     },
     {
@@ -599,9 +599,9 @@
       "opponent": "Stan Kornacki",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1392.9182,
-      "elo_after": 1383.6554,
-      "opp_elo": 1589.5983,
+      "elo_before": 1392.881,
+      "elo_after": 1383.6181,
+      "opp_elo": 1589.5586,
       "is_bye": false
     },
     {
@@ -611,8 +611,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1383.6554,
-      "elo_after": 1383.6554,
+      "elo_before": 1383.6181,
+      "elo_after": 1383.6181,
       "opp_elo": null
     },
     {
@@ -622,8 +622,8 @@
       "opponent": "Philip Petronis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1383.6554,
-      "elo_after": 1408.7902,
+      "elo_before": 1383.6181,
+      "elo_after": 1408.7548,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -634,8 +634,8 @@
       "opponent": "Jason Flynn",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1408.7902,
-      "elo_after": 1394.6667,
+      "elo_before": 1408.7548,
+      "elo_after": 1394.633,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -646,9 +646,9 @@
       "opponent": "Amber Cronin",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1394.6667,
-      "elo_after": 1379.1886,
-      "opp_elo": 1459.8225,
+      "elo_before": 1394.633,
+      "elo_after": 1379.1553,
+      "opp_elo": 1459.7946,
       "is_bye": false
     },
     {
@@ -658,8 +658,8 @@
       "opponent": "Jonathon Torchia",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1379.1886,
-      "elo_after": 1366.5413,
+      "elo_before": 1379.1553,
+      "elo_after": 1366.5096,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -670,8 +670,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1366.5413,
-      "elo_after": 1354.5007,
+      "elo_before": 1366.5096,
+      "elo_after": 1354.4705,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -682,8 +682,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1354.5007,
-      "elo_after": 1354.5007,
+      "elo_before": 1354.4705,
+      "elo_after": 1354.4705,
       "opp_elo": null
     },
     {
@@ -693,8 +693,8 @@
       "opponent": "Will Bellows",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1354.5007,
-      "elo_after": 1343.0229,
+      "elo_before": 1354.4705,
+      "elo_after": 1342.9941,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -705,8 +705,8 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1343.0229,
-      "elo_after": 1332.0673,
+      "elo_before": 1342.9941,
+      "elo_after": 1332.0398,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -717,9 +717,9 @@
       "opponent": "Isharah Considine",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1332.0673,
-      "elo_after": 1321.5186,
-      "opp_elo": 1498.2128,
+      "elo_before": 1332.0398,
+      "elo_after": 1321.4913,
+      "opp_elo": 1498.1893,
       "is_bye": false
     },
     {
@@ -729,9 +729,9 @@
       "opponent": "Sam Feeley",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1321.5186,
-      "elo_after": 1311.7843,
-      "opp_elo": 1506.6995,
+      "elo_before": 1321.4913,
+      "elo_after": 1311.7577,
+      "opp_elo": 1506.6914,
       "is_bye": false
     },
     {
@@ -741,8 +741,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1311.7843,
-      "elo_after": 1311.7843,
+      "elo_before": 1311.7577,
+      "elo_after": 1311.7577,
       "opp_elo": null
     },
     {
@@ -752,8 +752,8 @@
       "opponent": "Josh Kibbe",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1311.7843,
-      "elo_after": 1302.1759,
+      "elo_before": 1311.7577,
+      "elo_after": 1302.1504,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -764,8 +764,8 @@
       "opponent": "K De",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1302.1759,
-      "elo_after": 1292.9591,
+      "elo_before": 1302.1504,
+      "elo_after": 1292.9347,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -776,8 +776,8 @@
       "opponent": "Ford DelVecchio",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1292.9591,
-      "elo_after": 1284.1076,
+      "elo_before": 1292.9347,
+      "elo_after": 1284.0842,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -788,8 +788,8 @@
       "opponent": "Ken Cox",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1284.1076,
-      "elo_after": 1275.5974,
+      "elo_before": 1284.0842,
+      "elo_after": 1275.5748,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -800,9 +800,9 @@
       "opponent": "Jack Henry",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1275.5974,
-      "elo_after": 1262.1941,
-      "opp_elo": 1381.0621,
+      "elo_before": 1275.5748,
+      "elo_after": 1262.1713,
+      "opp_elo": 1381.0366,
       "is_bye": false
     },
     {
@@ -812,8 +812,8 @@
       "opponent": "Bye",
       "result": "BYE",
       "is_bye": true,
-      "elo_before": 1262.1941,
-      "elo_after": 1262.1941,
+      "elo_before": 1262.1713,
+      "elo_after": 1262.1713,
       "opp_elo": null
     },
     {
@@ -823,9 +823,9 @@
       "opponent": "Nathan Cormier",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1262.1941,
-      "elo_after": 1293.6329,
-      "opp_elo": 1534.3884,
+      "elo_before": 1262.1713,
+      "elo_after": 1293.6088,
+      "opp_elo": 1534.321,
       "is_bye": false
     },
     {
@@ -835,9 +835,33 @@
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1293.6329,
-      "elo_after": 1284.7551,
+      "elo_before": 1293.6088,
+      "elo_after": 1284.7319,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1284.7319,
+      "elo_after": 1311.9215,
+      "opp_elo": 1444.9554,
+      "is_bye": false
+    },
+    {
+      "week": "26-6-26",
+      "week_index": 19,
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1311.9215,
+      "elo_after": 1304.9712,
+      "opp_elo": 1571.9459,
       "is_bye": false
     },
     {
@@ -847,8 +871,8 @@
       "opponent": "Jeremy O'Brien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1284.7551,
-      "elo_after": 1276.2202,
+      "elo_before": 1304.9712,
+      "elo_after": 1295.6417,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -859,8 +883,8 @@
       "opponent": "Jackson D’Elia",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1276.2202,
-      "elo_after": 1306.0061,
+      "elo_before": 1295.6417,
+      "elo_after": 1324.6849,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -871,9 +895,9 @@
       "opponent": "Hex Dowd",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1306.0061,
-      "elo_after": 1297.3345,
-      "opp_elo": 1517.681,
+      "elo_before": 1324.6849,
+      "elo_after": 1315.2912,
+      "opp_elo": 1518.1351,
       "is_bye": false
     },
     {
@@ -883,8 +907,8 @@
       "opponent": "Kevin Petriello",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1297.3345,
-      "elo_after": 1288.3109,
+      "elo_before": 1315.2912,
+      "elo_after": 1305.5372,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -895,8 +919,8 @@
       "opponent": "Sean Marks",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1288.3109,
-      "elo_after": 1279.6398,
+      "elo_before": 1305.5372,
+      "elo_after": 1296.1847,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -907,9 +931,9 @@
       "opponent": "Terry Eleftherakis",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1279.6398,
-      "elo_after": 1304.861,
-      "opp_elo": 1397.7497,
+      "elo_before": 1296.1847,
+      "elo_after": 1320.6796,
+      "opp_elo": 1399.6168,
       "is_bye": false
     }
   ]

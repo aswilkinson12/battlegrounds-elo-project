@@ -1,7 +1,7 @@
 {
   "player": "Ethan Ford",
   "slug": "ethan-ford",
-  "elo": 1555.37,
+  "elo": 1555.34,
   "matches_count": 5,
   "wins": 4,
   "losses": 1,
@@ -27,8 +27,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1519.0,
-      "elo_after": 1543.0797,
-      "opp_elo": 1614.2012,
+      "elo_after": 1543.0786,
+      "opp_elo": 1614.1796,
       "is_bye": false
     },
     {
@@ -38,8 +38,8 @@
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1543.0797,
-      "elo_after": 1521.7358,
+      "elo_before": 1543.0786,
+      "elo_after": 1521.7348,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -50,9 +50,9 @@
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.7358,
-      "elo_after": 1538.533,
-      "opp_elo": 1481.2721,
+      "elo_before": 1521.7348,
+      "elo_after": 1538.5118,
+      "opp_elo": 1480.8981,
       "is_bye": false
     },
     {
@@ -62,9 +62,9 @@
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1538.533,
-      "elo_after": 1555.3657,
-      "opp_elo": 1498.7296,
+      "elo_before": 1538.5118,
+      "elo_after": 1555.3438,
+      "opp_elo": 1498.6948,
       "is_bye": false
     }
   ]

@@ -1,7 +1,7 @@
 {
   "player": "Jeffrey Silver",
   "slug": "jeffrey-silver",
-  "elo": 1539.74,
+  "elo": 1539.72,
   "matches_count": 10,
   "wins": 6,
   "losses": 4,
@@ -27,8 +27,8 @@
       "result": "W",
       "score": 1.0,
       "elo_before": 1481.0,
-      "elo_after": 1496.2219,
-      "opp_elo": 1410.9805,
+      "elo_after": 1496.2215,
+      "opp_elo": 1410.9738,
       "is_bye": false
     },
     {
@@ -38,9 +38,9 @@
       "opponent": "Becca Blackwood",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1496.2219,
-      "elo_after": 1481.6195,
-      "opp_elo": 1578.1203,
+      "elo_before": 1496.2215,
+      "elo_after": 1481.6155,
+      "opp_elo": 1578.0505,
       "is_bye": false
     },
     {
@@ -50,9 +50,9 @@
       "opponent": "Phil iwanow",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1481.6195,
-      "elo_after": 1494.4181,
-      "opp_elo": 1363.9152,
+      "elo_before": 1481.6155,
+      "elo_after": 1494.402,
+      "opp_elo": 1363.663,
       "is_bye": false
     },
     {
@@ -62,9 +62,9 @@
       "opponent": "Daniel Hernandez",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1494.4181,
-      "elo_after": 1509.1517,
-      "opp_elo": 1415.049,
+      "elo_before": 1494.402,
+      "elo_after": 1509.135,
+      "opp_elo": 1415.0214,
       "is_bye": false
     },
     {
@@ -74,9 +74,9 @@
       "opponent": "Kenton Najdzien",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1509.1517,
-      "elo_after": 1495.1455,
-      "opp_elo": 1602.6648,
+      "elo_before": 1509.135,
+      "elo_after": 1495.1277,
+      "opp_elo": 1602.6245,
       "is_bye": false
     },
     {
@@ -86,8 +86,8 @@
       "opponent": "[REDACTED] [REDACTED]",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1495.1455,
-      "elo_after": 1514.411,
+      "elo_before": 1495.1277,
+      "elo_after": 1514.3941,
       "opp_elo": 1500.0,
       "is_bye": false
     },
@@ -98,9 +98,9 @@
       "opponent": "Becca Blackwood",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1514.411,
-      "elo_after": 1535.2616,
-      "opp_elo": 1548.3596,
+      "elo_before": 1514.3941,
+      "elo_after": 1535.2429,
+      "opp_elo": 1548.309,
       "is_bye": false
     },
     {
@@ -110,9 +110,9 @@
       "opponent": "Amy Altman",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1535.2616,
-      "elo_after": 1521.8811,
-      "opp_elo": 1641.183,
+      "elo_before": 1535.2429,
+      "elo_after": 1521.8627,
+      "opp_elo": 1641.171,
       "is_bye": false
     },
     {
@@ -122,9 +122,9 @@
       "opponent": "Winston Wong",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.8811,
-      "elo_after": 1539.7413,
-      "opp_elo": 1501.0148,
+      "elo_before": 1521.8627,
+      "elo_after": 1539.7238,
+      "opp_elo": 1501.0116,
       "is_bye": false
     }
   ]
