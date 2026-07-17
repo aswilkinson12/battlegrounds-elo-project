@@ -1,11 +1,11 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1408.46,
-  "matches_count": 75,
-  "wins": 33,
-  "losses": 40,
-  "draws": 2,
+  "elo": 1474.24,
+  "matches_count": 80,
+  "wins": 36,
+  "losses": 41,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -904,6 +904,66 @@
       "score": 0.0,
       "elo_before": 1423.3332,
       "elo_after": 1408.459,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Christian Heinrich",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1408.459,
+      "elo_after": 1394.3524,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1394.3524,
+      "elo_after": 1423.564,
+      "opp_elo": 1603.0109,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1423.564,
+      "elo_after": 1449.2945,
+      "opp_elo": 1552.2137,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1449.2945,
+      "elo_after": 1474.2391,
+      "opp_elo": 1561.7682,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Sam White",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1474.2391,
+      "elo_after": 1474.2391,
       "opp_elo": 1500.0,
       "is_bye": false
     }

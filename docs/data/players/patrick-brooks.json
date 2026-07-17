@@ -1,10 +1,10 @@
 {
   "player": "Patrick Brooks",
   "slug": "patrick-brooks",
-  "elo": 1499.35,
-  "matches_count": 19,
+  "elo": 1419.4,
+  "matches_count": 24,
   "wins": 8,
-  "losses": 10,
+  "losses": 15,
   "draws": 1,
   "matches": [
     {
@@ -244,6 +244,66 @@
       "elo_before": 1499.3501,
       "elo_after": 1499.3501,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1499.3501,
+      "elo_after": 1487.6231,
+      "opp_elo": 1639.4791,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Matt Rosenbloom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1487.6231,
+      "elo_after": 1466.4099,
+      "opp_elo": 1446.9684,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Nick Brink",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1466.4099,
+      "elo_after": 1449.2412,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Aaron Wiswall",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1449.2412,
+      "elo_after": 1432.9974,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Dani Masom",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1432.9974,
+      "elo_after": 1419.4009,
+      "opp_elo": 1534.6081,
       "is_bye": false
     }
   ]

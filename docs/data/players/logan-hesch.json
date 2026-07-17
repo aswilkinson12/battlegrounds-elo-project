@@ -1,11 +1,11 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1550.82,
-  "matches_count": 44,
-  "wins": 25,
-  "losses": 18,
-  "draws": 1,
+  "elo": 1584.49,
+  "matches_count": 50,
+  "wins": 28,
+  "losses": 19,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -544,6 +544,78 @@
       "elo_before": 1550.8152,
       "elo_after": 1550.8152,
       "opp_elo": 1654.1048,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1550.8152,
+      "elo_after": 1573.867,
+      "opp_elo": 1626.0628,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Christian Heinrich",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.867,
+      "elo_after": 1588.8873,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Xavier Wofford",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1588.8873,
+      "elo_after": 1603.1297,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Tom Kessler",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1603.1297,
+      "elo_after": 1603.1297,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Phil iwanow",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1603.1297,
+      "elo_after": 1600.6813,
+      "opp_elo": 1558.1071,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 6,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1600.6813,
+      "elo_after": 1584.4876,
+      "opp_elo": 1652.3751,
       "is_bye": false
     }
   ]

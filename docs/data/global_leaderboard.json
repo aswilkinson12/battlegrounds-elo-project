@@ -25,11 +25,11 @@
   },
   {
     "player": "Nathan Choi",
-    "elo": 1649.64,
-    "matches": 84,
-    "wins": 55,
-    "losses": 26,
-    "draws": 3
+    "elo": 1658.16,
+    "matches": 91,
+    "wins": 59,
+    "losses": 28,
+    "draws": 4
   },
   {
     "player": "Kenton Najdzien",
@@ -38,14 +38,6 @@
     "wins": 31,
     "losses": 17,
     "draws": 2
-  },
-  {
-    "player": "Dani Masom",
-    "elo": 1635.9,
-    "matches": 77,
-    "wins": 39,
-    "losses": 35,
-    "draws": 3
   },
   {
     "player": "Kevin Thanakit",
@@ -70,6 +62,14 @@
     "wins": 21,
     "losses": 13,
     "draws": 1
+  },
+  {
+    "player": "Logan Hesch",
+    "elo": 1594.98,
+    "matches": 50,
+    "wins": 28,
+    "losses": 19,
+    "draws": 3
   },
   {
     "player": "Taylor Pratt",

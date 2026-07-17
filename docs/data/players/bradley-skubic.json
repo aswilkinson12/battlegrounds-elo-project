@@ -1,10 +1,10 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1558.35,
-  "matches_count": 60,
-  "wins": 33,
-  "losses": 18,
+  "elo": 1526.48,
+  "matches_count": 63,
+  "wins": 34,
+  "losses": 20,
   "draws": 9,
   "matches": [
     {
@@ -725,6 +725,42 @@
       "elo_before": 1581.7362,
       "elo_after": 1558.347,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1558.347,
+      "elo_after": 1574.1859,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1574.1859,
+      "elo_after": 1552.2137,
+      "opp_elo": 1519.386,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1552.2137,
+      "elo_after": 1526.4831,
+      "opp_elo": 1423.564,
       "is_bye": false
     }
   ]

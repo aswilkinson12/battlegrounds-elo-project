@@ -1,11 +1,11 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1639.48,
-  "matches_count": 95,
-  "wins": 62,
-  "losses": 29,
-  "draws": 4,
+  "elo": 1641.01,
+  "matches_count": 102,
+  "wins": 66,
+  "losses": 31,
+  "draws": 5,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1145,6 +1145,90 @@
       "elo_before": 1661.5687,
       "elo_after": 1639.4791,
       "opp_elo": 1604.5666,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1639.4791,
+      "elo_after": 1651.2061,
+      "opp_elo": 1499.3501,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Xavier Wofford",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1651.2061,
+      "elo_after": 1624.4225,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Dani Masom",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1624.4225,
+      "elo_after": 1640.6735,
+      "opp_elo": 1573.7993,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Phil iwanow",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1640.6735,
+      "elo_after": 1640.6735,
+      "opp_elo": 1558.1071,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Benjamin Wakefield",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1640.6735,
+      "elo_after": 1652.3751,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 6,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1652.3751,
+      "elo_after": 1668.5689,
+      "opp_elo": 1600.6813,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 7,
+      "opponent": "Sam White",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1668.5689,
+      "elo_after": 1641.0116,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

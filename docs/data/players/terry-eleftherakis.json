@@ -1,10 +1,10 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1375.12,
-  "matches_count": 33,
+  "elo": 1350.81,
+  "matches_count": 35,
   "wins": 11,
-  "losses": 22,
+  "losses": 24,
   "draws": 0,
   "matches": [
     {
@@ -423,6 +423,30 @@
       "elo_before": 1399.6168,
       "elo_after": 1375.1218,
       "opp_elo": 1296.1847,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1375.1218,
+      "elo_after": 1362.6713,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Beau Berger",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1362.6713,
+      "elo_after": 1350.8132,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

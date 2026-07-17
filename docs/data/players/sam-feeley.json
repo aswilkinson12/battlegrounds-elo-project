@@ -1,10 +1,10 @@
 {
   "player": "Sam Feeley",
   "slug": "sam-feeley",
-  "elo": 1476.93,
-  "matches_count": 13,
-  "wins": 6,
-  "losses": 7,
+  "elo": 1497.86,
+  "matches_count": 18,
+  "wins": 9,
+  "losses": 9,
   "draws": 0,
   "matches": [
     {
@@ -161,6 +161,66 @@
       "elo_before": 1499.4988,
       "elo_after": 1476.928,
       "opp_elo": 1433.4172,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Beau Berger",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.928,
+      "elo_after": 1497.1878,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "David Brink",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.1878,
+      "elo_after": 1516.3416,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.3416,
+      "elo_after": 1496.4486,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Christian Heinrich",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1496.4486,
+      "elo_after": 1477.6428,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Neal Jiwnani",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1477.6428,
+      "elo_after": 1497.8638,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

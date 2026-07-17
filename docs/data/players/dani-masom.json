@@ -1,10 +1,10 @@
 {
   "player": "Dani Masom",
   "slug": "dani-masom",
-  "elo": 1626.06,
-  "matches_count": 77,
-  "wins": 39,
-  "losses": 35,
+  "elo": 1548.2,
+  "matches_count": 82,
+  "wins": 40,
+  "losses": 39,
   "draws": 3,
   "matches": [
     {
@@ -940,6 +940,66 @@
       "elo_before": 1626.0628,
       "elo_after": 1626.0628,
       "opp_elo": 1716.5721,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1626.0628,
+      "elo_after": 1603.0109,
+      "opp_elo": 1550.8152,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1603.0109,
+      "elo_after": 1573.7993,
+      "opp_elo": 1394.3524,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.7993,
+      "elo_after": 1557.5483,
+      "opp_elo": 1624.4225,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "James Blanchfield",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1557.5483,
+      "elo_after": 1534.6081,
+      "opp_elo": 1484.4385,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1534.6081,
+      "elo_after": 1548.2046,
+      "opp_elo": 1432.9974,
       "is_bye": false
     }
   ]

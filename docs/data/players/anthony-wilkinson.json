@@ -1,10 +1,10 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1549.36,
-  "matches_count": 101,
-  "wins": 59,
-  "losses": 36,
+  "elo": 1515.82,
+  "matches_count": 106,
+  "wins": 61,
+  "losses": 39,
   "draws": 6,
   "matches": [
     {
@@ -1216,6 +1216,66 @@
       "score": 0.5,
       "elo_before": 1549.3605,
       "elo_after": 1549.3605,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "David Brink",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1549.3605,
+      "elo_after": 1527.6791,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Kenny De",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1527.6791,
+      "elo_after": 1545.1687,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "James Blanchfield",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.1687,
+      "elo_after": 1561.7682,
+      "opp_elo": 1501.038,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1561.7682,
+      "elo_after": 1536.8237,
+      "opp_elo": 1449.2945,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1536.8237,
+      "elo_after": 1515.8174,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,11 +1,11 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1500.41,
-  "matches_count": 80,
-  "wins": 30,
-  "losses": 45,
-  "draws": 5,
+  "elo": 1553.17,
+  "matches_count": 87,
+  "wins": 34,
+  "losses": 46,
+  "draws": 7,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -975,6 +975,90 @@
       "score": 0.0,
       "elo_before": 1520.5297,
       "elo_after": 1500.4083,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Kenny De",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.4083,
+      "elo_after": 1519.386,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.386,
+      "elo_after": 1541.3582,
+      "opp_elo": 1574.1859,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "Sam Sziklas",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1541.3582,
+      "elo_after": 1558.1071,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1558.1071,
+      "elo_after": 1558.1071,
+      "opp_elo": 1640.6735,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1558.1071,
+      "elo_after": 1560.5555,
+      "opp_elo": 1603.1297,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 6,
+      "opponent": "Xavier Wofford",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.5555,
+      "elo_after": 1576.2771,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 7,
+      "opponent": "Sam Sziklas",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.2771,
+      "elo_after": 1553.1715,
       "opp_elo": 1500.0,
       "is_bye": false
     }

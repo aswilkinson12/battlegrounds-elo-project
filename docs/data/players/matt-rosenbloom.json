@@ -1,10 +1,10 @@
 {
   "player": "Matt Rosenbloom",
   "slug": "matt-rosenbloom",
-  "elo": 1464.01,
-  "matches_count": 6,
-  "wins": 2,
-  "losses": 4,
+  "elo": 1491.13,
+  "matches_count": 11,
+  "wins": 5,
+  "losses": 6,
   "draws": 0,
   "matches": [
     {
@@ -77,6 +77,66 @@
       "elo_before": 1482.9539,
       "elo_after": 1464.0071,
       "opp_elo": 1483.9277,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 1,
+      "opponent": "Sam Sziklas",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1464.0071,
+      "elo_after": 1446.9684,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 2,
+      "opponent": "Patrick Brooks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1446.9684,
+      "elo_after": 1468.1816,
+      "opp_elo": 1487.6231,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 3,
+      "opponent": "David Brink",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1468.1816,
+      "elo_after": 1488.9168,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 4,
+      "opponent": "Sam White",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1488.9168,
+      "elo_after": 1470.5227,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-12_RCQ",
+      "week_index": 22,
+      "round": 5,
+      "opponent": "Kenny De",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1470.5227,
+      "elo_after": 1491.1308,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]
