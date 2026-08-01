@@ -1,0 +1,16 @@
+Round 5
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+2      Alexandra Polinsky              Chris Hirt                      9-12  
+1      Amy Altman                      Bradley Skubic                  13-10 ID
+4      Autumn Rossa                    Colin Plumridge                 9-6   
+3      Becca Blackwood                 Mike Laing                      9-12  
+1      Bradley Skubic                  Amy Altman                      10-13 ID
+2      Chris Hirt                      Alexandra Polinsky              12-9  
+4      Colin Plumridge                 Autumn Rossa                    6-9   
+5      Jason Flynn                     Stan Kornacki                   6-6   
+6      Kenton Najdzien                 Phil iwanow                     9-6   
+3      Mike Laing                      Becca Blackwood                 12-9  
+6      Phil iwanow                     Kenton Najdzien                 6-9   
+5      Stan Kornacki                   Jason Flynn                     6-6 

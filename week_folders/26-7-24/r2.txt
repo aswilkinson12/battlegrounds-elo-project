@@ -1,0 +1,27 @@
+Round 2
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+11     Adipto Sengupta                 Daniel Hernandez                0-3   
+7      Alexandra Polinsky              Jonathon Torchia                3-0   
+4      Amy Altman                      Nathan Choi                     6-3   
+10     Anthony Wilkinson               Will Bellows                    3-0   
+5      Autumn Rossa                    Tom Kessler                     3-6   
+3      Bailey Sarkis                   Kenton Najdzien                 3-6   
+6      Becca Blackwood                 Graham Bateman                 6-3   
+2      Chris Hirt                      Logan Hesch                     6-3   
+11     Daniel Hernandez                Adipto Sengupta                 3-0   
+9      Dylan Shanes                    Mike Laing                      3-0   
+8      Evan Hamlin                     Ian Brungardt                   0-3   
+6      Graham Bateman                 Becca Blackwood                 3-6   
+8      Ian Brungardt                   Evan Hamlin                     3-0   
+       Jason Flynn                     ***Bye***                       6     
+7      Jonathon Torchia                Alexandra Polinsky              0-3   
+1      Keith Van Allen                 Ken Cox                         6-3   
+1      Ken Cox                         Keith Van Allen                 3-6   
+3      Kenton Najdzien                 Bailey Sarkis                   6-3   
+2      Logan Hesch                     Chris Hirt                      3-6   
+9      Mike Laing                      Dylan Shanes                    0-3   
+4      Nathan Choi                     Amy Altman                      3-6   
+5      Tom Kessler                     Autumn Rossa                    6-3   
+10     Will Bellows                    Anthony Wilkinson               0-3   

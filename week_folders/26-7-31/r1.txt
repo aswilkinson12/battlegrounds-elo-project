@@ -1,0 +1,21 @@
+Round 1
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+4      Alexandra Polinsky              Kenton Najdzien                 3-0   
+2      Amy Altman                      Chris Hirt                      3-0   
+8      Autumn Rossa                    Becca Blackwood                 3-0   
+8      Becca Blackwood                 Autumn Rossa                    0-3   
+5      Bradley Skubic                  Winston Wong                    3-0   
+2      Chris Hirt                      Amy Altman                      0-3   
+6      Colin Plumridge                 Mike Laing                      0-3   
+3      Devon O’Donnell                 Mike Adams                      3-0   
+7      Ian Brungardt                   Jason Flynn                     0-3   
+7      Jason Flynn                     Ian Brungardt                   3-0   
+1      Jonathon Torchia                Phil iwanow                     0-3   
+4      Kenton Najdzien                 Alexandra Polinsky              0-3   
+3      Mike Adams                      Devon O’Donnell                 0-3   
+6      Mike Laing                      Colin Plumridge                 3-0   
+1      Phil iwanow                     Jonathon Torchia                3-0   
+       Stan Kornacki                   ***Bye***                       6     
+5      Winston Wong                    Bradley Skubic                  0-3  

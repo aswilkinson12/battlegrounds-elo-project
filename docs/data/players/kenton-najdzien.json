@@ -1,11 +1,11 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1626.66,
-  "matches_count": 50,
-  "wins": 31,
-  "losses": 17,
-  "draws": 2,
+  "elo": 1664.07,
+  "matches_count": 60,
+  "wins": 38,
+  "losses": 19,
+  "draws": 3,
   "matches": [
     {
       "week": "26-2-13",
@@ -605,6 +605,126 @@
       "elo_before": 1604.5666,
       "elo_after": 1626.6562,
       "opp_elo": 1661.5687,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1626.6562,
+      "elo_after": 1639.0211,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Bailey Sarkis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1639.0211,
+      "elo_after": 1652.6289,
+      "opp_elo": 1537.6358,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1652.6289,
+      "elo_after": 1663.7807,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1663.7807,
+      "elo_after": 1684.9145,
+      "opp_elo": 1702.9646,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Tom Kessler",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1684.9145,
+      "elo_after": 1684.9145,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1684.9145,
+      "elo_after": 1656.6599,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1656.6599,
+      "elo_after": 1667.6298,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1667.6298,
+      "elo_after": 1678.1135,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1678.1135,
+      "elo_after": 1650.1453,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 5,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1650.1453,
+      "elo_after": 1664.065,
+      "opp_elo": 1554.9331,
       "is_bye": false
     }
   ]

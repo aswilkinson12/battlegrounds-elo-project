@@ -1,10 +1,10 @@
 {
   "player": "Roopak Dasararaju",
   "slug": "roopak-dasararaju",
-  "elo": 1480.2,
-  "matches_count": 15,
+  "elo": 1410.45,
+  "matches_count": 19,
   "wins": 6,
-  "losses": 8,
+  "losses": 12,
   "draws": 1,
   "matches": [
     {
@@ -185,6 +185,54 @@
       "elo_before": 1466.1813,
       "elo_after": 1480.1951,
       "opp_elo": 1372.8189,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1480.1951,
+      "elo_after": 1465.1282,
+      "opp_elo": 1553.1715,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.1282,
+      "elo_after": 1441.8195,
+      "opp_elo": 1384.9441,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1441.8195,
+      "elo_after": 1427.6458,
+      "opp_elo": 1532.0504,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1427.6458,
+      "elo_after": 1410.4504,
+      "opp_elo": 1460.7444,
       "is_bye": false
     }
   ]

@@ -1,0 +1,19 @@
+Round 5
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+1      Anthony Wilkinson               Devon O’Donnell                 11-13 ID
+2      Bradley Skubic                  Phil iwanow                     10-10 ID
+7      Daniel Hernandez                Philip Petronis                 3-6   
+1      Devon O’Donnell                 Anthony Wilkinson               13-11 ID
+6      Ian Brungardt                   Logan Hesch                     6-9   
+3      Jack Henry                      Mike Adams                      7-9   
+6      Logan Hesch                     Ian Brungardt                   9-6   
+3      Mike Adams                      Jack Henry                      9-7   
+       Mike Laing                      ***Bye***                       9     
+5      Milo Brown                      Terry Eleftherakis              9-6   
+2      Phil iwanow                     Bradley Skubic                  10-10 ID
+7      Philip Petronis                 Daniel Hernandez                6-3   
+4      Stan Kornacki                   Winston Wong                    9-6   
+5      Terry Eleftherakis              Milo Brown                      6-9   
+4      Winston Wong                    Stan Kornacki                   6-9

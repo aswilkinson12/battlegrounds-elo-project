@@ -1,10 +1,10 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1591.04,
-  "matches_count": 53,
-  "wins": 29,
-  "losses": 19,
+  "elo": 1614.06,
+  "matches_count": 63,
+  "wins": 36,
+  "losses": 22,
   "draws": 5,
   "matches": [
     {
@@ -641,6 +641,126 @@
       "elo_before": 1591.0423,
       "elo_after": 1591.0423,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Dylan Shanes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1591.0423,
+      "elo_after": 1605.1745,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.1745,
+      "elo_after": 1620.3529,
+      "opp_elo": 1534.3268,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1620.3529,
+      "elo_after": 1595.0224,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1595.0224,
+      "elo_after": 1616.8402,
+      "opp_elo": 1646.9307,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Keith Van Allen",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1616.8402,
+      "elo_after": 1629.6811,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1629.6811,
+      "elo_after": 1606.3242,
+      "opp_elo": 1548.5687,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1606.3242,
+      "elo_after": 1619.6847,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1619.6847,
+      "elo_after": 1628.3563,
+      "opp_elo": 1408.0103,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1628.3563,
+      "elo_after": 1640.6398,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 5,
+      "opponent": "Mike Laing",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1640.6398,
+      "elo_after": 1614.0621,
+      "opp_elo": 1493.9343,
       "is_bye": false
     }
   ]

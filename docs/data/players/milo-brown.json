@@ -1,10 +1,10 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1716.57,
-  "matches_count": 70,
-  "wins": 44,
-  "losses": 17,
+  "elo": 1687.98,
+  "matches_count": 75,
+  "wins": 47,
+  "losses": 19,
   "draws": 9,
   "matches": [
     {
@@ -845,6 +845,66 @@
       "elo_before": 1716.5721,
       "elo_after": 1716.5721,
       "opp_elo": 1626.0628,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1716.5721,
+      "elo_after": 1725.7795,
+      "opp_elo": 1518.5147,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Andrew Gallien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1725.7795,
+      "elo_after": 1697.3352,
+      "opp_elo": 1536.2865,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1697.3352,
+      "elo_after": 1709.6083,
+      "opp_elo": 1568.7617,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1709.6083,
+      "elo_after": 1682.2785,
+      "opp_elo": 1546.224,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1682.2785,
+      "elo_after": 1687.9776,
+      "opp_elo": 1380.9147,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Winston Wong",
   "slug": "winston-wong",
-  "elo": 1397.18,
-  "matches_count": 38,
-  "wins": 14,
-  "losses": 22,
+  "elo": 1347.72,
+  "matches_count": 47,
+  "wins": 16,
+  "losses": 29,
   "draws": 2,
   "matches": [
     {
@@ -461,6 +461,114 @@
       "elo_before": 1411.4418,
       "elo_after": 1397.1825,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1397.1825,
+      "elo_after": 1384.9441,
+      "opp_elo": 1526.4831,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Roopak Dasararaju",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1384.9441,
+      "elo_after": 1408.2529,
+      "opp_elo": 1465.1282,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1408.2529,
+      "elo_after": 1425.1281,
+      "opp_elo": 1369.2347,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1425.1281,
+      "elo_after": 1413.3136,
+      "opp_elo": 1563.3881,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1413.3136,
+      "elo_after": 1402.0253,
+      "opp_elo": 1562.9418,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1402.0253,
+      "elo_after": 1390.606,
+      "opp_elo": 1548.7963,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1390.606,
+      "elo_after": 1377.3982,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Ian Brungardt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1377.3982,
+      "elo_after": 1364.8378,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1364.8378,
+      "elo_after": 1347.7183,
+      "opp_elo": 1399.3387,
       "is_bye": false
     }
   ]

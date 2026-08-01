@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1358.81,
-  "matches_count": 77,
-  "wins": 30,
-  "losses": 40,
+  "elo": 1416.46,
+  "matches_count": 86,
+  "wins": 35,
+  "losses": 44,
   "draws": 7,
   "matches": [
     {
@@ -962,6 +962,114 @@
       "elo_before": 1372.8189,
       "elo_after": 1358.8051,
       "opp_elo": 1466.1813,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1358.8051,
+      "elo_after": 1373.2169,
+      "opp_elo": 1273.2145,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1373.2169,
+      "elo_after": 1398.8581,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1398.8581,
+      "elo_after": 1385.238,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1385.238,
+      "elo_after": 1374.0757,
+      "opp_elo": 1537.6339,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1374.0757,
+      "elo_after": 1397.9514,
+      "opp_elo": 1465.2721,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1397.9514,
+      "elo_after": 1384.377,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1384.377,
+      "elo_after": 1408.0103,
+      "opp_elo": 1470.8453,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1408.0103,
+      "elo_after": 1399.3387,
+      "opp_elo": 1619.6847,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1399.3387,
+      "elo_after": 1416.4581,
+      "opp_elo": 1364.8378,
       "is_bye": false
     }
   ]

@@ -1,0 +1,27 @@
+Round 1
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+1      Adipto Sengupta                 Autumn Rossa                    0-3   
+11     Alexandra Polinsky              Nathan Choi                     0-3   
+9      Amy Altman                      Daniel Hernandez                3-0   
+4      Anthony Wilkinson               Logan Hesch                     0-3   
+1      Autumn Rossa                    Adipto Sengupta                 3-0   
+7      Bailey Sarkis                   Evan Hamlin                     3-0   
+2      Becca Blackwood                 Dylan Shanes                    3-0   
+10     Chris Hirt                      Mike Laing                      3-0   
+9      Daniel Hernandez                Amy Altman                      0-3   
+2      Dylan Shanes                    Becca Blackwood                 0-3   
+7      Evan Hamlin                     Bailey Sarkis                   0-3   
+8      Graham Bateman                 Ian Brungardt                   3-0   
+8      Ian Brungardt                   Graham Bateman                 0-3   
+3      Jason Flynn                     Ken Cox                         0-3   
+5      Jonathon Torchia                Keith Van Allen                 0-3   
+5      Keith Van Allen                 Jonathon Torchia                3-0   
+3      Ken Cox                         Jason Flynn                     3-0   
+6      Kenton Najdzien                 Will Bellows                    3-0   
+4      Logan Hesch                     Anthony Wilkinson               3-0   
+10     Mike Laing                      Chris Hirt                      0-3   
+11     Nathan Choi                     Alexandra Polinsky              3-0   
+       Tom Kessler                     ***Bye***                       6     
+6      Will Bellows                    Kenton Najdzien                 0-3 

@@ -1,0 +1,26 @@
+Round 3
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+10     Adipto Sengupta                 Will Bellows                    0-3   
+9      Alexandra Polinsky              Ian Brungardt                   6-3   
+2      Amy Altman                      Keith Van Allen                 9-6   
+7      Anthony Wilkinson               Autumn Rossa                    4-4   
+7      Autumn Rossa                    Anthony Wilkinson               4-4   
+4      Bailey Sarkis                   Logan Hesch                     6-3   
+1      Becca Blackwood                 Tom Kessler                     6-9   
+3      Chris Hirt                      Kenton Najdzien                 6-9   
+6      Daniel Hernandez                Ken Cox                         6-3   
+8      Dylan Shanes                    Graham Bateman                 6-3   
+8      Graham Bateman                 Dylan Shanes                    3-6   
+9      Ian Brungardt                   Alexandra Polinsky              3-6   
+5      Jason Flynn                     Nathan Choi                     3-6   
+11     Jonathon Torchia                Mike Laing                      0-3   
+2      Keith Van Allen                 Amy Altman                      6-9   
+6      Ken Cox                         Daniel Hernandez                3-6   
+3      Kenton Najdzien                 Chris Hirt                      9-6   
+4      Logan Hesch                     Bailey Sarkis                   3-6   
+11     Mike Laing                      Jonathon Torchia                3-0   
+5      Nathan Choi                     Jason Flynn                     6-3   
+1      Tom Kessler                     Becca Blackwood                 9-6   
+10     Will Bellows                    Adipto Sengupta                 3-0   

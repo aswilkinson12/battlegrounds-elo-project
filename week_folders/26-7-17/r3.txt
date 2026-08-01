@@ -1,0 +1,22 @@
+Round 3
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+3      Andrew Gallien                  Phil iwanow                     3-6   
+2      Anthony Wilkinson               Jack Henry                      7-7   
+7      Bradley Skubic                  Philip Petronis                 6-3   
+6      Daniel Hernandez                Jonathon Torchia                3-6   
+1      Devon O’Donnell                 Mike Adams                      9-6   
+8      Ian Brungardt                   Mike Laing                      3-0   
+2      Jack Henry                      Anthony Wilkinson               7-7   
+6      Jonathon Torchia                Daniel Hernandez                6-3   
+9      Logan Hesch                     Roopak Dasararaju               3-0   
+1      Mike Adams                      Devon O’Donnell                 6-9   
+8      Mike Laing                      Ian Brungardt                   0-3   
+5      Milo Brown                      Stan Kornacki                   6-3   
+3      Phil iwanow                     Andrew Gallien                  6-3   
+7      Philip Petronis                 Bradley Skubic                  3-6   
+9      Roopak Dasararaju               Logan Hesch                     0-3   
+5      Stan Kornacki                   Milo Brown                      3-6   
+4      Terry Eleftherakis              Winston Wong                    3-6   
+4      Winston Wong                    Terry Eleftherakis              6-3

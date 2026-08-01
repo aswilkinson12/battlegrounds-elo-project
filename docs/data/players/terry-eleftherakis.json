@@ -1,10 +1,10 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1350.81,
-  "matches_count": 35,
-  "wins": 11,
-  "losses": 24,
+  "elo": 1375.22,
+  "matches_count": 40,
+  "wins": 13,
+  "losses": 27,
   "draws": 0,
   "matches": [
     {
@@ -447,6 +447,66 @@
       "elo_before": 1362.6713,
       "elo_after": 1350.8132,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1350.8132,
+      "elo_after": 1339.5047,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1339.5047,
+      "elo_after": 1369.2347,
+      "opp_elo": 1561.7804,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1369.2347,
+      "elo_after": 1352.3595,
+      "opp_elo": 1408.2529,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1352.3595,
+      "elo_after": 1380.9147,
+      "opp_elo": 1544.5555,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1380.9147,
+      "elo_after": 1375.2156,
+      "opp_elo": 1682.2785,
       "is_bye": false
     }
   ]

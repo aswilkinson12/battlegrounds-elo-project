@@ -1,0 +1,22 @@
+Round 2
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+5      Andrew Gallien                  Milo Brown                      3-3   
+1      Anthony Wilkinson               Bradley Skubic                  6-3   
+1      Bradley Skubic                  Anthony Wilkinson               3-6   
+9      Daniel Hernandez                Mike Laing                      3-0   
+4      Devon O’Donnell                 Stan Kornacki                   6-3   
+8      Ian Brungardt                   Jonathon Torchia                0-3   
+2      Jack Henry                      Phil iwanow                     6-3   
+8      Jonathon Torchia                Ian Brungardt                   3-0   
+7      Logan Hesch                     Terry Eleftherakis              0-3   
+3      Mike Adams                      Philip Petronis                 6-3   
+9      Mike Laing                      Daniel Hernandez                0-3   
+5      Milo Brown                      Andrew Gallien                  3-3   
+2      Phil iwanow                     Jack Henry                      3-6   
+3      Philip Petronis                 Mike Adams                      3-6   
+6      Roopak Dasararaju               Winston Wong                    0-3   
+4      Stan Kornacki                   Devon O’Donnell                 3-6   
+7      Terry Eleftherakis              Logan Hesch                     3-0   
+6      Winston Wong                    Roopak Dasararaju               3-0

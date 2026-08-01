@@ -1,10 +1,10 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1273.21,
-  "matches_count": 53,
-  "wins": 13,
-  "losses": 39,
+  "elo": 1342.25,
+  "matches_count": 63,
+  "wins": 17,
+  "losses": 45,
   "draws": 1,
   "matches": [
     {
@@ -685,6 +685,126 @@
       "elo_before": 1281.6309,
       "elo_after": 1273.2145,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1273.2145,
+      "elo_after": 1258.8027,
+      "opp_elo": 1358.8051,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Mike Laing",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1258.8027,
+      "elo_after": 1289.5358,
+      "opp_elo": 1509.3073,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1289.5358,
+      "elo_after": 1280.8175,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1280.8175,
+      "elo_after": 1274.3642,
+      "opp_elo": 1556.4886,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1274.3642,
+      "elo_after": 1266.2187,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1266.2187,
+      "elo_after": 1262.876,
+      "opp_elo": 1672.4971,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Adipto Sengupta",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1262.876,
+      "elo_after": 1293.1457,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Ken Cox",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1293.1457,
+      "elo_after": 1322.2869,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1322.2869,
+      "elo_after": 1350.238,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1350.238,
+      "elo_after": 1342.2493,
+      "opp_elo": 1580.1615,
       "is_bye": false
     }
   ]

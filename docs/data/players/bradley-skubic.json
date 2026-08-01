@@ -1,11 +1,11 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1526.48,
-  "matches_count": 63,
-  "wins": 34,
-  "losses": 20,
-  "draws": 9,
+  "elo": 1575.06,
+  "matches_count": 73,
+  "wins": 40,
+  "losses": 22,
+  "draws": 11,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -761,6 +761,126 @@
       "elo_before": 1552.2137,
       "elo_after": 1526.4831,
       "opp_elo": 1423.564,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.4831,
+      "elo_after": 1538.7214,
+      "opp_elo": 1397.1825,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1538.7214,
+      "elo_after": 1519.7107,
+      "opp_elo": 1538.5246,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1519.7107,
+      "elo_after": 1537.6339,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.6339,
+      "elo_after": 1548.7963,
+      "opp_elo": 1385.238,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Phil iwanow",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1548.7963,
+      "elo_after": 1548.7963,
+      "opp_elo": 1575.2026,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1548.7963,
+      "elo_after": 1560.2155,
+      "opp_elo": 1402.0253,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1560.2155,
+      "elo_after": 1537.9552,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Colin Plumridge",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1537.9552,
+      "elo_after": 1554.8877,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1554.8877,
+      "elo_after": 1575.0577,
+      "opp_elo": 1576.3088,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1575.0577,
+      "elo_after": 1575.0577,
+      "opp_elo": 1725.7814,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Graham Bateman",
   "slug": "graham-bateman",
-  "elo": 1516.21,
-  "matches_count": 6,
-  "wins": 3,
-  "losses": 2,
+  "elo": 1502.26,
+  "matches_count": 11,
+  "wins": 5,
+  "losses": 5,
   "draws": 1,
   "matches": [
     {
@@ -77,6 +77,66 @@
       "elo_before": 1497.162,
       "elo_after": 1516.2128,
       "opp_elo": 1498.091,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1516.2128,
+      "elo_after": 1534.3268,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1534.3268,
+      "elo_after": 1519.1484,
+      "opp_elo": 1605.1745,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Dylan Shanes",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.1484,
+      "elo_after": 1499.1023,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.1023,
+      "elo_after": 1518.1514,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.1514,
+      "elo_after": 1502.2605,
+      "opp_elo": 1575.5214,
       "is_bye": false
     }
   ]

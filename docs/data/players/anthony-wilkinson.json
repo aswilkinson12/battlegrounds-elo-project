@@ -1,11 +1,11 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1515.82,
-  "matches_count": 106,
-  "wins": 61,
-  "losses": 39,
-  "draws": 6,
+  "elo": 1588.15,
+  "matches_count": 116,
+  "wins": 67,
+  "losses": 40,
+  "draws": 9,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1277,6 +1277,126 @@
       "elo_before": 1536.8237,
       "elo_after": 1515.8174,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1515.8174,
+      "elo_after": 1538.5246,
+      "opp_elo": 1584.4876,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.5246,
+      "elo_after": 1557.5353,
+      "opp_elo": 1538.7214,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1557.5353,
+      "elo_after": 1553.3199,
+      "opp_elo": 1479.1475,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1553.3199,
+      "elo_after": 1569.4267,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1569.4267,
+      "elo_after": 1569.4267,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1569.4267,
+      "elo_after": 1551.4736,
+      "opp_elo": 1588.5904,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Will Bellows",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1551.4736,
+      "elo_after": 1567.6791,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Autumn Rossa",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1567.6791,
+      "elo_after": 1564.6571,
+      "opp_elo": 1511.9455,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Alexandra Polinsky",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1564.6571,
+      "elo_after": 1580.1615,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1580.1615,
+      "elo_after": 1588.1502,
+      "opp_elo": 1350.238,
       "is_bye": false
     }
   ]

@@ -1,0 +1,20 @@
+Round 4
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+1      Alexandra Polinsky              Amy Altman                      9-12  
+1      Amy Altman                      Alexandra Polinsky              12-9  
+6      Autumn Rossa                    Ian Brungardt                   6-3   
+5      Becca Blackwood                 Devon O’Donnell                 9-3   
+3      Bradley Skubic                  Stan Kornacki                   9-6   
+2      Chris Hirt                      Kenton Najdzien                 9-6   
+7      Colin Plumridge                 Jason Flynn                     6-3   
+5      Devon O’Donnell                 Becca Blackwood                 3-9   
+6      Ian Brungardt                   Autumn Rossa                    3-6   
+7      Jason Flynn                     Colin Plumridge                 3-6   
+2      Kenton Najdzien                 Chris Hirt                      6-9   
+8      Mike Adams                      Winston Wong                    6-0   
+4      Mike Laing                      Phil iwanow                     9-6   
+4      Phil iwanow                     Mike Laing                      6-9   
+3      Stan Kornacki                   Bradley Skubic                  6-9   
+8      Winston Wong                    Mike Adams                      0-6   

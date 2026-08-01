@@ -1,0 +1,22 @@
+Round 5
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+8      Alexandra Polinsky              Ken Cox                         9-3   
+2      Amy Altman                      Bailey Sarkis                   10-10 ID
+4      Anthony Wilkinson               Daniel Hernandez                10-9  
+5      Autumn Rossa                    Chris Hirt                      10-6  
+2      Bailey Sarkis                   Amy Altman                      10-10 ID
+3      Becca Blackwood                 Keith Van Allen                 12-9  
+5      Chris Hirt                      Autumn Rossa                    6-10  
+4      Daniel Hernandez                Anthony Wilkinson               9-10  
+7      Graham Bateman                 Logan Hesch                     6-9   
+9      Ian Brungardt                   Jason Flynn                     3-6   
+9      Jason Flynn                     Ian Brungardt                   6-3   
+3      Keith Van Allen                 Becca Blackwood                 9-12  
+8      Ken Cox                         Alexandra Polinsky              3-9   
+1      Kenton Najdzien                 Tom Kessler                     13-10 ID
+7      Logan Hesch                     Graham Bateman                 9-6   
+6      Nathan Choi                     Will Bellows                    9-6   
+1      Tom Kessler                     Kenton Najdzien                 10-13 ID
+6      Will Bellows                    Nathan Choi                     6-9   

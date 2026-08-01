@@ -1,10 +1,10 @@
 {
   "player": "Andrew Gallien",
   "slug": "andrew-gallien",
-  "elo": 1562.28,
-  "matches_count": 10,
-  "wins": 6,
-  "losses": 3,
+  "elo": 1516.0,
+  "matches_count": 14,
+  "wins": 7,
+  "losses": 6,
   "draws": 1,
   "matches": [
     {
@@ -125,6 +125,54 @@
       "elo_before": 1562.2785,
       "elo_after": 1562.2785,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1562.2785,
+      "elo_after": 1536.2865,
+      "opp_elo": 1428.1299,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1536.2865,
+      "elo_after": 1564.7308,
+      "opp_elo": 1725.7795,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1564.7308,
+      "elo_after": 1544.5555,
+      "opp_elo": 1543.2129,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1544.5555,
+      "elo_after": 1516.0004,
+      "opp_elo": 1352.3595,
       "is_bye": false
     }
   ]

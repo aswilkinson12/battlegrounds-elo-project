@@ -1,0 +1,24 @@
+Round 4
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+6      Alexandra Polinsky              Anthony Wilkinson               6-7   
+1      Amy Altman                      Kenton Najdzien                 9-12  
+6      Anthony Wilkinson               Alexandra Polinsky              7-6   
+7      Autumn Rossa                    Mike Laing                      7-3   
+4      Bailey Sarkis                   Dylan Shanes                    9-6   
+3      Becca Blackwood                 Nathan Choi                     9-6   
+5      Chris Hirt                      Daniel Hernandez                6-9   
+5      Daniel Hernandez                Chris Hirt                      9-6   
+4      Dylan Shanes                    Bailey Sarkis                   6-9   
+9      Graham Bateman                 Jason Flynn                     6-3   
+10     Ian Brungardt                   Logan Hesch                     3-6   
+9      Jason Flynn                     Graham Bateman                 3-6   
+2      Keith Van Allen                 Tom Kessler                     9-9   
+8      Ken Cox                         Will Bellows                    3-6   
+1      Kenton Najdzien                 Amy Altman                      12-9  
+10     Logan Hesch                     Ian Brungardt                   6-3   
+7      Mike Laing                      Autumn Rossa                    3-7   
+3      Nathan Choi                     Becca Blackwood                 6-9   
+2      Tom Kessler                     Keith Van Allen                 9-9   
+8      Will Bellows                    Ken Cox                         6-3   

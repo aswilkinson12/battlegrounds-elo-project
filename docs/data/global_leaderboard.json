@@ -1,19 +1,19 @@
 [
   {
-    "player": "Milo Brown",
-    "elo": 1734.66,
-    "matches": 70,
+    "player": "Amy Altman",
+    "elo": 1755.4,
+    "matches": 71,
     "wins": 44,
-    "losses": 17,
+    "losses": 18,
     "draws": 9
   },
   {
-    "player": "Amy Altman",
-    "elo": 1700.81,
-    "matches": 61,
-    "wins": 37,
-    "losses": 17,
-    "draws": 7
+    "player": "Milo Brown",
+    "elo": 1704.37,
+    "matches": 75,
+    "wins": 47,
+    "losses": 19,
+    "draws": 9
   },
   {
     "player": "David Van Hise",
@@ -24,20 +24,52 @@
     "draws": 2
   },
   {
+    "player": "Kenton Najdzien",
+    "elo": 1680.43,
+    "matches": 60,
+    "wins": 38,
+    "losses": 19,
+    "draws": 3
+  },
+  {
     "player": "Nathan Choi",
-    "elo": 1658.16,
-    "matches": 91,
-    "wins": 59,
-    "losses": 28,
+    "elo": 1655.77,
+    "matches": 96,
+    "wins": 62,
+    "losses": 30,
     "draws": 4
   },
   {
-    "player": "Kenton Najdzien",
-    "elo": 1638.64,
-    "matches": 50,
-    "wins": 31,
-    "losses": 17,
-    "draws": 2
+    "player": "Devon O’Donnell",
+    "elo": 1645.99,
+    "matches": 78,
+    "wins": 54,
+    "losses": 19,
+    "draws": 5
+  },
+  {
+    "player": "Luke Deratzou",
+    "elo": 1639.6,
+    "matches": 11,
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  {
+    "player": "Sam White",
+    "elo": 1638.15,
+    "matches": 19,
+    "wins": 13,
+    "losses": 3,
+    "draws": 3
+  },
+  {
+    "player": "Becca Blackwood",
+    "elo": 1636.33,
+    "matches": 63,
+    "wins": 36,
+    "losses": 22,
+    "draws": 5
   },
   {
     "player": "Kevin Thanakit",
@@ -48,12 +80,36 @@
     "draws": 0
   },
   {
-    "player": "Becca Blackwood",
-    "elo": 1602.04,
-    "matches": 53,
-    "wins": 29,
-    "losses": 19,
+    "player": "Chris Hirt",
+    "elo": 1606.87,
+    "matches": 51,
+    "wins": 26,
+    "losses": 20,
     "draws": 5
+  },
+  {
+    "player": "Dylan Shanes",
+    "elo": 1598.6,
+    "matches": 27,
+    "wins": 16,
+    "losses": 9,
+    "draws": 2
+  },
+  {
+    "player": "Logan Hesch",
+    "elo": 1597.72,
+    "matches": 60,
+    "wins": 34,
+    "losses": 23,
+    "draws": 3
+  },
+  {
+    "player": "Sam Sziklas",
+    "elo": 1596.26,
+    "matches": 8,
+    "wins": 6,
+    "losses": 1,
+    "draws": 1
   },
   {
     "player": "Ran Guo",
@@ -64,12 +120,12 @@
     "draws": 1
   },
   {
-    "player": "Logan Hesch",
-    "elo": 1594.98,
-    "matches": 50,
-    "wins": 28,
-    "losses": 19,
-    "draws": 3
+    "player": "Anthony Wilkinson",
+    "elo": 1594.74,
+    "matches": 116,
+    "wins": 67,
+    "losses": 40,
+    "draws": 9
   },
   {
     "player": "Taylor Pratt",
@@ -78,5 +134,29 @@
     "wins": 10,
     "losses": 3,
     "draws": 2
+  },
+  {
+    "player": "Autumn Rossa",
+    "elo": 1582.49,
+    "matches": 33,
+    "wins": 18,
+    "losses": 12,
+    "draws": 3
+  },
+  {
+    "player": "Veronica Kirtley",
+    "elo": 1580.51,
+    "matches": 21,
+    "wins": 12,
+    "losses": 8,
+    "draws": 1
+  },
+  {
+    "player": "Etai Kurtzman",
+    "elo": 1575.99,
+    "matches": 6,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
   }
 ]

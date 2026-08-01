@@ -1,0 +1,22 @@
+Round 4
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+8      Andrew Gallien                  Terry Eleftherakis              3-6   
+2      Anthony Wilkinson               Jonathon Torchia                10-6  
+3      Bradley Skubic                  Mike Adams                      9-6   
+7      Daniel Hernandez                Stan Kornacki                   3-6   
+1      Devon O’Donnell                 Jack Henry                      12-7  
+6      Ian Brungardt                   Philip Petronis                 6-3   
+1      Jack Henry                      Devon O’Donnell                 7-12  
+2      Jonathon Torchia                Anthony Wilkinson               6-10  
+5      Logan Hesch                     Milo Brown                      6-6   
+3      Mike Adams                      Bradley Skubic                  6-9   
+9      Mike Laing                      Roopak Dasararaju               3-0   
+5      Milo Brown                      Logan Hesch                     6-6   
+4      Phil iwanow                     Winston Wong                    9-6   
+6      Philip Petronis                 Ian Brungardt                   3-6   
+9      Roopak Dasararaju               Mike Laing                      0-3   
+7      Stan Kornacki                   Daniel Hernandez                6-3   
+8      Terry Eleftherakis              Andrew Gallien                  6-3   
+4      Winston Wong                    Phil iwanow                     6-9

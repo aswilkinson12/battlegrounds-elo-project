@@ -1,10 +1,10 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1584.49,
-  "matches_count": 50,
-  "wins": 28,
-  "losses": 19,
+  "elo": 1591.41,
+  "matches_count": 60,
+  "wins": 34,
+  "losses": 23,
   "draws": 3,
   "matches": [
     {
@@ -616,6 +616,126 @@
       "elo_before": 1600.6813,
       "elo_after": 1584.4876,
       "opp_elo": 1652.3751,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.4876,
+      "elo_after": 1561.7804,
+      "opp_elo": 1515.8174,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Terry Eleftherakis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1561.7804,
+      "elo_after": 1532.0504,
+      "opp_elo": 1339.5047,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Roopak Dasararaju",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1532.0504,
+      "elo_after": 1546.224,
+      "opp_elo": 1441.8195,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1546.224,
+      "elo_after": 1573.5538,
+      "opp_elo": 1709.6083,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.5538,
+      "elo_after": 1588.5904,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1588.5904,
+      "elo_after": 1606.5435,
+      "opp_elo": 1569.4267,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1606.5435,
+      "elo_after": 1581.893,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Bailey Sarkis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1581.893,
+      "elo_after": 1559.7575,
+      "opp_elo": 1524.028,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Ian Brungardt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1559.7575,
+      "elo_after": 1575.5214,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1575.5214,
+      "elo_after": 1591.4123,
+      "opp_elo": 1518.1514,
       "is_bye": false
     }
   ]

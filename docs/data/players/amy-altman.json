@@ -1,11 +1,11 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1672.5,
-  "matches_count": 61,
-  "wins": 37,
-  "losses": 17,
-  "draws": 7,
+  "elo": 1725.78,
+  "matches_count": 71,
+  "wins": 44,
+  "losses": 18,
+  "draws": 9,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -737,6 +737,126 @@
       "elo_before": 1656.0733,
       "elo_after": 1672.4971,
       "opp_elo": 1608.6715,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1672.4971,
+      "elo_after": 1675.8398,
+      "opp_elo": 1266.2187,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1675.8398,
+      "elo_after": 1693.5761,
+      "opp_elo": 1652.6974,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 3,
+      "opponent": "Keith Van Allen",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1693.5761,
+      "elo_after": 1702.9646,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1702.9646,
+      "elo_after": 1681.8309,
+      "opp_elo": 1663.7807,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-24",
+      "week_index": 24,
+      "round": 5,
+      "opponent": "Bailey Sarkis",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1681.8309,
+      "elo_after": 1681.8309,
+      "opp_elo": 1562.6537,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 1,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1681.8309,
+      "elo_after": 1691.7055,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1691.7055,
+      "elo_after": 1704.4029,
+      "opp_elo": 1571.9256,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 3,
+      "opponent": "Stan Kornacki",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1704.4029,
+      "elo_after": 1717.3256,
+      "opp_elo": 1589.2314,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 4,
+      "opponent": "Alexandra Polinsky",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1717.3256,
+      "elo_after": 1725.7814,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-31",
+      "week_index": 25,
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1725.7814,
+      "elo_after": 1725.7814,
+      "opp_elo": 1575.0577,
       "is_bye": false
     }
   ]

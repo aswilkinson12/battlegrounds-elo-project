@@ -1,11 +1,11 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1428.13,
-  "matches_count": 64,
-  "wins": 24,
-  "losses": 39,
-  "draws": 1,
+  "elo": 1441.4,
+  "matches_count": 69,
+  "wins": 26,
+  "losses": 41,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -784,6 +784,66 @@
       "elo_before": 1404.0102,
       "elo_after": 1428.1299,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 1,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1428.1299,
+      "elo_after": 1454.122,
+      "opp_elo": 1562.2785,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 2,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1454.122,
+      "elo_after": 1479.1475,
+      "opp_elo": 1568.2384,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1479.1475,
+      "elo_after": 1483.3629,
+      "opp_elo": 1557.5353,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1483.3629,
+      "elo_after": 1465.2721,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-7-17",
+      "week_index": 23,
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1465.2721,
+      "elo_after": 1441.3963,
+      "opp_elo": 1374.0757,
       "is_bye": false
     }
   ]
