@@ -40,30 +40,6 @@
     "draws": 4
   },
   {
-    "player": "Devon O’Donnell",
-    "elo": 1645.99,
-    "matches": 78,
-    "wins": 54,
-    "losses": 19,
-    "draws": 5
-  },
-  {
-    "player": "Luke Deratzou",
-    "elo": 1639.6,
-    "matches": 11,
-    "wins": 9,
-    "losses": 2,
-    "draws": 0
-  },
-  {
-    "player": "Sam White",
-    "elo": 1638.15,
-    "matches": 19,
-    "wins": 13,
-    "losses": 3,
-    "draws": 3
-  },
-  {
     "player": "Becca Blackwood",
     "elo": 1636.33,
     "matches": 63,
@@ -80,36 +56,12 @@
     "draws": 0
   },
   {
-    "player": "Chris Hirt",
-    "elo": 1606.87,
-    "matches": 51,
-    "wins": 26,
-    "losses": 20,
-    "draws": 5
-  },
-  {
-    "player": "Dylan Shanes",
-    "elo": 1598.6,
-    "matches": 27,
-    "wins": 16,
-    "losses": 9,
-    "draws": 2
-  },
-  {
     "player": "Logan Hesch",
     "elo": 1597.72,
     "matches": 60,
     "wins": 34,
     "losses": 23,
     "draws": 3
-  },
-  {
-    "player": "Sam Sziklas",
-    "elo": 1596.26,
-    "matches": 8,
-    "wins": 6,
-    "losses": 1,
-    "draws": 1
   },
   {
     "player": "Ran Guo",
@@ -126,37 +78,5 @@
     "wins": 67,
     "losses": 40,
     "draws": 9
-  },
-  {
-    "player": "Taylor Pratt",
-    "elo": 1593.76,
-    "matches": 15,
-    "wins": 10,
-    "losses": 3,
-    "draws": 2
-  },
-  {
-    "player": "Autumn Rossa",
-    "elo": 1582.49,
-    "matches": 33,
-    "wins": 18,
-    "losses": 12,
-    "draws": 3
-  },
-  {
-    "player": "Veronica Kirtley",
-    "elo": 1580.51,
-    "matches": 21,
-    "wins": 12,
-    "losses": 8,
-    "draws": 1
-  },
-  {
-    "player": "Etai Kurtzman",
-    "elo": 1575.99,
-    "matches": 6,
-    "wins": 5,
-    "losses": 1,
-    "draws": 0
   }
 ]
