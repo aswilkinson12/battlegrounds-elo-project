@@ -186,7 +186,6 @@
 
 
   const slug = getSlug();
-  const select = document.getElementById("player-search");
   const tbody = document.getElementById("tbody");
   const filter = document.getElementById("filter");
   const matchCount = document.getElementById("matchCount");
@@ -413,40 +412,12 @@
     // Build opponent linking map
     nameToSlug = new Map(playerList.map(p => [normName(p.player), String(p.slug)]));
     console.log("Loaded players_index:", nameToSlug.size);
-
-    // Reset dropdown options
-    select.innerHTML = "";
-
-    // If no slug or slug not found in index, add placeholder
-    const slugSet = new Set(playerList.map(p => String(p.slug)));
-    if (!slug || !slugSet.has(slug)) {
-      const option = document.createElement("option");
-      option.textContent = "--- Select a Player ---";
-      option.selected = true;
-      option.disabled = true;
-      select.appendChild(option);
-    }
-
-    // Populate dropdown
-    playerList.forEach(p => {
-      const option = document.createElement("option");
-      option.value = p.slug;
-      option.textContent = p.player;
-      if (slug === p.slug) option.selected = true;
-      select.appendChild(option);
-    });
   }
-
-  select.addEventListener("change", (e) => {
-    const url = new URL(window.location.href);
-    url.searchParams.set("p", e.target.value);
-    window.location.href = url;
-  });
 
   async function load() {
     await loadPlayersIndex();
     if (!slug) {
-      showError("Make a selection above to view player records");
+      showError("No player selected. Open this page via a link from the leaderboard or player search.");
       return;
     }
 
