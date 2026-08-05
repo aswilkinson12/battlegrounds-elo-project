@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Player Search</title>
+
+<style>
+body{
+    margin:0;
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+    background:#f6f7fb;
+    color:#111;
+}
+
+header{
+    background:white;
+    border-bottom:1px solid #e6e8f0;
+}
+
+.wrap{
+    max-width:1000px;
+    margin:auto;
+    padding:18px 16px;
+}
+
+h1{
+    margin:0;
+    font-size:24px;
+}
+
+nav{
+    margin-top:8px;
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+}
+
+nav a{
+    text-decoration:none;
+    color:#2457ff;
+    font-weight:600;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+.card{
+    background:white;
+    border:1px solid #e6e8f0;
+    border-radius:12px;
+    margin-top:20px;
+    overflow:hidden;
+    box-shadow:0 1px 2px rgba(0,0,0,.04);
+}
+
+.searchbox{
+    padding:18px;
+    border-bottom:1px solid #eef0f7;
+}
+
+input{
+    width:100%;
+    box-sizing:border-box;
+    padding:14px 16px;
+    font-size:16px;
+    border-radius:10px;
+    border:1px solid #d7dbea;
+}
+
+#count{
+    padding:12px 18px;
+    color:#666;
+    font-size:14px;
+}
+
+.player{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:16px 18px;
+    text-decoration:none;
+    color:#111;
+    border-top:1px solid #eef0f7;
+    transition:.15s;
+}
+
+.player:hover{
+    background:#f8f9ff;
+}
+
+.name{
+    font-weight:700;
+    font-size:16px;
+}
+
+.right{
+    display:flex;
+    align-items:center;
+    gap:18px;
+}
+
+.elo{
+    color:#666;
+    font-variant-numeric:tabular-nums;
+}
+
+.arrow{
+    color:#999;
+    font-size:18px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<div class="wrap">
+
+<h1>Player Search</h1>
+
+<nav>
+<a href="index.html">Leaderboard</a>
+<a href="global.html">Global Leaderboard</a>
+<a href="player_search.html">Player Search</a>
+</nav>
+
+</div>
+</header>
+
+<div class="wrap">
+
+<div class="card">
+
+<div class="searchbox">
+<input
+id="search"
+type="search"
+placeholder="🔍 Search players..."
+autocomplete="off">
+</div>
+
+<div id="count"></div>
+
+<div id="results"></div>
+
+</div>
+
+</div>
+
+<script>
+
+const PLAYERS_URL="data/players_index.json";
+
+let players=[];
+
+function render(filter=""){
+
+    filter=filter.trim().toLowerCase();
+
+    const results=document.getElementById("results");
+
+    results.innerHTML="";
+
+    const shown=players.filter(p=>
+        p.player.toLowerCase().includes(filter)
+    );
+
+    document.getElementById("count").textContent=
+        `${shown.length} player${shown.length===1?"":"s"}`;
+
+    shown.forEach(p=>{
+
+        const a=document.createElement("a");
+
+        a.className="player";
+
+        a.href=`players/player.html?p=${encodeURIComponent(p.slug)}`;
+
+        a.innerHTML=`
+            <div class="name">${p.player}</div>
+
+            <div class="right">
+
+                ${
+                    p.elo!==undefined
+                    ? `<div class="elo">${Number(p.elo).toFixed(2)}</div>`
+                    : ""
+                }
+
+                <div class="arrow">→</div>
+
+            </div>
+        `;
+
+        results.appendChild(a);
+
+    });
+
+}
+
+async function load(){
+
+    const res=await fetch(PLAYERS_URL,{cache:"no-store"});
+
+    players=await res.json();
+
+    // Sort alphabetically
+    players.sort((a,b)=>
+        a.player.localeCompare(b.player)
+    );
+
+    render();
+
+}
+
+document
+.getElementById("search")
+.addEventListener("input",e=>{
+    render(e.target.value);
+});
+
+load();
+
+</script>
+
+</body>
+</html>
