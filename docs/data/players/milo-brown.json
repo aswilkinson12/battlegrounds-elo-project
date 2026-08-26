@@ -1,7 +1,7 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1724.27,
+  "elo": 1735.48,
   "matches_count": 80,
   "wins": 51,
   "losses": 19,
@@ -960,10 +960,10 @@
       "week_index": 27,
       "round": 5,
       "opponent": "Evan Hamlin",
-      "result": "D",
+      "result": "ID",
       "score": 0.5,
       "elo_before": 1735.482,
-      "elo_after": 1724.2707,
+      "elo_after": 1735.482,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -3,7 +3,7 @@ Round 5
 Table  Player                       Opponent                     Points  
 -------------------------------------------------------------------------------
        Phil iwanow                  ***Bye***                    9       
-1      Tom Kessler                  Alexandra Polinsky           13-10   
+1      Tom Kessler                  Alexandra Polinsky           13-10 ID  
 2      Will Bellows                 Autumn Rossa                 9-12    
 3      Stan Kornacki                Gabe Dietz                   12-9    
 4      Luke Deratzou                Michael Plummer              12-9    
