@@ -1,10 +1,10 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1664.07,
-  "matches_count": 60,
-  "wins": 38,
-  "losses": 19,
+  "elo": 1662.17,
+  "matches_count": 65,
+  "wins": 41,
+  "losses": 21,
   "draws": 3,
   "matches": [
     {
@@ -725,6 +725,66 @@
       "elo_before": 1650.1453,
       "elo_after": 1664.065,
       "opp_elo": 1554.9331,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1664.065,
+      "elo_after": 1673.81,
+      "opp_elo": 1479.1384,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1673.81,
+      "elo_after": 1684.0258,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1684.0258,
+      "elo_after": 1666.2641,
+      "opp_elo": 1706.7013,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1666.2641,
+      "elo_after": 1647.9931,
+      "opp_elo": 1679.6017,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1647.9931,
+      "elo_after": 1662.1726,
+      "opp_elo": 1557.8779,
       "is_bye": false
     }
   ]

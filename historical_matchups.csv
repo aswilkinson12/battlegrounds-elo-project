@@ -1707,6 +1707,135 @@ Week,WeekIndex,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 26-7-31,25.0,5,Becca Blackwood,Mike Laing,0.0,OK,False,
 26-7-31,25.0,5,Jason Flynn,Stan Kornacki,1.0,OK,False,
 26-7-31,25.0,5,Kenton Najdzien,Phil iwanow,1.0,OK,False,
+26-8-14,26.0,1,Alexandra Polinsky,Mike Adams,1.0,OK,False,
+26-8-14,26.0,1,Amy Altman,Ethan Eisdorfer,0.0,OK,False,
+26-8-14,26.0,1,Andrew Gallien,Stan Kornacki,0.0,OK,False,
+26-8-14,26.0,1,Anthony Wilkinson,Jason Flynn,1.0,OK,False,
+26-8-14,26.0,1,Autumn Rossa,Michael Plummer,1.0,OK,False,
+26-8-14,26.0,1,Becca Blackwood,Luke Deratzou,0.0,OK,False,
+26-8-14,26.0,1,Bradley Skubic,Devon O’Donnell,0.0,OK,False,
+26-8-14,26.0,1,Daniel Hernandez,Nathan Choi,0.0,OK,False,
+26-8-14,26.0,1,Gabe Dietz,Ian Brungardt,1.0,OK,False,
+26-8-14,26.0,1,Jeffrey Silver,Tom Kessler,0.0,OK,False,
+26-8-14,26.0,1,Jonathon Torchia,Sean Marks,0.0,OK,False,
+26-8-14,26.0,1,Logan Hesch,Phil iwanow,1.0,OK,False,
+26-8-14,26.0,1,Michael Faulkner,Nathan Cormier,0.0,OK,False,
+26-8-14,26.0,2,Alexandra Polinsky,Logan Hesch,1.0,OK,False,
+26-8-14,26.0,2,Amy Altman,Mike Adams,0.0,OK,False,
+26-8-14,26.0,2,Anthony Wilkinson,Sean Marks,1.0,OK,False,
+26-8-14,26.0,2,Autumn Rossa,Nathan Cormier,0.0,OK,False,
+26-8-14,26.0,2,Becca Blackwood,Jeffrey Silver,1.0,OK,False,
+26-8-14,26.0,2,Bradley Skubic,Phil iwanow,1.0,OK,False,
+26-8-14,26.0,2,Daniel Hernandez,Jason Flynn,0.0,OK,False,
+26-8-14,26.0,2,Devon O’Donnell,Gabe Dietz,0.0,OK,False,
+26-8-14,26.0,2,Ethan Eisdorfer,Tom Kessler,0.0,OK,False,
+26-8-14,26.0,2,Ian Brungardt,Michael Plummer,0.0,OK,False,
+26-8-14,26.0,2,Jonathon Torchia,Michael Faulkner,1.0,OK,False,
+26-8-14,26.0,2,Luke Deratzou,Will Bellows,0.0,OK,False,
+26-8-14,26.0,2,Nathan Choi,Stan Kornacki,0.0,OK,False,
+26-8-14,26.0,3,Alexandra Polinsky,Will Bellows,0.0,OK,False,
+26-8-14,26.0,3,Amy Altman,Phil iwanow,1.0,OK,False,
+26-8-14,26.0,3,Andrew Gallien,Mike Adams,0.0,OK,False,
+26-8-14,26.0,3,Anthony Wilkinson,Devon O’Donnell,0.0,OK,False,
+26-8-14,26.0,3,Autumn Rossa,Jonathon Torchia,1.0,OK,False,
+26-8-14,26.0,3,Becca Blackwood,Michael Plummer,0.0,OK,False,
+26-8-14,26.0,3,Bradley Skubic,Sean Marks,0.0,OK,False,
+26-8-14,26.0,3,Ethan Eisdorfer,Logan Hesch,0.0,OK,False,
+26-8-14,26.0,3,Gabe Dietz,Nathan Cormier,1.0,OK,False,
+26-8-14,26.0,3,Ian Brungardt,Michael Faulkner,1.0,OK,False,
+26-8-14,26.0,3,Jason Flynn,Nathan Choi,0.0,OK,False,
+26-8-14,26.0,3,Jeffrey Silver,Luke Deratzou,0.0,OK,False,
+26-8-14,26.0,3,Stan Kornacki,Tom Kessler,0.0,OK,False,
+26-8-14,26.0,4,Alexandra Polinsky,Nathan Cormier,1.0,OK,False,
+26-8-14,26.0,4,Amy Altman,Jonathon Torchia,1.0,OK,False,
+26-8-14,26.0,4,Andrew Gallien,Jason Flynn,0.0,OK,False,
+26-8-14,26.0,4,Anthony Wilkinson,Luke Deratzou,0.0,OK,False,
+26-8-14,26.0,4,Autumn Rossa,Gabe Dietz,1.0,OK,False,
+26-8-14,26.0,4,Becca Blackwood,Bradley Skubic,1.0,OK,False,
+26-8-14,26.0,4,Daniel Hernandez,Ethan Eisdorfer,1.0,OK,False,
+26-8-14,26.0,4,Devon O’Donnell,Stan Kornacki,0.0,OK,False,
+26-8-14,26.0,4,Ian Brungardt,Sean Marks,0.0,OK,False,
+26-8-14,26.0,4,Logan Hesch,Michael Plummer,0.0,OK,False,
+26-8-14,26.0,4,Michael Faulkner,Phil iwanow,0.0,OK,False,
+26-8-14,26.0,4,Mike Adams,Nathan Choi,1.0,OK,False,
+26-8-14,26.0,4,Tom Kessler,Will Bellows,1.0,OK,False,
+26-8-14,26.0,5,Alexandra Polinsky,Tom Kessler,0.5,OK,False,
+26-8-14,26.0,5,Amy Altman,Jason Flynn,1.0,OK,False,
+26-8-14,26.0,5,Andrew Gallien,Ian Brungardt,0.0,OK,False,
+26-8-14,26.0,5,Anthony Wilkinson,Nathan Cormier,0.0,OK,False,
+26-8-14,26.0,5,Autumn Rossa,Will Bellows,1.0,OK,False,
+26-8-14,26.0,5,Becca Blackwood,Logan Hesch,0.0,OK,False,
+26-8-14,26.0,5,Daniel Hernandez,Jeffrey Silver,1.0,OK,False,
+26-8-14,26.0,5,Devon O’Donnell,Nathan Choi,0.0,OK,False,
+26-8-14,26.0,5,Gabe Dietz,Stan Kornacki,0.0,OK,False,
+26-8-14,26.0,5,Luke Deratzou,Michael Plummer,1.0,OK,False,
+26-8-14,26.0,5,Mike Adams,Sean Marks,1.0,OK,False,
+26-8-21,27.0,1,Amber Cronin,Chris Hirt,1.0,OK,False,
+26-8-21,27.0,1,Amy Altman,Stella Burfeind,1.0,OK,False,
+26-8-21,27.0,1,Andrew Gallien,Gina Millott,0.0,OK,False,
+26-8-21,27.0,1,Anthony Wilkinson,Jack Henry,1.0,OK,False,
+26-8-21,27.0,1,Autumn Rossa,Jean Belanger,1.0,OK,False,
+26-8-21,27.0,1,Becca Blackwood,Milo Brown,0.0,OK,False,
+26-8-21,27.0,1,Bradley Skubic,Evan Hamlin,0.0,OK,False,
+26-8-21,27.0,1,Daniel Hernandez,Winston Wong,1.0,OK,False,
+26-8-21,27.0,1,Devon O’Donnell,Terry Eleftherakis,1.0,OK,False,
+26-8-21,27.0,1,Hex Dowd,Kenton Najdzien,0.0,OK,False,
+26-8-21,27.0,1,Ian Brungardt,Will Bellows,0.0,OK,False,
+26-8-21,27.0,1,Jarrod Haase,Nathan Cormier,0.0,OK,False,
+26-8-21,27.0,1,Jason Flynn,Jonathon Torchia,1.0,OK,False,
+26-8-21,27.0,1,Mike Adams,Sean Marks,0.0,OK,False,
+26-8-21,27.0,2,Amber Cronin,Evan Hamlin,0.0,OK,False,
+26-8-21,27.0,2,Amy Altman,Will Bellows,0.0,OK,False,
+26-8-21,27.0,2,Andrew Gallien,Jean Belanger,0.0,OK,False,
+26-8-21,27.0,2,Anthony Wilkinson,Jason Flynn,1.0,OK,False,
+26-8-21,27.0,2,Autumn Rossa,Nathan Cormier,1.0,OK,False,
+26-8-21,27.0,2,Becca Blackwood,Jarrod Haase,1.0,OK,False,
+26-8-21,27.0,2,Bradley Skubic,Mike Adams,1.0,OK,False,
+26-8-21,27.0,2,Chris Hirt,Hex Dowd,1.0,OK,False,
+26-8-21,27.0,2,Daniel Hernandez,Milo Brown,0.0,OK,False,
+26-8-21,27.0,2,Devon O’Donnell,Jack Henry,1.0,OK,False,
+26-8-21,27.0,2,Gina Millott,Nathan Choi,0.0,OK,False,
+26-8-21,27.0,2,Ian Brungardt,Jonathon Torchia,1.0,OK,False,
+26-8-21,27.0,2,Kenton Najdzien,Sean Marks,1.0,OK,False,
+26-8-21,27.0,2,Terry Eleftherakis,Winston Wong,0.0,OK,False,
+26-8-21,27.0,3,Amber Cronin,Daniel Hernandez,0.0,OK,False,
+26-8-21,27.0,3,Amy Altman,Winston Wong,1.0,OK,False,
+26-8-21,27.0,3,Andrew Gallien,Mike Adams,0.0,OK,False,
+26-8-21,27.0,3,Anthony Wilkinson,Will Bellows,0.5,OK,False,
+26-8-21,27.0,3,Autumn Rossa,Nathan Choi,1.0,OK,False,
+26-8-21,27.0,3,Becca Blackwood,Nathan Cormier,0.0,OK,False,
+26-8-21,27.0,3,Bradley Skubic,Stella Burfeind,1.0,OK,False,
+26-8-21,27.0,3,Chris Hirt,Jason Flynn,1.0,OK,False,
+26-8-21,27.0,3,Devon O’Donnell,Evan Hamlin,0.0,OK,False,
+26-8-21,27.0,3,Gina Millott,Sean Marks,0.0,OK,False,
+26-8-21,27.0,3,Hex Dowd,Jack Henry,1.0,OK,False,
+26-8-21,27.0,3,Ian Brungardt,Jean Belanger,1.0,OK,False,
+26-8-21,27.0,3,Jarrod Haase,Terry Eleftherakis,1.0,OK,False,
+26-8-21,27.0,3,Kenton Najdzien,Milo Brown,0.0,OK,False,
+26-8-21,27.0,4,Amber Cronin,Jason Flynn,0.0,OK,False,
+26-8-21,27.0,4,Amy Altman,Kenton Najdzien,1.0,OK,False,
+26-8-21,27.0,4,Anthony Wilkinson,Milo Brown,0.0,OK,False,
+26-8-21,27.0,4,Autumn Rossa,Evan Hamlin,0.0,OK,False,
+26-8-21,27.0,4,Bradley Skubic,Chris Hirt,0.0,OK,False,
+26-8-21,27.0,4,Daniel Hernandez,Nathan Cormier,1.0,OK,False,
+26-8-21,27.0,4,Devon O’Donnell,Will Bellows,0.0,OK,False,
+26-8-21,27.0,4,Gina Millott,Jarrod Haase,0.0,OK,False,
+26-8-21,27.0,4,Hex Dowd,Stella Burfeind,0.5,OK,False,
+26-8-21,27.0,4,Ian Brungardt,Sean Marks,0.0,OK,False,
+26-8-21,27.0,4,Jack Henry,Mike Adams,1.0,OK,False,
+26-8-21,27.0,4,Jean Belanger,Nathan Choi,1.0,OK,False,
+26-8-21,27.0,5,Amber Cronin,Stella Burfeind,1.0,OK,False,
+26-8-21,27.0,5,Amy Altman,Daniel Hernandez,1.0,OK,False,
+26-8-21,27.0,5,Andrew Gallien,Hex Dowd,1.0,OK,False,
+26-8-21,27.0,5,Anthony Wilkinson,Kenton Najdzien,0.0,OK,False,
+26-8-21,27.0,5,Autumn Rossa,Will Bellows,1.0,OK,False,
+26-8-21,27.0,5,Bradley Skubic,Nathan Cormier,1.0,OK,False,
+26-8-21,27.0,5,Chris Hirt,Sean Marks,1.0,OK,False,
+26-8-21,27.0,5,Devon O’Donnell,Ian Brungardt,1.0,OK,False,
+26-8-21,27.0,5,Evan Hamlin,Milo Brown,0.5,OK,False,
+26-8-21,27.0,5,Gina Millott,Mike Adams,0.0,OK,False,
+26-8-21,27.0,5,Jarrod Haase,Jean Belanger,0.0,OK,False,
+26-8-21,27.0,5,Jason Flynn,Nathan Choi,1.0,OK,False,
 26-5-15,,1,Amber Cronin,***Bye***,,BYE,False,True
 26-4-03,,1,Daniel Hernandez,***Bye***,,BYE,False,True
 26-7-03,,1,David Van Hise,***Bye***,,BYE,False,True
@@ -1715,14 +1844,17 @@ Week,WeekIndex,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 25-12-6_brainstormin_charity_tournament,,1,Joseph Chung,***Bye***,,BYE,False,True
 26-3-20,,1,Logan Hesch,***Bye***,,BYE,False,True
 26-2-13,,1,Mike Laing,***Bye***,,BYE,False,True
+26-8-21,,1,Nathan Choi,***Bye***,,BYE,False,True
 26-4-24,,1,Philip Petronis,***Bye***,,BYE,False,True
 26-6-12,,1,Ran Guo,***Bye***,,BYE,False,True
 26-7-31,,1,Stan Kornacki,***Bye***,,BYE,False,True
 26-4-10,,1,Tom Kessler,***Bye***,,BYE,False,True
 26-5-29,,1,Tom Kessler,***Bye***,,BYE,False,True
 26-7-24,,1,Tom Kessler,***Bye***,,BYE,False,True
+26-8-14,,1,Will Bellows,***Bye***,,BYE,False,True
 26-2-20,,1,[REDACTED] [REDACTED],***Bye***,,BYE,False,True
 25-12-6_brainstormin_charity_tournament,,2,Amber Cronin,***Bye***,,BYE,False,True
+26-8-14,,2,Andrew Gallien,***Bye***,,BYE,False,True
 26-6-14_RCQ,,2,Brian Kennes,***Bye***,,BYE,False,True
 26-7-31,,2,Colin Plumridge,***Bye***,,BYE,False,True
 26-2-20,,2,Dani Masom,***Bye***,,BYE,False,True
@@ -1736,8 +1868,10 @@ Week,WeekIndex,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 26-4-03,,2,Mike Laing,***Bye***,,BYE,False,True
 26-6-05,,2,Philip Petronis,***Bye***,,BYE,False,True
 26-3-20,,2,Stella Burfeind,***Bye***,,BYE,False,True
+26-8-21,,2,Stella Burfeind,***Bye***,,BYE,False,True
 26-3-27,,3,Daniel Hernandez,***Bye***,,BYE,False,True
 26-5-01,,3,Daniel Hernandez,***Bye***,,BYE,False,True
+26-8-14,,3,Daniel Hernandez,***Bye***,,BYE,False,True
 26-3-13,,3,Hazel Green,***Bye***,,BYE,False,True
 26-2-20,,3,Hex Dowd,***Bye***,,BYE,False,True
 26-4-10,,3,Isharah Considine,***Bye***,,BYE,False,True
@@ -1751,11 +1885,13 @@ Week,WeekIndex,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 26-3-20,,3,Reya Truher,***Bye***,,BYE,False,True
 26-2-13,,3,Sean Marks,***Bye***,,BYE,False,True
 25-12-6_brainstormin_charity_tournament,,3,Terry Eleftherakis,***Bye***,,BYE,False,True
+26-8-21,,4,Andrew Gallien,***Bye***,,BYE,False,True
 26-3-13,,4,Daniel Hernandez,***Bye***,,BYE,False,True
 26-3-27,,4,Hex Dowd,***Bye***,,BYE,False,True
 26-5-29,,4,Ian Brungardt,***Bye***,,BYE,False,True
 26-2-20,,4,Jarrod Haase,***Bye***,,BYE,False,True
 26-6-12,,4,Jarrod Haase,***Bye***,,BYE,False,True
+26-8-14,,4,Jeffrey Silver,***Bye***,,BYE,False,True
 26-6-05,,4,Josh Kibbe,***Bye***,,BYE,False,True
 26-5-15,,4,Mike Adams,***Bye***,,BYE,False,True
 26-4-03,,4,Philip Petronis,***Bye***,,BYE,False,True
@@ -1764,11 +1900,13 @@ Week,WeekIndex,Round,PlayerA,PlayerB,ScoreA,Status,IsID,IsBye
 26-4-24,,4,Thomas Kotcher,***Bye***,,BYE,False,True
 26-4-10,,5,Adam Silvia,***Bye***,,BYE,False,True
 26-7-03,,5,Gina Millott,***Bye***,,BYE,False,True
+26-8-21,,5,Jack Henry,***Bye***,,BYE,False,True
 26-2-27,,5,Jarrod Haase,***Bye***,,BYE,False,True
 26-6-14_RCQ,,5,Jarrod Haase,***Bye***,,BYE,False,True
 26-5-01,,5,Michael Whalen,***Bye***,,BYE,False,True
 26-4-24,,5,Mike Adams,***Bye***,,BYE,False,True
 26-7-17,,5,Mike Laing,***Bye***,,BYE,False,True
 26-4-03,,5,Patrick Brooks,***Bye***,,BYE,False,True
+26-8-14,,5,Phil iwanow,***Bye***,,BYE,False,True
 26-2-20,,5,Stella Burfeind,***Bye***,,BYE,False,True
 26-5-15,,5,Terry Eleftherakis,***Bye***,,BYE,False,True

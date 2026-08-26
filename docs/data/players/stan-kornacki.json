@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1534.1,
-  "matches_count": 79,
-  "wins": 44,
-  "losses": 30,
+  "elo": 1584.3,
+  "matches_count": 84,
+  "wins": 48,
+  "losses": 31,
   "draws": 5,
   "matches": [
     {
@@ -963,6 +963,66 @@
       "score": 0.0,
       "elo_before": 1556.1388,
       "elo_after": 1534.0952,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1534.0952,
+      "elo_after": 1552.1066,
+      "opp_elo": 1516.0004,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.1066,
+      "elo_after": 1575.9884,
+      "opp_elo": 1643.4223,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1575.9884,
+      "elo_after": 1552.8979,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.8979,
+      "elo_after": 1569.0272,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Gabe Dietz",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1569.0272,
+      "elo_after": 1584.3013,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,10 +1,10 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1725.78,
-  "matches_count": 71,
-  "wins": 44,
-  "losses": 18,
+  "elo": 1704.74,
+  "matches_count": 81,
+  "wins": 51,
+  "losses": 21,
   "draws": 9,
   "matches": [
     {
@@ -857,6 +857,126 @@
       "elo_before": 1725.7814,
       "elo_after": 1725.7814,
       "opp_elo": 1575.0577,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Ethan Eisdorfer",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1725.7814,
+      "elo_after": 1695.9216,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1695.9216,
+      "elo_after": 1663.8296,
+      "opp_elo": 1401.9407,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1663.8296,
+      "elo_after": 1674.8025,
+      "opp_elo": 1507.2383,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1674.8025,
+      "elo_after": 1684.9757,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1684.9757,
+      "elo_after": 1694.7186,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1694.7186,
+      "elo_after": 1703.4965,
+      "opp_elo": 1485.7899,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Will Bellows",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1703.4965,
+      "elo_after": 1674.4873,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1674.4873,
+      "elo_after": 1679.6017,
+      "opp_elo": 1351.2056,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1679.6017,
+      "elo_after": 1697.8727,
+      "opp_elo": 1666.2641,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1697.8727,
+      "elo_after": 1704.7353,
+      "opp_elo": 1435.1545,
       "is_bye": false
     }
   ]

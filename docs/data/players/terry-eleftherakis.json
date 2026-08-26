@@ -1,10 +1,10 @@
 {
   "player": "Terry Eleftherakis",
   "slug": "terry-eleftherakis",
-  "elo": 1375.22,
-  "matches_count": 40,
+  "elo": 1320.91,
+  "matches_count": 43,
   "wins": 13,
-  "losses": 27,
+  "losses": 30,
   "draws": 0,
   "matches": [
     {
@@ -507,6 +507,42 @@
       "elo_before": 1380.9147,
       "elo_after": 1375.2156,
       "opp_elo": 1682.2785,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1375.2156,
+      "elo_after": 1362.7606,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Winston Wong",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1362.7606,
+      "elo_after": 1341.9984,
+      "opp_elo": 1330.4434,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1341.9984,
+      "elo_after": 1320.9093,
+      "opp_elo": 1303.6422,
       "is_bye": false
     }
   ]

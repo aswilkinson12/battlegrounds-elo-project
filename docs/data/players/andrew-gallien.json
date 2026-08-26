@@ -1,10 +1,10 @@
 {
   "player": "Andrew Gallien",
   "slug": "andrew-gallien",
-  "elo": 1516.0,
-  "matches_count": 14,
-  "wins": 7,
-  "losses": 6,
+  "elo": 1411.98,
+  "matches_count": 22,
+  "wins": 8,
+  "losses": 13,
   "draws": 1,
   "matches": [
     {
@@ -173,6 +173,124 @@
       "elo_before": 1544.5555,
       "elo_after": 1516.0004,
       "opp_elo": 1352.3595,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.0004,
+      "elo_after": 1497.989,
+      "opp_elo": 1534.0952,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1497.989,
+      "elo_after": 1497.989,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1497.989,
+      "elo_after": 1475.5305,
+      "opp_elo": 1434.0326,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1475.5305,
+      "elo_after": 1457.8664,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Ian Brungardt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.8664,
+      "elo_after": 1441.1593,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Gina Millott",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1441.1593,
+      "elo_after": 1418.9276,
+      "opp_elo": 1381.4849,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Jean Belanger",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1418.9276,
+      "elo_after": 1404.2824,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1404.2824,
+      "elo_after": 1388.6909,
+      "opp_elo": 1467.2923,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1388.6909,
+      "elo_after": 1388.6909,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Hex Dowd",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1388.6909,
+      "elo_after": 1411.9787,
+      "opp_elo": 1468.4709,
       "is_bye": false
     }
   ]

@@ -1,11 +1,11 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1479.14,
-  "matches_count": 79,
-  "wins": 34,
-  "losses": 44,
-  "draws": 1,
+  "elo": 1445.18,
+  "matches_count": 84,
+  "wins": 35,
+  "losses": 47,
+  "draws": 2,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -975,6 +975,66 @@
       "elo_before": 1490.72,
       "elo_after": 1479.1384,
       "opp_elo": 1633.9757,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1479.1384,
+      "elo_after": 1469.3935,
+      "opp_elo": 1664.065,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1469.3935,
+      "elo_after": 1452.0629,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1452.0629,
+      "elo_after": 1468.9199,
+      "opp_elo": 1412.7075,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1468.9199,
+      "elo_after": 1468.4709,
+      "opp_elo": 1460.7082,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Andrew Gallien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.4709,
+      "elo_after": 1445.1831,
+      "opp_elo": 1388.6909,
       "is_bye": false
     }
   ]

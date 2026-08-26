@@ -1,11 +1,11 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1687.98,
-  "matches_count": 75,
-  "wins": 47,
+  "elo": 1724.27,
+  "matches_count": 80,
+  "wins": 51,
   "losses": 19,
-  "draws": 9,
+  "draws": 10,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -905,6 +905,66 @@
       "elo_before": 1682.2785,
       "elo_after": 1687.9776,
       "opp_elo": 1380.9147,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1687.9776,
+      "elo_after": 1701.0881,
+      "opp_elo": 1576.6186,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1701.0881,
+      "elo_after": 1706.7013,
+      "opp_elo": 1396.625,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1706.7013,
+      "elo_after": 1724.463,
+      "opp_elo": 1684.0258,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1724.463,
+      "elo_after": 1735.482,
+      "opp_elo": 1568.8969,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Evan Hamlin",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1735.482,
+      "elo_after": 1724.2707,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

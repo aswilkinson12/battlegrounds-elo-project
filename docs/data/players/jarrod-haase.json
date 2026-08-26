@@ -1,10 +1,10 @@
 {
   "player": "Jarrod Haase",
   "slug": "jarrod-haase",
-  "elo": 1320.68,
-  "matches_count": 71,
-  "wins": 19,
-  "losses": 49,
+  "elo": 1335.69,
+  "matches_count": 76,
+  "wins": 21,
+  "losses": 52,
   "draws": 3,
   "matches": [
     {
@@ -934,6 +934,66 @@
       "elo_before": 1296.1847,
       "elo_after": 1320.6796,
       "opp_elo": 1399.6168,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1320.6796,
+      "elo_after": 1310.836,
+      "opp_elo": 1503.2491,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1310.836,
+      "elo_after": 1303.6422,
+      "opp_elo": 1563.5081,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Terry Eleftherakis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1303.6422,
+      "elo_after": 1324.7313,
+      "opp_elo": 1341.9984,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1324.7313,
+      "elo_after": 1346.8194,
+      "opp_elo": 1381.7054,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Jean Belanger",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1346.8194,
+      "elo_after": 1335.6926,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

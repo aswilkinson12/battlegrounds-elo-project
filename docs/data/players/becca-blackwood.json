@@ -1,10 +1,10 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1614.06,
-  "matches_count": 63,
-  "wins": 36,
-  "losses": 22,
+  "elo": 1547.87,
+  "matches_count": 71,
+  "wins": 39,
+  "losses": 27,
   "draws": 5,
   "matches": [
     {
@@ -761,6 +761,102 @@
       "elo_before": 1640.6398,
       "elo_after": 1614.0621,
       "opp_elo": 1493.9343,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1614.0621,
+      "elo_after": 1589.0393,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Jeffrey Silver",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1589.0393,
+      "elo_after": 1604.2371,
+      "opp_elo": 1518.5608,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Michael Plummer",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1604.2371,
+      "elo_after": 1579.7018,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1579.7018,
+      "elo_after": 1596.9066,
+      "opp_elo": 1546.7755,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1596.9066,
+      "elo_after": 1576.6186,
+      "opp_elo": 1573.3186,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1576.6186,
+      "elo_after": 1563.5081,
+      "opp_elo": 1687.9776,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1563.5081,
+      "elo_after": 1570.7019,
+      "opp_elo": 1310.836,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1570.7019,
+      "elo_after": 1547.874,
+      "opp_elo": 1499.7328,
       "is_bye": false
     }
   ]

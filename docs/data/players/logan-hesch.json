@@ -1,10 +1,10 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1591.41,
-  "matches_count": 60,
-  "wins": 34,
-  "losses": 23,
+  "elo": 1593.61,
+  "matches_count": 65,
+  "wins": 37,
+  "losses": 25,
   "draws": 3,
   "matches": [
     {
@@ -736,6 +736,66 @@
       "elo_before": 1575.5214,
       "elo_after": 1591.4123,
       "opp_elo": 1518.1514,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1591.4123,
+      "elo_after": 1607.6753,
+      "opp_elo": 1541.0134,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1607.6753,
+      "elo_after": 1582.9685,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Ethan Eisdorfer",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1582.9685,
+      "elo_after": 1597.5156,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Michael Plummer",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1597.5156,
+      "elo_after": 1573.3186,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1573.3186,
+      "elo_after": 1593.6065,
+      "opp_elo": 1596.9066,
       "is_bye": false
     }
   ]

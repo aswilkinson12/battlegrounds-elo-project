@@ -1,10 +1,10 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1575.06,
-  "matches_count": 73,
-  "wins": 40,
-  "losses": 22,
+  "elo": 1539.31,
+  "matches_count": 82,
+  "wins": 44,
+  "losses": 27,
   "draws": 11,
   "matches": [
     {
@@ -881,6 +881,114 @@
       "elo_before": 1575.0577,
       "elo_after": 1575.0577,
       "opp_elo": 1725.7814,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1575.0577,
+      "elo_after": 1552.0157,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.0157,
+      "elo_after": 1569.5278,
+      "opp_elo": 1524.7503,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1569.5278,
+      "elo_after": 1546.7755,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1546.7755,
+      "elo_after": 1529.5707,
+      "opp_elo": 1579.7018,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1529.5707,
+      "elo_after": 1508.9575,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1508.9575,
+      "elo_after": 1526.6485,
+      "opp_elo": 1484.9833,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Stella Burfeind",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1526.6485,
+      "elo_after": 1542.9524,
+      "opp_elo": 1477.0121,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Chris Hirt",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1542.9524,
+      "elo_after": 1521.6154,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1521.6154,
+      "elo_after": 1539.3054,
+      "opp_elo": 1497.6226,
       "is_bye": false
     }
   ]

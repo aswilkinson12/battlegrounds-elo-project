@@ -1,10 +1,10 @@
 {
   "player": "Gina Millott",
   "slug": "gina-millott",
-  "elo": 1381.48,
-  "matches_count": 30,
-  "wins": 11,
-  "losses": 19,
+  "elo": 1345.92,
+  "matches_count": 35,
+  "wins": 12,
+  "losses": 23,
   "draws": 0,
   "matches": [
     {
@@ -377,6 +377,66 @@
       "elo_before": 1381.4849,
       "elo_after": 1381.4849,
       "opp_elo": null
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1381.4849,
+      "elo_after": 1403.7166,
+      "opp_elo": 1441.1593,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1403.7166,
+      "elo_after": 1395.1389,
+      "opp_elo": 1617.8393,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1395.1389,
+      "elo_after": 1381.7054,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Jarrod Haase",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1381.7054,
+      "elo_after": 1359.6173,
+      "opp_elo": 1324.7313,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1359.6173,
+      "elo_after": 1345.9198,
+      "opp_elo": 1459.2214,
+      "is_bye": false
     }
   ]
 }

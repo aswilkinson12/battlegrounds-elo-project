@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1416.46,
-  "matches_count": 86,
-  "wins": 35,
-  "losses": 44,
+  "elo": 1472.92,
+  "matches_count": 96,
+  "wins": 41,
+  "losses": 48,
   "draws": 7,
   "matches": [
     {
@@ -1070,6 +1070,126 @@
       "elo_before": 1399.3387,
       "elo_after": 1416.4581,
       "opp_elo": 1364.8378,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1416.4581,
+      "elo_after": 1401.9407,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1401.9407,
+      "elo_after": 1434.0326,
+      "opp_elo": 1695.9216,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1434.0326,
+      "elo_after": 1456.4912,
+      "opp_elo": 1497.989,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1456.4912,
+      "elo_after": 1484.3589,
+      "opp_elo": 1632.2496,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1484.3589,
+      "elo_after": 1504.2137,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1504.2137,
+      "elo_after": 1484.9833,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.9833,
+      "elo_after": 1467.2923,
+      "opp_elo": 1508.9575,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1467.2923,
+      "elo_after": 1482.8838,
+      "opp_elo": 1404.2824,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Jack Henry",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1482.8838,
+      "elo_after": 1459.2214,
+      "opp_elo": 1395.8506,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Gina Millott",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1459.2214,
+      "elo_after": 1472.9189,
+      "opp_elo": 1359.6173,
       "is_bye": false
     }
   ]

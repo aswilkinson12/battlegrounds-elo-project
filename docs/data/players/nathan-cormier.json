@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1474.24,
-  "matches_count": 80,
-  "wins": 36,
-  "losses": 41,
+  "elo": 1479.93,
+  "matches_count": 90,
+  "wins": 41,
+  "losses": 46,
   "draws": 3,
   "matches": [
     {
@@ -965,6 +965,126 @@
       "elo_before": 1474.2391,
       "elo_after": 1474.2391,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Michael Faulkner",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1474.2391,
+      "elo_after": 1494.6453,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1494.6453,
+      "elo_after": 1518.493,
+      "opp_elo": 1585.2927,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Gabe Dietz",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.493,
+      "elo_after": 1498.4826,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Alexandra Polinsky",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1498.4826,
+      "elo_after": 1479.5656,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1479.5656,
+      "elo_after": 1503.2491,
+      "opp_elo": 1567.0095,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Jarrod Haase",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1503.2491,
+      "elo_after": 1513.0927,
+      "opp_elo": 1320.6796,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Autumn Rossa",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1513.0927,
+      "elo_after": 1499.7328,
+      "opp_elo": 1619.4286,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1499.7328,
+      "elo_after": 1522.5608,
+      "opp_elo": 1570.7019,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1522.5608,
+      "elo_after": 1497.6226,
+      "opp_elo": 1410.2164,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1497.6226,
+      "elo_after": 1479.9326,
+      "opp_elo": 1521.6154,
       "is_bye": false
     }
   ]

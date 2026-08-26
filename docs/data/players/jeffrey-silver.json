@@ -1,10 +1,10 @@
 {
   "player": "Jeffrey Silver",
   "slug": "jeffrey-silver",
-  "elo": 1539.72,
-  "matches_count": 10,
+  "elo": 1458.35,
+  "matches_count": 14,
   "wins": 6,
-  "losses": 4,
+  "losses": 8,
   "draws": 0,
   "matches": [
     {
@@ -125,6 +125,65 @@
       "elo_before": 1521.8627,
       "elo_after": 1539.7238,
       "opp_elo": 1501.0116,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1539.7238,
+      "elo_after": 1518.5608,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1518.5608,
+      "elo_after": 1503.363,
+      "opp_elo": 1589.0393,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1503.363,
+      "elo_after": 1484.1791,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1484.1791,
+      "elo_after": 1484.1791,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Daniel Hernandez",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.1791,
+      "elo_after": 1458.3529,
+      "opp_elo": 1353.5238,
       "is_bye": false
     }
   ]

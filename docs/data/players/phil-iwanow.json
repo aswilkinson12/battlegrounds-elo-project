@@ -1,10 +1,10 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1541.01,
-  "matches_count": 97,
-  "wins": 39,
-  "losses": 50,
+  "elo": 1515.47,
+  "matches_count": 101,
+  "wins": 40,
+  "losses": 53,
   "draws": 8,
   "matches": [
     {
@@ -1181,6 +1181,65 @@
       "elo_after": 1541.0134,
       "opp_elo": 1650.1453,
       "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1541.0134,
+      "elo_after": 1524.7503,
+      "opp_elo": 1591.4123,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1524.7503,
+      "elo_after": 1507.2383,
+      "opp_elo": 1552.0157,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1507.2383,
+      "elo_after": 1496.2654,
+      "opp_elo": 1663.8296,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Michael Faulkner",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1496.2654,
+      "elo_after": 1515.4697,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1515.4697,
+      "elo_after": 1515.4697,
+      "opp_elo": null
     }
   ]
 }

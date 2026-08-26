@@ -1,10 +1,10 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1342.25,
-  "matches_count": 63,
-  "wins": 17,
-  "losses": 45,
+  "elo": 1428.29,
+  "matches_count": 72,
+  "wins": 22,
+  "losses": 49,
   "draws": 1,
   "matches": [
     {
@@ -805,6 +805,125 @@
       "elo_before": 1350.238,
       "elo_after": 1342.2493,
       "opp_elo": 1580.1615,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1342.2493,
+      "elo_after": 1336.3792,
+      "opp_elo": 1637.5522,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Jason Flynn",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1336.3792,
+      "elo_after": 1325.7194,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1325.7194,
+      "elo_after": 1325.7194,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Ethan Eisdorfer",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1325.7194,
+      "elo_after": 1353.5238,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Jeffrey Silver",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1353.5238,
+      "elo_after": 1379.3501,
+      "opp_elo": 1484.1791,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Winston Wong",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1379.3501,
+      "elo_after": 1396.625,
+      "opp_elo": 1347.7183,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1396.625,
+      "elo_after": 1391.0118,
+      "opp_elo": 1701.0881,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Amber Cronin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1391.0118,
+      "elo_after": 1410.2164,
+      "opp_elo": 1394.7528,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1410.2164,
+      "elo_after": 1435.1545,
+      "opp_elo": 1522.5608,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1435.1545,
+      "elo_after": 1428.292,
+      "opp_elo": 1697.8727,
       "is_bye": false
     }
   ]

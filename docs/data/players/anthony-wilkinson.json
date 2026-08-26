@@ -1,11 +1,11 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1588.15,
-  "matches_count": 116,
-  "wins": 67,
-  "losses": 40,
-  "draws": 9,
+  "elo": 1543.7,
+  "matches_count": 126,
+  "wins": 71,
+  "losses": 45,
+  "draws": 10,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1397,6 +1397,126 @@
       "elo_before": 1580.1615,
       "elo_after": 1588.1502,
       "opp_elo": 1350.238,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 1,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1588.1502,
+      "elo_after": 1602.4305,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1602.4305,
+      "elo_after": 1615.9857,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 3,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1615.9857,
+      "elo_after": 1590.8685,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 4,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1590.8685,
+      "elo_after": 1567.0095,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-14",
+      "week_index": 26,
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1567.0095,
+      "elo_after": 1543.326,
+      "opp_elo": 1479.5656,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1543.326,
+      "elo_after": 1556.9064,
+      "opp_elo": 1441.3963,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Jason Flynn",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1556.9064,
+      "elo_after": 1572.8219,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Will Bellows",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1572.8219,
+      "elo_after": 1568.8969,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1568.8969,
+      "elo_after": 1557.8779,
+      "opp_elo": 1724.463,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1557.8779,
+      "elo_after": 1543.6983,
+      "opp_elo": 1647.9931,
       "is_bye": false
     }
   ]

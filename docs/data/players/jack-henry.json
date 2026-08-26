@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1441.4,
-  "matches_count": 69,
-  "wins": 26,
-  "losses": 41,
+  "elo": 1419.51,
+  "matches_count": 73,
+  "wins": 27,
+  "losses": 44,
   "draws": 2,
   "matches": [
     {
@@ -845,6 +845,65 @@
       "elo_after": 1441.3963,
       "opp_elo": 1374.0757,
       "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1441.3963,
+      "elo_after": 1427.8159,
+      "opp_elo": 1543.326,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1427.8159,
+      "elo_after": 1412.7075,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1412.7075,
+      "elo_after": 1395.8506,
+      "opp_elo": 1452.0629,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1395.8506,
+      "elo_after": 1419.513,
+      "opp_elo": 1482.8838,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-21",
+      "week_index": 27,
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1419.513,
+      "elo_after": 1419.513,
+      "opp_elo": null
     }
   ]
 }
