@@ -1,0 +1,31 @@
+Round 1
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+10     Adam Silvia                     Adam Thomas                     0-3   
+10     Adam Thomas                     Adam Silvia                     3-0   
+6      Alexandra Polinsky              Steven Yean                     0-3   
+       Andrew Gallien                  ***Bye***                       6     
+9      Anthony Wilkinson               Dylan Shanes                    0-3   
+3      Bradley Skubic                  Phil iwanow                     1-1   
+12     Devon O’Donnell                 Jeffrey Silver                  3-0   
+9      Dylan Shanes                    Anthony Wilkinson               3-0   
+11     Ethan Eisdorfer                 Kenton Najdzien                 0-3   
+8      Evan Hamlin                     Thomas Kotcher                  3-0   
+1      Jack Henry                      Tom Kessler                     0-3   
+7      Jean Belanger                   Luke Deratzou                   3-0   
+12     Jeffrey Silver                  Devon O’Donnell                 0-3   
+13     Joe Canadas                     Sean Marks                      3-0   
+11     Kenton Najdzien                 Ethan Eisdorfer                 3-0   
+2      Logan Hesch                     Nathan Choi                     3-0   
+7      Luke Deratzou                   Jean Belanger                   0-3   
+4      Michael Faulkner                Milo Brown                      0-3   
+4      Milo Brown                      Michael Faulkner                3-0   
+2      Nathan Choi                     Logan Hesch                     0-3   
+5      Nathan Cormier                  Philip Petronis                 3-0   
+3      Phil iwanow                     Bradley Skubic                  1-1   
+5      Philip Petronis                 Nathan Cormier                  0-3   
+13     Sean Marks                      Joe Canadas                     0-3   
+6      Steven Yean                     Alexandra Polinsky              3-0   
+8      Thomas Kotcher                  Evan Hamlin                     0-3   
+1      Tom Kessler                     Jack Henry                      3-0

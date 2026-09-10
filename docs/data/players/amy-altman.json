@@ -1,10 +1,10 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1704.74,
-  "matches_count": 81,
-  "wins": 51,
-  "losses": 21,
+  "elo": 1635.07,
+  "matches_count": 85,
+  "wins": 52,
+  "losses": 24,
   "draws": 9,
   "matches": [
     {
@@ -977,6 +977,65 @@
       "elo_before": 1697.8727,
       "elo_after": 1704.7353,
       "opp_elo": 1435.1545,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1704.7353,
+      "elo_after": 1712.6554,
+      "opp_elo": 1472.9189,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1712.6554,
+      "elo_after": 1683.2894,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1683.2894,
+      "elo_after": 1660.0818,
+      "opp_elo": 1605.0533,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1660.0818,
+      "elo_after": 1660.0818,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1660.0818,
+      "elo_after": 1635.0707,
+      "opp_elo": 1546.2579,
       "is_bye": false
     }
   ]

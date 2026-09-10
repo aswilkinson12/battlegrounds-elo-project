@@ -1,11 +1,11 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1539.31,
-  "matches_count": 82,
-  "wins": 44,
-  "losses": 27,
-  "draws": 11,
+  "elo": 1579.19,
+  "matches_count": 92,
+  "wins": 50,
+  "losses": 30,
+  "draws": 12,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -989,6 +989,126 @@
       "elo_before": 1521.6154,
       "elo_after": 1539.3054,
       "opp_elo": 1497.6226,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1539.3054,
+      "elo_after": 1538.0039,
+      "opp_elo": 1515.4697,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Jack Henry",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1538.0039,
+      "elo_after": 1550.0584,
+      "opp_elo": 1404.8375,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1550.0584,
+      "elo_after": 1535.0804,
+      "opp_elo": 1624.7348,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Luke Deratzou",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1535.0804,
+      "elo_after": 1552.1685,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.1685,
+      "elo_after": 1573.2477,
+      "opp_elo": 1590.342,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1573.2477,
+      "elo_after": 1549.3885,
+      "opp_elo": 1482.3751,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1549.3885,
+      "elo_after": 1569.2863,
+      "opp_elo": 1565.8179,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Gabe Dietz",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1569.2863,
+      "elo_after": 1584.5467,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.5467,
+      "elo_after": 1565.1062,
+      "opp_elo": 1576.4892,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1565.1062,
+      "elo_after": 1579.1934,
+      "opp_elo": 1473.1838,
       "is_bye": false
     }
   ]

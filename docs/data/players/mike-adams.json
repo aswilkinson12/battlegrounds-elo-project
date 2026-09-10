@@ -1,10 +1,10 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1472.92,
-  "matches_count": 96,
-  "wins": 41,
-  "losses": 48,
+  "elo": 1459.1,
+  "matches_count": 100,
+  "wins": 42,
+  "losses": 51,
   "draws": 7,
   "matches": [
     {
@@ -1190,6 +1190,65 @@
       "elo_before": 1459.2214,
       "elo_after": 1472.9189,
       "opp_elo": 1359.6173,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.9189,
+      "elo_after": 1464.9987,
+      "opp_elo": 1704.7353,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1464.9987,
+      "elo_after": 1451.8447,
+      "opp_elo": 1575.4773,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1451.8447,
+      "elo_after": 1451.8447,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1451.8447,
+      "elo_after": 1473.1838,
+      "opp_elo": 1494.8368,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.1838,
+      "elo_after": 1459.0966,
+      "opp_elo": 1565.1062,
       "is_bye": false
     }
   ]

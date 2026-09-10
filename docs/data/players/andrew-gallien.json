@@ -1,10 +1,10 @@
 {
   "player": "Andrew Gallien",
   "slug": "andrew-gallien",
-  "elo": 1411.98,
-  "matches_count": 22,
-  "wins": 8,
-  "losses": 13,
+  "elo": 1432.73,
+  "matches_count": 26,
+  "wins": 10,
+  "losses": 15,
   "draws": 1,
   "matches": [
     {
@@ -291,6 +291,65 @@
       "elo_before": 1388.6909,
       "elo_after": 1411.9787,
       "opp_elo": 1468.4709,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1411.9787,
+      "elo_after": 1411.9787,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1411.9787,
+      "elo_after": 1397.6919,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1397.6919,
+      "elo_after": 1384.1305,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Adam Thomas",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1384.1305,
+      "elo_after": 1409.242,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1409.242,
+      "elo_after": 1432.735,
+      "opp_elo": 1492.985,
       "is_bye": false
     }
   ]

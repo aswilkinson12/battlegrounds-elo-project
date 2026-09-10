@@ -1,11 +1,11 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1515.47,
-  "matches_count": 101,
-  "wins": 40,
-  "losses": 53,
-  "draws": 8,
+  "elo": 1525.25,
+  "matches_count": 111,
+  "wins": 44,
+  "losses": 57,
+  "draws": 10,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1240,6 +1240,126 @@
       "elo_before": 1515.4697,
       "elo_after": 1515.4697,
       "opp_elo": null
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1515.4697,
+      "elo_after": 1516.7711,
+      "opp_elo": 1539.3054,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1516.7711,
+      "elo_after": 1502.7888,
+      "opp_elo": 1610.7526,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1502.7888,
+      "elo_after": 1521.6363,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Steven Yean",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1521.6363,
+      "elo_after": 1501.4546,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Adam Thomas",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1501.4546,
+      "elo_after": 1482.3751,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1482.3751,
+      "elo_after": 1506.2343,
+      "opp_elo": 1573.2477,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Steven Yean",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1506.2343,
+      "elo_after": 1486.8934,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Minerva Celeste",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1486.8934,
+      "elo_after": 1506.6098,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1506.6098,
+      "elo_after": 1525.2484,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Anthony Wilkinson",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1525.2484,
+      "elo_after": 1525.2484,
+      "opp_elo": 1587.3147,
+      "is_bye": false
     }
   ]
 }

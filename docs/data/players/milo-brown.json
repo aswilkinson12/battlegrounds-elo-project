@@ -1,10 +1,10 @@
 {
   "player": "Milo Brown",
   "slug": "milo-brown",
-  "elo": 1735.48,
-  "matches_count": 80,
-  "wins": 51,
-  "losses": 19,
+  "elo": 1704.13,
+  "matches_count": 85,
+  "wins": 54,
+  "losses": 21,
   "draws": 10,
   "matches": [
     {
@@ -964,6 +964,66 @@
       "score": 0.5,
       "elo_before": 1735.482,
       "elo_after": 1735.482,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Michael Faulkner",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1735.482,
+      "elo_after": 1743.2707,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1743.2707,
+      "elo_after": 1712.7854,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1712.7854,
+      "elo_after": 1685.0498,
+      "opp_elo": 1540.1022,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1685.0498,
+      "elo_after": 1694.7896,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Thomas Kotcher",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1694.7896,
+      "elo_after": 1704.1289,
       "opp_elo": 1500.0,
       "is_bye": false
     }

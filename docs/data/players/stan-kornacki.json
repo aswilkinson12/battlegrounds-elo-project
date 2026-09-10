@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1584.3,
-  "matches_count": 84,
-  "wins": 48,
-  "losses": 31,
+  "elo": 1609.81,
+  "matches_count": 88,
+  "wins": 51,
+  "losses": 32,
   "draws": 5,
   "matches": [
     {
@@ -1023,6 +1023,65 @@
       "score": 1.0,
       "elo_before": 1569.0272,
       "elo_after": 1584.3013,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Steven Yean",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.3013,
+      "elo_after": 1560.7795,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1560.7795,
+      "elo_after": 1560.7795,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Adam Silvia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1560.7795,
+      "elo_after": 1576.4892,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1576.4892,
+      "elo_after": 1595.9298,
+      "opp_elo": 1584.5467,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Vina 🌙 Macias",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1595.9298,
+      "elo_after": 1609.8131,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,0 +1,23 @@
+Round 5
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+8      Adam Silvia                     Jean Belanger                   6-6   
+9      Adam Thomas                     Phil iwanow                     6-4   
+6      Andrew Gallien                  Nathan Cormier                  9-6   
+4      Anthony Wilkinson               Steven Yean                     9-12  
+5      Bradley Skubic                  Nathan Choi                     10-9  
+1      Devon O’Donnell                 Kenton Najdzien                 13-13 
+2      Dylan Shanes                    Logan Hesch                     10-10 ID
+3      Evan Hamlin                     Tom Kessler                     12-9  
+       Jack Henry                      ***Bye***                       9     
+8      Jean Belanger                   Adam Silvia                     6-6   
+1      Kenton Najdzien                 Devon O’Donnell                 13-13 
+2      Logan Hesch                     Dylan Shanes                    10-10 ID
+7      Milo Brown                      Thomas Kotcher                  9-6   
+5      Nathan Choi                     Bradley Skubic                  9-10  
+6      Nathan Cormier                  Andrew Gallien                  6-9   
+9      Phil iwanow                     Adam Thomas                     4-6   
+4      Steven Yean                     Anthony Wilkinson               12-9  
+7      Thomas Kotcher                  Milo Brown                      6-9   
+3      Tom Kessler                     Evan Hamlin                     9-12 

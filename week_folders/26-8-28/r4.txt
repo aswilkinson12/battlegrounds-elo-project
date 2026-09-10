@@ -1,0 +1,27 @@
+Round 4
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+       Adam Silvia                     ***Bye***                       6     
+9      Adam Thomas                     Andrew Gallien                  3-6   
+4      Alexandra Polinsky              Evan Hamlin                     6-9   
+9      Andrew Gallien                  Adam Thomas                     6-3   
+6      Anthony Wilkinson               Philip Petronis                 9-6   
+8      Bradley Skubic                  Luke Deratzou                   7-3   
+2      Devon O’Donnell                 Logan Hesch                     12-9  
+1      Dylan Shanes                    Kenton Najdzien                 9-12  
+4      Evan Hamlin                     Alexandra Polinsky              9-6   
+10     Jack Henry                      Jean Belanger                   3-6   
+10     Jean Belanger                   Jack Henry                      6-3   
+1      Kenton Najdzien                 Dylan Shanes                    12-9  
+2      Logan Hesch                     Devon O’Donnell                 9-12  
+8      Luke Deratzou                   Bradley Skubic                  3-7   
+11     Milo Brown                      Sean Marks                      6-0   
+3      Nathan Choi                     Nathan Cormier                  9-6   
+3      Nathan Cormier                  Nathan Choi                     6-9   
+7      Phil iwanow                     Steven Yean                     4-9   
+6      Philip Petronis                 Anthony Wilkinson               6-9   
+11     Sean Marks                      Milo Brown                      0-6   
+7      Steven Yean                     Phil iwanow                     9-4   
+5      Thomas Kotcher                  Tom Kessler                     6-9   
+5      Tom Kessler                     Thomas Kotcher                  9-6   

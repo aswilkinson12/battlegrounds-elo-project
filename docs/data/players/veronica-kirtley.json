@@ -1,10 +1,10 @@
 {
   "player": "Veronica Kirtley",
   "slug": "veronica-kirtley",
-  "elo": 1578.78,
-  "matches_count": 21,
-  "wins": 12,
-  "losses": 8,
+  "elo": 1560.56,
+  "matches_count": 26,
+  "wins": 14,
+  "losses": 11,
   "draws": 1,
   "matches": [
     {
@@ -257,6 +257,66 @@
       "elo_before": 1559.7516,
       "elo_after": 1578.7788,
       "opp_elo": 1560.2474,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1578.7788,
+      "elo_after": 1565.8179,
+      "opp_elo": 1693.1728,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1565.8179,
+      "elo_after": 1545.9201,
+      "opp_elo": 1549.3885,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1545.9201,
+      "elo_after": 1562.4234,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Minerva Celeste",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1562.4234,
+      "elo_after": 1578.046,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Logan Hesch",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1578.046,
+      "elo_after": 1560.5623,
+      "opp_elo": 1605.8331,
       "is_bye": false
     }
   ]

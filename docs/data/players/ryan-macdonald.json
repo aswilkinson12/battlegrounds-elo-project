@@ -1,10 +1,10 @@
 {
   "player": "Ryan MacDonald",
   "slug": "ryan-macdonald",
-  "elo": 1517.07,
-  "matches_count": 23,
-  "wins": 12,
-  "losses": 11,
+  "elo": 1473.5,
+  "matches_count": 27,
+  "wins": 13,
+  "losses": 14,
   "draws": 0,
   "matches": [
     {
@@ -281,6 +281,54 @@
       "elo_before": 1539.4464,
       "elo_after": 1517.0661,
       "opp_elo": 1476.9698,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1517.0661,
+      "elo_after": 1497.1336,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1497.1336,
+      "elo_after": 1511.6287,
+      "opp_elo": 1413.1587,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1511.6287,
+      "elo_after": 1494.8368,
+      "opp_elo": 1552.1896,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Mike Adams",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1494.8368,
+      "elo_after": 1473.4976,
+      "opp_elo": 1451.8447,
       "is_bye": false
     }
   ]

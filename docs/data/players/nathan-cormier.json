@@ -1,10 +1,10 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1479.93,
-  "matches_count": 90,
-  "wins": 41,
-  "losses": 46,
+  "elo": 1469.49,
+  "matches_count": 95,
+  "wins": 43,
+  "losses": 49,
   "draws": 3,
   "matches": [
     {
@@ -1085,6 +1085,66 @@
       "elo_before": 1497.6226,
       "elo_after": 1479.9326,
       "opp_elo": 1521.6154,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1479.9326,
+      "elo_after": 1500.0288,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Jean Belanger",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1500.0288,
+      "elo_after": 1519.0272,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1519.0272,
+      "elo_after": 1508.3896,
+      "opp_elo": 1683.1516,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1508.3896,
+      "elo_after": 1492.985,
+      "opp_elo": 1574.9374,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Andrew Gallien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1492.985,
+      "elo_after": 1469.4921,
+      "opp_elo": 1409.242,
       "is_bye": false
     }
   ]

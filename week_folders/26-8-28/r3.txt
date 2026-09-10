@@ -1,0 +1,29 @@
+Round 3
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+11     Adam Silvia                     Phil iwanow                     0-4   
+5      Adam Thomas                     Nathan Choi                     3-6   
+6      Alexandra Polinsky              Luke Deratzou                   6-3   
+8      Andrew Gallien                  Philip Petronis                 3-6   
+10     Anthony Wilkinson               Milo Brown                      6-3   
+4      Bradley Skubic                  Logan Hesch                     4-9   
+3      Devon O’Donnell                 Evan Hamlin                     9-6   
+1      Dylan Shanes                    Tom Kessler                     9-6   
+3      Evan Hamlin                     Devon O’Donnell                 6-9   
+12     Jack Henry                      Sean Marks                      3-0   
+7      Jean Belanger                   Thomas Kotcher                  3-6   
+       Jeffrey Silver                  ***Bye***                       6     
+9      Joe Canadas                     Steven Yean                     3-6   
+2      Kenton Najdzien                 Nathan Cormier                  9-6   
+4      Logan Hesch                     Bradley Skubic                  9-4   
+6      Luke Deratzou                   Alexandra Polinsky              3-6   
+10     Milo Brown                      Anthony Wilkinson               3-6   
+5      Nathan Choi                     Adam Thomas                     6-3   
+2      Nathan Cormier                  Kenton Najdzien                 6-9   
+11     Phil iwanow                     Adam Silvia                     4-0   
+8      Philip Petronis                 Andrew Gallien                  6-3   
+12     Sean Marks                      Jack Henry                      0-3   
+9      Steven Yean                     Joe Canadas                     6-3   
+7      Thomas Kotcher                  Jean Belanger                   6-3   
+1      Tom Kessler                     Dylan Shanes                    6-9   

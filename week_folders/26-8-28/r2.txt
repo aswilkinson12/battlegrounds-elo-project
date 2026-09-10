@@ -1,0 +1,31 @@
+Round 2
+
+Table  Player                          Opponent                        Points
+-------------------------------------------------------------------------------
+12     Adam Silvia                     Alexandra Polinsky              0-3   
+6      Adam Thomas                     Kenton Najdzien                 3-6   
+12     Alexandra Polinsky              Adam Silvia                     3-0   
+5      Andrew Gallien                  Devon O’Donnell                 3-6   
+9      Anthony Wilkinson               Sean Marks                      3-0   
+8      Bradley Skubic                  Jack Henry                      4-0   
+5      Devon O’Donnell                 Andrew Gallien                  6-3   
+2      Dylan Shanes                    Joe Canadas                     6-3   
+10     Ethan Eisdorfer                 Nathan Choi                     0-3   
+4      Evan Hamlin                     Milo Brown                      6-3   
+8      Jack Henry                      Bradley Skubic                  0-4   
+3      Jean Belanger                   Nathan Cormier                  3-6   
+13     Jeffrey Silver                  Luke Deratzou                   0-3   
+2      Joe Canadas                     Dylan Shanes                    3-6   
+6      Kenton Najdzien                 Adam Thomas                     6-3   
+7      Logan Hesch                     Phil iwanow                     6-1   
+13     Luke Deratzou                   Jeffrey Silver                  3-0   
+11     Michael Faulkner                Thomas Kotcher                  0-3   
+4      Milo Brown                      Evan Hamlin                     3-6   
+10     Nathan Choi                     Ethan Eisdorfer                 3-0   
+3      Nathan Cormier                  Jean Belanger                   6-3   
+7      Phil iwanow                     Logan Hesch                     1-6   
+       Philip Petronis                 ***Bye***                       6     
+9      Sean Marks                      Anthony Wilkinson               0-3   
+1      Steven Yean                     Tom Kessler                     3-6   
+11     Thomas Kotcher                  Michael Faulkner                3-0   
+1      Tom Kessler                     Steven Yean                     6-3   

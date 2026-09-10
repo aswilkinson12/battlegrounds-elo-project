@@ -1,10 +1,10 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1428.29,
-  "matches_count": 72,
+  "elo": 1398.66,
+  "matches_count": 74,
   "wins": 22,
-  "losses": 49,
+  "losses": 51,
   "draws": 1,
   "matches": [
     {
@@ -924,6 +924,30 @@
       "elo_before": 1435.1545,
       "elo_after": 1428.292,
       "opp_elo": 1697.8727,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Vina 🌙 Macias",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1428.292,
+      "elo_after": 1413.1587,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Ryan MacDonald",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1413.1587,
+      "elo_after": 1398.6636,
+      "opp_elo": 1497.1336,
       "is_bye": false
     }
   ]

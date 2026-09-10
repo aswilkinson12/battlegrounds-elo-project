@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1419.51,
-  "matches_count": 73,
-  "wins": 27,
-  "losses": 44,
+  "elo": 1402.9,
+  "matches_count": 77,
+  "wins": 28,
+  "losses": 47,
   "draws": 2,
   "matches": [
     {
@@ -903,6 +903,65 @@
       "is_bye": true,
       "elo_before": 1419.513,
       "elo_after": 1419.513,
+      "opp_elo": null
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1419.513,
+      "elo_after": 1404.8375,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1404.8375,
+      "elo_after": 1392.783,
+      "opp_elo": 1538.0039,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1392.783,
+      "elo_after": 1417.467,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Jean Belanger",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1417.467,
+      "elo_after": 1402.8974,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1402.8974,
+      "elo_after": 1402.8974,
       "opp_elo": null
     }
   ]

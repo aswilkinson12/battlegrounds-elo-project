@@ -1,11 +1,11 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1593.61,
-  "matches_count": 65,
-  "wins": 37,
-  "losses": 25,
-  "draws": 3,
+  "elo": 1623.32,
+  "matches_count": 75,
+  "wins": 43,
+  "losses": 28,
+  "draws": 4,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -796,6 +796,126 @@
       "elo_before": 1573.3186,
       "elo_after": 1593.6065,
       "opp_elo": 1596.9066,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Nathan Choi",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1593.6065,
+      "elo_after": 1610.7526,
+      "opp_elo": 1559.5967,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Phil iwanow",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1610.7526,
+      "elo_after": 1624.7348,
+      "opp_elo": 1516.7711,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1624.7348,
+      "elo_after": 1639.7128,
+      "opp_elo": 1550.0584,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1639.7128,
+      "elo_after": 1613.4592,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Dylan Shanes",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1613.4592,
+      "elo_after": 1613.4592,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1613.4592,
+      "elo_after": 1590.9146,
+      "opp_elo": 1547.874,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Chris Hirt",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1590.9146,
+      "elo_after": 1605.0533,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.0533,
+      "elo_after": 1628.2609,
+      "opp_elo": 1683.2894,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1628.2609,
+      "elo_after": 1605.8331,
+      "opp_elo": 1564.8869,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1605.8331,
+      "elo_after": 1623.3167,
+      "opp_elo": 1578.046,
       "is_bye": false
     }
   ]

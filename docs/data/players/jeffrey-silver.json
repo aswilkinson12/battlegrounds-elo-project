@@ -1,10 +1,10 @@
 {
   "player": "Jeffrey Silver",
   "slug": "jeffrey-silver",
-  "elo": 1458.35,
-  "matches_count": 14,
+  "elo": 1425.78,
+  "matches_count": 16,
   "wins": 6,
-  "losses": 8,
+  "losses": 10,
   "draws": 0,
   "matches": [
     {
@@ -185,6 +185,41 @@
       "elo_after": 1458.3529,
       "opp_elo": 1353.5238,
       "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1458.3529,
+      "elo_after": 1441.6195,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Luke Deratzou",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1441.6195,
+      "elo_after": 1425.7824,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1425.7824,
+      "elo_after": 1425.7824,
+      "opp_elo": null
     }
   ]
 }

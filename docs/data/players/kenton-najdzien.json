@@ -1,11 +1,11 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1662.17,
-  "matches_count": 65,
-  "wins": 41,
-  "losses": 21,
-  "draws": 3,
+  "elo": 1708.05,
+  "matches_count": 75,
+  "wins": 49,
+  "losses": 22,
+  "draws": 4,
   "matches": [
     {
       "week": "26-2-13",
@@ -785,6 +785,126 @@
       "elo_before": 1647.9931,
       "elo_after": 1662.1726,
       "opp_elo": 1557.8779,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 1,
+      "opponent": "Ethan Eisdorfer",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1662.1726,
+      "elo_after": 1672.8965,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 2,
+      "opponent": "Adam Thomas",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1672.8965,
+      "elo_after": 1683.1516,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 3,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1683.1516,
+      "elo_after": 1693.7892,
+      "opp_elo": 1519.0272,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 4,
+      "opponent": "Dylan Shanes",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1693.7892,
+      "elo_after": 1703.1691,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-8-28",
+      "week_index": 28,
+      "round": 5,
+      "opponent": "Devon O’Donnell",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1703.1691,
+      "elo_after": 1693.1728,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1693.1728,
+      "elo_after": 1706.1337,
+      "opp_elo": 1578.7788,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Minerva Celeste",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1706.1337,
+      "elo_after": 1715.0206,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Vina 🌙 Macias",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1715.0206,
+      "elo_after": 1723.564,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1723.564,
+      "elo_after": 1698.8773,
+      "opp_elo": 1616.2926,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Steven Yean",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1698.8773,
+      "elo_after": 1708.0518,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

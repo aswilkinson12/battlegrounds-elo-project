@@ -1,10 +1,10 @@
 {
   "player": "Becca Blackwood",
   "slug": "becca-blackwood",
-  "elo": 1547.87,
-  "matches_count": 71,
-  "wins": 39,
-  "losses": 27,
+  "elo": 1571.27,
+  "matches_count": 76,
+  "wins": 42,
+  "losses": 29,
   "draws": 5,
   "matches": [
     {
@@ -857,6 +857,66 @@
       "elo_before": 1570.7019,
       "elo_after": 1547.874,
       "opp_elo": 1499.7328,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 1,
+      "opponent": "Logan Hesch",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1547.874,
+      "elo_after": 1570.4186,
+      "opp_elo": 1613.4592,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 2,
+      "opponent": "Nathan Choi",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1570.4186,
+      "elo_after": 1552.1896,
+      "opp_elo": 1584.5244,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 3,
+      "opponent": "Ryan MacDonald",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1552.1896,
+      "elo_after": 1568.9814,
+      "opp_elo": 1511.6287,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 4,
+      "opponent": "Steven Yean",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1568.9814,
+      "elo_after": 1546.2579,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-04",
+      "week_index": 29,
+      "round": 5,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1546.2579,
+      "elo_after": 1571.269,
+      "opp_elo": 1660.0818,
       "is_bye": false
     }
   ]
