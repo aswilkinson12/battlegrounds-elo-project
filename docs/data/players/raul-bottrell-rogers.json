@@ -1,10 +1,10 @@
 {
   "player": "Raul Bottrell-Rogers",
   "slug": "raul-bottrell-rogers",
-  "elo": 1472.66,
-  "matches_count": 26,
-  "wins": 12,
-  "losses": 14,
+  "elo": 1455.79,
+  "matches_count": 29,
+  "wins": 13,
+  "losses": 16,
   "draws": 0,
   "matches": [
     {
@@ -316,6 +316,53 @@
       "score": 0.0,
       "elo_before": 1491.1786,
       "elo_after": 1472.6609,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1472.6609,
+      "elo_after": 1451.7139,
+      "opp_elo": 1436.9316,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1451.7139,
+      "elo_after": 1451.7139,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1451.7139,
+      "elo_after": 1473.3376,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1473.3376,
+      "elo_after": 1455.7928,
       "opp_elo": 1500.0,
       "is_bye": false
     }

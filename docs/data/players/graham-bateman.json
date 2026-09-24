@@ -1,10 +1,10 @@
 {
   "player": "Graham Bateman",
   "slug": "graham-bateman",
-  "elo": 1502.26,
-  "matches_count": 11,
-  "wins": 5,
-  "losses": 5,
+  "elo": 1480.56,
+  "matches_count": 15,
+  "wins": 6,
+  "losses": 8,
   "draws": 1,
   "matches": [
     {
@@ -137,6 +137,65 @@
       "elo_before": 1518.1514,
       "elo_after": 1502.2605,
       "opp_elo": 1575.5214,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Phil iwanow",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1502.2605,
+      "elo_after": 1484.5158,
+      "opp_elo": 1525.2484,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Kenton Najdzien",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1484.5158,
+      "elo_after": 1475.1586,
+      "opp_elo": 1678.8638,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1475.1586,
+      "elo_after": 1475.1586,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Keith Van ALLEN",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1475.1586,
+      "elo_after": 1495.5148,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1495.5148,
+      "elo_after": 1480.5632,
+      "opp_elo": 1570.6953,
       "is_bye": false
     }
   ]

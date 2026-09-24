@@ -1,10 +1,10 @@
 {
   "player": "Amy Altman",
   "slug": "amy-altman",
-  "elo": 1635.07,
-  "matches_count": 85,
-  "wins": 52,
-  "losses": 24,
+  "elo": 1627.7,
+  "matches_count": 90,
+  "wins": 55,
+  "losses": 26,
   "draws": 9,
   "matches": [
     {
@@ -1036,6 +1036,66 @@
       "elo_before": 1660.0818,
       "elo_after": 1635.0707,
       "opp_elo": 1546.2579,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Anthony Wilkinson",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1635.0707,
+      "elo_after": 1613.4754,
+      "opp_elo": 1587.3147,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Philip Petronis",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1613.4754,
+      "elo_after": 1626.4815,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Keith Van ALLEN",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1626.4815,
+      "elo_after": 1638.8548,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1638.8548,
+      "elo_after": 1614.753,
+      "opp_elo": 1543.2183,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Ezra Yohay",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1614.753,
+      "elo_after": 1627.6963,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

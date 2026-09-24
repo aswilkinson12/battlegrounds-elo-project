@@ -1,10 +1,10 @@
 {
   "player": "Anthony Wilkinson",
   "slug": "anthony-wilkinson",
-  "elo": 1587.31,
-  "matches_count": 136,
-  "wins": 77,
-  "losses": 48,
+  "elo": 1565.25,
+  "matches_count": 141,
+  "wins": 79,
+  "losses": 51,
   "draws": 11,
   "matches": [
     {
@@ -1637,6 +1637,66 @@
       "elo_before": 1587.3147,
       "elo_after": 1587.3147,
       "opp_elo": 1525.2484,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Amy Altman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1587.3147,
+      "elo_after": 1608.9099,
+      "opp_elo": 1635.0707,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Milo Brown",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1608.9099,
+      "elo_after": 1595.4426,
+      "opp_elo": 1713.0946,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Dylan Roberts",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1595.4426,
+      "elo_after": 1609.3506,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1609.3506,
+      "elo_after": 1584.5606,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1584.5606,
+      "elo_after": 1565.2511,
+      "opp_elo": 1578.9012,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Andrew Gallien",
   "slug": "andrew-gallien",
-  "elo": 1432.73,
-  "matches_count": 26,
-  "wins": 10,
-  "losses": 15,
+  "elo": 1403.0,
+  "matches_count": 30,
+  "wins": 11,
+  "losses": 18,
   "draws": 1,
   "matches": [
     {
@@ -350,6 +350,54 @@
       "elo_before": 1409.242,
       "elo_after": 1432.735,
       "opp_elo": 1492.985,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1432.735,
+      "elo_after": 1455.3682,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Stella Burfeind",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1455.3682,
+      "elo_after": 1436.5054,
+      "opp_elo": 1457.8786,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1436.5054,
+      "elo_after": 1419.0588,
+      "opp_elo": 1464.9746,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Nathan Cormier",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1419.0588,
+      "elo_after": 1402.9984,
+      "opp_elo": 1473.2475,
       "is_bye": false
     }
   ]

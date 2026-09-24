@@ -1,10 +1,10 @@
 {
   "player": "Daniel Hernandez",
   "slug": "daniel-hernandez",
-  "elo": 1398.66,
-  "matches_count": 74,
+  "elo": 1364.26,
+  "matches_count": 77,
   "wins": 22,
-  "losses": 51,
+  "losses": 54,
   "draws": 1,
   "matches": [
     {
@@ -948,6 +948,42 @@
       "elo_before": 1413.1587,
       "elo_after": 1398.6636,
       "opp_elo": 1497.1336,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Stan Kornacki",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1398.6636,
+      "elo_after": 1389.9717,
+      "opp_elo": 1609.8131,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Devon O’Donnell",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1389.9717,
+      "elo_after": 1376.7953,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Philip Petronis",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1376.7953,
+      "elo_after": 1364.2641,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

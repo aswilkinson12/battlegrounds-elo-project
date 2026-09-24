@@ -1,19 +1,27 @@
 [
   {
     "player": "Kenton Najdzien",
-    "elo": 1738.98,
-    "matches": 75,
-    "wins": 49,
-    "losses": 22,
-    "draws": 4
+    "elo": 1746.39,
+    "matches": 80,
+    "wins": 52,
+    "losses": 23,
+    "draws": 5
   },
   {
     "player": "Milo Brown",
-    "elo": 1722.32,
-    "matches": 85,
-    "wins": 54,
-    "losses": 21,
-    "draws": 10
+    "elo": 1728.56,
+    "matches": 90,
+    "wins": 57,
+    "losses": 22,
+    "draws": 11
+  },
+  {
+    "player": "Logan Hesch",
+    "elo": 1717.94,
+    "matches": 80,
+    "wins": 47,
+    "losses": 28,
+    "draws": 5
   },
   {
     "player": "David Van Hise",
@@ -24,22 +32,6 @@
     "draws": 2
   },
   {
-    "player": "Amy Altman",
-    "elo": 1662.46,
-    "matches": 85,
-    "wins": 52,
-    "losses": 24,
-    "draws": 9
-  },
-  {
-    "player": "Nathan Choi",
-    "elo": 1660.55,
-    "matches": 115,
-    "wins": 73,
-    "losses": 37,
-    "draws": 5
-  },
-  {
     "player": "Autumn Rossa",
     "elo": 1660.32,
     "matches": 43,
@@ -48,28 +40,12 @@
     "draws": 3
   },
   {
-    "player": "Logan Hesch",
-    "elo": 1647.0,
-    "matches": 75,
-    "wins": 43,
-    "losses": 28,
-    "draws": 4
-  },
-  {
-    "player": "Stan Kornacki",
-    "elo": 1639.79,
-    "matches": 88,
-    "wins": 51,
-    "losses": 32,
-    "draws": 5
-  },
-  {
-    "player": "Anthony Wilkinson",
-    "elo": 1626.35,
-    "matches": 136,
-    "wins": 77,
-    "losses": 48,
-    "draws": 11
+    "player": "Amy Altman",
+    "elo": 1647.64,
+    "matches": 90,
+    "wins": 55,
+    "losses": 26,
+    "draws": 9
   },
   {
     "player": "Kevin Thanakit",
@@ -78,5 +54,29 @@
     "wins": 8,
     "losses": 2,
     "draws": 0
+  },
+  {
+    "player": "Becca Blackwood",
+    "elo": 1619.41,
+    "matches": 81,
+    "wins": 45,
+    "losses": 30,
+    "draws": 6
+  },
+  {
+    "player": "Stan Kornacki",
+    "elo": 1618.69,
+    "matches": 92,
+    "wins": 53,
+    "losses": 34,
+    "draws": 5
+  },
+  {
+    "player": "Nathan Choi",
+    "elo": 1614.53,
+    "matches": 120,
+    "wins": 75,
+    "losses": 40,
+    "draws": 5
   }
 ]

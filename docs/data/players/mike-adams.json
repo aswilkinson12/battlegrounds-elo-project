@@ -1,11 +1,11 @@
 {
   "player": "Mike Adams",
   "slug": "mike-adams",
-  "elo": 1459.1,
-  "matches_count": 100,
+  "elo": 1424.13,
+  "matches_count": 103,
   "wins": 42,
-  "losses": 51,
-  "draws": 7,
+  "losses": 53,
+  "draws": 8,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1249,6 +1249,53 @@
       "elo_before": 1473.1838,
       "elo_after": 1459.0966,
       "opp_elo": 1565.1062,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1459.0966,
+      "elo_after": 1459.6649,
+      "opp_elo": 1469.4921,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Hex Dowd",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1459.6649,
+      "elo_after": 1439.8734,
+      "opp_elo": 1445.1831,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1439.8734,
+      "elo_after": 1439.8734,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1439.8734,
+      "elo_after": 1424.1291,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

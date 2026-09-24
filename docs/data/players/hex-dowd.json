@@ -1,11 +1,11 @@
 {
   "player": "Hex Dowd",
   "slug": "hex-dowd",
-  "elo": 1445.18,
-  "matches_count": 84,
-  "wins": 35,
+  "elo": 1482.42,
+  "matches_count": 87,
+  "wins": 37,
   "losses": 47,
-  "draws": 2,
+  "draws": 3,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1035,6 +1035,53 @@
       "elo_before": 1468.4709,
       "elo_after": 1445.1831,
       "opp_elo": 1388.6909,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1445.1831,
+      "elo_after": 1445.1831,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Mike Adams",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1445.1831,
+      "elo_after": 1464.9746,
+      "opp_elo": 1459.6649,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1464.9746,
+      "elo_after": 1482.4212,
+      "opp_elo": 1436.5054,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Stella Burfeind",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1482.4212,
+      "elo_after": 1482.4212,
+      "opp_elo": 1497.0114,
       "is_bye": false
     }
   ]

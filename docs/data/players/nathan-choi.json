@@ -1,10 +1,10 @@
 {
   "player": "Nathan Choi",
   "slug": "nathan-choi",
-  "elo": 1640.98,
-  "matches_count": 126,
-  "wins": 80,
-  "losses": 40,
+  "elo": 1594.11,
+  "matches_count": 131,
+  "wins": 82,
+  "losses": 43,
   "draws": 6,
   "matches": [
     {
@@ -1527,6 +1527,66 @@
       "score": 0.5,
       "elo_before": 1640.9793,
       "elo_after": 1640.9793,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Becca Blackwood",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1640.9793,
+      "elo_after": 1618.2174,
+      "opp_elo": 1571.269,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1618.2174,
+      "elo_after": 1633.9189,
+      "opp_elo": 1557.2835,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Jonathon Torchia",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1633.9189,
+      "elo_after": 1645.9377,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1645.9377,
+      "elo_after": 1619.3954,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Dylan Roberts",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1619.3954,
+      "elo_after": 1594.1115,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -1,11 +1,11 @@
 {
   "player": "Logan Hesch",
   "slug": "logan-hesch",
-  "elo": 1623.32,
-  "matches_count": 75,
-  "wins": 43,
+  "elo": 1682.32,
+  "matches_count": 80,
+  "wins": 47,
   "losses": 28,
-  "draws": 4,
+  "draws": 5,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -916,6 +916,66 @@
       "elo_before": 1605.8331,
       "elo_after": 1623.3167,
       "opp_elo": 1578.046,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1623.3167,
+      "elo_after": 1635.8426,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Tom Kessler",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1635.8426,
+      "elo_after": 1647.7706,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1647.7706,
+      "elo_after": 1659.144,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Milo Brown",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1659.144,
+      "elo_after": 1682.3218,
+      "opp_elo": 1736.8085,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Isharah Considine",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1682.3218,
+      "elo_after": 1682.3218,
+      "opp_elo": 1567.3201,
       "is_bye": false
     }
   ]

@@ -1,11 +1,11 @@
 {
   "player": "Kenton Najdzien",
   "slug": "kenton-najdzien",
-  "elo": 1708.05,
-  "matches_count": 75,
-  "wins": 49,
-  "losses": 22,
-  "draws": 4,
+  "elo": 1707.05,
+  "matches_count": 80,
+  "wins": 52,
+  "losses": 23,
+  "draws": 5,
   "matches": [
     {
       "week": "26-2-13",
@@ -904,6 +904,66 @@
       "score": 1.0,
       "elo_before": 1698.8773,
       "elo_after": 1708.0518,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1708.0518,
+      "elo_after": 1678.8638,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1678.8638,
+      "elo_after": 1688.221,
+      "opp_elo": 1484.5158,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1688.221,
+      "elo_after": 1697.8292,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Devon O’Donnell",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1697.8292,
+      "elo_after": 1707.0458,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "[REDACTED] [REDACTED]",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1707.0458,
+      "elo_after": 1707.0458,
       "opp_elo": 1500.0,
       "is_bye": false
     }

@@ -29,6 +29,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Amber Cronin,1395.88,40,13,26,1,0.9
 26-8-28,Amber Cronin,1395.88,40,13,26,1,0.0
 26-9-04,Amber Cronin,1395.88,40,13,26,1,0.0
+26-9-11,Amber Cronin,1373.67,42,13,28,1,-22.21
+26-9-18,Amber Cronin,1373.67,42,13,28,1,0.0
 25-12-6_brainstormin_charity_tournament,Amy Altman,1528.68,6,4,2,0,0.0
 26-2-13,Amy Altman,1541.85,11,7,4,0,13.16
 26-2-20,Amy Altman,1565.25,15,10,5,0,23.41
@@ -59,6 +61,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Amy Altman,1693.33,72,51,21,0,9.59
 26-8-28,Amy Altman,1693.33,72,51,21,0,0.0
 26-9-04,Amy Altman,1635.8,76,52,24,0,-57.53
+26-9-11,Amy Altman,1635.8,76,52,24,0,0.0
+26-9-18,Amy Altman,1628.75,81,55,26,0,-7.05
 25-12-6_brainstormin_charity_tournament,Andrew Gallien,1500.0,0,0,0,0,0.0
 26-2-13,Andrew Gallien,1500.0,0,0,0,0,0.0
 26-2-20,Andrew Gallien,1500.0,0,0,0,0,0.0
@@ -89,6 +93,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Andrew Gallien,1424.89,21,8,13,0,-26.42
 26-8-28,Andrew Gallien,1439.94,25,10,15,0,15.05
 26-9-04,Andrew Gallien,1439.94,25,10,15,0,0.0
+26-9-11,Andrew Gallien,1414.22,29,11,18,0,-25.72
+26-9-18,Andrew Gallien,1414.22,29,11,18,0,0.0
 25-12-6_brainstormin_charity_tournament,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-13,Andy Perez,1500.0,0,0,0,0,0.0
 26-2-20,Andy Perez,1500.0,0,0,0,0,0.0
@@ -119,6 +125,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Andy Perez,1464.3,15,5,8,2,0.0
 26-8-28,Andy Perez,1464.3,15,5,8,2,0.0
 26-9-04,Andy Perez,1464.3,15,5,8,2,0.0
+26-9-11,Andy Perez,1464.3,15,5,8,2,0.0
+26-9-18,Andy Perez,1464.3,15,5,8,2,0.0
 25-12-6_brainstormin_charity_tournament,Anthony Wilkinson,1529.68,6,4,2,0,0.0
 26-2-13,Anthony Wilkinson,1586.06,11,8,2,1,56.38
 26-2-20,Anthony Wilkinson,1616.61,16,12,3,1,30.55
@@ -149,6 +157,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Anthony Wilkinson,1545.32,120,71,45,4,-0.64
 26-8-28,Anthony Wilkinson,1558.37,125,74,47,4,13.05
 26-9-04,Anthony Wilkinson,1581.78,129,77,48,4,23.4
+26-9-11,Anthony Wilkinson,1581.78,129,77,48,4,0.0
+26-9-18,Anthony Wilkinson,1564.15,134,79,51,4,-17.63
 25-12-6_brainstormin_charity_tournament,Austin Wolf,1499.16,6,3,3,0,0.0
 26-2-13,Austin Wolf,1499.16,6,3,3,0,0.0
 26-2-20,Austin Wolf,1499.16,6,3,3,0,0.0
@@ -179,6 +189,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Austin Wolf,1499.16,6,3,3,0,0.0
 26-8-28,Austin Wolf,1499.16,6,3,3,0,0.0
 26-9-04,Austin Wolf,1499.16,6,3,3,0,0.0
+26-9-11,Austin Wolf,1499.16,6,3,3,0,0.0
+26-9-18,Austin Wolf,1499.16,6,3,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Autumn Rossa,1500.0,0,0,0,0,0.0
 26-2-13,Autumn Rossa,1500.0,0,0,0,0,0.0
 26-2-20,Autumn Rossa,1500.0,0,0,0,0,0.0
@@ -209,6 +221,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Autumn Rossa,1623.57,42,26,14,2,28.76
 26-8-28,Autumn Rossa,1623.57,42,26,14,2,0.0
 26-9-04,Autumn Rossa,1623.57,42,26,14,2,0.0
+26-9-11,Autumn Rossa,1623.57,42,26,14,2,0.0
+26-9-18,Autumn Rossa,1623.57,42,26,14,2,0.0
 25-12-6_brainstormin_charity_tournament,Bailey Sarkis,1500.0,0,0,0,0,0.0
 26-2-13,Bailey Sarkis,1500.0,0,0,0,0,0.0
 26-2-20,Bailey Sarkis,1500.0,0,0,0,0,0.0
@@ -239,6 +253,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Bailey Sarkis,1553.06,11,7,4,0,0.0
 26-8-28,Bailey Sarkis,1553.06,11,7,4,0,0.0
 26-9-04,Bailey Sarkis,1553.06,11,7,4,0,0.0
+26-9-11,Bailey Sarkis,1553.06,11,7,4,0,0.0
+26-9-18,Bailey Sarkis,1553.06,11,7,4,0,0.0
 25-12-6_brainstormin_charity_tournament,Becca Blackwood,1527.12,6,4,2,0,0.0
 26-2-13,Becca Blackwood,1492.34,10,5,5,0,-34.78
 26-2-20,Becca Blackwood,1528.54,14,8,6,0,36.2
@@ -269,6 +285,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Becca Blackwood,1551.6,67,39,27,1,-24.55
 26-8-28,Becca Blackwood,1551.6,67,39,27,1,0.0
 26-9-04,Becca Blackwood,1570.51,72,42,29,1,18.91
+26-9-11,Becca Blackwood,1570.51,72,42,29,1,0.0
+26-9-18,Becca Blackwood,1592.96,77,45,30,2,22.45
 25-12-6_brainstormin_charity_tournament,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-13,Bradley Skubic,1563.9,4,4,0,0,0.0
 26-2-20,Bradley Skubic,1563.9,4,4,0,0,0.0
@@ -299,6 +317,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Bradley Skubic,1541.62,75,44,27,4,6.78
 26-8-28,Bradley Skubic,1569.68,80,47,28,5,28.06
 26-9-04,Bradley Skubic,1574.84,85,50,30,5,5.16
+26-9-11,Bradley Skubic,1574.84,85,50,30,5,0.0
+26-9-18,Bradley Skubic,1564.13,89,51,31,7,-10.71
 25-12-6_brainstormin_charity_tournament,Dani Masom,1500.1,6,3,3,0,0.0
 26-2-13,Dani Masom,1487.85,11,5,6,0,-12.25
 26-2-20,Dani Masom,1494.44,15,7,8,0,6.59
@@ -329,6 +349,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Dani Masom,1546.76,80,40,39,1,0.0
 26-8-28,Dani Masom,1546.76,80,40,39,1,0.0
 26-9-04,Dani Masom,1546.76,80,40,39,1,0.0
+26-9-11,Dani Masom,1546.76,80,40,39,1,0.0
+26-9-18,Dani Masom,1546.76,80,40,39,1,0.0
 25-12-6_brainstormin_charity_tournament,Daniel Hernandez,1500.61,6,3,3,0,0.0
 26-2-13,Daniel Hernandez,1455.86,9,3,6,0,-44.74
 26-2-20,Daniel Hernandez,1455.86,9,3,6,0,0.0
@@ -359,6 +381,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Daniel Hernandez,1419.23,72,22,49,1,42.46
 26-8-28,Daniel Hernandez,1419.23,72,22,49,1,0.0
 26-9-04,Daniel Hernandez,1395.01,74,22,51,1,-24.23
+26-9-11,Daniel Hernandez,1395.01,74,22,51,1,0.0
+26-9-18,Daniel Hernandez,1366.03,77,22,54,1,-28.98
 25-12-6_brainstormin_charity_tournament,David Van Hise,1484.8,5,2,3,0,0.0
 26-2-13,David Van Hise,1536.98,10,6,4,0,52.18
 26-2-20,David Van Hise,1582.04,15,10,5,0,45.06
@@ -389,6 +413,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,David Van Hise,1662.91,50,35,15,0,0.0
 26-8-28,David Van Hise,1662.91,50,35,15,0,0.0
 26-9-04,David Van Hise,1662.91,50,35,15,0,0.0
+26-9-11,David Van Hise,1662.91,50,35,15,0,0.0
+26-9-18,David Van Hise,1662.91,50,35,15,0,0.0
 25-12-6_brainstormin_charity_tournament,Elias Medrano,1470.01,6,2,4,0,0.0
 26-2-13,Elias Medrano,1470.01,6,2,4,0,0.0
 26-2-20,Elias Medrano,1470.01,6,2,4,0,0.0
@@ -419,6 +445,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Elias Medrano,1470.01,6,2,4,0,0.0
 26-8-28,Elias Medrano,1470.01,6,2,4,0,0.0
 26-9-04,Elias Medrano,1470.01,6,2,4,0,0.0
+26-9-11,Elias Medrano,1470.01,6,2,4,0,0.0
+26-9-18,Elias Medrano,1470.01,6,2,4,0,0.0
 25-12-6_brainstormin_charity_tournament,Ethan Ford,1500.0,0,0,0,0,0.0
 26-2-13,Ethan Ford,1500.0,0,0,0,0,0.0
 26-2-20,Ethan Ford,1500.0,0,0,0,0,0.0
@@ -449,6 +477,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Ethan Ford,1547.05,5,4,1,0,0.0
 26-8-28,Ethan Ford,1547.05,5,4,1,0,0.0
 26-9-04,Ethan Ford,1547.05,5,4,1,0,0.0
+26-9-11,Ethan Ford,1547.05,5,4,1,0,0.0
+26-9-18,Ethan Ford,1547.05,5,4,1,0,0.0
 25-12-6_brainstormin_charity_tournament,Evan Johnstone,1502.04,6,3,3,0,0.0
 26-2-13,Evan Johnstone,1482.42,11,5,6,0,-19.62
 26-2-20,Evan Johnstone,1437.72,16,6,10,0,-44.69
@@ -479,6 +509,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Evan Johnstone,1457.96,36,14,21,1,0.0
 26-8-28,Evan Johnstone,1457.96,36,14,21,1,0.0
 26-9-04,Evan Johnstone,1457.96,36,14,21,1,0.0
+26-9-11,Evan Johnstone,1457.96,36,14,21,1,0.0
+26-9-18,Evan Johnstone,1457.96,36,14,21,1,0.0
 25-12-6_brainstormin_charity_tournament,Gina Millott,1502.07,6,3,3,0,0.0
 26-2-13,Gina Millott,1502.07,6,3,3,0,0.0
 26-2-20,Gina Millott,1490.24,11,5,6,0,-11.82
@@ -509,6 +541,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Gina Millott,1365.01,35,12,23,0,-32.26
 26-8-28,Gina Millott,1365.01,35,12,23,0,0.0
 26-9-04,Gina Millott,1365.01,35,12,23,0,0.0
+26-9-11,Gina Millott,1365.01,35,12,23,0,0.0
+26-9-18,Gina Millott,1365.01,35,12,23,0,0.0
 25-12-6_brainstormin_charity_tournament,Graham Bateman,1513.99,6,3,2,1,0.0
 26-2-13,Graham Bateman,1513.99,6,3,2,1,0.0
 26-2-20,Graham Bateman,1513.99,6,3,2,1,0.0
@@ -539,6 +573,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Graham Bateman,1502.22,11,5,5,1,0.0
 26-8-28,Graham Bateman,1502.22,11,5,5,1,0.0
 26-9-04,Graham Bateman,1502.22,11,5,5,1,0.0
+26-9-11,Graham Bateman,1502.22,11,5,5,1,0.0
+26-9-18,Graham Bateman,1483.22,15,6,8,1,-19.01
 25-12-6_brainstormin_charity_tournament,Hex Dowd,1501.53,6,3,3,0,0.0
 26-2-13,Hex Dowd,1455.92,11,4,7,0,-45.6
 26-2-20,Hex Dowd,1438.01,15,5,10,0,-17.91
@@ -569,6 +605,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Hex Dowd,1451.25,83,35,47,1,-28.24
 26-8-28,Hex Dowd,1451.25,83,35,47,1,0.0
 26-9-04,Hex Dowd,1451.25,83,35,47,1,0.0
+26-9-11,Hex Dowd,1482.53,85,37,47,1,31.28
+26-9-18,Hex Dowd,1482.53,85,37,47,1,0.0
 25-12-6_brainstormin_charity_tournament,Isharah Considine,1499.94,6,3,3,0,0.0
 26-2-13,Isharah Considine,1518.92,11,6,5,0,18.98
 26-2-20,Isharah Considine,1518.92,11,6,5,0,0.0
@@ -599,6 +637,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Isharah Considine,1530.91,36,19,17,0,0.0
 26-8-28,Isharah Considine,1530.91,36,19,17,0,0.0
 26-9-04,Isharah Considine,1530.91,36,19,17,0,0.0
+26-9-11,Isharah Considine,1527.4,38,20,18,0,-3.5
+26-9-18,Isharah Considine,1558.77,41,22,19,0,31.37
 25-12-6_brainstormin_charity_tournament,Jack Henry,1499.87,6,3,3,0,0.0
 26-2-13,Jack Henry,1454.09,11,4,7,0,-45.78
 26-2-20,Jack Henry,1454.09,11,4,7,0,0.0
@@ -629,6 +669,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Jack Henry,1421.3,73,27,44,2,-18.68
 26-8-28,Jack Henry,1406.84,77,28,47,2,-14.46
 26-9-04,Jack Henry,1406.84,77,28,47,2,0.0
+26-9-11,Jack Henry,1406.84,77,28,47,2,0.0
+26-9-18,Jack Henry,1407.5,80,29,49,2,0.66
 25-12-6_brainstormin_charity_tournament,James Blanchfield,1500.0,0,0,0,0,0.0
 26-2-13,James Blanchfield,1500.0,0,0,0,0,0.0
 26-2-20,James Blanchfield,1500.0,0,0,0,0,0.0
@@ -659,6 +701,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,James Blanchfield,1500.0,0,0,0,0,0.0
 26-8-28,James Blanchfield,1500.0,0,0,0,0,0.0
 26-9-04,James Blanchfield,1500.0,0,0,0,0,0.0
+26-9-11,James Blanchfield,1500.0,0,0,0,0,0.0
+26-9-18,James Blanchfield,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Jarrod Haase,1467.36,6,2,4,0,0.0
 26-2-13,Jarrod Haase,1444.85,10,3,7,0,-22.51
 26-2-20,Jarrod Haase,1413.85,14,3,10,1,-31.0
@@ -689,6 +733,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Jarrod Haase,1340.39,76,21,52,3,12.51
 26-8-28,Jarrod Haase,1340.39,76,21,52,3,0.0
 26-9-04,Jarrod Haase,1340.39,76,21,52,3,0.0
+26-9-11,Jarrod Haase,1340.39,76,21,52,3,0.0
+26-9-18,Jarrod Haase,1340.39,76,21,52,3,0.0
 25-12-6_brainstormin_charity_tournament,Jeffrey Silver,1500.0,0,0,0,0,0.0
 26-2-13,Jeffrey Silver,1500.0,0,0,0,0,0.0
 26-2-20,Jeffrey Silver,1500.0,0,0,0,0,0.0
@@ -719,6 +765,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Jeffrey Silver,1465.18,14,6,8,0,0.0
 26-8-28,Jeffrey Silver,1437.03,16,6,10,0,-28.15
 26-9-04,Jeffrey Silver,1437.03,16,6,10,0,0.0
+26-9-11,Jeffrey Silver,1437.03,16,6,10,0,0.0
+26-9-18,Jeffrey Silver,1437.03,16,6,10,0,0.0
 25-12-6_brainstormin_charity_tournament,Joel Brook,1531.3,6,4,2,0,0.0
 26-2-13,Joel Brook,1531.3,6,4,2,0,0.0
 26-2-20,Joel Brook,1531.3,6,4,2,0,0.0
@@ -749,6 +797,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Joel Brook,1493.36,8,4,4,0,0.0
 26-8-28,Joel Brook,1493.36,8,4,4,0,0.0
 26-9-04,Joel Brook,1493.36,8,4,4,0,0.0
+26-9-11,Joel Brook,1493.36,8,4,4,0,0.0
+26-9-18,Joel Brook,1493.36,8,4,4,0,0.0
 25-12-6_brainstormin_charity_tournament,John Larochelle,1482.6,6,2,3,1,0.0
 26-2-13,John Larochelle,1514.93,10,5,4,1,32.34
 26-2-20,John Larochelle,1514.93,10,5,4,1,0.0
@@ -779,6 +829,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,John Larochelle,1469.17,23,10,12,1,0.0
 26-8-28,John Larochelle,1469.17,23,10,12,1,0.0
 26-9-04,John Larochelle,1469.17,23,10,12,1,0.0
+26-9-11,John Larochelle,1469.17,23,10,12,1,0.0
+26-9-18,John Larochelle,1469.17,23,10,12,1,0.0
 25-12-6_brainstormin_charity_tournament,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-2-13,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-2-20,Jonathan Ma,1500.0,0,0,0,0,0.0
@@ -809,6 +861,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-8-28,Jonathan Ma,1500.0,0,0,0,0,0.0
 26-9-04,Jonathan Ma,1500.0,0,0,0,0,0.0
+26-9-11,Jonathan Ma,1500.0,0,0,0,0,0.0
+26-9-18,Jonathan Ma,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Joseph Chung,1454.88,5,1,4,0,0.0
 26-2-13,Joseph Chung,1454.88,5,1,4,0,0.0
 26-2-20,Joseph Chung,1454.88,5,1,4,0,0.0
@@ -839,6 +893,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Joseph Chung,1434.83,27,9,18,0,0.0
 26-8-28,Joseph Chung,1434.83,27,9,18,0,0.0
 26-9-04,Joseph Chung,1434.83,27,9,18,0,0.0
+26-9-11,Joseph Chung,1434.83,27,9,18,0,0.0
+26-9-18,Joseph Chung,1434.83,27,9,18,0,0.0
 25-12-6_brainstormin_charity_tournament,Kenton Najdzien,1500.0,0,0,0,0,0.0
 26-2-13,Kenton Najdzien,1517.05,5,3,2,0,17.05
 26-2-20,Kenton Najdzien,1517.05,5,3,2,0,0.0
@@ -869,6 +925,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Kenton Najdzien,1651.97,62,41,21,0,-0.02
 26-8-28,Kenton Najdzien,1680.16,67,45,21,1,28.18
 26-9-04,Kenton Najdzien,1694.8,72,49,22,1,14.64
+26-9-11,Kenton Najdzien,1694.8,72,49,22,1,0.0
+26-9-18,Kenton Najdzien,1695.46,76,52,23,1,0.66
 25-12-6_brainstormin_charity_tournament,Kevin Thanakit,1500.0,0,0,0,0,0.0
 26-2-13,Kevin Thanakit,1500.0,0,0,0,0,0.0
 26-2-20,Kevin Thanakit,1500.0,0,0,0,0,0.0
@@ -899,6 +957,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Kevin Thanakit,1602.83,10,8,2,0,0.0
 26-8-28,Kevin Thanakit,1602.83,10,8,2,0,0.0
 26-9-04,Kevin Thanakit,1602.83,10,8,2,0,0.0
+26-9-11,Kevin Thanakit,1602.83,10,8,2,0,0.0
+26-9-18,Kevin Thanakit,1602.83,10,8,2,0,0.0
 25-12-6_brainstormin_charity_tournament,Logan Hesch,1499.94,6,3,3,0,0.0
 26-2-13,Logan Hesch,1499.94,6,3,3,0,0.0
 26-2-20,Logan Hesch,1499.94,6,3,3,0,0.0
@@ -929,6 +989,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Logan Hesch,1588.39,63,37,25,1,0.0
 26-8-28,Logan Hesch,1606.89,67,40,26,1,18.5
 26-9-04,Logan Hesch,1615.67,72,43,28,1,8.78
+26-9-11,Logan Hesch,1615.67,72,43,28,1,0.0
+26-9-18,Logan Hesch,1666.4,76,47,28,1,50.73
 25-12-6_brainstormin_charity_tournament,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-13,Lucas Yang,1500.0,0,0,0,0,0.0
 26-2-20,Lucas Yang,1500.0,0,0,0,0,0.0
@@ -959,6 +1021,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Lucas Yang,1500.0,0,0,0,0,0.0
 26-8-28,Lucas Yang,1500.0,0,0,0,0,0.0
 26-9-04,Lucas Yang,1500.0,0,0,0,0,0.0
+26-9-11,Lucas Yang,1500.0,0,0,0,0,0.0
+26-9-18,Lucas Yang,1500.0,0,0,0,0,0.0
 25-12-6_brainstormin_charity_tournament,Matt Rosenbloom,1469.43,6,2,4,0,0.0
 26-2-13,Matt Rosenbloom,1469.43,6,2,4,0,0.0
 26-2-20,Matt Rosenbloom,1469.43,6,2,4,0,0.0
@@ -989,6 +1053,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Matt Rosenbloom,1491.21,11,5,6,0,0.0
 26-8-28,Matt Rosenbloom,1491.21,11,5,6,0,0.0
 26-9-04,Matt Rosenbloom,1491.21,11,5,6,0,0.0
+26-9-11,Matt Rosenbloom,1491.21,11,5,6,0,0.0
+26-9-18,Matt Rosenbloom,1491.21,11,5,6,0,0.0
 25-12-6_brainstormin_charity_tournament,Mike Adams,1530.05,6,4,2,0,0.0
 26-2-13,Mike Adams,1558.21,10,7,3,0,28.15
 26-2-20,Mike Adams,1531.88,15,9,6,0,-26.32
@@ -1019,6 +1085,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Mike Adams,1471.87,93,41,48,4,-23.34
 26-8-28,Mike Adams,1471.87,93,41,48,4,0.0
 26-9-04,Mike Adams,1459.72,97,42,51,4,-12.15
+26-9-11,Mike Adams,1430.45,100,42,53,5,-29.27
+26-9-18,Mike Adams,1430.45,100,42,53,5,0.0
 25-12-6_brainstormin_charity_tournament,Mike Laing,1530.69,6,4,2,0,0.0
 26-2-13,Mike Laing,1558.87,10,7,3,0,28.18
 26-2-20,Mike Laing,1558.87,10,7,3,0,0.0
@@ -1049,6 +1117,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Mike Laing,1520.93,96,51,44,1,0.0
 26-8-28,Mike Laing,1520.93,96,51,44,1,0.0
 26-9-04,Mike Laing,1520.93,96,51,44,1,0.0
+26-9-11,Mike Laing,1520.93,96,51,44,1,0.0
+26-9-18,Mike Laing,1520.93,96,51,44,1,0.0
 25-12-6_brainstormin_charity_tournament,Milo Brown,1561.1,4,4,0,0,0.0
 26-2-13,Milo Brown,1580.75,9,7,1,1,19.65
 26-2-20,Milo Brown,1580.75,9,7,1,1,0.0
@@ -1079,6 +1149,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Milo Brown,1719.32,71,51,19,1,40.96
 26-8-28,Milo Brown,1694.93,76,54,21,1,-24.38
 26-9-04,Milo Brown,1694.93,76,54,21,1,0.0
+26-9-11,Milo Brown,1694.93,76,54,21,1,0.0
+26-9-18,Milo Brown,1703.6,80,57,22,1,8.67
 25-12-6_brainstormin_charity_tournament,Nathan Choi,1529.14,6,4,2,0,0.0
 26-2-13,Nathan Choi,1553.1,11,7,3,1,23.96
 26-2-20,Nathan Choi,1553.1,11,7,3,1,0.0
@@ -1109,6 +1181,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Nathan Choi,1568.57,114,73,38,3,-49.62
 26-8-28,Nathan Choi,1574.68,119,76,40,3,6.11
 26-9-04,Nathan Choi,1634.09,123,80,40,3,59.41
+26-9-11,Nathan Choi,1634.09,123,80,40,3,0.0
+26-9-18,Nathan Choi,1595.36,128,82,43,3,-38.73
 25-12-6_brainstormin_charity_tournament,Nathan Cormier,1469.59,6,2,4,0,0.0
 26-2-13,Nathan Cormier,1469.59,6,2,4,0,0.0
 26-2-20,Nathan Cormier,1523.3,11,6,5,0,53.71
@@ -1139,6 +1213,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Nathan Cormier,1480.29,89,41,46,2,-19.0
 26-8-28,Nathan Cormier,1472.33,94,43,49,2,-7.96
 26-9-04,Nathan Cormier,1472.33,94,43,49,2,0.0
+26-9-11,Nathan Cormier,1488.86,98,45,50,3,16.54
+26-9-18,Nathan Cormier,1449.24,101,45,53,3,-39.62
 25-12-6_brainstormin_charity_tournament,Pan Rasking,1500.0,0,0,0,0,0.0
 26-2-13,Pan Rasking,1530.0,4,3,1,0,30.0
 26-2-20,Pan Rasking,1530.0,4,3,1,0,0.0
@@ -1169,6 +1245,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Pan Rasking,1474.7,27,11,14,2,0.0
 26-8-28,Pan Rasking,1474.7,27,11,14,2,0.0
 26-9-04,Pan Rasking,1474.7,27,11,14,2,0.0
+26-9-11,Pan Rasking,1474.7,27,11,14,2,0.0
+26-9-18,Pan Rasking,1474.7,27,11,14,2,0.0
 25-12-6_brainstormin_charity_tournament,Patrick Brooks,1500.0,0,0,0,0,0.0
 26-2-13,Patrick Brooks,1500.0,0,0,0,0,0.0
 26-2-20,Patrick Brooks,1500.0,0,0,0,0,0.0
@@ -1199,6 +1277,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Patrick Brooks,1428.32,23,8,15,0,0.0
 26-8-28,Patrick Brooks,1428.32,23,8,15,0,0.0
 26-9-04,Patrick Brooks,1428.32,23,8,15,0,0.0
+26-9-11,Patrick Brooks,1428.32,23,8,15,0,0.0
+26-9-18,Patrick Brooks,1428.32,23,8,15,0,0.0
 25-12-6_brainstormin_charity_tournament,Phil iwanow,1452.77,6,1,4,1,0.0
 26-2-13,Phil iwanow,1425.71,8,1,6,1,-27.05
 26-2-20,Phil iwanow,1425.71,8,1,6,1,0.0
@@ -1229,6 +1309,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Phil iwanow,1514.13,98,40,53,5,0.0
 26-8-28,Phil iwanow,1486.22,103,41,56,6,-27.91
 26-9-04,Phil iwanow,1521.9,107,44,57,6,35.68
+26-9-11,Phil iwanow,1521.9,107,44,57,6,0.0
+26-9-18,Phil iwanow,1570.54,112,47,57,8,48.64
 25-12-6_brainstormin_charity_tournament,Ran Guo,1533.98,6,4,2,0,0.0
 26-2-13,Ran Guo,1533.98,6,4,2,0,0.0
 26-2-20,Ran Guo,1533.98,6,4,2,0,0.0
@@ -1259,6 +1341,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Ran Guo,1572.81,34,21,13,0,0.0
 26-8-28,Ran Guo,1572.81,34,21,13,0,0.0
 26-9-04,Ran Guo,1572.81,34,21,13,0,0.0
+26-9-11,Ran Guo,1572.81,34,21,13,0,0.0
+26-9-18,Ran Guo,1572.81,34,21,13,0,0.0
 25-12-6_brainstormin_charity_tournament,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-13,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
 26-2-20,Raul Bottrell-Rogers,1499.97,6,3,3,0,0.0
@@ -1289,6 +1373,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Raul Bottrell-Rogers,1476.33,26,12,14,0,0.0
 26-8-28,Raul Bottrell-Rogers,1476.33,26,12,14,0,0.0
 26-9-04,Raul Bottrell-Rogers,1476.33,26,12,14,0,0.0
+26-9-11,Raul Bottrell-Rogers,1461.92,29,13,16,0,-14.41
+26-9-18,Raul Bottrell-Rogers,1461.92,29,13,16,0,0.0
 25-12-6_brainstormin_charity_tournament,Reya Truher,1499.97,6,3,3,0,0.0
 26-2-13,Reya Truher,1484.48,11,5,6,0,-15.49
 26-2-20,Reya Truher,1484.48,11,5,6,0,0.0
@@ -1319,6 +1405,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Reya Truher,1489.23,50,23,26,1,0.0
 26-8-28,Reya Truher,1489.23,50,23,26,1,0.0
 26-9-04,Reya Truher,1489.23,50,23,26,1,0.0
+26-9-11,Reya Truher,1489.23,50,23,26,1,0.0
+26-9-18,Reya Truher,1489.23,50,23,26,1,0.0
 25-12-6_brainstormin_charity_tournament,Robert Scannevin,1500.0,0,0,0,0,0.0
 26-2-13,Robert Scannevin,1500.0,0,0,0,0,0.0
 26-2-20,Robert Scannevin,1500.0,0,0,0,0,0.0
@@ -1349,6 +1437,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Robert Scannevin,1481.17,5,2,3,0,0.0
 26-8-28,Robert Scannevin,1481.17,5,2,3,0,0.0
 26-9-04,Robert Scannevin,1481.17,5,2,3,0,0.0
+26-9-11,Robert Scannevin,1481.17,5,2,3,0,0.0
+26-9-18,Robert Scannevin,1481.17,5,2,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Roopak Dasararaju,1500.0,0,0,0,0,0.0
 26-2-13,Roopak Dasararaju,1500.0,0,0,0,0,0.0
 26-2-20,Roopak Dasararaju,1500.0,0,0,0,0,0.0
@@ -1379,6 +1469,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Roopak Dasararaju,1423.72,18,6,12,0,0.0
 26-8-28,Roopak Dasararaju,1423.72,18,6,12,0,0.0
 26-9-04,Roopak Dasararaju,1423.72,18,6,12,0,0.0
+26-9-11,Roopak Dasararaju,1423.72,18,6,12,0,0.0
+26-9-18,Roopak Dasararaju,1423.72,18,6,12,0,0.0
 25-12-6_brainstormin_charity_tournament,Ryan MacDonald,1562.44,6,5,1,0,0.0
 26-2-13,Ryan MacDonald,1507.79,9,5,4,0,-54.65
 26-2-20,Ryan MacDonald,1507.79,9,5,4,0,0.0
@@ -1409,6 +1501,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Ryan MacDonald,1515.04,23,12,11,0,0.0
 26-8-28,Ryan MacDonald,1515.04,23,12,11,0,0.0
 26-9-04,Ryan MacDonald,1478.32,27,13,14,0,-36.72
+26-9-11,Ryan MacDonald,1478.32,27,13,14,0,0.0
+26-9-18,Ryan MacDonald,1478.32,27,13,14,0,0.0
 25-12-6_brainstormin_charity_tournament,Sam Feeley,1500.0,0,0,0,0,0.0
 26-2-13,Sam Feeley,1500.0,0,0,0,0,0.0
 26-2-20,Sam Feeley,1500.0,0,0,0,0,0.0
@@ -1439,6 +1533,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Sam Feeley,1497.82,18,9,9,0,0.0
 26-8-28,Sam Feeley,1497.82,18,9,9,0,0.0
 26-9-04,Sam Feeley,1497.82,18,9,9,0,0.0
+26-9-11,Sam Feeley,1497.82,18,9,9,0,0.0
+26-9-18,Sam Feeley,1497.82,18,9,9,0,0.0
 25-12-6_brainstormin_charity_tournament,Simon Kavanagh,1500.0,0,0,0,0,0.0
 26-2-13,Simon Kavanagh,1500.0,0,0,0,0,0.0
 26-2-20,Simon Kavanagh,1500.0,0,0,0,0,0.0
@@ -1469,6 +1565,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Simon Kavanagh,1487.2,5,2,3,0,0.0
 26-8-28,Simon Kavanagh,1487.2,5,2,3,0,0.0
 26-9-04,Simon Kavanagh,1487.2,5,2,3,0,0.0
+26-9-11,Simon Kavanagh,1487.2,5,2,3,0,0.0
+26-9-18,Simon Kavanagh,1487.2,5,2,3,0,0.0
 25-12-6_brainstormin_charity_tournament,Stan Kornacki,1561.8,4,4,0,0,0.0
 26-2-13,Stan Kornacki,1626.17,9,9,0,0,64.37
 26-2-20,Stan Kornacki,1595.03,14,11,2,1,-31.14
@@ -1499,6 +1597,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Stan Kornacki,1580.79,80,48,31,1,0.0
 26-8-28,Stan Kornacki,1580.79,80,48,31,1,0.0
 26-9-04,Stan Kornacki,1602.49,84,51,32,1,21.7
+26-9-11,Stan Kornacki,1602.49,84,51,32,1,0.0
+26-9-18,Stan Kornacki,1582.77,88,53,34,1,-19.72
 25-12-6_brainstormin_charity_tournament,Stella Burfeind,1527.29,6,4,2,0,0.0
 26-2-13,Stella Burfeind,1505.58,11,6,5,0,-21.71
 26-2-20,Stella Burfeind,1468.7,15,7,8,0,-36.88
@@ -1529,6 +1629,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Stella Burfeind,1446.89,80,35,40,5,-41.46
 26-8-28,Stella Burfeind,1446.89,80,35,40,5,0.0
 26-9-04,Stella Burfeind,1446.89,80,35,40,5,0.0
+26-9-11,Stella Burfeind,1496.91,83,38,40,5,50.02
+26-9-18,Stella Burfeind,1496.91,83,38,40,5,0.0
 25-12-6_brainstormin_charity_tournament,Taylor Pratt,1500.0,0,0,0,0,0.0
 26-2-13,Taylor Pratt,1500.0,0,0,0,0,0.0
 26-2-20,Taylor Pratt,1500.0,0,0,0,0,0.0
@@ -1559,6 +1661,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Taylor Pratt,1577.93,14,10,3,1,0.0
 26-8-28,Taylor Pratt,1577.93,14,10,3,1,0.0
 26-9-04,Taylor Pratt,1577.93,14,10,3,1,0.0
+26-9-11,Taylor Pratt,1577.93,14,10,3,1,0.0
+26-9-18,Taylor Pratt,1577.93,14,10,3,1,0.0
 25-12-6_brainstormin_charity_tournament,Terry Eleftherakis,1470.07,4,1,3,0,0.0
 26-2-13,Terry Eleftherakis,1493.04,9,4,5,0,22.97
 26-2-20,Terry Eleftherakis,1493.04,9,4,5,0,0.0
@@ -1589,6 +1693,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Terry Eleftherakis,1338.1,43,13,30,0,-45.96
 26-8-28,Terry Eleftherakis,1338.1,43,13,30,0,0.0
 26-9-04,Terry Eleftherakis,1338.1,43,13,30,0,0.0
+26-9-11,Terry Eleftherakis,1338.1,43,13,30,0,0.0
+26-9-18,Terry Eleftherakis,1338.1,43,13,30,0,0.0
 25-12-6_brainstormin_charity_tournament,Timofey Tylik,1500.0,0,0,0,0,0.0
 26-2-13,Timofey Tylik,1500.0,0,0,0,0,0.0
 26-2-20,Timofey Tylik,1500.0,0,0,0,0,0.0
@@ -1619,6 +1725,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Timofey Tylik,1552.12,21,13,8,0,0.0
 26-8-28,Timofey Tylik,1552.12,21,13,8,0,0.0
 26-9-04,Timofey Tylik,1552.12,21,13,8,0,0.0
+26-9-11,Timofey Tylik,1552.12,21,13,8,0,0.0
+26-9-18,Timofey Tylik,1552.12,21,13,8,0,0.0
 25-12-6_brainstormin_charity_tournament,Veronica Kirtley,1531.3,6,4,2,0,0.0
 26-2-13,Veronica Kirtley,1496.14,11,5,5,1,-35.16
 26-2-20,Veronica Kirtley,1496.14,11,5,5,1,0.0
@@ -1649,6 +1757,8 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Veronica Kirtley,1566.97,21,12,8,1,0.0
 26-8-28,Veronica Kirtley,1566.97,21,12,8,1,0.0
 26-9-04,Veronica Kirtley,1552.99,26,14,11,1,-13.98
+26-9-11,Veronica Kirtley,1552.99,26,14,11,1,0.0
+26-9-18,Veronica Kirtley,1550.9,31,16,13,2,-2.09
 25-12-6_brainstormin_charity_tournament,Winston Wong,1500.0,0,0,0,0,0.0
 26-2-13,Winston Wong,1500.0,0,0,0,0,0.0
 26-2-20,Winston Wong,1500.0,0,0,0,0,0.0
@@ -1679,3 +1789,5 @@ Week,Player,Elo,Matches,Wins,Losses,Draws,DeltaElo
 26-8-21,Winston Wong,1360.94,50,17,31,2,-3.07
 26-8-28,Winston Wong,1360.94,50,17,31,2,0.0
 26-9-04,Winston Wong,1360.94,50,17,31,2,0.0
+26-9-11,Winston Wong,1360.94,50,17,31,2,0.0
+26-9-18,Winston Wong,1360.94,50,17,31,2,0.0

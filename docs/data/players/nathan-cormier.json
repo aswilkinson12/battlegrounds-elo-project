@@ -1,11 +1,11 @@
 {
   "player": "Nathan Cormier",
   "slug": "nathan-cormier",
-  "elo": 1469.49,
-  "matches_count": 95,
-  "wins": 43,
-  "losses": 49,
-  "draws": 3,
+  "elo": 1442.99,
+  "matches_count": 102,
+  "wins": 45,
+  "losses": 53,
+  "draws": 4,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1145,6 +1145,90 @@
       "elo_before": 1492.985,
       "elo_after": 1469.4921,
       "opp_elo": 1409.242,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Mike Adams",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1469.4921,
+      "elo_after": 1468.9238,
+      "opp_elo": 1459.0966,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1468.9238,
+      "elo_after": 1451.6187,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Sean Marks",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1451.6187,
+      "elo_after": 1473.2475,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1473.2475,
+      "elo_after": 1489.3079,
+      "opp_elo": 1419.0588,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1489.3079,
+      "elo_after": 1475.1166,
+      "opp_elo": 1579.1934,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Jonathon Torchia",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1475.1166,
+      "elo_after": 1457.4751,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1457.4751,
+      "elo_after": 1442.9868,
+      "opp_elo": 1541.582,
       "is_bye": false
     }
   ]

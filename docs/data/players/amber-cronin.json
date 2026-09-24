@@ -1,10 +1,10 @@
 {
   "player": "Amber Cronin",
   "slug": "amber-cronin",
-  "elo": 1387.3,
-  "matches_count": 40,
+  "elo": 1361.85,
+  "matches_count": 42,
   "wins": 13,
-  "losses": 26,
+  "losses": 28,
   "draws": 1,
   "matches": [
     {
@@ -507,6 +507,30 @@
       "elo_before": 1363.0771,
       "elo_after": 1387.3027,
       "opp_elo": 1461.1572,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Evan Hamlin",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1387.3027,
+      "elo_after": 1374.2583,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Sean Marks",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1374.2583,
+      "elo_after": 1361.8494,
+      "opp_elo": 1500.0,
       "is_bye": false
     }
   ]

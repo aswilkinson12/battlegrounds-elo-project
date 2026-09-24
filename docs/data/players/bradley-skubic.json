@@ -1,11 +1,11 @@
 {
   "player": "Bradley Skubic",
   "slug": "bradley-skubic",
-  "elo": 1579.19,
-  "matches_count": 92,
-  "wins": 50,
-  "losses": 30,
-  "draws": 12,
+  "elo": 1566.15,
+  "matches_count": 96,
+  "wins": 51,
+  "losses": 31,
+  "draws": 14,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1109,6 +1109,54 @@
       "elo_before": 1565.1062,
       "elo_after": 1579.1934,
       "opp_elo": 1473.1838,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Nathan Cormier",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1579.1934,
+      "elo_after": 1593.3847,
+      "opp_elo": 1489.3079,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Ezra Yohay",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1593.3847,
+      "elo_after": 1588.3973,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Phil iwanow",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1588.3973,
+      "elo_after": 1586.829,
+      "opp_elo": 1559.6539,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Veronica Kirtley",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1586.829,
+      "elo_after": 1566.1513,
+      "opp_elo": 1556.0703,
       "is_bye": false
     }
   ]

@@ -1,11 +1,11 @@
 {
   "player": "Stella Burfeind",
   "slug": "stella-burfeind",
-  "elo": 1436.93,
-  "matches_count": 80,
-  "wins": 35,
+  "elo": 1497.01,
+  "matches_count": 84,
+  "wins": 38,
   "losses": 40,
-  "draws": 5,
+  "draws": 6,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -998,6 +998,54 @@
       "elo_before": 1461.1572,
       "elo_after": 1436.9316,
       "opp_elo": 1363.0771,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 1,
+      "opponent": "Raul Bottrell-Rogers",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1436.9316,
+      "elo_after": 1457.8786,
+      "opp_elo": 1472.6609,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 2,
+      "opponent": "Andrew Gallien",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1457.8786,
+      "elo_after": 1476.7414,
+      "opp_elo": 1455.3682,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 3,
+      "opponent": "Evan Hamlin",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1476.7414,
+      "elo_after": 1497.0114,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-11",
+      "week_index": 30,
+      "round": 4,
+      "opponent": "Hex Dowd",
+      "result": "ID",
+      "score": 0.5,
+      "elo_before": 1497.0114,
+      "elo_after": 1497.0114,
+      "opp_elo": 1482.4212,
       "is_bye": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "player": "Stan Kornacki",
   "slug": "stan-kornacki",
-  "elo": 1609.81,
-  "matches_count": 88,
-  "wins": 51,
-  "losses": 32,
+  "elo": 1585.65,
+  "matches_count": 92,
+  "wins": 53,
+  "losses": 34,
   "draws": 5,
   "matches": [
     {
@@ -1083,6 +1083,65 @@
       "elo_before": 1595.9298,
       "elo_after": 1609.8131,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Daniel Hernandez",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1609.8131,
+      "elo_after": 1618.505,
+      "opp_elo": 1398.6636,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Isharah Considine",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1618.505,
+      "elo_after": 1594.7522,
+      "opp_elo": 1529.7121,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Tom Kessler",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1594.7522,
+      "elo_after": 1570.6953,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Bye",
+      "result": "BYE",
+      "is_bye": true,
+      "elo_before": 1570.6953,
+      "elo_after": 1570.6953,
+      "opp_elo": null
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1570.6953,
+      "elo_after": 1585.647,
+      "opp_elo": 1495.5148,
       "is_bye": false
     }
   ]

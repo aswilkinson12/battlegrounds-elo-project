@@ -1,11 +1,11 @@
 {
   "player": "Phil iwanow",
   "slug": "phil-iwanow",
-  "elo": 1525.25,
-  "matches_count": 111,
-  "wins": 44,
+  "elo": 1582.04,
+  "matches_count": 116,
+  "wins": 47,
   "losses": 57,
-  "draws": 10,
+  "draws": 12,
   "matches": [
     {
       "week": "25-12-6_brainstormin_charity_tournament",
@@ -1359,6 +1359,66 @@
       "elo_before": 1525.2484,
       "elo_after": 1525.2484,
       "opp_elo": 1587.3147,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 1,
+      "opponent": "Graham Bateman",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1525.2484,
+      "elo_after": 1542.9931,
+      "opp_elo": 1502.2605,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 2,
+      "opponent": "Dylan Roberts",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1542.9931,
+      "elo_after": 1559.6539,
+      "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 3,
+      "opponent": "Bradley Skubic",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1559.6539,
+      "elo_after": 1561.2222,
+      "opp_elo": 1588.3973,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 4,
+      "opponent": "Becca Blackwood",
+      "result": "D",
+      "score": 0.5,
+      "elo_before": 1561.2222,
+      "elo_after": 1562.2439,
+      "opp_elo": 1579.9229,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Veronica Kirtley",
+      "result": "W",
+      "score": 1.0,
+      "elo_before": 1562.2439,
+      "elo_after": 1582.0366,
+      "opp_elo": 1576.748,
       "is_bye": false
     }
   ]
