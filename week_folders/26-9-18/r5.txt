@@ -11,3 +11,4 @@ Table  Player                       Opponent                     Points
 6      Stan Kornacki                Graham Bateman              9-6     
 7      Nathan Choi                  Dylan Roberts                6-9     
 8      Amy Altman                   Ezra Yohay                   9-4   
+9      Jack Henry                   Bradley Skubic               6-8

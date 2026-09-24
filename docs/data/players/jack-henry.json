@@ -1,10 +1,10 @@
 {
   "player": "Jack Henry",
   "slug": "jack-henry",
-  "elo": 1404.52,
-  "matches_count": 80,
+  "elo": 1393.77,
+  "matches_count": 81,
   "wins": 29,
-  "losses": 49,
+  "losses": 50,
   "draws": 2,
   "matches": [
     {
@@ -1009,6 +1009,18 @@
       "elo_before": 1379.1613,
       "elo_after": 1404.5153,
       "opp_elo": 1500.0,
+      "is_bye": false
+    },
+    {
+      "week": "26-9-18",
+      "week_index": 31,
+      "round": 5,
+      "opponent": "Bradley Skubic",
+      "result": "L",
+      "score": 0.0,
+      "elo_before": 1404.5153,
+      "elo_after": 1393.7677,
+      "opp_elo": 1566.1513,
       "is_bye": false
     }
   ]
