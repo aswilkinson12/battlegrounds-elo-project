@@ -1,7 +1,7 @@
 {
   "player": "Simon Kavanagh",
   "slug": "simon-kavanagh",
-  "elo": 1484.6,
+  "elo": 1484.4,
   "matches_count": 5,
   "wins": 2,
   "losses": 3,
@@ -9,7 +9,7 @@
   "matches": [
     {
       "week": "26-5-22",
-      "week_index": 14,
+      "week_index": 16,
       "round": 1,
       "opponent": "Shaun OBrien",
       "result": "W",
@@ -21,50 +21,50 @@
     },
     {
       "week": "26-5-22",
-      "week_index": 14,
+      "week_index": 16,
       "round": 2,
       "opponent": "Bradley Skubic",
       "result": "L",
       "score": 0.0,
       "elo_before": 1519.0,
-      "elo_after": 1504.7839,
-      "opp_elo": 1608.4004,
+      "elo_after": 1504.6264,
+      "opp_elo": 1605.3337,
       "is_bye": false
     },
     {
       "week": "26-5-22",
-      "week_index": 14,
+      "week_index": 16,
       "round": 3,
       "opponent": "Autumn Rossa",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1504.7839,
-      "elo_after": 1525.09,
-      "opp_elo": 1528.7053,
+      "elo_before": 1504.6264,
+      "elo_after": 1524.9456,
+      "opp_elo": 1528.7867,
       "is_bye": false
     },
     {
       "week": "26-5-22",
-      "week_index": 14,
+      "week_index": 16,
       "round": 4,
       "opponent": "Tom Kessler",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1525.09,
-      "elo_after": 1504.7203,
+      "elo_before": 1524.9456,
+      "elo_after": 1504.5837,
       "opp_elo": 1500.0,
       "is_bye": false
     },
     {
       "week": "26-5-22",
-      "week_index": 14,
+      "week_index": 16,
       "round": 5,
       "opponent": "Dani Masom",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1504.7203,
-      "elo_after": 1484.5953,
-      "opp_elo": 1484.1244,
+      "elo_before": 1504.5837,
+      "elo_after": 1484.4039,
+      "opp_elo": 1482.9817,
       "is_bye": false
     }
   ]

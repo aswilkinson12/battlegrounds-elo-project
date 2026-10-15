@@ -1,7 +1,7 @@
 {
   "player": "Ethan Ford",
   "slug": "ethan-ford",
-  "elo": 1555.34,
+  "elo": 1555.48,
   "matches_count": 5,
   "wins": 4,
   "losses": 1,
@@ -9,7 +9,7 @@
   "matches": [
     {
       "week": "26-4-10",
-      "week_index": 9,
+      "week_index": 11,
       "round": 1,
       "opponent": "Adam Silvia",
       "result": "W",
@@ -21,50 +21,50 @@
     },
     {
       "week": "26-4-10",
-      "week_index": 9,
+      "week_index": 11,
       "round": 2,
       "opponent": "Logan Hesch",
       "result": "W",
       "score": 1.0,
       "elo_before": 1519.0,
-      "elo_after": 1543.0786,
-      "opp_elo": 1614.1796,
+      "elo_after": 1543.2333,
+      "opp_elo": 1617.2332,
       "is_bye": false
     },
     {
       "week": "26-4-10",
-      "week_index": 9,
+      "week_index": 11,
       "round": 3,
       "opponent": "Devon O’Donnell",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1543.0786,
-      "elo_after": 1521.7348,
+      "elo_before": 1543.2333,
+      "elo_after": 1521.8812,
       "opp_elo": 1500.0,
       "is_bye": false
     },
     {
       "week": "26-4-10",
-      "week_index": 9,
+      "week_index": 11,
       "round": 4,
       "opponent": "Gina Millott",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1521.7348,
-      "elo_after": 1538.5118,
-      "opp_elo": 1480.8981,
+      "elo_before": 1521.8812,
+      "elo_after": 1538.7457,
+      "opp_elo": 1482.6659,
       "is_bye": false
     },
     {
       "week": "26-4-10",
-      "week_index": 9,
+      "week_index": 11,
       "round": 5,
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1538.5118,
-      "elo_after": 1555.3438,
-      "opp_elo": 1498.6948,
+      "elo_before": 1538.7457,
+      "elo_after": 1555.4755,
+      "opp_elo": 1497.034,
       "is_bye": false
     }
   ]

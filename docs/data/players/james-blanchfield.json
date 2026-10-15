@@ -1,7 +1,7 @@
 {
   "player": "James Blanchfield",
   "slug": "james-blanchfield",
-  "elo": 1487.98,
+  "elo": 1488.01,
   "matches_count": 5,
   "wins": 2,
   "losses": 3,
@@ -9,7 +9,7 @@
   "matches": [
     {
       "week": "26-7-12_RCQ",
-      "week_index": 22,
+      "week_index": 24,
       "round": 1,
       "opponent": "Neal Jiwnani",
       "result": "L",
@@ -21,7 +21,7 @@
     },
     {
       "week": "26-7-12_RCQ",
-      "week_index": 22,
+      "week_index": 24,
       "round": 2,
       "opponent": "Aaron Wiswall",
       "result": "W",
@@ -33,37 +33,37 @@
     },
     {
       "week": "26-7-12_RCQ",
-      "week_index": 22,
+      "week_index": 24,
       "round": 3,
       "opponent": "Anthony Wilkinson",
       "result": "L",
       "score": 0.0,
       "elo_before": 1501.038,
-      "elo_after": 1484.4385,
-      "opp_elo": 1545.1687,
+      "elo_after": 1484.476,
+      "opp_elo": 1545.8657,
       "is_bye": false
     },
     {
       "week": "26-7-12_RCQ",
-      "week_index": 22,
+      "week_index": 24,
       "round": 4,
       "opponent": "Dani Masom",
       "result": "W",
       "score": 1.0,
-      "elo_before": 1484.4385,
-      "elo_after": 1507.3786,
-      "opp_elo": 1557.5483,
+      "elo_before": 1484.476,
+      "elo_after": 1507.4189,
+      "opp_elo": 1557.639,
       "is_bye": false
     },
     {
       "week": "26-7-12_RCQ",
-      "week_index": 22,
+      "week_index": 24,
       "round": 5,
       "opponent": "Beau Berger",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1507.3786,
-      "elo_after": 1487.9751,
+      "elo_before": 1507.4189,
+      "elo_after": 1488.0132,
       "opp_elo": 1500.0,
       "is_bye": false
     }

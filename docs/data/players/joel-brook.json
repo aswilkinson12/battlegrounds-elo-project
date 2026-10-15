@@ -1,7 +1,7 @@
 {
   "player": "Joel Brook",
   "slug": "joel-brook",
-  "elo": 1491.57,
+  "elo": 1491.54,
   "matches_count": 8,
   "wins": 4,
   "losses": 4,
@@ -81,26 +81,26 @@
     },
     {
       "week": "26-5-08",
-      "week_index": 12,
+      "week_index": 14,
       "round": 1,
       "opponent": "Ran Guo",
       "result": "L",
       "score": 0.0,
       "elo_before": 1537.0217,
-      "elo_after": 1520.7011,
-      "opp_elo": 1586.346,
+      "elo_after": 1520.6882,
+      "opp_elo": 1586.1064,
       "is_bye": false
     },
     {
       "week": "26-5-08",
-      "week_index": 12,
+      "week_index": 14,
       "round": 2,
       "opponent": "Daniel Hernandez",
       "result": "L",
       "score": 0.0,
-      "elo_before": 1520.7011,
-      "elo_after": 1491.5749,
-      "opp_elo": 1314.2315,
+      "elo_before": 1520.6882,
+      "elo_after": 1491.5449,
+      "opp_elo": 1313.7801,
       "is_bye": false
     }
   ]
